@@ -1,0 +1,784 @@
+{
+  "code": "english",
+  "name": "English",
+  "bookName": "Footprints Without Feet",
+  "weightageMarks": 80,
+  "chapters": [
+    {
+      "number": 20,
+      "title": "A Triumph of Surgery",
+      "author": "James Herriot",
+      "summary": "Tricki, the pampered little dog of the rich Mrs Pumphrey, falls listless and ill because she overfeeds him with cream cakes, malt and cod-liver oil and gives him no exercise. The wise vet Mr James Herriot takes Tricki to his surgery, where the dog gets no food for two days, only plenty of water, and then joyful exercise with the other dogs. Tricki returns home blooming with health, and the delighted Mrs Pumphrey exclaims that it is a triumph of surgery.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Overfeeding and lack of exercise make Tricki seriously ill",
+        "Herriot's firm decision to take Tricki to the surgery",
+        "Recovery through no food, only water and exercise",
+        "Mrs Pumphrey's blind love and lavish care for her pet",
+        "The ironic title: no surgery was actually performed",
+        "Discipline and self-control as the real cure"
+      ],
+      "sections": [
+        {
+          "heading": "Plot Summary",
+          "points": [
+            "Mrs Pumphrey, a rich lady, pampers her small dog Tricki with cream cakes, chocolates, malt, cod-liver oil and Horlicks, and gives him no exercise.",
+            "Tricki becomes hugely fat, listless and lethargic; he lies panting on the rug, refuses even his favourite dishes and begins to vomit.",
+            "The vet Mr Herriot sees that there is no real disease and that only strict diet and exercise can cure Tricki, so he takes him to his surgery despite Mrs Pumphrey's tearful protests.",
+            "At the surgery Tricki gets no food for two days, only plenty of water; soon he joyfully runs and plays with the other dogs and eats hearty meals.",
+            "A blooming, energetic Tricki returns home, and the grateful Mrs Pumphrey exclaims that it is a triumph of surgery."
+          ],
+          "keyTerms": [
+            {"term": "listless", "meaning": "lacking energy and enthusiasm; dull and inactive"},
+            {"term": "surgery", "meaning": "the clinic or room where a doctor or vet treats patients"},
+            {"term": "distraught", "meaning": "extremely worried, anxious and upset"}
+          ],
+          "trick": "Remember F-3-W: Fat Tricki, Firm vet, Fasting cure, Water and exercise. No operation was ever done, yet the title shouts 'surgery'.",
+          "examPointer": "Questions often ask how Herriot treated Tricki and why the treatment succeeded; always answer that the illness was caused by overfeeding, so discipline, fasting and exercise, not medicine, cured him."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Excess of everything is bad: blind, indulgent love harms more than it helps.",
+            "Genuine care means discipline; a good doctor, even for animals, must be firm rather than sentimental.",
+            "Nature heals when greed and laziness are removed; simple food and exercise restore health better than tonics.",
+            "The story gently satirises the rich, who treat pets like children and spoil them with luxury and fuss."
+          ],
+          "keyTerms": [
+            {"term": "pampering", "meaning": "indulging someone with excessive care, comfort and attention"},
+            {"term": "satire", "meaning": "the use of humour or irony to expose and criticise human follies"},
+            {"term": "convalescence", "meaning": "the gradual recovery of health after illness"}
+          ],
+          "trick": "Link the theme to the proverb 'Too much of a good thing is bad': Mrs Pumphrey's good food, good tonics and good love all turned harmful together.",
+          "examPointer": "Theme questions often appear as 'Was Herriot justified in not informing Mrs Pumphrey?' Write both sides: his silence was necessary because her indulgence was the disease itself."
+        },
+        {
+          "heading": "Characters",
+          "points": [
+            "Mrs Pumphrey: a wealthy, kind-hearted but foolishly indulgent owner whose over affection makes her pet sick.",
+            "Tricki: a small, greedy dog; not really ill but bloated, lazy and weak because of overfeeding and no exercise.",
+            "Mr James Herriot: a wise, practical and compassionate vet who diagnoses the true cause and cures Tricki with firm, natural treatment.",
+            "The other dogs at the surgery: a lively troop whose noisy games tempt Tricki back to health and happiness."
+          ],
+          "keyTerms": [
+            {"term": "indulgent", "meaning": "over-generous and lenient, allowing someone to have whatever it wants"},
+            {"term": "compassionate", "meaning": "showing sympathy and concern for the suffering of others"}
+          ],
+          "trick": "Character map: Foolish love (Mrs Pumphrey) versus Wise love (Herriot); Tricki is the battleground on which the two kinds of love fight.",
+          "examPointer": "For character sketches, support each trait with one incident, for example Herriot's wisdom is proved by the two-day fast and his firm refusal to send Tricki home too early."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Most asked: How did Herriot treat Tricki, and why did the treatment succeed?",
+            "Explain the irony of the title 'A Triumph of Surgery' when no surgery was performed.",
+            "Character sketch of Mrs Pumphrey or Mr Herriot with evidence from the text.",
+            "Value-based: What lesson about pet care and parenting does the story teach?",
+            "Keep answers crisp: cause (overfeeding) to treatment (fasting, water, exercise) to result (recovery)."
+          ],
+          "keyTerms": [
+            {"term": "irony", "meaning": "a situation whose outcome is the opposite of what the words or expectations suggest"},
+            {"term": "lethargy", "meaning": "lack of energy; sluggishness"}
+          ],
+          "trick": "MCQ trap: Tricki was never operated upon; any option calling the treatment surgical, or full of injections and tonics, is wrong.",
+          "examPointer": "In extract questions, identify the speaker first: Mrs Pumphrey's lines are anxious and doting, while Herriot's are calm and clinical."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Who was Tricki?",
+          "options": ["Mrs Pumphrey's small pet dog", "Mr Herriot's pet cat", "A horse kept at the surgery", "A stray puppy in the street"],
+          "answerIndex": 0,
+          "explanation": "Tricki was the small dog of the rich lady Mrs Pumphrey, whose overfeeding and lack of exercise made him ill.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "According to Mr Herriot, what was the real cause of Tricki's illness?",
+          "options": ["A hidden infection", "Overfeeding and lack of exercise", "Fear of other dogs", "A sudden change of weather"],
+          "answerIndex": 1,
+          "explanation": "Tricki had no disease; rich food, cream cakes and chocolates with no exercise had made him enormously fat and listless.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What treatment did Tricki receive at the surgery?",
+          "options": ["An emergency operation", "Daily injections and special tonics", "No food for two days, plenty of water and exercise with the other dogs", "A rich diet of cream cakes and malt"],
+          "answerIndex": 2,
+          "explanation": "Herriot gave Tricki no food but plenty of water for two days, and then let him run and play with the other dogs; nature did the rest.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Read the extract: \"Mrs Pumphrey gave him malt, cod-liver oil and Horlicks, and between meals cream cakes and chocolates.\" What does this line reveal about Tricki's illness?",
+          "options": ["It was caused by a deficiency of vitamins", "It was caused by Mrs Pumphrey's over-pampering", "It was caused by attacks from other dogs", "It was caused by old age"],
+          "answerIndex": 1,
+          "explanation": "The extras between meals and the total lack of exercise made Tricki fat and lethargic; his illness was the result of indulgence, not disease.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Why did Herriot not tell Mrs Pumphrey at once that Tricki was recovering?",
+          "options": ["He wanted to keep Tricki as his own pet", "He feared she would resume the harmful pampering and spoil the cure", "Mrs Pumphrey had gone abroad", "The telephone at the surgery was out of order"],
+          "answerIndex": 1,
+          "explanation": "Herriot knew that her anxious love would bring back rich food and tonics, undoing the discipline that was curing Tricki.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Mrs Pumphrey's parting cry was, \"A triumph of surgery!\" Why is her exclamation ironic?",
+          "options": ["She is secretly mocking the vet", "No surgery was performed at all; only fasting, water and exercise cured Tricki", "The surgery had actually failed", "Tricki had refused all treatment"],
+          "answerIndex": 1,
+          "explanation": "Herriot never operated on Tricki; the cure was simple discipline, so her praise for 'surgery' is amusingly off the mark.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why did Mrs Pumphrey call Tricki's recovery a triumph of surgery?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Mrs Pumphrey saw Tricki return home energetic and healed within a fortnight, whereas he had seemed at death's door before. She did not know that the vet had performed no operation at all; the cure had come only from fasting, water and exercise. Believing some marvellous operation had saved him, she gratefully called it a triumph of surgery."
+        },
+        {
+          "question": "Describe Tricki's condition when Mrs Pumphrey called the vet.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "When Mrs Pumphrey rang up, Tricki was listless, hugely fat and without energy. He lay panting on the rug, had refused food, even his favourite dishes, and had begun to vomit. His eyes were dull and his body sagged. The anxious Mrs Pumphrey feared he was seriously ill, though in reality the dog was simply suffering from overfeeding and a complete lack of exercise."
+        },
+        {
+          "question": "How did the other dogs at the surgery help Tricki to recover?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "At the surgery Tricki at first had no food, only plenty of water, so his bloated stomach settled. Soon he was surrounded by a troop of noisy dogs who rushed around him joyfully. Tempted by their games, Tricki began trotting and playing with them, and by the third day he was jumping, barking and eating heartily. The natural companionship, exercise and simple diet worked better than any medicine."
+        },
+        {
+          "question": "Describe the treatment given to Tricki at Mr Herriot's surgery. What lesson about caring for pets does the story teach?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "At the surgery Mr Herriot took a firm decision: since Tricki's illness was caused by overfeeding, no medicine or operation was needed. For the first two days he gave the dog no food at all, only plenty of water, and kept a careful watch. Tricki at first whined for the luxuries he was used to, but soon hunger made him eager. When the other dogs at the surgery began racing and playing around him, Tricki joined them, trotting, chasing and rolling in the grass. By the third day he was jumping and barking like a healthy dog and ate his plain food with relish. Within a fortnight Mrs Pumphrey received back a lean, lively pet. The story teaches that true love means discipline: pampering with rich food and no exercise ruins health, while simple food, restraint and play restore it."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "The Thief's Story",
+      "author": "Ruskin Bond",
+      "summary": "Hari Singh, a fifteen-year-old but experienced thief, wins the trust of Anil, a kind struggling writer, and lives with him while learning to cook and to write his own name. When Anil earns six hundred rupees by selling a book to a publisher, Hari steals the money, but at the railway station his conscience wins; thinking of Anil's trust and the education promised to him, he returns through the rain and slips the notes back under the mattress. The next morning Anil hands him fifty rupees, and the still-wet note shows that he knew everything and had quietly forgiven him.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Hari Singh's meeting with Anil and winning his trust",
+        "The theft of the six hundred rupees kept under the mattress",
+        "Hari's inner conflict at the railway station",
+        "Education as the path to a better life",
+        "Anil's silent forgiveness and humane kindness",
+        "Transformation of a thief through trust"
+      ],
+      "sections": [
+        {
+          "heading": "Plot Summary",
+          "points": [
+            "Hari Singh, a skilled fifteen-year-old thief, flatters Anil, a struggling writer of about twenty-five, into keeping him as a cook and companion.",
+            "Anil teaches him to cook, to write his own name, and promises to teach him whole sentences and how to add numbers.",
+            "When Anil earns six hundred rupees by selling a book to a publisher, Hari steals the bundle from under the mattress at night.",
+            "At the railway station Hari remembers Anil's trust and the educated, respectable man he could become, and gives up the escape.",
+            "He returns the money soaked in rain; the next morning Anil pays him fifty rupees, and the still-wet note reveals that he knew everything and forgave him."
+          ],
+          "keyTerms": [
+            {"term": "gratitude", "meaning": "the feeling of being thankful for kindness received"},
+            {"term": "conscience", "meaning": "the inner sense that judges one's own actions as right or wrong"},
+            {"term": "betray", "meaning": "to break someone's trust by deceiving or harming them"}
+          ],
+          "trick": "Chain to remember: Flatter, Cook, Learn, Steal, Station, Conscience, Return, Wet fifty. The wet note is the clue that Anil knew all along.",
+          "examPointer": "The wet fifty-rupee note is the most examined detail; in any answer about Anil's character, mention it as proof of quiet, knowing forgiveness rather than ignorance."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Trust can reform where punishment cannot: Anil's faith turns a thief towards an honest life.",
+            "Education is the key to changing one's destiny; literacy promises respect and a future beyond crime.",
+            "Conscience is stronger than temptation; Hari's real victory at the station is over himself.",
+            "The story celebrates human kindness that forgives without humiliating the wrongdoer."
+          ],
+          "keyTerms": [
+            {"term": "reform", "meaning": "to improve one's character or behaviour and give up wrongdoing"},
+            {"term": "temptation", "meaning": "a strong urge to do something wrong or harmful"},
+            {"term": "destiny", "meaning": "the future or fate that awaits a person"}
+          ],
+          "trick": "Contrast pair: stealing pays instantly but enslaves; writing sentences pays slowly but frees. Hari finally chooses the slow freedom.",
+          "examPointer": "Value-based questions like 'Was Anil wise to forgive a thief?' expect both Anil's motive (trust, hope of reform) and its result (Hari's changed heart) in the conclusion."
+        },
+        {
+          "heading": "Characters",
+          "points": [
+            "Hari Singh: a fifteen-year-old, experienced thief; clever, observant and conscience-stricken, and therefore capable of change.",
+            "Anil: a kind, trusting, struggling writer; easy-going, careless with money but generous and quietly wise.",
+            "Anil as teacher: he teaches Hari cooking and his name, and promises full sentences and arithmetic, showing his faith in education.",
+            "Anil earns by fits and starts, sometimes borrowing and sometimes lending, yet he never withholds kindness from the boy."
+          ],
+          "keyTerms": [
+            {"term": "observant", "meaning": "quick to notice and understand things around one"},
+            {"term": "reformed", "meaning": "changed from a bad way of life to a better one"}
+          ],
+          "trick": "Anil is not a fool but a saint in disguise; never call him stupid in answers, say he trusted knowingly.",
+          "examPointer": "While sketching Hari Singh, show the two sides: the trained thief who measures Anil and smiles at his own cleverness, and the waking conscience that trembles on the platform."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Most asked: Why did Hari Singh return the stolen money despite the chance to escape?",
+            "Explain how Anil's reaction the next morning changed Hari's life.",
+            "Significance of the still-wet fifty-rupee note.",
+            "Character sketch of Hari Singh or Anil with textual evidence.",
+            "Quote-keywords: six hundred rupees, under the mattress, railway station, rain, wet note, fifty rupees."
+          ],
+          "keyTerms": [
+            {"term": "revelation", "meaning": "a surprising fact that is suddenly made known"},
+            {"term": "pardon", "meaning": "to forgive an offence or an offender"}
+          ],
+          "trick": "MCQ trap: Anil earned the money by selling a book to a publisher, not by salary, gambling or robbery; and Hari was fifteen, not seventeen.",
+          "examPointer": "In long answers, structure the flow: meeting, trust, theft, conflict, return, forgiveness, transformation; each step earns its mark."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "How old was Hari Singh when he met Anil?",
+          "options": ["Twelve", "Fifteen", "Seventeen", "Twenty"],
+          "answerIndex": 1,
+          "explanation": "Hari Singh tells us that though he was only fifteen, he was already a fairly successful and experienced hand at stealing.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How did Anil earn six hundred rupees?",
+          "options": ["By selling a book to a publisher", "By winning a lottery", "By acting in a film", "By gambling at cards"],
+          "answerIndex": 0,
+          "explanation": "Anil, a struggling writer, earned the money by selling one of his books to a publisher and kept it under his mattress.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "From where did Hari Singh take the money?",
+          "options": ["From Anil's bag", "From under the mattress", "From a wall safe", "From the kitchen tin"],
+          "answerIndex": 1,
+          "explanation": "Hari slid the bundle of six hundred rupees out from under the mattress where Anil had put it.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Read the extract: \"I was still a thief when I met Anil. And though I was only fifteen, I was a fairly successful hand.\" What does the extract tell us about Hari Singh?",
+          "options": ["He had just begun to steal", "He was already skilled at stealing despite his young age", "He stole only when he was starving", "He belonged to a gang of thieves"],
+          "answerIndex": 1,
+          "explanation": "The phrase 'fairly successful hand' shows that Hari was a practised, confident thief long before he met Anil.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What made Hari Singh give up the idea of escaping by train?",
+          "options": ["Fear of being caught by the police", "The heavy rain and the late arrival of the train", "The memory of Anil's trust and the education he could still get", "A telephone call from Anil"],
+          "answerIndex": 2,
+          "explanation": "At the station Hari realised Anil knew about the theft; he weighed the lost chance of learning to write and becoming a big, educated man against the stolen notes, and turned back.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Why is the still-wet fifty-rupee note that Anil gives Hari significant?",
+          "options": ["It proves Anil earned money dishonestly", "It shows Anil had received it in the rain", "It reveals that Anil knew about the theft and had silently forgiven Hari", "It proves Hari never touched the bundle"],
+          "answerIndex": 2,
+          "explanation": "The note was part of the bundle Hari had carried out into the rain and returned; its dampness shows Anil understood everything, yet chose trust and forgiveness as the best teacher.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "How did Hari Singh win Anil's trust?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Hari Singh flattered Anil with his smile, offered to cook for him and stayed on despite cooking tasteless meals. He never stole from the money kept in the house for daily needs, worked honestly and showed eagerness to learn. This steady, harmless behaviour convinced the trusting Anil that Hari was dependable."
+        },
+        {
+          "question": "Describe Hari Singh's inner conflict at the railway station.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "At the station, with the six hundred rupees tucked in his waistband, Hari first thought only of escaping by the Express. But he hesitated, remembering that Anil knew about the theft, that he had lost the chance to learn to write whole sentences and add numbers, and that education could make him a big, respectable man. The vision of a better life outweighed the stolen notes, and he walked back through the rain to return the money."
+        },
+        {
+          "question": "How did Anil react the morning after the theft, and what does it show about him?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Anil said nothing about the theft. The next morning he gave Hari fifty rupees, saying he would pay him regularly, and added that Hari would soon learn to write whole sentences. The note was still wet from the rain, proving he had found the damp bundle and understood everything. His silence shows wisdom, generosity and faith: instead of punishing or shaming the boy, he chose trust as the stronger teacher."
+        },
+        {
+          "question": "Sketch the character of Hari Singh, showing his transformation from a thief to a person with a conscience.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Hari Singh is a fifteen-year-old but already a skilled and experienced thief. Clever and observant, he sizes up Anil, flatters him, takes charge of the kitchen and quietly studies the house before striking. He is also an expert liar, inventing false names and stories without hesitation. Yet beneath the craft lies a curious, teachable boy: he wants to learn to write his name, then whole sentences and arithmetic, dreaming of becoming an educated man. When he steals Anil's six hundred rupees and stands at the railway station, his conscience awakens; he realises that Anil's trust and the promised education are worth more than money. He returns soaked in rain and slips the notes back. Anil's calm fifty rupees the next morning completes his transformation: Hari is now ashamed, grateful and ready for an honest life."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "The Midnight Visitor",
+      "author": "Robert Arthur",
+      "summary": "Ausable, a fat secret agent who speaks French and German with a curious accent, is expecting the report on some new missiles when Max, a rival agent with an automatic pistol, enters his sixth-floor hotel room to seize it. Ausable stays perfectly calm and spins a tale about a balcony outside the window from which intruders enter. When Henry the waiter knocks with the drinks Ausable had ordered, Max leaps for the imaginary balcony to escape and falls, for no balcony exists.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Ausable's unimposing, unlikely appearance as a secret agent",
+        "Max's intrusion with a pistol to seize the missile report",
+        "The invented balcony story",
+        "Henry the waiter's knock as the turning point",
+        "Presence of mind triumphing over weapons",
+        "Irony: the trap is built on words, not gadgets"
+      ],
+      "sections": [
+        {
+          "heading": "Plot Summary",
+          "points": [
+            "Fowler, a young writer eager to meet real secret agents, is disappointed to find Ausable fat, slow and ordinary in a shabby room on the sixth and top floor of a gloomy French hotel.",
+            "Suddenly Max, a slim rival agent with an automatic pistol, appears and demands the important report on new missiles that Ausable is to receive that night.",
+            "Ausable calmly grumbles about the balcony stretching under his window, from which intruders could supposedly slip into the room.",
+            "A knock comes at the door; Ausable says it must be Henry, the waiter, with the drinks he had ordered.",
+            "Believing the balcony is his only escape, Max leaps out of the sixth-floor window and falls; there is no balcony, only Ausable's quick invention."
+          ],
+          "keyTerms": [
+            {"term": "intruder", "meaning": "a person who enters a place suddenly and without permission"},
+            {"term": "menacingly", "meaning": "in a threatening manner"},
+            {"term": "unimposing", "meaning": "not striking or impressive in appearance"}
+          ],
+          "trick": "Track the three surprises: a gun in the room, a knock at the door, and a man through the window. Ausable controls all three with talk alone.",
+          "examPointer": "Questions on how Ausable outwitted Max must include the invented balcony, the pre-ordered drinks and the waiter's knock as the three steps of his plan."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Intelligence and presence of mind are mightier than guns; brains save where weapons cannot.",
+            "Appearances deceive: a real hero may look like a sloppy, tired man in a shabby room.",
+            "Calmness in danger is itself a weapon; a moment of panic would have killed Ausable.",
+            "A spy's life is full of sudden, invisible danger, where even an ordinary knock becomes a threat."
+          ],
+          "keyTerms": [
+            {"term": "presence of mind", "meaning": "the ability to stay calm and act quickly and wisely in a crisis"},
+            {"term": "ruse", "meaning": "a trick intended to deceive"}
+          ],
+          "trick": "Ausable wins with B-K-W: Balcony invented, Knock expected, Window used by Max. Everything else is only talk.",
+          "examPointer": "For the answer 'How did Ausable save himself?', stress that he built his lie only on things Max could not see in the dark, which made the balcony believable."
+        },
+        {
+          "heading": "Characters",
+          "points": [
+            "Ausable: a stout, accented secret agent in a shabby room; shrewd, unflappable and a master of invented detail.",
+            "Max: a slender, nervous rival agent with a pistol; aggressive but gullible, he panics at the knock and trusts the balcony myth.",
+            "Fowler: a young writer craving adventure; his initial disappointment and final shock frame Ausable's true skill.",
+            "Henry: the quiet waiter whose harmless knock becomes the loudest sound in the story and seals Max's fate."
+          ],
+          "keyTerms": [
+            {"term": "unflappable", "meaning": "remaining calm and composed even in a crisis"},
+            {"term": "gullible", "meaning": "too ready to believe things and therefore easily tricked"}
+          ],
+          "trick": "Character contrast line: Max carries a pistol but no plan; Ausable carries no pistol but a ready plan.",
+          "examPointer": "Character questions often ask why Ausable 'did not fit any description of a secret agent'; answer with his fatness, accent, shabby room and tired manner, and then reveal his brilliant mind."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Most asked: How did Ausable get rid of Max without violence?",
+            "Why did Ausable invent the balcony, and what made Max believe it?",
+            "Role of the waiter's knock in the climax.",
+            "Justify that Ausable was, despite his looks, a fitting secret agent.",
+            "Facts to quote: sixth-floor room of a French hotel, the report on new missiles, the midnight visit, Henry's knock."
+          ],
+          "keyTerms": [
+            {"term": "climax", "meaning": "the most intense or decisive point of a story"},
+            {"term": "irony", "meaning": "a contrast between what appears to be and what actually is"}
+          ],
+          "trick": "MCQ trap: Max did not jump because he heard police or saw Henry; he jumped to escape a balcony that never existed.",
+          "examPointer": "In extract questions, watch the word 'balcony': Ausable mentions it casually, and that casualness is exactly what makes the lie believable."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "What was Ausable's profession?",
+          "options": ["He was a hotel waiter", "He was a secret agent", "He was a novelist", "He was a hotel manager"],
+          "answerIndex": 1,
+          "explanation": "Ausable was a secret agent handling an important report, though his fat, unimposing appearance suggested nothing of the kind.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What did Max demand from Ausable?",
+          "options": ["The report concerning some new missiles", "The keys of the hotel", "A bundle of money", "A drink from the waiter"],
+          "answerIndex": 0,
+          "explanation": "Max, the rival agent, had come with a pistol to take the important report on new missiles that Ausable was to receive that night.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Who was knocking at the door at the climax of the story?",
+          "options": ["The police", "Fowler's editor", "Henry, the waiter", "The hotel manager"],
+          "answerIndex": 2,
+          "explanation": "The knock was Henry's, the waiter, bringing the drinks Ausable had ordered; Ausable used it to seal Max's fate.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Why did Max jump out of the window?",
+          "options": ["To attack someone in the street", "To escape onto the balcony which he believed existed", "To show his courage to Fowler", "To reach his men waiting below"],
+          "answerIndex": 1,
+          "explanation": "Ausable's invented balcony story made Max believe the balcony was his only escape; he jumped and fell, since there was none.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the extract: \"Ausable did not fit any description of a secret agent you had read about.\" What does the line suggest?",
+          "options": ["Ausable was a failure as an agent", "Real heroism does not depend on looks, and Ausable breaks the stereotype", "Ausable was new to spy work", "Spies must always live in luxury hotels"],
+          "answerIndex": 1,
+          "explanation": "Ausable was fat, slow and lived in a shabby room, yet his sharp mind makes him the true professional; the line sets up the story's surprise.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "How did Ausable's earlier order for drinks become part of his plan?",
+          "options": ["He called the police through the hotel phone", "The waiter's expected knock made the moment look natural and put pressure on Max at once", "It delayed Max till morning", "It proved that Max was unarmed"],
+          "answerIndex": 1,
+          "explanation": "Because Ausable had genuinely ordered drinks, Henry's knock at midnight was perfectly natural; Ausable used this ordinary event to convince Max that only the imaginary balcony offered escape.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "How did Ausable's room and appearance add to Fowler's disappointment?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Fowler expected a romantic spy's den full of adventure, but Ausable's room was on the sixth and top floor of a gloomy French hotel. It was small, musty and almost bare, with a worn carpet and shabby furniture. Instead of gunfights and secret codes, the great agent sat tired and heavy, smoking and discussing dull matters."
+        },
+        {
+          "question": "How did Ausable invent the story of the balcony, and why did Max believe it?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Ausable began by grumbling that his room had once been part of a larger unit whose balcony stretched under the window of the next room. He said intruders could slip in through it, which was how he pretended Max had entered. Since Max had actually appeared mysteriously in a locked, sixth-floor room, the balcony seemed the only explanation, so Max swallowed the story. The darkness outside and the panic of the moment stopped Max from verifying anything."
+        },
+        {
+          "question": "Describe the climax of 'The Midnight Visitor'.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "When a knock came at the door, Ausable calmly said it must be Henry with the drinks he had ordered. Max made him answer while he stood aside, gun ready, worried that his intrusion might be discovered. As the waiter's footsteps neared, Max, desperate to escape, stepped onto the sill and leapt for the imaginary balcony. There was none; he fell screaming from the sixth floor, while Ausable turned back to Fowler as calmly as if nothing had happened."
+        },
+        {
+          "question": "Compare Max and Ausable as secret agents. Whom would you trust in a crisis and why?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Max looks like the perfect spy of fiction: slender, quick and armed with an automatic pistol, he slips into Ausable's room and threatens two men at once. Yet his strength is only external. He is nervous, he panics at a mere knock, and he accepts an impossible story without a moment's doubt. Ausable, on the other hand, is fat, slow and heavily accented, living in a shabby room; Fowler is sure he can never be a real agent. But Ausable's mind is his weapon. Facing a gun, he does not flinch; he chats, invents a balcony, expects the waiter he has called, and lets the enemy destroy himself. Max trusts weapons and appearances; Ausable trusts thought and timing. I would trust Ausable in a crisis because presence of mind, calm planning and self-control save lives where guns only create graves."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "A Question of Trust",
+      "author": "Victor Canning",
+      "summary": "Horace Danby, a fifty-year-old unmarried locksmith respected by everyone in town, steals once a year to buy the rare and expensive books he loves. At Shotover Grange he carefully opens the safe, but a confident young woman posing as the wife of the owner persuades him to open it again for her and hand over the jewels. He is later arrested because his fingerprints were left on the safe, and the woman, it turns out, was a thief herself.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Horace's yearly robbery to fund his passion for rare books",
+        "Careful planning before the theft at Shotover Grange",
+        "The stranger woman who pretends to be the owner's wife",
+        "Horace's hay fever sneezes nearly giving him away",
+        "The deception: he opens the safe for her himself",
+        "Irony of trust: the trickster tricked; fingerprints betray him"
+      ],
+      "sections": [
+        {
+          "heading": "Plot Summary",
+          "points": [
+            "Horace Danby, a locksmith of about fifty, lives respectably with two helpers but commits one robbery a year to buy rare, costly books.",
+            "He studies houses carefully before acting; at Shotover Grange he enters while the servants are away, sneezing badly from hay fever.",
+            "He opens the safe to take the jewels kept inside it.",
+            "A poised young woman appears, claims to be the wife of the owner, and gets Horace to open the safe again and hand over everything to her.",
+            "Within days his fingerprints, left on the safe, lead to his arrest; the woman was a thief who had used him cleverly and vanished."
+          ],
+          "keyTerms": [
+            {"term": "hay fever", "meaning": "an allergy causing sneezing, often caused by pollen"},
+            {"term": "impersonate", "meaning": "to pretend to be someone else in order to deceive"}
+          ],
+          "trick": "Remember the chain: Books, Safe, Woman, Trust, Open, Fingerprints, Arrest.",
+          "examPointer": "The trick question is who robbed whom: Horace never completed his theft; the woman got the jewels and Horace got arrested, so write that the thief was deceived by a bigger thief."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Crime does not pay: even the most careful thief is trapped by one lapse of judgement.",
+            "Trust must be verified; Horace's politeness and fear of prison make him an easy target.",
+            "Obsession can corrupt: the love of expensive books justifies robbery in Horace's mind.",
+            "Cleverness without honesty leads to punishment; the smarter cheat is also a criminal."
+          ],
+          "keyTerms": [
+            {"term": "obsession", "meaning": "an idea or desire that fills the mind and cannot be given up"},
+            {"term": "deception", "meaning": "the act of making someone believe what is false"}
+          ],
+          "trick": "Title clue: the story tests 'trust' twice. Horace trusts the fake wife, and the police trust his fingerprints; both trust blindly.",
+          "examPointer": "Value-based answers should end with the moral: dishonesty always brings punishment, even when the plan seems perfect."
+        },
+        {
+          "heading": "Characters",
+          "points": [
+            "Horace Danby: a respectable-looking locksmith with hay fever, half-fearful and half-confident; a thief who believes he is a gentleman criminal.",
+            "The woman at Shotover Grange: poised, persuasive and utterly false; she reads Horace, threatens him gently and walks away with the jewels.",
+            "His two selves: publicly a trusted lock-maker with two helpers, secretly a safe-breaker of the underworld.",
+            "Sherry, the little dog: the household pet whose expected bark shows how thoroughly Horace had studied the house."
+          ],
+          "keyTerms": [
+            {"term": "poised", "meaning": "calm, confident and controlled in manner"},
+            {"term": "notorious", "meaning": "famous for something bad or criminal"}
+          ],
+          "trick": "Two thieves, no heroes: the woman lies about being the wife and Horace lies about his life; only Sherry the dog is honest.",
+          "examPointer": "While writing about the woman, use the adjectives clever, calm and deceptive, and always add that she too was a thief, as the ending reveals."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Most asked: How was Horace Danby tricked at Shotover Grange?",
+            "Why did Horace rob once a year, and what does it reveal about him?",
+            "How did his fingerprints become his undoing?",
+            "Justify the title 'A Question of Trust'.",
+            "Facts to quote: Shotover Grange, jewels worth about fifteen thousand pounds in the safe, hay fever, Sherry the dog, fingerprints."
+          ],
+          "keyTerms": [
+            {"term": "undoing", "meaning": "the cause of someone's downfall or ruin"},
+            {"term": "voracious", "meaning": "having a huge appetite; here, a greedy hunger for reading"}
+          ],
+          "trick": "MCQ trap: Horace was arrested because of the fingerprints on the safe, not because of the sneezing, the dog or a hidden witness.",
+          "examPointer": "When asked whether Horace was unlucky or foolish, argue both: unlucky to meet a fellow thief, foolish to trust a stranger and to leave his prints on the safe."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "What was Horace Danby's profession?",
+          "options": ["He made locks and was a good businessman", "He was a bookseller", "He was a jeweller", "He was a gardener at Shotover Grange"],
+          "answerIndex": 0,
+          "explanation": "Horace ran a successful lock-making business with two helpers, and everyone took him for an honest citizen.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which house had Horace chosen for his yearly robbery?",
+          "options": ["A bank vault in the city", "Shotover Grange", "A jeweller's shop in London", "A museum storeroom"],
+          "answerIndex": 1,
+          "explanation": "Horace had studied Shotover Grange carefully; its safe contained jewels worth about fifteen thousand pounds.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Why did Horace steal every year?",
+          "options": ["To pay his debts", "To buy rare and expensive books", "To keep his helpers happy", "To travel abroad each summer"],
+          "answerIndex": 1,
+          "explanation": "Horace loved rare, costly books and robbed one safe a year to pay for them, planning each theft carefully.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How did the young woman at Shotover Grange trick Horace?",
+          "options": ["She threatened him with a pistol", "She pretended to be the owner's wife and got him to open the safe for her", "She set the house alarm ringing", "She locked him inside the drawing room"],
+          "answerIndex": 1,
+          "explanation": "Calm and friendly, she claimed to be the mistress of the house who had forgotten the safe's number; the relieved Horace opened it for her and handed over the jewels.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the extract: \"Everyone thought Horace Danby was a good, honest citizen. He was about fifty years old and unmarried.\" What does the extract highlight?",
+          "options": ["Horace's open confession of his crimes", "The contrast between his respectable image and his secret life of theft", "Horace's popularity among his neighbours", "His success in the lock business"],
+          "answerIndex": 1,
+          "explanation": "The extract sets up the central irony: the man trusted by all as an honest locksmith was secretly a safe-breaker once a year.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What is the sharpest irony of 'A Question of Trust'?",
+          "options": ["Horace was caught because of his sneezing", "The master of locks was undone by a fake owner's wife who was herself a thief", "The safe could not be opened at all", "The police were already hiding in the drawing room"],
+          "answerIndex": 1,
+          "explanation": "Horace, who cracked safes for a living, trusted a stranger's lie, opened the safe and left his fingerprints; the woman who helped him was a thief who simply walked away with the jewels.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What kind of a person was Horace Danby in everyday life?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "In everyday life Horace Danby appeared perfectly respectable. He was about fifty, unmarried, suffered from hay fever, and ran a successful business making locks. Neighbours considered him good and honest, and he employed two helpers. His only strange habit was a costly one: once a year he planned a robbery to buy the rare books he loved."
+        },
+        {
+          "question": "Describe Horace's experience inside Shotover Grange before he reached the safe.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Inside Shotover Grange, Horace worked with practised confidence. He had studied the house for two weeks and knew that the servants were away and that the safe's contents were worth about fifteen thousand pounds. But pollen from the flowers set off his hay fever and he began to sneeze repeatedly. The small dog, Sherry, trotted up; Horace calmed it with the pet name he knew and, nervous of being heard, hurried towards the safe in the drawing room."
+        },
+        {
+          "question": "How did the woman convince Horace that she was the wife of the owner?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "The woman walked in calmly as if the house were hers and said she had come down for jewels. She talked naturally about the family and claimed she had heard the safe being opened. She then offered a bargain: she would let him go if he opened the safe for her, since she had forgotten the number. Her poise, her plausible family talk and his fear of prison together convinced Horace that she truly was the mistress of the house."
+        },
+        {
+          "question": "Was Horace Danby a victim of his own habits? Discuss with reference to the events at Shotover Grange.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "Horace Danby's downfall grew out of his own habits. Once a year he robbed a safe to feed his passion for rare, expensive books, believing that careful study and neat planning made crime safe. At Shotover Grange he repeated the same routine: entry while the servants were away, and confidence that no one would disturb him. But habit made him blind. His hay fever made him sneeze, yet he pressed on; when the stranger appeared, his fear of prison and his habit of trusting polite people made him believe her story of being the owner's wife. He even opened the safe for her, thinking he was saving himself, and left his fingerprints on the door. Thus his love of books led him to crime, his routine led him to carelessness, and his blind trust led him to arrest. Horace was indeed the maker of his own ruin."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Footprints without Feet",
+      "author": "H.G. Wells",
+      "summary": "Griffin, a brilliant but lawless scientist, experiments with a rare drug and makes his body invisible. When his landlord tries to eject him, he sets fire to the house and becomes a homeless wanderer in bitter-cold London, robbing a big store of food and clothes and a theatrical shop of bandages, dark glasses and a false nose. At an inn in Iping his strange habits and the money stolen from the clergyman's desk arouse suspicion, and when Mrs Hall and constable Jaffers confront him, he slips off his clothes and escapes, leaving only footprints without feet.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Griffin's discovery of the invisibility drug",
+        "Revenge on the landlord: setting fire to the house",
+        "The unseen thief in the big London store",
+        "Griffin's strange stay at the inn in Iping with Mrs Hall",
+        "The theft from the clergyman's desk and constable Jaffers",
+        "Misuse of science by a lawless mind"
+      ],
+      "sections": [
+        {
+          "heading": "Plot Summary",
+          "points": [
+            "Griffin, a brilliant but lawless scientist, experiments with a rare drug that turns his whole body invisible.",
+            "When his landlord tries to eject him, Griffin sets fire to the house and becomes a homeless, invisible wanderer in the frozen streets of London.",
+            "He slips into a big London store, helping himself to food and warm clothes, and later equips himself with bandages, dark glasses and a false nose from a theatrical shop.",
+            "He rents rooms at an inn in Iping, where his odd habits and the money stolen from the clergyman's desk make Mrs Hall and the villagers suspicious.",
+            "When constable Jaffers tries to arrest him, Griffin removes his clothes piece by piece, becomes invisible and escapes, leaving only footprints without feet."
+          ],
+          "keyTerms": [
+            {"term": "eject", "meaning": "to force someone out of a place or property"},
+            {"term": "eccentric", "meaning": "strange and unusual in behaviour"},
+            {"term": "theatrical shop", "meaning": "a shop supplying costumes and props for stage plays"}
+          ],
+          "trick": "Map the journey: Drug, Fire, London store, Theatrical disguise, Iping inn, Clergyman's desk, Jaffers, Escape. Each stop adds a fresh crime.",
+          "examPointer": "Examiners love the question 'How did Griffin escape from Jaffers?'; the complete answer includes removing the clothes layer by layer, blows striking unseen, and the constable knocked down."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Science without conscience is dangerous; a great discovery becomes a curse in lawless hands.",
+            "Power corrupts: invisibility tempts Griffin into theft, arson and violence instead of service to mankind.",
+            "Crime leaves traces even for the invisible; greed makes the unseen man visible.",
+            "The fear and curiosity of ordinary people, like the boys and Mrs Hall, drive the humour and suspense of the story."
+          ],
+          "keyTerms": [
+            {"term": "lawless", "meaning": "acting without regard for what is right or legal"},
+            {"term": "arson", "meaning": "the crime of deliberately setting fire to property"}
+          ],
+          "trick": "Theme one-liner: invisible body, visible crimes. Griffin's body disappears, but his misdeeds keep leaving footprints.",
+          "examPointer": "For value-based questions, contrast Griffin with a responsible scientist: a discovery must serve society, not personal revenge or greed."
+        },
+        {
+          "heading": "Characters",
+          "points": [
+            "Griffin: a brilliant scientist, quick-tempered, lawless and selfish; he uses his discovery only for revenge and robbery.",
+            "Mrs Hall: the innkeeper's wife at Iping; hospitable yet curious, she tolerates the stranger until the strange goings-on and the theft alarm her.",
+            "The two boys: they first notice the fresh muddy footprints in the snow and give the story its title.",
+            "Constable Jaffers: the brave but ordinary policeman who attempts the arrest and is beaten by an enemy he cannot see."
+          ],
+          "keyTerms": [
+            {"term": "hospitable", "meaning": "friendly and welcoming to guests"},
+            {"term": "bewildered", "meaning": "confused and puzzled"}
+          ],
+          "trick": "Character chain: Scientist (brain) minus Conscience equals Criminal. Mrs Hall stands for curiosity, Jaffers for duty, the boys for wonder.",
+          "examPointer": "When asked for a Griffin sketch, always begin with the two adjectives from the text, brilliant but lawless; they carry most of the marks."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Most asked: How did Griffin misuse his scientific discovery?",
+            "Describe Griffin's experiences in the big London store.",
+            "What happened at the Iping inn, and why was Griffin suspected?",
+            "How did Griffin escape from constable Jaffers?",
+            "Facts to quote: landlord's eviction, fire, frozen London, the store, the theatrical disguise, Iping inn, clergyman's desk, Jaffers."
+          ],
+          "keyTerms": [
+            {"term": "suspect", "meaning": "to believe a person guilty without proof"},
+            {"term": "disguise", "meaning": "clothing or appearance used to hide one's identity"}
+          ],
+          "trick": "MCQ trap: Griffin did not become invisible by magic, a coat or an experiment on someone else; he tried a rare drug on himself.",
+          "examPointer": "In 'How did Griffin escape?' answers, never say he ran away at once; the escape happens during the arrest itself, as his clothes come off and blows land on unseen men."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "What was Griffin's great discovery?",
+          "options": ["A machine that could fly", "A drug that made his body invisible", "A medicine that cured any fever", "A way to read other minds"],
+          "answerIndex": 1,
+          "explanation": "Griffin, a brilliant scientist, experimented with a rare drug and made his whole body invisible.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Why did Griffin set fire to his landlord's house?",
+          "options": ["To cook his food", "Because the landlord tried to eject him and Griffin wanted revenge", "To frighten away the police", "To keep himself warm in winter"],
+          "answerIndex": 1,
+          "explanation": "The landlord disliked Griffin and tried to get rid of him; in revenge the lawless scientist set the house on fire and slipped away unseen.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Who was Mrs Hall?",
+          "options": ["The innkeeper's wife at Iping", "Griffin's laboratory assistant", "The clergyman's wife", "A shopkeeper in London"],
+          "answerIndex": 0,
+          "explanation": "At the inn in the village of Iping, Mrs Hall tried to be friendly with her strange guest, Griffin.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What happened at the clergyman's house in Iping?",
+          "options": ["Griffin quarrelled with the clergyman", "Money was stolen from the clergyman's desk while he and his wife lay awake", "The clergyman's house caught fire", "The clergyman was robbed on the road"],
+          "answerIndex": 1,
+          "explanation": "The couple heard the chink of money in the study, but the desk was found open and the money gone, and no thief could be seen anywhere.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the extract: \"Griffin was a brilliant scientist, but a lawless person.\" What does the extract suggest?",
+          "options": ["Griffin's experiments always failed", "Griffin used his genius for revenge and crime instead of good", "Griffin was never really a scientist", "Science always turns men into criminals"],
+          "answerIndex": 1,
+          "explanation": "The line sums up his character: his discovery brought him no fame or service to mankind, only arson, robbery and flight.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "How did Griffin manage to escape when constable Jaffers tried to arrest him?",
+          "options": ["He bribed the constable and slipped away", "He proved that he was innocent", "He took off his clothes one by one and slipped away as an invisible man", "He hid under the clergyman's bed"],
+          "answerIndex": 2,
+          "explanation": "As Jaffers tried to seize him, Griffin shed his garments one by one; in the dark the constable was struck down by blows from nowhere, and the naked invisible man escaped.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "How did the muddy footprints in the snow puzzle the two boys?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Two boys walking in midwinter London were startled by fresh muddy footprints appearing on the steps of a house. They looked around but could see no man; only bare footprints, as though feet were walking without a body. The prints followed them, then vanished. Bewildered and half-frightened, the boys kept staring at the footprints without feet."
+        },
+        {
+          "question": "Describe Griffin's night in the big London store.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "After setting fire to his landlord's house, Griffin wandered the frozen London streets, invisible but without clothes. At night he slipped into a big London store for warmth. He dressed himself in warm clothes, ate cold meat, drank coffee and wine, and slept comfortably on a pile of quilts. But when the shop opened in the morning, he had to strip again and slip out unseen, once more an invisible, shivering wanderer."
+        },
+        {
+          "question": "Why did the people of Iping grow suspicious of their strange guest?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "His strange appearance in bandages and dark glasses, his fierce temper, his refusal to meet anyone and his talk of experiments already made Mrs Hall uneasy. Then money vanished from the clergyman's desk while the clergyman and his wife lay awake, though no one could see any thief. Convinced that the stranger had something to do with the robbery, the villagers called in constable Jaffers to arrest him."
+        },
+        {
+          "question": "Griffin's invisibility brought him freedom but not safety. Discuss how his lawless use of science ruined him.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Griffin's discovery could have made him the wonder of the world, but he used it only to escape and to plunder. When his landlord threatened eviction, he burnt the house down, and invisibility became his licence for crime. In London he walked about unseen, stole into a big store for clothes and food, robbed a theatrical shop of a disguise, and finally hid in an inn at Iping. Instead of resting, he stole money from the clergyman's desk. Every crime left a trail: muddy footprints amazed the boys, the stolen disguise made him conspicuous, his temper and secrecy roused Mrs Hall, and the clergyman's theft brought constable Jaffers. Even invisible, he had to fight, injure and flee, hunted by all. Thus genius gave him freedom from sight but not from consequence: because his conscience was as invisible as his body, science made him a fugitive instead of a hero."
+        }
+      ]
+    }
+  ]
+}

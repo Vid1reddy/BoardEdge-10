@@ -1,0 +1,538 @@
+{
+  "code": "geography",
+  "name": "Geography",
+  "bookName": "Contemporary India II",
+  "weightageMarks": 20,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Resources and Development",
+      "summary": "Resources are elements of the environment that are technologically accessible, economically feasible and culturally acceptable, and they must be planned and used sustainably. This chapter classifies resources on multiple bases, explains the Rio Earth Summit 1992 and Agenda 21, and examines land use patterns and land degradation in India. It also describes the major soil types, their distribution, and the processes of soil erosion with conservation measures.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Resource classification on the basis of origin, exhaustibility, ownership and status",
+        "Rio Earth Summit 1992 and Agenda 21 for sustainable development",
+        "Land use categories, degradation causes and remedies",
+        "Soil types: alluvial, black, red-yellow, laterite, arid, forest-mountain",
+        "Soil erosion types and conservation methods, with map work on soil regions"
+      ],
+      "sections": [
+        {
+          "heading": "Classification of Resources",
+          "points": [
+            "On the basis of origin, resources are biotic, obtained from the biosphere and having life, such as forests, fisheries and livestock, or abiotic, which are non-living things like rocks, metals, water and wind.",
+            "On the basis of exhaustibility, renewable resources can be regenerated over time if used carefully, like solar energy, water, forests and wildlife, while non-renewable resources have a fixed stock that gets exhausted with use, such as coal, petroleum and minerals.",
+            "On the basis of ownership, resources may be individual (private farmland), community-owned (grazing grounds, ponds), national (roads, railways, minerals within national boundaries) or international (oceanic resources beyond the Exclusive Economic Zone).",
+            "On the basis of status of development, resources are potential (exist but not surveyed, like solar and wind energy in parts of Rajasthan and Gujarat), developed (surveyed and in use), stock (exist but technology to access is lacking) and reserves (surveyed and usable but kept for future needs).",
+            "Non-renewable resources can sometimes be recycled, but even renewable resources get exhausted if overused, which is why planned and judicious use of every category is essential."
+          ],
+          "keyTerms": [
+            {
+              "term": "Potential resources",
+              "meaning": "Resources that exist in a region but have not been surveyed or put to use, such as wind and solar energy in parts of Rajasthan and Gujarat."
+            },
+            {
+              "term": "Stock",
+              "meaning": "Materials in the environment that can satisfy human needs but for which humans do not yet have the technology to access, like hydrogen obtained from water as a fuel."
+            },
+            {
+              "term": "Reserves",
+              "meaning": "The part of stock that has been surveyed and can be used with present technology, but is deliberately kept aside to meet future requirements."
+            }
+          ],
+          "trick": "Remember the four bases as OROS - Origin, Renewability, Ownership, Status; biotic simply means having life, so anything that grows or moves is biotic.",
+          "examPointer": "One-liner MCQs ask you to classify a given example, like iron ore (abiotic, non-renewable) or solar energy (renewable); note that renewable does not mean inexhaustible."
+        },
+        {
+          "heading": "Development of Resources and Sustainability",
+          "points": [
+            "Resources are free gifts of nature, but irrational consumption and over-utilisation lead to socio-economic and environmental problems such as depletion, pollution and ecological crises.",
+            "An equitable distribution of resources is essential so that every section of society benefits; over-consumption by a few combined with deprivation of many creates conflicts and environmental damage.",
+            "The first Earth Summit was held at Rio de Janeiro, Brazil, in June 1992, attended by more than 100 heads of state from around the world.",
+            "Agenda 21, adopted at the Summit, is a declaration for sustainable development in the 21st century; it aims to combat environmental damage, poverty and disease through global cooperation on common interests and shared needs.",
+            "Sustainable economic development means development that takes place without damaging the environment and without reducing the resources available for future generations."
+          ],
+          "keyTerms": [
+            {
+              "term": "Agenda 21",
+              "meaning": "The declaration adopted at the Rio Earth Summit in 1992 for achieving global sustainable development, targeting environmental damage, poverty and disease."
+            },
+            {
+              "term": "Sustainable development",
+              "meaning": "Economic development that meets present needs without harming the environment or denying resources to future generations."
+            }
+          ],
+          "trick": "Link the chain: Rio 1992 - Agenda 21 - 21st century - future generations; the 21 in Agenda 21 stands for the 21st century.",
+          "examPointer": "A two-marker often asks the meaning of sustainable development; always write the definition and connect it with one aim of Agenda 21."
+        },
+        {
+          "heading": "Land Resources and Land Use in India",
+          "points": [
+            "Land is a natural resource of utmost importance supporting agriculture, forests, industry, settlements and transport; India's total geographical area is about 3.28 million square kilometres.",
+            "Land use data record categories such as forests, barren and uncultivable land, land put to non-agricultural uses, permanent pastures, land under tree crops, culturable wasteland, current fallow, other fallow land and net sown area.",
+            "Forest cover in India remains around 22 per cent, far below the 33 per cent goal for ecological balance laid down in the National Forest Policy of 1952.",
+            "About 130 million hectares of land in India is degraded; roughly 28 per cent of it is forest-degraded area, 56 per cent is water-eroded area and the rest suffers from saline and alkaline conditions.",
+            "Degradation is caused by deforestation, overgrazing, mining without restoring topsoil, over-irrigation causing waterlogging and salinity, and dumping of industrial effluents; remedies include afforestation, managed grazing, shelter belts, stabilising dunes with thorny shrubs, refilling mined pits and treating effluents before discharge."
+          ],
+          "keyTerms": [
+            {
+              "term": "Net sown area",
+              "meaning": "The area sown with crops during the agricultural year; it is the largest land use category in India."
+            },
+            {
+              "term": "Culturable wasteland",
+              "meaning": "Land kept uncultivated for more than five years that can be brought under cultivation with effort, unlike barren land which cannot be used at all."
+            },
+            {
+              "term": "Fallow land",
+              "meaning": "Land left unsown for a year or more so that it regains fertility; current fallow is left for within one year, other fallow for one to five years."
+            }
+          ],
+          "trick": "Barren = can never cultivate; culturable waste = CAN cultivate after effort; fallow = the farmer is letting the land rest to regain fertility.",
+          "examPointer": "Examiners pair degradation causes with remedies; write matching pairs such as mining with refilling pits and overgrazing with managed grazing."
+        },
+        {
+          "heading": "Soils of India and Their Distribution",
+          "points": [
+            "Alluvial soil covers the entire northern plains and river deltas; it is the most widespread and fertile soil, rich in potash and lime but often deficient in nitrogen and humus; young fine alluvium renewed by floods is khadar, while older coarse alluvium with kankar nodules is bhangar.",
+            "Black soil, also called regur or black cotton soil, formed from Deccan lava, is ideal for cotton; it is rich in lime, potash, magnesium and calcium carbonate, poor in nitrogen and phosphorus, holds moisture and develops cracks in hot weather, which makes it self-ploughing.",
+            "Red and yellow soils develop from crystalline igneous rocks in the eastern and southern Deccan; the red colour comes from diffusion of iron, and the soil is less fertile and needs manuring and fertilisers.",
+            "Laterite soil forms in areas of high rainfall with alternate wet and dry seasons where intense leaching removes nutrients; it is poor in humus, found along the Western Ghats and hilly tracts of the northeast, and is used for cashew cultivation and for making bricks.",
+            "Arid soil of western Rajasthan is sandy and saline because of the dry climate and high evaporation, lacks moisture and humus, and contains kankar layers; the Indira Gandhi Canal has made parts of it productive, while forest and mountain soils of hilly tracts are loamy in valleys and acidic in snowy areas."
+          ],
+          "keyTerms": [
+            {
+              "term": "Khadar",
+              "meaning": "New alluvium deposited by rivers almost every year; it is fine-grained and more fertile than bhangar."
+            },
+            {
+              "term": "Bhangar",
+              "meaning": "Old alluvium lying above the flood level, containing coarse kankar nodules; it is less fertile than khadar."
+            },
+            {
+              "term": "Leaching",
+              "meaning": "The downward movement of dissolved nutrients with rainwater, which leaves laterite soils poor in humus and fertility."
+            }
+          ],
+          "trick": "Bhangar = Bahut old high land with kankar, Khadar = new deposit with every flood; black soil cracks when dry, so it ploughs itself.",
+          "examPointer": "Map-based and match-the-column questions on soil regions are common; fix black soil to the Deccan lava plateau and laterite to the Western Ghats belt."
+        },
+        {
+          "heading": "Soil Erosion and Conservation",
+          "points": [
+            "Erosion is the denudation of the soil cover and its washing down, caused mainly by running water and wind; deforestation, overgrazing, faulty farming and unscientific construction accelerate it.",
+            "In gully erosion, running water cuts deep channels into the land, forming ravines as in the Chambal valley, and such bad land becomes unfit for cultivation.",
+            "In sheet erosion, water removes the topsoil in thin layers over large areas, while wind erosion blows away loose soil from dry open land and forms sand dunes.",
+            "On slopes, contour ploughing along contour lines decelerates the flow of water and terrace farming cuts steps into hillsides, both checking runoff on agricultural land.",
+            "Strip cropping divides large fields and leaves strips of grass between crops to break the force of wind, while shelter belts, rows of trees planted in western Rajasthan and Gujarat, check wind speed and have helped stabilise sand dunes."
+          ],
+          "keyTerms": [
+            {
+              "term": "Ravines",
+              "meaning": "Deep gullies cut by running water in loose soil that make land useless for cultivation, as seen in the Chambal valley."
+            },
+            {
+              "term": "Contour ploughing",
+              "meaning": "Ploughing along contour lines across a hillside, which slows the flow of water down the slope and checks erosion."
+            },
+            {
+              "term": "Shelter belts",
+              "meaning": "Rows of trees planted in several rows to check wind speed and stabilise sand dunes in arid regions."
+            }
+          ],
+          "trick": "Match measure to landform: hillside - terrace, slope - contour, open field - grass strips, desert edge - shelter belt; gully = gali, sheet = surface, wind = dunes.",
+          "examPointer": "Name the erosion type with its matching conservation method; a three-marker may describe a landscape and ask which measures suit it."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Which one of the following is a biotic resource?",
+          "options": ["Iron ore", "Forest and wildlife", "Wind energy", "River water"],
+          "answerIndex": 1,
+          "explanation": "Biotic resources are obtained from the biosphere and have life, such as forests and wildlife.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Agenda 21 was adopted at which of the following conferences?",
+          "options": ["Earth Summit, Rio de Janeiro, 1992", "World Summit, Johannesburg, 2002", "Kyoto Conference, 1997", "Stockholm Conference, 1972"],
+          "answerIndex": 0,
+          "explanation": "Agenda 21 is the declaration on sustainable development adopted at the Rio Earth Summit in June 1992.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which soil is most suitable for the cultivation of cotton?",
+          "options": ["Red soil", "Alluvial soil", "Black soil", "Laterite soil"],
+          "answerIndex": 2,
+          "explanation": "Black or regur soil formed from Deccan lava holds moisture and is ideal for cotton, hence the name black cotton soil.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Khadar refers to:",
+          "options": ["Old alluvium containing kankar nodules", "New alluvium deposited by annual floods", "Sandy saline soil of the Thar desert", "Acidic soil found in snowy mountains"],
+          "answerIndex": 1,
+          "explanation": "Khadar is the new, fine alluvium renewed by rivers almost every year and is more fertile than bhangar.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which soil develops cracks in hot weather and is called a self-ploughing soil?",
+          "options": ["Alluvial soil", "Red soil", "Black soil", "Forest soil"],
+          "answerIndex": 2,
+          "explanation": "Black soil is clayey, develops cracks in summer, and the cracks let air and moisture enter, making ploughing easy.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Deep channels cut by running water that create ravines are an example of:",
+          "options": ["Sheet erosion", "Gully erosion", "Wind erosion", "Leaching"],
+          "answerIndex": 1,
+          "explanation": "In gully erosion running water cuts deep channels, and such eroded land in the Chambal valley is called ravines.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Water can be split to obtain hydrogen as a rich source of energy, but the technology to do so is not yet available. This resource is an example of:",
+          "options": ["Reserve", "Stock", "Potential resource", "Developed resource"],
+          "answerIndex": 1,
+          "explanation": "Stock refers to materials that can satisfy human needs but for which humans lack the technology to access them.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Laterite soil in Karnataka and Kerala is especially used for growing:",
+          "options": ["Wheat", "Cashew nuts", "Sugarcane", "Jute"],
+          "answerIndex": 1,
+          "explanation": "Laterite soil is poor in humus due to leaching, but in Karnataka and Kerala it is used for cashew nut cultivation.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which one of the following statements about Indian soils is incorrect?",
+          "options": ["Black soil is formed from Deccan lava and is rich in lime and magnesium", "Arid soil becomes saline due to high evaporation and lacks humus", "Red soil gets its colour from iron diffused in crystalline igneous rocks", "Laterite soil is highly fertile because heavy rainfall adds humus to it"],
+          "answerIndex": 3,
+          "explanation": "Laterite soil is actually poor in humus because intense leaching in high rainfall areas washes nutrients away.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "A farmer lives on a steep hillside where heavy rain washes away topsoil. The best combination of conservation measures for this land is:",
+          "options": ["Shelter belts and sand dune stabilisation", "Terrace farming and contour ploughing", "Strip cropping and canal irrigation", "Leaving land fallow under shifting cultivation"],
+          "answerIndex": 1,
+          "explanation": "On slopes, terrace farming creates steps and contour ploughing slows runoff, together checking water erosion effectively.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Distinguish between stock and reserve resources.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Stock resources are materials present in the environment that have the potential to satisfy human needs, but humans do not possess the technology to access them; for example, water can yield hydrogen as a rich source of energy, yet the required technology is still unavailable. 2) Reserve resources are the part of stock that can be used with existing technology but is deliberately kept aside to meet future requirements, such as forest reserves or mineral reserves saved for later use."
+        },
+        {
+          "question": "Differentiate between khadar and bhangar alluvium.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Khadar is new alluvium deposited by rivers during annual floods; it is fine-grained, lies in the lower floodplains and is renewed every year, so it is highly fertile. 2) Bhangar is old alluvium lying above the flood level; it contains coarse kankar nodules, is not renewed regularly and is therefore less fertile than khadar. 3) Both together make up the northern plains, but khadar supports more productive and intensive agriculture."
+        },
+        {
+          "question": "What is Agenda 21? Explain any two of its main objectives.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Agenda 21 is the declaration on sustainable development adopted at the first Earth Summit held at Rio de Janeiro, Brazil, in June 1992, attended by more than 100 heads of state; it is a blueprint for action by governments, United Nations agencies and local bodies for the 21st century, and every local government is expected to draw its own local Agenda 21. 2) One objective is to combat environmental damage, poverty and disease through international cooperation on common interests, mutual needs and shared responsibilities. 3) Another objective is to ensure that development continues without damaging the environment and without reducing the resources available for future generations, making economic growth and ecological balance go together."
+        },
+        {
+          "question": "Suggest any three measures to control land degradation in India.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Afforestation and proper management of grazing check the loss of vegetation cover that exposes soil to water and wind erosion, so degraded lands should be reforested and pasture use regulated. 2) Shelter belts of trees and stabilisation of sand dunes by planting thorny shrubs control wind erosion in arid districts of western Rajasthan and Gujarat. 3) Mining activities must be controlled and pits refilled with topsoil after extraction, industrial effluents should be treated before discharge, and over-irrigation must be avoided to prevent waterlogging and salinity from ruining fertile land."
+        },
+        {
+          "question": "Classify resources on the basis of origin, exhaustibility, ownership and status of development, giving one example of each class.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) On the basis of origin, biotic resources are obtained from the biosphere and have life, such as forests, livestock and fisheries, while abiotic resources are non-living things like rocks, metals, water and wind. 2) On the basis of exhaustibility, renewable resources can be regenerated over time if used carefully, for example solar energy, water, forests and wildlife, while non-renewable resources have a fixed stock that gets exhausted with consumption, such as coal, petroleum and metallic minerals; recycling and substitution help conserve this fixed stock. 3) On the basis of ownership, individual resources are privately owned like farmland or a house plot; community resources are accessible to all members of a community like grazing grounds and ponds; national resources belong to the nation like roads, railways, rivers and minerals within political boundaries; international resources lie beyond national jurisdictions, for example oceanic resources beyond 200 km of the Exclusive Economic Zone, which no country can utilise without the permission of international institutions. 4) On the basis of status of development, potential resources exist in a region but have not been surveyed, like solar and wind energy in parts of Rajasthan and Gujarat; developed resources are surveyed and currently in use; stock exists but lacks access technology, like hydrogen obtained from water; reserves are surveyed, usable but kept aside for future needs. 5) Such classification helps planners assess each resource correctly and use it judiciously so that development remains sustainable."
+        },
+        {
+          "question": "Map Skill: On the outline political map of India five features A, B, C, D and E are marked. A is the soil region forming the Deccan lava plateau suited to cotton, B is the leached soil belt along the Karnataka-Kerala coast used for cashew and bricks, C is the sandy saline soil region of the north-west, D is the vast fertile plains watered by the Ganga and its tributaries, and E is the valley where the Chambal river has cut deep ravines. Identify the soil type or feature marked by each letter and write the answers in your answer book.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) A - Black (regur) soil region of the Deccan plateau, spread mainly over Maharashtra, Madhya Pradesh and Gujarat, famous for cotton cultivation. 2) B - Laterite soil region along the Western Ghats in Karnataka and Kerala, where heavy rainfall causes leaching and the soil suits cashew and brick making. 3) C - Arid soil region of western Rajasthan (Thar desert), sandy and saline with kankar layers. 4) D - Alluvial soil of the northern plains stretching from Punjab to West Bengal, renewed by khadar deposits. 5) E - Chambal valley on the Madhya Pradesh-Rajasthan border, known for ravines created by gully erosion."
+        },
+        {
+          "question": "CASE: Ramu grows wheat on a gently sloping farm in the Chambal region. After every monsoon, deep channels cut through his fields, the finer topsoil washes away, and patches turn stony and unfit for cultivation. In the arid tracts nearby, farmers complain that strong summer winds blow away loose soil and sand creeps over their fields. Read the passage and answer the sub-parts: (a) Which type of water erosion is damaging Ramu's fields and what is the resulting landform called? (b) State two human activities that accelerate such erosion. (c) Suggest three conservation measures suited to this region, explaining how each works.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) Ramu's fields suffer gully erosion, in which running water cuts deep channels into the loose soil of the slope, and the resulting eroded landform in the Chambal valley is called ravines or bad land. 2) (b) Two accelerating causes are deforestation and overgrazing, which strip the protective vegetation cover from the land, and faulty farming such as ploughing up and down the slope without following contour lines. 3) (c) Suitable measures are terrace farming, cutting steps into the hillside so that runoff slows down; contour ploughing along contour lines across the slope, which decelerates the flow of water; and strip cropping, leaving strips of grass between crop rows to break the force of wind and water, while shelter belts of trees planted at the edge of the nearby arid tracts would check wind erosion and stabilise the advancing sand dunes."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Forest and Wildlife Resources",
+      "summary": "Biodiversity is the wealth of life forms - plants, animals and microorganisms - that sustains human life, economies and ecological balance. This chapter classifies species as normal, endangered, vulnerable, rare, endemic and extinct, and examines habitat loss, poaching and over-exploitation that deplete forests and wildlife. It then surveys conservation through the Wildlife Protection Act 1972, Project Tiger 1973 and Project Elephant 1992, along with community efforts like the Bishnoi sacrifice, the Sariska protest and Joint Forest Management.",
+      "weightageMarks": 3,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Categories of species with examples: normal, endangered, vulnerable, rare, endemic, extinct",
+        "Wildlife Protection Act 1972, Project Tiger 1973 and Project Elephant 1992",
+        "Causes of depletion of forests and wildlife resources",
+        "Reserved, protected and unclassed forests",
+        "Community conservation: Chipko, Bishnois, Sariska and Joint Forest Management Odisha 1988"
+      ],
+      "sections": [
+        {
+          "heading": "Biodiversity and Its Value",
+          "points": [
+            "Biodiversity is the sum total of all varieties of life forms - plants, animals and microorganisms - together with their habitats and the processes that link them; India is among the richest countries of the world in biological diversity.",
+            "Recorded estimates speak of about 47,000 plant species in India, of which roughly 15,000 are flowering species, and about 89,000 animal species, including more than 1,200 bird species, around 13 per cent of the world total.",
+            "Biological diversity benefits humans in countless ways - food, medicines, fibres, timber, pollination and climate regulation - and every species performs a role in keeping ecosystems stable.",
+            "Flora refers to the plants of a region and fauna to its animal species; both are being rapidly depleted in India today.",
+            "The growing human population, rising consumption and expanding technology place mounting pressure on natural habitats, making conservation urgent."
+          ],
+          "keyTerms": [
+            {
+              "term": "Biodiversity",
+              "meaning": "The variety of life forms in a region, including species, their genetic variation and the ecosystems they form."
+            },
+            {
+              "term": "Flora",
+              "meaning": "The plants of a particular region or period, catalogued in botanical classification."
+            },
+            {
+              "term": "Fauna",
+              "meaning": "The animal species of a particular region or period."
+            }
+          ],
+          "trick": "Flora begins like flower - plants; fauna = animals of a place; keep the headline figures ready: about 47,000 plant species and about 89,000 animal species.",
+          "examPointer": "Definitions of flora, fauna and biodiversity are frequent one-markers; data questions may quote the plant and animal species figures."
+        },
+        {
+          "heading": "Categories of Species",
+          "points": [
+            "Normal species are those whose population is not at risk of extinction, such as cattle, sal, pine and rodents.",
+            "Endangered species are on the verge of extinction and may disappear soon if not conserved, for example the black buck, crocodile, Indian wild ass, lion-tailed macaque and sangai.",
+            "Vulnerable species may soon move into the endangered category, such as the blue sheep, Asiatic elephant and Gangetic dolphin.",
+            "Rare species have small populations that may become endangered if not protected, like the Himalayan brown bear, wild Asiatic buffalo, desert fox and hornbill.",
+            "Endemic species are confined to one particular region, such as the Andaman teal, Nicobar pigeon and Andaman wild pig, while extinct species, like the Asiatic cheetah and the pink-headed duck, are no longer found anywhere."
+          ],
+          "keyTerms": [
+            {
+              "term": "Endangered species",
+              "meaning": "Species on the verge of extinction that may soon disappear if not conserved, like the black buck."
+            },
+            {
+              "term": "Endemic species",
+              "meaning": "Species found only in a particular region and nowhere else, like the Nicobar pigeon."
+            },
+            {
+              "term": "Vulnerable species",
+              "meaning": "Species whose population may soon shift to the endangered list, like the Asiatic elephant."
+            }
+          ],
+          "trick": "Rank them from safe to gone - Normal, Endangered, Vulnerable, Rare, Endemic, Extinct; spot the clue words: verge of extinction = endangered, small population = rare, only one region = endemic.",
+          "examPointer": "Matching species with categories is a favourite MCQ; memorise one example of each and remember the Indian wild ass is endangered, not rare."
+        },
+        {
+          "heading": "Causes of Depletion of Forests and Wildlife",
+          "points": [
+            "Expansion of agriculture, mining, dams, settlements and industries has destroyed habitats; forests were cleared on a large scale during colonial rule for railways, shipbuilding and commercial forestry.",
+            "Poaching for hides, tusks, horns, bones and illegal trade pushes many animals towards extinction.",
+            "Overpopulation and over-exploitation of resources, along with the growing demand for timber, fuel wood and grazing land, speed up deforestation.",
+            "Shifting cultivation, forest fires and pest attacks also degrade forest cover year after year.",
+            "Inequitable use matters as well: the rich consume far more resources, while poor forest dwellers who depend on forests for survival are displaced when habitats shrink, so depletion has social and economic roots too."
+          ],
+          "keyTerms": [
+            {
+              "term": "Poaching",
+              "meaning": "The illegal hunting, capturing or killing of wild animals for hides, tusks, horns, bones or trade."
+            },
+            {
+              "term": "Habitat loss",
+              "meaning": "Destruction or shrinkage of the natural home of a species due to agriculture, mining, dams and urban growth."
+            }
+          ],
+          "trick": "Recall the triggers as H-P-O-F-S: Habitat destruction, Poaching, Overuse, Fires, Shifting cultivation; colonial railways and big dams are the historical starters.",
+          "examPointer": "Three-markers usually ask causes of depletion; answer in points mixing habitat destruction, poaching and over-exploitation, each with one example."
+        },
+        {
+          "heading": "Government Conservation: Laws, Projects and Forest Types",
+          "points": [
+            "The Wildlife Protection Act, 1972 put an all-India list of protected species on record, banned hunting and provided legal protection to habitats through national parks and sanctuaries.",
+            "Project Tiger, launched in 1973, was a major step to conserve the tiger, whose population had declined sharply due to hunting, poaching and shrinking habitat; it protects tiger habitats as tiger reserves in partnership with state governments.",
+            "Project Elephant, launched in 1992, protects elephants, their habitats and migration corridors, and works to reduce conflict between elephants and people.",
+            "Reserved forests are regarded as the most valuable forests for conservation; more than half of India's total forest area belongs to this category, and activities like grazing and cultivation are banned there.",
+            "Protected forests, almost one-third of the forest area, allow limited rights under restrictions, while unclassed forests are forests and wastelands belonging to both government and private individuals and communities."
+          ],
+          "keyTerms": [
+            {
+              "term": "Reserved forests",
+              "meaning": "The most restricted forest category, covering more than half of India's forest area, where grazing, cultivation and felling are banned."
+            },
+            {
+              "term": "Protected forests",
+              "meaning": "Forests in which limited rights such as grazing may be allowed under restrictions; they form almost one-third of forest area."
+            },
+            {
+              "term": "Unclassed forests",
+              "meaning": "Forests and wastelands belonging to both government and private individuals and communities, outside the reserved and protected categories."
+            }
+          ],
+          "trick": "Climb the R-P-U ladder of restriction: Reserved = Rigidly protected (more than half), Protected = Partial rights (one-third), Unclassed = Under no strict category.",
+          "examPointer": "Link each step to its year - Wildlife Act 1972, Project Tiger 1973, Project Elephant 1992 - as these pairs are common one-markers."
+        },
+        {
+          "heading": "Community Participation in Conservation",
+          "points": [
+            "Communities conserve habitats alongside the government; in the Himalayas the Chipko movement successfully resisted deforestation, while the Beej Bachao Andolan and Navdanya conserve indigenous seeds and crop varieties.",
+            "In Sariska Tiger Reserve, Rajasthan, villagers fought against mining by citing the Wildlife Protection Act, proving that wildlife protection needs local support.",
+            "The Bishnoi community of Rajasthan has long protected trees and animals; in 1731 about 363 people led by Amrita Devi Bishnoi sacrificed their lives to save khejri trees, honoured today through the Amrita Devi Bishnoi National Award for Wildlife Conservation.",
+            "In many parts of India local people protect patches of forest as sacred groves, preserving them without any government support.",
+            "Joint Forest Management (JFM), first organised in Odisha in 1988, involves village communities in protecting degraded forests, and in return villagers get access to forest products and a share of the timber proceeds."
+          ],
+          "keyTerms": [
+            {
+              "term": "Joint Forest Management",
+              "meaning": "A programme begun in Odisha in 1988 in which village communities protect degraded forests in return for access to forest produce and a share of timber."
+            },
+            {
+              "term": "Chipko movement",
+              "meaning": "The Himalayan movement in which villagers, especially women, hugged trees to stop contractors from felling them."
+            },
+            {
+              "term": "Sacred groves",
+              "meaning": "Patches of forest protected by local communities for religious and cultural reasons."
+            }
+          ],
+          "trick": "Remember the triangle: Sariska - stop mining, Bishnois - save trees (1731, 363 lives), JFM - joint protection in Odisha 1988 with a share of timber.",
+          "examPointer": "Five-markers on people's participation expect four or five examples - Chipko, Beej Bachao, Sariska, Bishnois and JFM - each explained in one line."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "The Wildlife Protection Act was enacted in:",
+          "options": ["1952", "1972", "1973", "1992"],
+          "answerIndex": 1,
+          "explanation": "The Wildlife Protection Act of 1972 created the all-India list of protected species and banned hunting.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Project Tiger was launched in:",
+          "options": ["1969", "1972", "1973", "1992"],
+          "answerIndex": 2,
+          "explanation": "Project Tiger was launched in 1973 to conserve the declining tiger population and its habitat.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The Asiatic cheetah and the pink-headed duck are examples of:",
+          "options": ["Rare species", "Endemic species", "Extinct species", "Vulnerable species"],
+          "answerIndex": 2,
+          "explanation": "Extinct species are those no longer found anywhere after searches of known areas, like the Asiatic cheetah and pink-headed duck.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Forests in which grazing and cultivation are banned, forming more than half of India's forest area, are called:",
+          "options": ["Unclassed forests", "Protected forests", "Reserved forests", "Sacred groves"],
+          "answerIndex": 2,
+          "explanation": "Reserved forests are the most valuable category, covering more than half of the total forest area, with the strictest restrictions.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which one of the following is classified as a vulnerable species?",
+          "options": ["Black buck", "Blue sheep", "Desert fox", "Nicobar pigeon"],
+          "answerIndex": 1,
+          "explanation": "The blue sheep, Asiatic elephant and Gangetic dolphin are vulnerable species; the others belong to endangered, rare and endemic categories.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Joint Forest Management programme was first organised in:",
+          "options": ["Madhya Pradesh in 1980", "Odisha in 1988", "Rajasthan in 1992", "West Bengal in 1972"],
+          "answerIndex": 1,
+          "explanation": "JFM was first organised in Odisha in 1988, involving village communities in protecting degraded forests.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Villagers of Sariska Tiger Reserve, Rajasthan, are known for:",
+          "options": ["Hugging trees to stop contractors", "Conserving indigenous seeds", "Fighting against mining by citing the Wildlife Protection Act", "Guarding elephant corridors"],
+          "answerIndex": 2,
+          "explanation": "In Sariska Tiger Reserve villagers fought against mining activities by citing the Wildlife Protection Act.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Amrita Devi Bishnoi National Award for Wildlife Conservation commemorates:",
+          "options": ["The launch of Project Tiger", "The sacrifice of 363 people protecting khejri trees in 1731", "The first JFM agreement of 1988", "The discovery of the Gangetic dolphin"],
+          "answerIndex": 1,
+          "explanation": "In 1731 about 363 Bishnois led by Amrita Devi sacrificed their lives saving khejri trees, and the award honours such service.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which one of the following statements about forest categories is incorrect?",
+          "options": ["More than half of India's forest area is reserved forest", "Almost one-third of the forest area is protected forest", "Unclassed forests belong only to private individuals", "Grazing and cultivation are banned in reserved forests"],
+          "answerIndex": 2,
+          "explanation": "Unclassed forests belong to both government and private individuals and communities, not only to private parties.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Identify the correctly matched pair:",
+          "options": ["Indian wild ass - rare species", "Himalayan brown bear - vulnerable species", "Gangetic dolphin - endangered species", "Nicobar pigeon - endemic species"],
+          "answerIndex": 3,
+          "explanation": "The Nicobar pigeon is endemic to a region; the Indian wild ass is endangered, the Himalayan brown bear rare and the Gangetic dolphin vulnerable.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Distinguish between reserved and protected forests.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Reserved forests are regarded as the most valuable forests for conservation; more than half of India's total forest area belongs to this category, and rights like grazing, cultivation and felling are banned there. 2) Protected forests face less restriction and cover almost one-third of the forest area, in which limited rights such as grazing or collecting fuel wood may be allowed to local people under rules. 3) The stricter the category, the higher the legal protection, while unclassed forests lie outside both categories."
+        },
+        {
+          "question": "Differentiate between endangered and extinct species with one example of each.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Endangered species are those whose population has fallen so low that they may become extinct soon if not conserved; for example, the black buck, Indian wild ass and lion-tailed macaque are endangered. 2) Extinct species are no longer found anywhere on the earth after searches of known areas; they cannot be revived, as with the Asiatic cheetah and the pink-headed duck. 3) Conservation can still save endangered species, but for extinct ones only records remain, which is why protecting habitats matters urgently."
+        },
+        {
+          "question": "Explain any three causes of the depletion of forest resources in India.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Expansion of agriculture and settlements: the growing population converted large forest tracts into farmland, and during colonial rule forests were cleared extensively for railways, shipbuilding and commercial forestry. 2) Mining, dams and industries: large projects submerged forests and displaced communities, destroying the habitats of plants and animals along with the livelihoods of forest dwellers. 3) Over-exploitation and poaching: rising demand for timber, fuel wood and grazing land, shifting cultivation, recurring forest fires and illegal hunting for hides, tusks and bones together deplete forests far faster than they can regenerate."
+        },
+        {
+          "question": "Describe any three steps taken by the government of India for the conservation of wildlife.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) The Wildlife Protection Act, 1972 created an all-India list of protected species, banned hunting and gave legal protection to habitats through national parks and sanctuaries. 2) Project Tiger, launched in 1973, was started when the tiger population had declined sharply due to hunting and poaching; it protects tiger habitats as tiger reserves in cooperation with state governments. 3) Project Elephant, launched in 1992, conserves elephants, secures their habitats and migration corridors, and works to reduce conflicts between elephants and people; protected areas for other species and wetlands add further cover."
+        },
+        {
+          "question": "Explain how forests in India are classified on the basis of their legal status. Why is such classification necessary?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Reserved forests: these are regarded as the most valuable forests for conservation, and more than half of India's total forest area has been declared reserved. Human activity is strictly controlled - grazing, cultivation and felling are banned and entry is regulated - which gives wildlife and timber the highest legal protection. 2) Protected forests: almost one-third of the forest area is protected forest, as declared by the respective state governments. Local communities are allowed limited rights here, such as collecting fuel wood or grazing animals, but these rights are restricted by rules so that the forest is not destroyed. 3) Unclassed forests: these are forests and wastelands belonging to both government and private individuals and communities; they have no fixed legal category and therefore face the greatest pressure of encroachment and degradation. 4) Necessity of classification: different degrees of legal protection let the state concentrate strict enforcement on the most valuable ecosystems while still meeting the needs of villagers who depend on forests for fuel, fodder and small timber. 5) The classification also fixes responsibility - reserved forests are managed mainly by the government, protected forests involve community rights under rules, and unclassed forests invite community and private management, which prepares the ground for programmes like Joint Forest Management begun in Odisha in 1988."
+        },
+        {
+          "question": "'People's participation is as important as government laws in conserving forests and wildlife.' Support the statement with suitable examples.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Chipko movement: in the Himalayan villages, villagers, especially women, hugged trees and stopped contractors from felling forests, showing that local resistance can save habitats better than distant officials. 2) Beej Bachao Andolan and Navdanya: farmers' movements conserve indigenous seeds and crop varieties, protecting agricultural biodiversity along with wild species. 3) Sariska Tiger Reserve: villagers of Rajasthan fought against mining inside the reserve by citing the Wildlife Protection Act, proving that communities enforce conservation effectively when their own land is at stake. 4) Bishnoi community: the Bishnois treat trees and animals as sacred; in 1731 about 363 people led by Amrita Devi Bishnoi sacrificed their lives to save khejri trees, and the Amrita Devi Bishnoi National Award for Wildlife Conservation now honours such service. 5) Joint Forest Management: first organised in Odisha in 1988, JFM involves village communities in protecting degraded forests; in return villagers get access to fuel wood, fodder and a share of timber, so protection becomes profitable for the people themselves. Together these examples show that laws succeed only when local people see the forest as their own resource and participate in guarding it."
+        },
+        {
+          "question": "CASE: A village lies on the edge of a tiger reserve. Cattle graze inside the forest, firewood collection keeps rising, and last month forest staff caught a gang carrying tiger bones and skins. The gram sabha debates whether to join the Joint Forest Management committee or to fence the forest off completely. Elders recall how, in 1731, people of a nearby community gave their lives saving khejri trees. Read the passage and answer the sub-parts: (a) Name the law under which hunting the tiger is punishable and the project launched for its conservation. (b) Identify two causes of depletion of the forest visible in the passage. (c) How can Joint Forest Management help this village? Support your answer with one historical example of community conservation.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) Hunting the tiger is punishable under the Wildlife Protection Act, 1972, which puts an all-India list of protected species on record and bans hunting; Project Tiger, launched in 1973, conserves the tiger and its habitat through tiger reserves managed with state governments. 2) (b) Two causes of depletion visible here are overgrazing and over-exploitation of forest produce, since cattle grazing and rising firewood collection pressure the forest, and poaching, seen in the gang carrying tiger bones and skins for illegal trade. 3) (c) Under Joint Forest Management, first organised in Odisha in 1988, the village community would protect the degraded forest patches in return for rights over fuel wood, fodder and a share of the timber proceeds, so livelihoods and conservation support each other, whereas fencing off the forest would only create conflict between people and the administration. The elders' memory recalls the Bishnoi sacrifice of 1731, when about 363 people led by Amrita Devi Bishnoi laid down their lives to save khejri trees, a tradition of community conservation honoured today through the Amrita Devi Bishnoi National Award for Wildlife Conservation."
+        }
+      ]
+    }
+  ]
+}

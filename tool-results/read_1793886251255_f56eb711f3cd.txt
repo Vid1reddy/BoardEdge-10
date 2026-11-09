@@ -1,0 +1,378 @@
+     1→   984→          "options": ["James Watt", "Richard Arkwright", "George Acland", "John Kay"],
+     2→   985→          "answerIndex": 0,
+     3→   986→          "explanation": "James Watt improved the steam engine, which his partner Matthew Boulton manufactured.",
+     4→   987→          "difficulty": "easy"
+     5→   988→        },
+     6→   989→        {
+     7→   990→          "question": "The first cotton mill in India came up in Bombay in",
+     8→   991→          "options": ["1854", "1855", "1860", "1907"],
+     9→   992→          "answerIndex": 0,
+    10→   993→          "explanation": "The first cotton mill of India came up in Bombay in 1854.",
+    11→   994→          "difficulty": "medium"
+    12→   995→        },
+    13→   996→        {
+    14→   997→          "question": "TISCO, the Tata Iron and Steel Company, was set up in 1907 at",
+    15→   998→          "options": ["Durgapur", "Sakchi", "Rishra", "Kanpur"],
+    16→   999→          "answerIndex": 1,
+    17→  1000→          "explanation": "TISCO began production at Sakchi in 1907; Sakchi later became Jamshedpur.",
+    18→  1001→          "difficulty": "medium"
+    19→  1002→        },
+    20→  1003→        {
+    21→  1004→          "question": "Who set up the first Indian owned jute mill in Calcutta in 1917?",
+    22→  1005→          "options": ["Dwarkanath Tagore", "Seth Hukumchand", "George Acland", "Jamsetjee Tata"],
+    23→  1006→          "answerIndex": 1,
+    24→  1007→          "explanation": "Seth Hukumchand, a Marwari businessman, set up the first Indian jute mill in Calcutta in 1917.",
+    25→  1008→          "difficulty": "hard"
+    26→  1009→        },
+    27→  1010→        {
+    28→  1011→          "question": "Gomasthas were",
+    29→  1012→          "options": ["Indian merchants exporting to China", "Paid agents of the East India Company who supervised weavers", "Jobbers in factories", "European managing agencies"],
+    30→  1013→          "answerIndex": 1,
+    31→  1014→          "explanation": "Gomasthas were paid Company agents who supervised weavers, advanced loans and fixed prices.",
+    32→  1015→          "difficulty": "medium"
+    33→  1016→        },
+    34→  1017→        {
+    35→  1018→          "question": "The jobber in Indian factories",
+    36→  1019→          "options": ["Was a European manager", "Recruited workers and later demanded bribes for jobs", "Owned the mill", "Fixed cloth prices"],
+    37→  1020→          "answerIndex": 1,
+    38→  1021→          "explanation": "Jobbers recruited workers from villages and later demanded bribes and gifts for jobs.",
+    39→  1022→          "difficulty": "easy"
+    40→  1023→        },
+    41→  1024→        {
+    42→  1025→          "question": "In mid nineteenth century Britain, how many varieties of hammers were produced by hand?",
+    43→  1026→          "options": ["45", "500", "150", "1000"],
+    44→  1027→          "answerIndex": 1,
+    45→  1028→          "explanation": "Mid nineteenth century Britain produced 500 varieties of hammers and 45 kinds of axes by hand.",
+    46→  1029→          "difficulty": "hard"
+    47→  1030→        },
+    48→  1031→        {
+    49→  1032→          "question": "Which was the leading industry in Britain during the first phase of industrialisation up to the 1840s?",
+    50→  1033→          "options": ["Cotton", "Iron and steel", "Shipbuilding", "Sugar"],
+    51→  1034→          "answerIndex": 0,
+    52→  1035→          "explanation": "Cotton led British industrialisation in the first phase up to the 1840s; iron and steel followed.",
+    53→  1036→          "difficulty": "medium"
+    54→  1037→        },
+    55→  1038→        {
+    56→  1039→          "question": "Indian industrialisation got a big boost during the First World War because",
+    57→  1040→          "options": ["British goods flooded India", "British imports into India declined and Indian mills got huge war orders", "The government nationalised mills", "Tariffs were removed"],
+    58→  1041→          "answerIndex": 1,
+    59→  1042→          "explanation": "With British imports into India stopped during the war, Indian mills got a huge home market and war orders.",
+    60→  1043→          "difficulty": "medium"
+    61→  1044→        }
+    62→  1045→      ],
+    63→  1046→      "boardQuestions": [
+    64→  1047→        {
+    65→  1048→          "question": "What is meant by proto industrialisation? Mention its main features.",
+    66→  1049→          "marks": 2,
+    67→  1050→          "type": "SA",
+    68→  1051→          "probability": "very-high",
+    69→  1052→          "answer": "Proto industrialisation was the phase before factories when large scale industrial production for international markets was carried out through family based handicrafts. 1) Merchants supplied money and raw materials to peasants and artisans in the countryside. 2) They bought the finished products and sold them in distant markets. 3) Production stayed in villages because town guilds blocked new producers and rural families needed extra income in lean months."
+    70→  1053→        },
+    71→  1054→        {
+    72→  1055→          "question": "Why did hand labour remain important in Victorian Britain even during the age of machines?",
+    73→  1056→          "marks": 3,
+    74→  1057→          "type": "SA",
+    75→  1058→          "probability": "high",
+    76→  1059→          "answer": "1) Victorian Britain had no shortage of cheap labour and low wages, so machines often cost more than human hands. 2) Many goods needed elaborate designs and specific shapes that machines could not produce, so skilled craft workers were preferred. 3) Even in the mid nineteenth century, 500 varieties of hammers and 45 kinds of axes were produced by hand in cities like Birmingham and Sheffield. 4) Seasonal industries like gasworks and breweries hired labour only in peak months. Hence hand technology survived alongside steam power throughout the century."
+    77→  1060→        },
+    78→  1061→        {
+    79→  1062→          "question": "What happened to the Indian cotton weavers in the nineteenth century?",
+    80→  1063→          "marks": 3,
+    81→  1064→          "type": "SA",
+    82→  1065→          "probability": "very-high",
+    83→  1066→          "answer": "1) First, India's export market for cotton and silk collapsed in the late eighteenth century as British mills took over world trade. 2) Next, cheap machine made Manchester cloth flooded India, undercutting handloom cloth in the home market, while British tariffs shut Indian cloth out of England. 3) The East India Company's agents, called gomasthas, advanced loans and fixed prices, trapping weavers who then had to sell only to the Company. Yet handloom weaving survived in niches, producing coarser cloth for the poor and fine varieties for the rich, though weavers' earnings fell badly."
+    84→  1067→        },
+    85→  1068→        {
+    86→  1069→          "question": "How did Indian industrialists and merchants establish industries despite British domination? Name important Indian industrialists.",
+    87→  1070→          "marks": 3,
+    88→  1071→          "type": "SA",
+    89→  1072→          "probability": "high",
+    90→  1073→          "answer": "1) Merchants and bankers earned capital through trade with China in opium and cotton yarn. 2) Industrialists like Dwarkanath Tagore in Bengal and Dinshaw Petit and Jamsetjee Nusserwanjee Tata in Bombay invested in mills, shipping and banking. 3) Seth Hukumchand set up the first Indian jute mill in Calcutta in 1917, and TISCO began at Sakchi in 1907. 4) Indian businessmen worked alongside European managing agencies like Bird Heiglers and Andrew Yule, which mobilised capital and set up joint stock companies."
+    91→  1074→        },
+    92→  1075→        {
+    93→  1076→          "question": "Describe the peculiarities of industrial growth in India and the impact of the First World War on Indian industries.",
+    94→  1077→          "marks": 5,
+    95→  1078→          "type": "LA",
+    96→  1079→          "probability": "very-high",
+    97→  1080→          "answer": "1) Indian industrial growth had peculiar features: mills mainly produced coarse cotton yarn for export to China, avoiding direct competition with Manchester cloth. 2) From the early twentieth century they turned to weaving cloth for the home market. 3) The First World War transformed the situation: British mills turned to war production, imports into India declined and Indian factories got a vast home market. 4) Indian mills received huge orders for jute bags, army cloth, tents, boots and saddles, and new factories and workers came up. 5) TISCO expanded fast; by 1919 the colonial government was buying nearly 90 per cent of its steel from TISCO. 6) Manchester regained Indian markets only slowly after the war, and by then Indian industry had grown stronger, with Indian enterprises like Tata's playing a bigger role. Thus the war was a turning point for Indian industrialisation."
+    98→  1081→        },
+    99→  1082→        {
+   100→  1083→          "question": "'The Industrial Revolution changed work and life in Britain.' Explain with examples.",
+   101→  1084→          "marks": 5,
+   102→  1085→          "type": "LA",
+   103→  1086→          "probability": "high",
+   104→  1087→          "answer": "1) Industrialisation in Britain began with proto industrial networks, then factories: Richard Arkwright's cotton mill brought processes under one roof with strict supervision. 2) Cotton led growth till the 1840s; iron and steel powered railways later. 3) James Watt's improved steam engine freed factories from river banks and let them grow in cities. 4) Yet change was slow: machines did not immediately replace hands. 5) Labour was cheap and plentiful, and varied products needed skill; 500 varieties of hammers and 45 kinds of axes were still handmade. 6) Workers lived in fear of unemployment, especially when machines like the Spinning Jenny spread; women workers even attacked machines. 7) Seasonal industries kept jobs unstable, and though wages rose a little, housing and disease kept life insecure. Industrialisation thus changed work gradually, not overnight."
+   105→  1088→        },
+   106→  1089→        {
+   107→  1090→          "question": "Read the source and answer the questions: The Tata Iron and Steel Company (TISCO) was set up in 1907 at Sakchi. Before the First World War, Indian steel could not compete with British steel. When the war began, British steel imports stopped and TISCO expanded its output. By 1919 the colonial government was buying nearly 90 per cent of the steel produced by TISCO. (a) When and where was TISCO set up? (b) Why did TISCO grow during the war? (c) What role did Indian factories play in war supplies?",
+   108→  1091→          "marks": 5,
+   109→  1092→          "type": "CASE",
+   110→  1093→          "probability": "high",
+   111→  1094→          "answer": "(a) TISCO was set up in 1907 at Sakchi, which later grew into Jamshedpur. (b) When the First World War began, steel produced in Britain went to war needs and imports into India stopped, so TISCO got the Indian market and huge war orders. Its production expanded, and by 1919 the colonial government bought nearly 90 per cent of its steel from TISCO. (c) Indian factories supplied the war effort with jute bags, cloth for army uniforms, tents, leather boots and horse and mule saddles. The war years were a boom for Indian industry, raising output and employment."
+   112→  1095→        }
+   113→  1096→      ]
+   114→  1097→    },
+   115→  1098→    {
+   116→  1099→      "number": 5,
+   117→  1100→      "title": "Print Culture and the Modern World",
+   118→  1101→      "summary": "This chapter traces the journey of print from hand printing in East Asia to Gutenberg's press and the print revolution in Europe. It shows how print created new readers, powered religious debates and social reform in India, and became both a tool of nationalism and a target of colonial censorship.",
+   119→  1102→      "weightageMarks": 3,
+   120→  1103→      "difficulty": "easy",
+   121→  1104→      "hotTopics": [
+   122→  1105→        "Gutenberg press and the print revolution",
+   123→  1106→        "Print in India: religious debates and reformers",
+   124→  1107→        "Vernacular Press Act 1878",
+   125→  1108→        "Newspapers and the growth of nationalism",
+   126→  1109→        "Print, women and workers"
+   127→  1110→      ],
+   128→  1111→      "sections": [
+   129→  1112→        {
+   130→  1113→          "heading": "Print in China and Japan",
+   131→  1114→          "points": [
+   132→  1115→            "Hand printing technology first developed in China, Japan and Korea.",
+   133→  1116→            "From 594 AD, books in China were printed by rubbing paper against inked woodblocks.",
+   134→  1117→            "The imperial state printed textbooks for civil service examinations, creating a huge readership of officials.",
+   135→  1118→            "The Diamond Sutra of 868 AD is the world's oldest printed book, with six sheets of text and woodcut pictures.",
+   136→  1119→            "Buddhist missionaries from China introduced hand printing into Japan around 768 to 770 AD.",
+   137→  1120→            "Japanese artists like Kitagawa Utamaro produced woodblock prints of urban life, actors and teahouses."
+   138→  1121→          ],
+   139→  1122→          "keyTerms": [
+   140→  1123→            { "term": "Woodblock printing", "meaning": "Early method of printing by rubbing paper against the inked surface of carved wooden blocks." },
+   141→  1124→            { "term": "Diamond Sutra", "meaning": "Buddhist text printed in 868 AD, the oldest printed book in the world." },
+   142→  1125→            { "term": "Civil service examinations", "meaning": "Chinese government exams whose printed textbooks spread reading habits across the country." }
+   143→  1126→          ],
+   144→  1127→          "trick": "594 China, 868 Sutra, 768 Japan: ink moved with monks and exam books.",
+   145→  1128→          "examPointer": "MCQs on the Diamond Sutra, 594 AD and Japan are common; the China exam textbook link is a 2 marker."
+   146→  1129→        },
+   147→  1130→        {
+   148→  1131→          "heading": "Gutenberg's Press and the Print Revolution in Europe",
+   149→  1132→          "points": [
+   150→  1133→            "Johann Gutenberg developed the printing press in Germany and perfected the system by 1448.",
+   151→  1134→            "His press used movable metal type, oil based ink and a screw press for uniform printing.",
+   152→  1135→            "The first printed book was the Bible; about 180 copies came out in about three years.",
+   153→  1136→            "Books became cheaper and faster to produce, creating a new reading public among common people.",
+   154→  1137→            "Hearing publics became reading publics; oral culture continued alongside print through songs and public reading.",
+   155→  1138→            "Martin Luther's Ninety Five Theses of 1517 against indulgences spread by print and began the Reformation."
+   156→  1139→          ],
+   157→  1140→          "keyTerms": [
+   158→  1141→            { "term": "Gutenberg press", "meaning": "First modern printing press, perfected by 1448, which revolutionised book production in Europe." },
+   159→  1142→            { "term": "Reformation", "meaning": "Religious movement begun by Martin Luther's 1517 protest against the sale of indulgences." },
+   160→  1143→            { "term": "Reading public", "meaning": "New audience of common readers created when books became cheaper and more available." }
+   161→  1144→          ],
+   162→  1145→          "trick": "1448 press, 180 Bibles, 3 years. Luther 1517: print lit the Reformation fire.",
+   163→  1146→          "examPointer": "Impact of the print revolution is a favourite 3 to 5 marker; Luther and 1517 appear as MCQs."
+   164→  1147→        },
+   165→  1148→        {
+   166→  1149→          "heading": "Print Arrives in India: Debates and Reformers",
+   167→  1150→          "points": [
+   168→  1151→            "Print came to India with Portuguese missionaries; Jesuit priests printed Konkani tracts by 1674.",
+   169→  1152→            "The first Tamil book was printed in 1579 at Coimbatore; the first Malayalam book by 1713.",
+   170→  1153→            "James Augustus Hicky started the Bengal Gazette, an English weekly, in 1780.",
+   171→  1154→            "Raja Rammohan Roy published Sambad Kaumudi in Bengali and Mirat ul Akhbar in Persian to spread reform.",
+   172→  1155→            "Print intensified religious debates; reformers attacked superstition while orthodox papers defended old practices.",
+   173→  1156→            "Cheap illustrated religious texts, like the Ramcharitmanas, carried print deep into villages and bazaars."
+   174→  1157→          ],
+   175→  1158→          "keyTerms": [
+   176→  1159→            { "term": "Sambad Kaumudi", "meaning": "Bengali weekly started by Raja Rammohan Roy in 1821 to spread reformist ideas." },
+   177→  1160→            { "term": "Bengal Gazette", "meaning": "English weekly brought out by James Augustus Hicky from 1780, India's first newspaper." },
+   178→  1161→            { "term": "Samachar Chandrika", "meaning": "Orthodox newspaper that countered the reformist arguments of early nineteenth century Bengali reformers." }
+   179→  1162→          ],
+   180→  1163→          "trick": "1579 Tamil, 1713 Malayalam, 1780 Hicky's Gazette, 1821 Kaumudi: print grows step by step in India.",
+   181→  1164→          "examPointer": "Print intensified religious debates is a regular 3 marker; the first Tamil book and Hicky's Gazette appear as MCQs."
+   182→  1165→        },
+   183→  1166→        {
+   184→  1167→          "heading": "New Forms: Novels, Women, Workers and Public Debate",
+   185→  1168→          "points": [
+   186→  1169→            "Print created new literary forms like novels, short stories, essays and plays for wide audiences.",
+   187→  1170→            "Public debate on social evils like sati, child marriage and caste spread through cheap tracts and newspapers.",
+   188→  1171→            "Rashsundari Debi's Amar Jiban, published in 1876, was the first autobiography written by an Indian woman.",
+   189→  1172→            "Kailashbashini Deb, Tarabai Shinde and Pandita Ramabai wrote boldly on women's condition and rights.",
+   190→  1173→            "Kashibaba, a Kanpur cotton mill worker, wrote Chhote aur Bade Sawal linking caste and class exploitation.",
+   191→  1174→            "Workers' associations and public libraries helped working people read, write and publish their own views."
+   192→  1175→          ],
+   193→  1176→          "keyTerms": [
+   194→  1177→            { "term": "Amar Jiban", "meaning": "Autobiography of Rashsundari Debi, published in 1876, the first by an Indian woman." },
+   195→  1178→            { "term": "Stripurushtulna", "meaning": "Pamphlet by Tarabai Shinde comparing men and women, criticising patriarchal society." },
+   196→  1179→            { "term": "Kashibaba", "meaning": "Kanpur millworker who published Chhote aur Bade Sawal on the lives and rights of workers." }
+   197→  1180→          ],
+   198→  1181→          "trick": "ASK: Amar Jiban (Rashsundari), Stripurushtulna (Tarabai), Kashibaba (Kanpur). Print gave the voiceless a pen.",
+   199→  1182→          "examPointer": "How did print help women and workers is a common 3 to 5 marker; Amar Jiban's author and year is a frequent MCQ."
+   200→  1183→        },
+   201→  1184→        {
+   202→  1185→          "heading": "Censorship and the Vernacular Press Act",
+   203→  1186→          "points": [
+   204→  1187→            "Colonial authorities feared that printed criticism would inflame nationalist feeling against British rule.",
+   205→  1188→            "The Vernacular Press Act of 1878, passed under Viceroy Lytton, imposed strict control on Indian language newspapers.",
+   206→  1189→            "Editors printing seditious reports were warned; on repeating, their presses and machinery could be confiscated.",
+   207→  1190→            "The Amrita Bazar Patrika escaped the Act by turning overnight into an English newspaper.",
+   208→  1191→            "Despite prosecution, nationalist editors kept attacking colonial misrule and their trials increased their fame.",
+   209→  1192→            "Censorship battles turned newspapers into symbols of resistance and strengthened the freedom movement."
+   210→  1193→          ],
+   211→  1194→          "keyTerms": [
+   212→  1195→            { "term": "Vernacular Press Act 1878", "meaning": "Law of Viceroy Lytton giving the government power to censor and seize Indian language newspapers." },
+   213→  1196→            { "term": "Censorship", "meaning": "Official control over what can be printed, used by colonial rulers to silence criticism." },
+   214→  1197→            { "term": "Amrita Bazar Patrika", "meaning": "Nationalist newspaper that escaped the Act by switching from a vernacular to English overnight." }
+   215→  1198→          ],
+   216→  1199→          "trick": "VPA 1878 means Lytton's gag on Indian languages. The Patrika's trick: change language overnight!",
+   217→  1200→          "examPointer": "The Vernacular Press Act's year, purpose and effects are guaranteed MCQ and 2 to 3 marker material."
+   218→  1201→        },
+   219→  1202→        {
+   220→  1203→          "heading": "Print, Newspapers and Nationalism",
+   221→  1204→          "points": [
+   222→  1205→            "Newspapers carried news of protests and misrule from town to town, linking readers into one public.",
+   223→  1206→            "Editorials and reports shaped public opinion and turned local grievances into national issues.",
+   224→  1207→            "Papers like Kesari of Bal Gangadhar Tilak and Amrita Bazar Patrika voiced nationalist demands.",
+   225→  1208→            "Cheap print let reformers and nationalists reach readers far beyond their own towns.",
+   226→  1209→            "Every ban and prosecution made newspapers dearer to readers and spread their circulation.",
+   227→  1210→            "Thus print culture became an engine of both social reform and the national movement."
+   228→  1211→          ],
+   229→  1212→          "keyTerms": [
+   230→  1213→            { "term": "Kesari", "meaning": "Marathi newspaper of Bal Gangadhar Tilak that carried nationalist criticism of British rule." },
+   231→  1214→            { "term": "Public opinion", "meaning": "Shared views of educated society, shaped strongly by newspapers, tracts and novels." },
+   232→  1215→            { "term": "Nationalist press", "meaning": "Newspapers that reported colonial injustice and mobilised people for the freedom struggle." }
+   233→  1216→          ],
+   234→  1217→          "trick": "Press means protest: one paper, many towns, one nation. Remember Kesari and Amrita Bazar Patrika.",
+   235→  1218→          "examPointer": "The role of newspapers in the nationalist movement is a frequent 3 marker; print and nationalism appears in case based questions too."
+   236→  1219→        }
+   237→  1220→      ],
+   238→  1221→      "mcqs": [
+   239→  1222→        {
+   240→  1223→          "question": "Hand printing technology was first developed in",
+   241→  1224→          "options": ["Europe", "China, Japan and Korea", "India", "Egypt"],
+   242→  1225→          "answerIndex": 1,
+   243→  1226→          "explanation": "Hand printing first developed in China, Japan and Korea before reaching Europe.",
+   244→  1227→          "difficulty": "easy"
+   245→  1228→        },
+   246→  1229→        {
+   247→  1230→          "question": "In China, books were printed by rubbing paper against inked woodblocks from",
+   248→  1231→          "options": ["594 AD", "868 AD", "1448 AD", "1517 AD"],
+   249→  1232→          "answerIndex": 0,
+   250→  1233→          "explanation": "From 594 AD, Chinese books were printed by rubbing paper against inked woodblocks.",
+   251→  1234→          "difficulty": "medium"
+   252→  1235→        },
+   253→  1236→        {
+   254→  1237→          "question": "The Diamond Sutra, the world's oldest printed book, was printed in",
+   255→  1238→          "options": ["594 AD", "768 AD", "868 AD", "1448 AD"],
+   256→  1239→          "answerIndex": 2,
+   257→  1240→          "explanation": "The Buddhist Diamond Sutra, printed in 868 AD, is the oldest printed book in the world.",
+   258→  1241→          "difficulty": "medium"
+   259→  1242→        },
+   260→  1243→        {
+   261→  1244→          "question": "Gutenberg perfected his printing press by",
+   262→  1245→          "options": ["1448", "1517", "1579", "1780"],
+   263→  1246→          "answerIndex": 0,
+   264→  1247→          "explanation": "Gutenberg perfected the printing press by 1448 in Germany.",
+   265→  1248→          "difficulty": "easy"
+   266→  1249→        },
+   267→  1250→        {
+   268→  1251→          "question": "The first book printed by Gutenberg was the",
+   269→  1252→          "options": ["Ninety Five Theses", "Bible", "Diamond Sutra", "Sambad Kaumudi"],
+   270→  1253→          "answerIndex": 1,
+   271→  1254→          "explanation": "Gutenberg's first printed book was the Bible, about 180 copies in three years.",
+   272→  1255→          "difficulty": "easy"
+   273→  1256→        },
+   274→  1257→        {
+   275→  1258→          "question": "Martin Luther wrote the Ninety Five Theses in",
+   276→  1259→          "options": ["1448", "1517", "1558", "1674"],
+   277→  1260→          "answerIndex": 1,
+   278→  1261→          "explanation": "Martin Luther wrote the Ninety Five Theses in 1517, protesting against the sale of indulgences.",
+   279→  1262→          "difficulty": "medium"
+   280→  1263→        },
+   281→  1264→        {
+   282→  1265→          "question": "The first Tamil book was printed in 1579 at",
+   283→  1266→          "options": ["Madras", "Coimbatore", "Calcutta", "Bombay"],
+   284→  1267→          "answerIndex": 1,
+   285→  1268→          "explanation": "Catholic priests printed the first Tamil book in 1579 at Coimbatore.",
+   286→  1269→          "difficulty": "hard"
+   287→  1270→        },
+   288→  1271→        {
+   289→  1272→          "question": "Sambad Kaumudi, a Bengali weekly, was published by",
+   290→  1273→          "options": ["James Augustus Hickey", "Raja Rammohan Roy", "Bal Gangadhar Tilak", "Rashsundari Debi"],
+   291→  1274→          "answerIndex": 1,
+   292→  1275→          "explanation": "Raja Rammohan Roy published Sambad Kaumudi to spread reformist ideas in Bengal.",
+   293→  1276→          "difficulty": "medium"
+   294→  1277→        },
+   295→  1278→        {
+   296→  1279→          "question": "Amar Jiban, the first autobiography by an Indian woman, was written by",
+   297→  1280→          "options": ["Kailashbashini Deb", "Pandita Ramabai", "Rashsundari Debi", "Tarabai Shinde"],
+   298→  1281→          "answerIndex": 2,
+   299→  1282→          "explanation": "Rashsundari Debi's Amar Jiban, published in 1876, was the first autobiography by an Indian woman.",
+   300→  1283→          "difficulty": "medium"
+   301→  1284→        },
+   302→  1285→        {
+   303→  1286→          "question": "The Vernacular Press Act was passed in",
+   304→  1287→          "options": ["1857", "1878", "1885", "1908"],
+   305→  1288→          "answerIndex": 1,
+   306→  1289→          "explanation": "The Vernacular Press Act of 1878 was passed by the government of Viceroy Lytton.",
+   307→  1290→          "difficulty": "easy"
+   308→  1291→        },
+   309→  1292→        {
+   310→  1293→          "question": "Hicky's Bengal Gazette, started in 1780, was",
+   311→  1294→          "options": ["A Bengali weekly", "An English weekly newspaper", "A Persian journal", "A Tamil monthly"],
+   312→  1295→          "answerIndex": 1,
+   313→  1296→          "explanation": "Hicky's Bengal Gazette, an English weekly, began in 1780 and was India's first newspaper.",
+   314→  1297→          "difficulty": "medium"
+   315→  1298→        },
+   316→  1299→        {
+   317→  1300→          "question": "Kashibaba, author of Chhote aur Bade Sawal, was",
+   318→  1301→          "options": ["A Bengali woman writer", "A Kanpur cotton mill worker", "A Protestant missionary", "An English editor"],
+   319→  1302→          "answerIndex": 1,
+   320→  1303→          "explanation": "Kashibaba was a Kanpur cotton mill worker who wrote Chhote aur Bade Sawal.",
+   321→  1304→          "difficulty": "hard"
+   322→  1305→        }
+   323→  1306→      ],
+   324→  1307→      "boardQuestions": [
+   325→  1308→        {
+   326→  1309→          "question": "How did printed textbooks help spread print culture in imperial China?",
+   327→  1310→          "marks": 2,
+   328→  1311→          "type": "SA",
+   329→  1312→          "probability": "high",
+   330→  1313→          "answer": "1) The imperial state of China printed textbooks for its civil service examinations, which were held to recruit officials. 2) Since lakhs of candidates prepared for these exams, printed textbooks created a huge readership across the country. 3) From 594 AD books were printed by rubbing paper against inked woodblocks. 4) With the end of the examination system, a modern print culture of fiction, novels and everyday reading developed in China."
+   331→  1314→        },
+   332→  1315→        {
+   333→  1316→          "question": "How did print culture assist the growth of nationalism in India?",
+   334→  1317→          "marks": 3,
+   335→  1318→          "type": "SA",
+   336→  1319→          "probability": "very-high",
+   337→  1320→          "answer": "1) Newspapers reported colonial misrule and protests from town to town, connecting readers into one national public. 2) Editorials and news shaped public opinion, and local grievances became national issues. 3) Nationalist papers like Kesari and Amrita Bazar Patrika spread criticism of British rule despite censorship. 4) When the Vernacular Press Act of 1878 tried to silence the press, editors resisted, and their prosecutions only increased their fame. 5) Thus print carried the ideas of reform and freedom to lakhs of readers and strengthened the national movement."
+   338→  1321→        },
+   339→  1322→        {
+   340→  1323→          "question": "What was the Vernacular Press Act of 1878? How did Indian newspapers respond to it?",
+   341→  1324→          "marks": 3,
+   342→  1325→          "type": "SA",
+   343→  1326→          "probability": "very-high",
+   344→  1327→          "answer": "1) The Vernacular Press Act of 1878, passed under Viceroy Lytton, gave the government strict control over Indian language newspapers. 2) It was meant to silence criticism of British rule published in vernacular papers. 3) Any editor printing seditious material was warned; if the warning was ignored, the press could be seized and its machinery confiscated. 4) Indian newspapers resisted: the Amrita Bazar Patrika turned overnight into an English newspaper to escape the Act, and nationalist editors continued attacking colonial misrule, facing prosecution with courage."
+   345→  1328→        },
+   346→  1329→        {
+   347→  1330→          "question": "How did print help women and poor workers express their views?",
+   348→  1331→          "marks": 3,
+   349→  1332→          "type": "SA",
+   350→  1333→          "probability": "high",
+   351→  1334→          "answer": "1) Print helped women write and read about their own lives: Rashsundari Debi's Amar Jiban of 1876 was the first autobiography by an Indian woman. 2) Kailashbashini Deb, Tarabai Shinde and Pandita Ramabai wrote boldly about women's condition and demanded change. 3) Workers used print too: Kashibaba, a Kanpur mill worker, wrote Chhote aur Bade Sawal on caste and class exploitation. 4) Public libraries and cheap editions brought books to poor readers, letting them debate their rights openly."
+   352→  1335→        },
+   353→  1336→        {
+   354→  1337→          "question": "Describe the effects of the print revolution on European society.",
+   355→  1338→          "marks": 5,
+   356→  1339→          "type": "LA",
+   357→  1340→          "probability": "very-high",
+   358→  1341→          "answer": "1) With Gutenberg's press, perfected by 1448, books could be produced faster and cheaper; his Bible alone ran to about 180 copies. 2) Print shifted culture from a hearing public to a reading public, though oral traditions continued alongside. 3) Religious debates spread quickly: Martin Luther's Ninety Five Theses of 1517 against the sale of indulgences circulated widely and launched the Reformation; Luther called print the ultimate gift of God. 4) The Church feared rebellious and heretical readings and maintained an Index of Prohibited Books. 5) Print also created a new culture of dialogue and debate, encouraging people to question authority and discuss society. 6) Literacy grew, popular literature spread, and new forms like novels, newspapers and pamphlets emerged, changing how people thought, believed and argued. Thus print changed the religious, social and intellectual life of Europe."
+   359→  1342→        },
+   360→  1343→        {
+   361→  1344→          "question": "Trace the growth of print culture in India from the sixteenth century to the rise of nationalist newspapers.",
+   362→  1345→          "marks": 5,
+   363→  1346→          "type": "LA",
+   364→  1347→          "probability": "high",
+   365→  1348→          "answer": "1) Print came with Portuguese missionaries; Jesuit priests learnt Konkani and printed several tracts by 1674. 2) The first Tamil book was printed in 1579 at Coimbatore, and the first Malayalam book by 1713. 3) In 1780 James Augustus Hicky began the Bengal Gazette, India's first English weekly. 4) In the nineteenth century, reformers dominated print: Raja Rammohan Roy published Sambad Kaumudi and Mirat ul Akhbar, while orthodox papers like Samachar Chandrika replied, making religious and social questions matters of public debate. 5) New forms appeared: novels, essays and cheap tracts; women writers like Rashsundari Debi, Tarabai Shinde and Pandita Ramabai wrote on women's lives, and workers like Kashibaba published their views. 6) The colonial state struck back with the Vernacular Press Act of 1878, but nationalist newspapers like Kesari and Amrita Bazar Patrika kept print alive as the voice of the freedom struggle."
+   366→  1349→        },
+   367→  1350→        {
+   368→  1351→          "question": "Read the source and answer the questions: In 1878, the colonial government passed the Vernacular Press Act, which gave it extensive powers to censor reports and editorials in Indian language newspapers. Editors printing seditious reports were warned; if a warning was ignored, the press could be seized and machinery confiscated. When the Act came into force, the editors of the Amrita Bazar Patrika turned their paper overnight into an English newspaper to escape its provisions. (a) Under which Viceroy was the Act passed? (b) Why did the colonial government fear the vernacular press? (c) How did the Amrita Bazar Patrika escape the Act?",
+   369→  1352→          "marks": 5,
+   370→  1353→          "type": "CASE",
+   371→  1354→          "probability": "high",
+   372→  1355→          "answer": "(a) The Act was passed in 1878 under Viceroy Lord Lytton. (b) The government feared that vernacular newspapers carried criticism of British rule to ordinary readers in their own languages, inflaming nationalist feeling and spreading seditious ideas faster than officials could control. (c) The Patrika changed from a vernacular paper into an English newspaper overnight, since the Act covered only Indian language newspapers. Other editors continued writing against misrule; when prosecuted, their trials and seizures made them popular heroes. Such resistance showed that censorship could not fully silence public opinion, and the press became a lasting weapon of the national movement."
+   373→  1356→        }
+   374→  1357→      ]
+   375→  1358→    }
+   376→  1359→  ]
+   377→  1360→};
+   378→  1361→

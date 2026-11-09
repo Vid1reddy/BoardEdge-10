@@ -1,0 +1,1189 @@
+{
+  "code": "science",
+  "name": "Science",
+  "bookName": "Science (NCERT Class 10)",
+  "weightageMarks": 80,
+  "chapters": [
+    {
+      "number": 9,
+      "title": "Light - Reflection and Refraction",
+      "summary": "This chapter covers reflection of light by spherical mirrors and refraction by spherical lenses: image formation with ray diagrams, the Cartesian sign convention, mirror and lens formulae, magnification and power of a lens. Refractive index and Snell's law complete the optics base, and step-wise numericals on image position, size and nature carry most of the 7-mark board weightage.",
+      "weightageMarks": 7,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Mirror formula numericals with sign convention",
+        "Ray diagrams for image formation by concave and convex mirrors",
+        "Lens formula and image nature cases",
+        "Magnification, image size and nature",
+        "Power of a lens and combinations in contact",
+        "Refractive index and speed of light"
+      ],
+      "sections": [
+        {
+          "heading": "Reflection of Light and Spherical Mirrors",
+          "points": [
+            "Laws of reflection: the incident ray, the reflected ray and the normal at the point of incidence all lie in the same plane, and the angle of incidence equals the angle of reflection (angle i = angle r).",
+            "A spherical mirror is part of a hollow sphere: with the inner surface reflecting it is a concave (converging) mirror, and with the outer surface reflecting it is a convex (diverging) mirror.",
+            "Basic terms: pole P is the centre of the mirror surface, centre of curvature C is the centre of the parent sphere, principal focus F is the point where rays parallel to the principal axis actually meet (concave) or appear to meet (convex) after reflection.",
+            "Focal length formula (write it on its own): f = R/2 for both types of spherical mirrors; the focal length of a concave mirror is negative and that of a convex mirror is positive in the Cartesian convention.",
+            "A plane mirror always forms a virtual, erect, same-size, laterally inverted image as far behind the mirror as the object is in front; a plane mirror can be treated as a spherical mirror of infinite focal length.",
+            "Common mistake: the angle of incidence is measured from the NORMAL, not from the mirror surface, so a ray making 40 degrees with the mirror surface has an angle of incidence of 50 degrees."
+          ],
+          "keyTerms": [
+            {
+              "term": "Pole (P)",
+              "meaning": "The central point of the reflecting surface of a spherical mirror; all distances in formulae are measured from it."
+            },
+            {
+              "term": "Principal focus (F)",
+              "meaning": "The point on the principal axis where rays parallel to the axis converge (concave mirror) or appear to diverge from (convex mirror) after reflection."
+            },
+            {
+              "term": "Radius of curvature (R)",
+              "meaning": "The radius of the sphere of which the mirror is a part; the focal length is half of it, f = R/2."
+            }
+          ],
+          "trick": "f is always half of R: f = R/2. And angles live on the normal, never on the mirror surface.",
+          "examPointer": "CBSE asks 1 to 2 mark items on the laws of reflection, f = R/2 and the choice of mirrors for specific uses; always quote angle i = angle r and specify that angles are measured from the normal."
+        },
+        {
+          "heading": "Image Formation by Spherical Mirrors (Ray Diagrams in Words)",
+          "points": [
+            "Standard rays: a ray parallel to the principal axis passes through F after reflection in a concave mirror (or appears to come from F for a convex mirror); a ray through F returns parallel to the axis; a ray through C retraces its own path; a ray hitting the pole reflects symmetrically about the axis.",
+            "Concave mirror with object beyond C: image forms between F and C, real, inverted and diminished; with the object at infinity the image is at F, real, inverted and point-sized.",
+            "Concave mirror with object at C: image at C itself, real, inverted and of the same size, so the magnification is -1.",
+            "Concave mirror with object between F and C: image beyond C, real, inverted and enlarged; with the object at F the image is at infinity, real, inverted and highly enlarged.",
+            "Concave mirror with object between P and F: image behind the mirror, virtual, erect and enlarged; this is the shaving-mirror and dentist-mirror case.",
+            "Convex mirror: for every object position the image lies between P and F behind the mirror, virtual, erect and diminished; as the object moves away the image shrinks towards F, which is exactly why rear-view mirrors use convex mirrors."
+          ],
+          "keyTerms": [
+            {
+              "term": "Real image",
+              "meaning": "Formed by the actual intersection of reflected rays, can be caught on a screen and is always inverted for spherical mirrors."
+            },
+            {
+              "term": "Virtual image",
+              "meaning": "Formed by the backward extension of reflected rays, cannot be caught on a screen and is erect for spherical mirrors."
+            },
+            {
+              "term": "Lateral inversion",
+              "meaning": "Left-right interchange seen in plane mirror images, such as the word AMBULANCE printed in reverse on vehicles."
+            }
+          ],
+          "trick": "Concave memory ladder: beyond C small, at C equal, inside C big, inside F virtual-big; convex mirror: always small, always erect, always behind.",
+          "examPointer": "Ray-diagram questions carry 2 to 3 marks: describe which two standard rays you used, because the examiner checks the rays; finish by naming the image nature in one line for the last mark."
+        },
+        {
+          "heading": "Sign Convention, Mirror Formula and Magnification",
+          "points": [
+            "Cartesian sign convention: the pole is the origin and the principal axis is the x-axis; distances are measured from the pole; distances measured in the direction of incident light are positive and against it are negative; heights above the principal axis are positive and heights below it are negative.",
+            "Practical outcomes: the object distance u is always negative; f is negative for a concave mirror and positive for a convex mirror; a real image has negative v and a virtual image has positive v.",
+            "Mirror formula (write it on its own): 1/v + 1/u = 1/f, so 1/v = 1/f - 1/u; solve only after rewriting the given data with correct signs.",
+            "Mirror magnification (write it on its own): m = h'/h = -v/u; a negative m means the image is real and inverted, a positive m means it is virtual and erect.",
+            "Image size: h' = m × h; if the modulus of m is greater than 1 the image is enlarged, if it is less than 1 the image is diminished.",
+            "Common mistake: dropping signs is the top error in this chapter; substitute u = -30 and f = -15 exactly as they are, and let the signs of v and m decide the nature of the image instead of guessing."
+          ],
+          "keyTerms": [
+            {
+              "term": "Sign convention",
+              "meaning": "The Cartesian rules of signs for distances measured along or against the incident light and for heights above or below the principal axis."
+            },
+            {
+              "term": "Mirror formula",
+              "meaning": "1/v + 1/u = 1/f, connecting object distance, image distance and focal length of a spherical mirror."
+            },
+            {
+              "term": "Magnification (m)",
+              "meaning": "Ratio of image height to object height for a mirror, m = h'/h = -v/u."
+            }
+          ],
+          "trick": "For mirrors remember RIN - Real Is Negative: real images have negative v and negative m; virtual images come with positive v and positive m.",
+          "examPointer": "A 3-mark numerical on v, m or f appears in almost every paper: score by writing the given data with signs, the formula, the substitution and the nature of the image as the final line."
+        },
+        {
+          "heading": "Refraction, Snell's Law and Refractive Index",
+          "points": [
+            "Refraction is the change of direction of light when it passes obliquely from one transparent medium to another because its speed changes; entering a denser medium light bends towards the normal, and entering a rarer medium it bends away from the normal.",
+            "Laws of refraction: the incident ray, the refracted ray and the normal at the point of incidence lie in the same plane, and sin i / sin r = constant for a given pair of media and a given colour of light (Snell's law).",
+            "Refractive index (write it on its own): n21 = v1/v2, the ratio of the speed of light in medium 1 to that in medium 2; the absolute refractive index is n = c/v with c = 3 × 10^8 m/s.",
+            "A larger n means slower light in that medium: glass has n about 1.5 (speed 2 × 10^8 m/s) and water has n about 1.33, that is 4/3 (speed 2.25 × 10^8 m/s).",
+            "Relative index relations: n21 × n12 = 1, and the refractive index of glass with respect to water = n(glass)/n(water) = (3/2)/(4/3) = 9/8 = 1.125.",
+            "Common mistakes: refractive index has no unit, and it depends on the pair of media and the colour of light, not on the angle of incidence; also an optically denser medium is not necessarily heavier."
+          ],
+          "keyTerms": [
+            {
+              "term": "Refraction",
+              "meaning": "Bending of light when it crosses obliquely into a medium in which its speed is different."
+            },
+            {
+              "term": "Refractive index (n)",
+              "meaning": "Ratio of the speed of light in vacuum to the speed of light in the medium, n = c/v; a pure number without unit."
+            },
+            {
+              "term": "Optically denser medium",
+              "meaning": "The medium with the larger refractive index and hence the smaller speed of light in it."
+            }
+          ],
+          "trick": "Dense bends down: into a denser medium the ray bends closer to the normal. And n = c/v: bigger n, slower v. For relative index simply divide the two absolute indices.",
+          "examPointer": "Expect a 2 to 3 mark question to define refractive index, to find the speed of light in a medium from n, or to state the two laws of refraction with a labelled glass-slab description."
+        },
+        {
+          "heading": "Refraction by Spherical Lenses and Image Formation",
+          "points": [
+            "A convex lens is thicker at the middle, converges rays and has positive focal length; a concave lens is thinner at the middle, diverges rays and has negative focal length; a thin lens has two foci at equal distances on either side of the optical centre O.",
+            "Standard rays: a ray parallel to the axis passes through the second focus F2 after refraction (or appears to come from the focus on the incident side for a concave lens); a ray through the optical centre O goes straight; a ray through the first focus F1 emerges parallel to the axis.",
+            "Convex lens cases: object at infinity, image at F2, real, inverted, highly diminished; object beyond 2F1, image between F2 and 2F2, real, inverted, diminished; object at 2F1, image at 2F2, real, inverted, same size.",
+            "Convex lens cases continued: object between F1 and 2F1, image beyond 2F2, real, inverted, enlarged; object at F1, image at infinity; object between O and F1, image on the same side, virtual, erect, enlarged, which is the magnifying-glass case.",
+            "Concave lens: whatever the object position, the image is always between the optical centre and the focus on the same side as the object, virtual, erect and diminished.",
+            "Common mistake: 2F of a lens plays the role that C plays for a mirror, and the lens magnification m = v/u has NO minus sign; also for lenses a positive v means a real image on the opposite side, unlike mirrors where positive v means virtual."
+          ],
+          "keyTerms": [
+            {
+              "term": "Optical centre (O)",
+              "meaning": "The central point of a thin lens through which a ray passes without any deviation."
+            },
+            {
+              "term": "Principal foci (F1 and F2)",
+              "meaning": "Points at distance f on either side of the lens; rays parallel to the axis pass through F2 of a convex lens or appear to come from the focus on the incident side in a concave lens."
+            },
+            {
+              "term": "2F1 and 2F2",
+              "meaning": "Points at twice the focal length; an object at 2F1 forms a same-size real image at 2F2, just as an object at C does for a mirror."
+            }
+          ],
+          "trick": "Replace mirror C by lens 2F everywhere. Lens signs: positive v = real (other side), negative v = virtual (same side); m = v/u with no minus sign.",
+          "examPointer": "Identify-the-nature questions (object position given) and convex versus concave comparisons are common 2 to 3 mark items; answer in one line covering position, real or virtual, erect or inverted, and size."
+        },
+        {
+          "heading": "Lens Formula, Magnification and Power of a Lens",
+          "points": [
+            "Lens formula (write it on its own): 1/v - 1/u = 1/f; rewrite the given data with signs first and then solve for the missing quantity.",
+            "Lens magnification (write it on its own): m = h'/h = v/u; a negative m gives an inverted image and a positive m gives an erect image.",
+            "Power of a lens (write it on its own): P = 1/f with f in metres, unit dioptre (D), so 1 D = 1 m^-1; convex lenses have positive power and concave lenses negative power. Examples: f = 50 cm gives P = +2 D; a concave lens of f = 2 m gives P = -0.5 D.",
+            "Lenses in contact: powers add algebraically, P = P1 + P2; for +2 D and -0.5 D in contact the net power is +1.5 D and the net focal length is 1/1.5 m = 0.67 m approx, so the combination still converges.",
+            "Worked drill: convex lens f = +20 cm with object at u = -30 cm gives 1/v = 1/20 - 1/30 = 1/60, so v = +60 cm and m = v/u = 60/(-30) = -2: a real, inverted image twice as tall, 60 cm on the other side.",
+            "Common mistake: mixing centimetres and metres in P = 1/f; convert focal length to metres BEFORE taking the reciprocal, and check the sign of the answer against the expected nature of the image."
+          ],
+          "keyTerms": [
+            {
+              "term": "Power of a lens (P)",
+              "meaning": "The degree of convergence or divergence produced by a lens, P = 1/f in metres, unit dioptre."
+            },
+            {
+              "term": "Dioptre (D)",
+              "meaning": "SI unit of lens power; a lens of focal length 1 m has a power of 1 D."
+            },
+            {
+              "term": "Lens formula",
+              "meaning": "1/v - 1/u = 1/f for a thin lens, used with the Cartesian sign convention."
+            }
+          ],
+          "trick": "PADD: Powers ADD when lenses touch. P = 1/f works only with f in METRES: 1 D = 1 m^-1. Positive P converges, negative P diverges.",
+          "examPointer": "The 5-mark numerical usually chains image distance, magnification, image height and lens power; present it as given-formula-substitution-answer and end by stating the nature of the image to collect full step marks."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "A ray of light falls normally on a plane mirror. The angle of reflection is:",
+          "options": ["0 degree", "45 degrees", "90 degrees", "180 degrees"],
+          "answerIndex": 0,
+          "explanation": "On normal incidence the ray retraces its path: the angle of incidence is 0, and since angle i = angle r the angle of reflection is also 0.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which mirror is used as a rear-view mirror in vehicles?",
+          "options": ["Concave mirror", "Plane mirror", "Convex mirror", "Cylindrical concave mirror"],
+          "answerIndex": 2,
+          "explanation": "A convex mirror always gives an erect, diminished image with a wide field of view, so the driver can see a large area of traffic behind in a small mirror.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The SI unit of the power of a lens is:",
+          "options": ["Metre", "Watt", "Dioptre", "Candela"],
+          "answerIndex": 2,
+          "explanation": "P = 1/f with f in metres gives the unit dioptre; 1 D = 1 m^-1.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The focal length of a plane mirror is:",
+          "options": ["Zero", "Infinity", "25 cm", "Equal to the object distance"],
+          "answerIndex": 1,
+          "explanation": "A plane mirror may be treated as a spherical mirror of infinite radius of curvature, so from f = R/2 its focal length is infinity.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "An object is placed 10 cm from a concave mirror of focal length 15 cm. The image formed is:",
+          "options": ["Real, inverted and diminished", "Virtual, erect and magnified", "Real, inverted and magnified", "Virtual, erect and diminished"],
+          "answerIndex": 1,
+          "explanation": "u = -10 cm, f = -15 cm: 1/v = 1/f - 1/u = -1/15 + 1/10 = 1/30, so v = +30 cm behind the mirror and m = -v/u = +3, a virtual, erect, 3 times enlarged image.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The refractive index of water is 4/3. The speed of light in water is:",
+          "options": ["2.25 × 10^8 m/s", "3 × 10^8 m/s", "2 × 10^8 m/s", "4 × 10^8 m/s"],
+          "answerIndex": 0,
+          "explanation": "v = c/n = (3 × 10^8)/(4/3) = 2.25 × 10^8 m/s.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "An object is placed 30 cm from a convex lens of focal length 20 cm. The image distance is:",
+          "options": ["40 cm", "15 cm", "60 cm", "10 cm"],
+          "answerIndex": 2,
+          "explanation": "1/v = 1/f + 1/u = 1/20 - 1/30 = 1/60, so v = +60 cm; m = v/u = 60/(-30) = -2, so the image is real, inverted and enlarged.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A lens has a power of -2.0 D. The lens and its focal length are:",
+          "options": ["Convex, focal length 50 cm", "Concave, focal length 50 cm", "Convex, focal length 2 m", "Concave, focal length 2 m"],
+          "answerIndex": 1,
+          "explanation": "f = 1/P = 1/(-2) m = -0.5 m = -50 cm; the negative power shows a diverging, that is a concave, lens.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A 3 cm tall object is placed 18 cm from a concave mirror of focal length 12 cm. The image is:",
+          "options": ["36 cm in front of the mirror, 6 cm tall, real and inverted", "36 cm behind the mirror, 6 cm tall, virtual and erect", "24 cm in front of the mirror, 4 cm tall, real and inverted", "9 cm behind the mirror, 1.5 cm tall, virtual and erect"],
+          "answerIndex": 0,
+          "explanation": "1/v = 1/f - 1/u = -1/12 + 1/18 = -1/36, so v = -36 cm; m = -v/u = -(-36)/(-18) = -2, so h' = -2 × 3 = -6 cm: real, inverted and doubled in size.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Two thin lenses of power +2.0 D and -0.5 D are kept in contact. The combination behaves as:",
+          "options": ["A converging lens of power +2.5 D", "A diverging lens of power -1.5 D", "A converging lens of power +1.0 D", "A converging lens of power +1.5 D"],
+          "answerIndex": 3,
+          "explanation": "Powers in contact add: P = +2.0 - 0.5 = +1.5 D; f = 1/P = 1/1.5 m = 0.67 m approx, so the combination still converges.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "State the two laws of reflection of light.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) The incident ray, the reflected ray and the normal at the point of incidence all lie in the same plane. 2) The angle of incidence equals the angle of reflection (angle i = angle r). Both laws hold for plane and spherical mirrors, and the angles are always measured from the normal, not from the mirror surface."
+        },
+        {
+          "question": "Describe, with ray diagrams in words, the image formed by a convex mirror when the object is (a) far away from the mirror and (b) close to the mirror, and explain why a convex mirror is preferred as a rear-view mirror in vehicles.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Object far away (nearly at infinity): draw a ray parallel to the principal axis which after reflection appears to come from the focus F behind the mirror, and a ray aimed towards the centre of curvature C which retraces its path; the reflected rays diverge, so the image forms at F behind the mirror, virtual, erect and point-sized (highly diminished). 2) Object close to the mirror: the same two rays meet only when produced backwards, giving an image between P and F behind the mirror, virtual, erect and diminished; for every object position the convex mirror image remains virtual, erect and diminished. 3) Rear-view reasons: because the image is always erect and diminished, a large number of vehicles fit into a small mirror, and the convex shape gives a much wider field of view than a plane mirror of the same size, so the driver can safely watch the traffic behind."
+        },
+        {
+          "question": "The speed of light in glass is 2 × 10^8 m/s while in vacuum it is 3 × 10^8 m/s. Calculate the refractive index of glass.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Step 1: given c = 3 × 10^8 m/s and v = 2 × 10^8 m/s. Step 2: formula n = c/v. Step 3: substitute n = (3 × 10^8)/(2 × 10^8) = 1.5. Answer: refractive index of glass = 1.5, which means light travels 1.5 times slower in glass than in vacuum."
+        },
+        {
+          "question": "A concave mirror produces a real, inverted image magnified 3 times when an object is placed 10 cm in front of it. Find the position of the image and the focal length of the mirror.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Step 1: given u = -10 cm and m = -3, since a real, inverted image has negative magnification. Step 2: formula m = -v/u gives -3 = -v/(-10) = v/10, so v = -30 cm: the image is 30 cm in front of the mirror. Step 3: mirror formula 1/f = 1/v + 1/u = 1/(-30) + 1/(-10) = -4/30, so f = -7.5 cm. Answer: image at 30 cm in front of the mirror and focal length 7.5 cm, the negative sign confirming a concave mirror."
+        },
+        {
+          "question": "An object 5 cm high is placed 25 cm from a converging lens of focal length 10 cm. Find the position, size and nature of the image.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: given u = -25 cm, f = +10 cm, h = +5 cm. Step 2: lens formula 1/v = 1/f + 1/u = 1/10 - 1/25 = 3/50, so v = 50/3 = 16.7 cm approx; the positive v means the image is real and forms 16.7 cm on the other side of the lens. Step 3: magnification m = v/u = (50/3)/(-25) = -2/3 = -0.67 approx, so h' = m × h = -3.3 cm approx. Answer: a real, inverted, diminished image about 16.7 cm behind the lens and about 3.3 cm tall."
+        },
+        {
+          "question": "Describe with labelled ray diagrams (explain each ray you draw in words) the image formed by a concave mirror when the object is (a) beyond C, (b) at C and (c) between F and C, and state the nature of the image in each case.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Object beyond C: draw a ray parallel to the principal axis which after reflection passes through F, and a second ray through C which retraces its path; the two reflected rays meet between F and C, so the image is between F and C, real, inverted and diminished. 2) Object at C: use the same two rays; they meet at C itself, so the image is at C, real, inverted and of the same size (m = -1). 3) Object between F and C: the reflected rays meet beyond C, so the image is beyond C, real, inverted and enlarged. 4) Remember the fourth case as well: object between P and F gives a virtual, erect, enlarged image behind the mirror, the shaving-mirror arrangement."
+        },
+        {
+          "question": "CASE: In the laboratory a student finds the focal length of a concave mirror by the sharp-image method using a distant object and gets 20 cm. She then places a burning candle 5 cm tall on the principal axis, 30 cm from the pole of the mirror. Answer: (a) Where should the screen be placed to get a sharp image? (b) Find the magnification and the height of the image and state its nature. (c) If the candle is moved to 15 cm from the mirror, what happens to the image and can it still be caught on a screen?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "Step 1: given f = -20 cm, u = -30 cm, h = +5 cm. Step 2: mirror formula 1/v = 1/f - 1/u = -1/20 + 1/30 = -1/60, so v = -60 cm; for (a) the screen must be placed 60 cm in front of the mirror. Step 3: magnification m = -v/u = -(-60)/(-30) = -2, so h' = m × h = -10 cm; for (b) the image is 10 cm tall, inverted and enlarged, and being real it can be caught on the screen. Step 4: for (c), at u = -15 cm the object lies between F and P, and 1/v = -1/20 + 1/15 = 1/60 gives v = +60 cm with m = -v/u = +4; the image is virtual, erect and 4 times enlarged, 60 cm behind the mirror, and NO screen can catch it because the reflected rays only appear to meet there. Answer: (a) screen 60 cm in front of the mirror, (b) m = -2, image 10 cm tall, real and inverted, (c) a virtual, erect, enlarged image 60 cm behind the mirror, not catchable on a screen."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "The Human Eye and the Colourful World",
+      "summary": "The human eye forms a real, inverted image on the retina and changes its focal length through the ciliary muscles for accommodation between the near point of 25 cm and a far point of infinity. Defects of vision and their lens corrections are followed by dispersion of white light by a prism, atmospheric refraction effects and scattering of light phenomena.",
+      "weightageMarks": 5,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Defects of vision: myopia, hypermetropia, presbyopia and their corrections",
+        "Power of accommodation, near point and far point",
+        "Power of the correcting lens numericals",
+        "Dispersion by a prism and the VIBGYOR spectrum",
+        "Atmospheric refraction: twinkling of stars and advance sunrise",
+        "Scattering of light: blue sky, reddish sun and Tyndall effect"
+      ],
+      "sections": [
+        {
+          "heading": "Structure and Working of the Human Eye",
+          "points": [
+            "Main parts and jobs: the cornea is the transparent bulge in front that does most of the bending of light, the iris controls the size of the pupil, the pupil regulates the light entering the eye, the eye lens is a convex lens whose focal length is changed by the ciliary muscles, the retina carries light-sensitive cells (rods for dim light, cones for colour) and the optic nerve carries signals to the brain.",
+            "The lens system forms a REAL and INVERTED image on the retina; the brain interprets it as erect, so remember this exception: the eye always forms an inverted image yet we see objects erect.",
+            "Power of accommodation: the ability of the eye lens to change its focal length so that objects at different distances are focused sharply on the retina.",
+            "For distant objects the ciliary muscles relax, the lens becomes thin and flat and its focal length increases; for nearby objects the muscles contract, the lens becomes thicker and more convex and its focal length decreases.",
+            "Limits of the normal eye: near point (least distance of distinct vision) = 25 cm and far point = infinity; the range of clear vision is therefore 25 cm to infinity.",
+            "Common mistake: the near point is the closest distance at which a sharp image can be formed, not the minimum distance for light to enter the eye; the near point shifts outward with age (presbyopia)."
+          ],
+          "keyTerms": [
+            {
+              "term": "Power of accommodation",
+              "meaning": "The ability of the eye lens to change its focal length by the action of the ciliary muscles to focus objects at different distances."
+            },
+            {
+              "term": "Near point",
+              "meaning": "The closest distance at which the eye can see an object clearly without strain; 25 cm for a normal eye."
+            },
+            {
+              "term": "Far point",
+              "meaning": "The farthest distance at which an object can be seen clearly; infinity for a normal eye."
+            }
+          ],
+          "trick": "Golden numbers of the eye: 25 cm and infinity. CORNEA bends first, CILIARY changes the focus, RETINA receives, BRAIN flips the image.",
+          "examPointer": "Name-the-part and define-accommodation questions carry 1 to 2 marks; the inverted-image-on-retina fact is a favourite assertion-reason item, so never write that the retina image is erect."
+        },
+        {
+          "heading": "Defects of Vision: Myopia, Hypermetropia and Presbyopia",
+          "points": [
+            "Myopia (near-sightedness): distant objects look blurred because the image of a distant object forms IN FRONT of the retina; causes are excessive curvature of the eye lens (focal length too small) or elongation of the eyeball; correction is a concave (diverging) lens of suitable power.",
+            "Hypermetropia (far-sightedness): nearby objects look blurred because the image of a near object forms BEHIND the retina; causes are a too-flat lens (focal length too large) or a shortened eyeball; correction is a convex (converging) lens.",
+            "Presbyopia: with age the ciliary muscles weaken and the lens loses flexibility, so the power of accommodation falls; it is corrected by BIFOCAL lenses with a concave upper part for distance and a convex lower part for near reading, and it often combines myopia with hypermetropia.",
+            "Myopia correction logic: the concave lens must form the virtual image of an object at infinity exactly at the far point of the defective eye; if the far point is 2 m, then u = infinity, v = -2 m, so 1/f = 1/v - 1/u = -0.5, giving f = -2 m and P = 1/f = -0.5 D.",
+            "Hypermetropia correction logic: the convex lens must form the virtual image of an object at the normal near point (25 cm) at the defective near point; if the near point is 50 cm, then u = -25 cm, v = -50 cm, so 1/f = 1/v - 1/u = -1/50 + 1/25 = 1/50, giving f = +50 cm and P = +2 D.",
+            "Common mistake: in correction numericals BOTH u and v are negative because the object and its image lie on the same side of the correcting lens, giving a virtual image; writing v = +25 cm destroys the whole answer."
+          ],
+          "keyTerms": [
+            {
+              "term": "Myopia",
+              "meaning": "Defect in which the far point shifts closer than infinity and distant objects look blurred; corrected by a concave lens."
+            },
+            {
+              "term": "Hypermetropia",
+              "meaning": "Defect in which the near point shifts beyond 25 cm and nearby objects look blurred; corrected by a convex lens."
+            },
+            {
+              "term": "Bifocal lens",
+              "meaning": "A lens with a concave upper part for distance vision and a convex lower part for near vision, used in presbyopia."
+            }
+          ],
+          "trick": "Near point bad = convex lens; far point bad = concave lens. MYopia: Must Yell (far objects unreadable). HYPERmetropia: cannot read up close.",
+          "examPointer": "A 3-mark question on one defect (cause plus correction with a ray description) is standard, and the far-point-to-power numerical repeats constantly; practise both directions, given far point find power and vice versa."
+        },
+        {
+          "heading": "Refraction through a Glass Prism and Dispersion",
+          "points": [
+            "In a prism, light entering the first refracting face bends towards the normal (air to glass) and light leaving the second face bends away from the normal (glass to air), so the emergent ray is deviated towards the base of the prism.",
+            "The angle between the incident ray produced and the emergent ray is called the angle of deviation; unlike a rectangular glass slab, the emergent ray from a prism is NOT parallel to the incident ray.",
+            "Dispersion (define it precisely): the splitting of white light into its constituent colours VIBGYOR (Violet, Indigo, Blue, Green, Yellow, Orange, Red) on passing through a prism, producing a band of colours called the spectrum.",
+            "Dispersion happens because the refractive index of glass differs for different colours: violet travels slowest in glass (largest n) and deviates the MOST, red travels fastest (smallest n) and deviates the LEAST.",
+            "Recombination: when a second identical prism is placed inverted in the path of the spectrum, all colours merge back into white light (Newton), proving that white light is a mixture of seven colours.",
+            "A rainbow is a natural spectrum formed after rain when tiny water droplets suspended in air disperse sunlight and internally reflect it back to the eye."
+          ],
+          "keyTerms": [
+            {
+              "term": "Dispersion",
+              "meaning": "Splitting of white light into its component colours by a prism due to different refractive indices for different colours."
+            },
+            {
+              "term": "Spectrum",
+              "meaning": "The band of seven colours VIBGYOR obtained on a screen after dispersion of white light."
+            },
+            {
+              "term": "Angle of deviation",
+              "meaning": "The angle between the direction of the incident ray produced and the direction of the emergent ray."
+            }
+          ],
+          "trick": "VIBGYOR top to bottom: Violet bends Most, Red bends Minimum - V and R are the two extremes. Rainbow = Rain plus Bow: dispersion and internal reflection in water drops.",
+          "examPointer": "Draw the prism with VIBGYOR marked in order and label the angle of deviation; 2 to 3 mark questions ask why different colours bend differently, and the two-prism recombination experiment is a frequent 2-mark item."
+        },
+        {
+          "heading": "Atmospheric Refraction and Its Effects",
+          "points": [
+            "Atmospheric refraction: air layers have gradually changing refractive index (rarer higher up, denser near the earth), so light from a star bends continuously while coming down and the star appears slightly HIGHER than its true position.",
+            "Because the apparent position changes slightly from moment to moment as the refractive index of the layers fluctuates, the amount of starlight entering the eye flickers: this is the TWINKLING of stars.",
+            "Planets do not twinkle appreciably because they are much closer and act as extended sources made of a very large number of point sources, so the fluctuations average out to a steady brightness.",
+            "Advance sunrise and delayed sunset: the sun becomes visible about 2 minutes before the actual sunrise and remains visible about 2 minutes after the actual sunset, because atmospheric refraction bends light from below the horizon into our eyes.",
+            "The apparent flattening (oval shape) of the sun's disc at sunrise and sunset is also due to atmospheric refraction near the horizon.",
+            "Common mistake: twinkling is NOT caused by any change in the light emitted by the star; it is entirely an effect of the earth's atmosphere on the path of starlight."
+          ],
+          "keyTerms": [
+            {
+              "term": "Atmospheric refraction",
+              "meaning": "Bending of starlight while it passes through layers of air of gradually changing refractive index."
+            },
+            {
+              "term": "Apparent position",
+              "meaning": "The shifted, slightly higher position at which a star or the sun appears because of atmospheric refraction."
+            },
+            {
+              "term": "Advance sunrise",
+              "meaning": "The sun becomes visible about 2 minutes before it is actually above the horizon, due to refraction of sunlight."
+            }
+          ],
+          "trick": "Stars TWINKLE (point source, fluctuating layers) but planets do NOT (extended source averages out). Sun gains 2 plus 2: 2 minutes early rise, 2 minutes late set.",
+          "examPointer": "Why stars twinkle and why planets do not is a repeatedly asked 2 to 3 mark question; mention apparent position, point source and fluctuating refractive index of atmospheric layers for full marks."
+        },
+        {
+          "heading": "Scattering of Light: Tyndall Effect, Blue Sky and Reddened Sun",
+          "points": [
+            "Scattering of light: when a beam passes through a medium containing suspended particles, part of the light is deflected sideways; the colour scattered most depends on the size of the particles relative to the wavelength of light.",
+            "Tyndall effect: the path of a light beam becomes visible in a colloidal solution or a smoke-filled, misty room because the colloidal particles scatter the beam; the scattered light looks bluish while the transmitted light may look reddish.",
+            "Blue colour of the sky: air molecules are much smaller than the wavelength of visible light, so the shorter wavelengths (blue) are scattered far more strongly than red, and this scattered blue light reaches our eyes from all directions.",
+            "Reddened sun at sunrise and sunset: near the horizon sunlight travels a much longer path through the atmosphere, so most of the blue is scattered out and only the least-scattered red reaches the eye; at noon the path is short, scattering is small and the sun looks white.",
+            "Danger signal lights are red because red light is scattered the least and therefore remains visible from far away even through fog or mist.",
+            "In space or on the moon there is no atmosphere, so there is nothing to scatter sunlight: the sky looks black even though the sun is shining."
+          ],
+          "keyTerms": [
+            {
+              "term": "Scattering",
+              "meaning": "Deflection of light in all directions by particles or molecules of the medium it passes through."
+            },
+            {
+              "term": "Tyndall effect",
+              "meaning": "The visible bright path of a light beam in a colloidal or suspended-particle medium due to scattering of light."
+            },
+            {
+              "term": "Wavelength",
+              "meaning": "Distance between successive crests of a light wave; blue light has a shorter wavelength than red light."
+            }
+          ],
+          "trick": "Short scatters more: BLUE scatters, RED survives. Long journey = red sun, short journey = white sun, no air = black sky.",
+          "examPointer": "Give-reason questions (sky blue, sun red at the horizon, danger signals red, sky dark in space) are worth 2 marks each and are among the most repeated items of this chapter; always link the reason to scattering strength versus wavelength."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "The least distance of distinct vision for a normal human eye is:",
+          "options": ["2.5 cm", "25 cm", "2.5 m", "25 m"],
+          "answerIndex": 1,
+          "explanation": "A normal eye sees objects clearly between 25 cm (near point) and infinity (far point); 25 cm is the least distance of distinct vision.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The focal length of the eye lens is changed by the action of:",
+          "options": ["Iris", "Pupil", "Ciliary muscles", "Cornea"],
+          "answerIndex": 2,
+          "explanation": "Ciliary muscles contract or relax to change the thickness and hence the focal length of the eye lens; this is accommodation.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Myopia (near-sightedness) is corrected by using:",
+          "options": ["A concave lens of suitable power", "A convex lens of suitable power", "A bifocal lens only", "A cylindrical lens"],
+          "answerIndex": 0,
+          "explanation": "In myopia the image of a distant object forms in front of the retina, so a diverging (concave) lens is used to push the image back onto the retina.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The splitting of white light into its seven colours by a prism is called:",
+          "options": ["Scattering", "Dispersion", "Refraction", "Reflection"],
+          "answerIndex": 1,
+          "explanation": "Dispersion occurs because the refractive index of the prism is different for different colours, so each colour deviates by a different amount.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Presbyopia is corrected by:",
+          "options": ["Only a concave lens", "Only a convex lens", "Bifocal lenses", "Zero-power contact lenses"],
+          "answerIndex": 2,
+          "explanation": "Presbyopia is the loss of accommodation with age; a bifocal lens has a concave upper part for distance and a convex lower part for near reading.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which colour of white light deviates the least while passing through a glass prism?",
+          "options": ["Violet", "Green", "Yellow", "Red"],
+          "answerIndex": 3,
+          "explanation": "Red has the largest speed and the smallest refractive index in glass, so it bends the least; violet bends the most.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The blue colour of the clear sky is due to:",
+          "options": ["Dispersion of sunlight", "Scattering of sunlight by air molecules", "Atmospheric refraction", "Reflection from the oceans"],
+          "answerIndex": 1,
+          "explanation": "Air molecules scatter the shorter wavelengths much more strongly, and the scattered blue light reaches our eyes from all parts of the sky.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A myopic person has a far point of 2 m. The power of the lens required to correct distance vision is:",
+          "options": ["+0.5 D", "+2 D", "-2 D", "-0.5 D"],
+          "answerIndex": 3,
+          "explanation": "The lens must form the image of a distant object at the far point: u = infinity, v = -2 m; 1/f = 1/v - 1/u = -0.5, so f = -2 m and P = -0.5 D (concave).",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A hypermetropic person has a near point of 50 cm. The power of the convex lens required to read comfortably at 25 cm is:",
+          "options": ["+0.5 D", "+2 D", "+4 D", "-2 D"],
+          "answerIndex": 1,
+          "explanation": "u = -25 cm, v = -50 cm: 1/f = 1/v - 1/u = -1/50 + 1/25 = 1/50, so f = +50 cm = +0.5 m and P = 1/f = +2 D.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "The sky appears dark instead of blue to an astronaut in space because:",
+          "options": ["Blue light is absorbed in space", "Sunlight does not reach space", "There is no atmosphere in space to scatter sunlight", "Stars emit only red light"],
+          "answerIndex": 2,
+          "explanation": "The blue sky on the earth is scattered sunlight; with no atmosphere there is no scattering, so the sky looks black even when the sun is shining.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Define the power of accommodation of the human eye. State the near point and the far point of a normal eye.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Power of accommodation is the ability of the eye lens to change its focal length through the action of the ciliary muscles so that objects at different distances are focused sharply on the retina. 2) For a normal eye the near point (least distance of distinct vision) is 25 cm and the far point is infinity, so the range of clear vision is 25 cm to infinity."
+        },
+        {
+          "question": "Why do stars twinkle while planets do not twinkle appreciably?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Starlight reaching the earth passes through layers of air whose refractive index changes slightly from moment to moment, so the apparent position and intensity of a star, being a point source, keep flickering; this apparent change is twinkling. 2) Planets are much closer and behave as extended sources made of a very large number of point sources, so their intensity variations average out and they shine steadily."
+        },
+        {
+          "question": "A person suffering from myopia has a far point of 2.5 m. Name the defect, state its cause and find the nature and power of the lens needed to correct distance vision.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Myopia (near-sightedness): the person sees nearby objects clearly but the image of a distant object forms in front of the retina, usually because the eye lens is too curved (focal length too small) or the eyeball is elongated. 2) Correction: a concave (diverging) lens that forms the virtual image of a distant object exactly at the far point. Step 1: given u = infinity (distant object) and v = -2.5 m (far point). Step 2: formula 1/f = 1/v - 1/u = -1/2.5 - 0 = -0.4, so f = -2.5 m. Step 3: power P = 1/f = -0.4 D. Answer: a concave lens of power -0.4 D."
+        },
+        {
+          "question": "What is dispersion of light? Why do different colours deviate by different amounts while passing through a prism? Name the colour that bends the most and the one that bends the least.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Dispersion is the splitting of white light into its constituent colours (VIBGYOR) when it passes through a prism, producing a band of colours called the spectrum. 2) Different colours travel with different speeds in glass, so the refractive index of the prism is different for each colour and each colour is deviated by a different amount. 3) Violet has the smallest speed in glass and deviates the most, while red has the largest speed and deviates the least; Newton's recombination of the spectrum with a second inverted prism shows that white light is a mixture of all seven colours."
+        },
+        {
+          "question": "Describe the structure of the human eye and explain how it forms an image. What is the role of the ciliary muscles in vision?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Structure: the transparent cornea at the front bends most of the incoming light; the iris adjusts the size of the pupil to control the light entering; the crystalline eye lens is a convex lens behind the pupil; the retina at the back carries light-sensitive rods (for dim light) and cones (for colour); the optic nerve carries the electrical signals to the brain. 2) Working: the cornea-lens system forms a real, inverted, diminished image on the retina; the light-sensitive cells generate electrical signals which the brain interprets, and we see the object erect. 3) Ciliary muscles: by contracting and relaxing they change the thickness and hence the focal length of the eye lens; for near objects the lens becomes thick with a smaller focal length, for distant objects it becomes thin with a larger focal length; this is the power of accommodation. 4) The normal eye focuses objects from the near point of 25 cm up to infinity without strain. 5) For defects remember: image in front of the retina = myopia (concave lens), image behind the retina = hypermetropia (convex lens)."
+        },
+        {
+          "question": "Explain with reasons: (a) the clear sky appears blue, (b) the sun appears reddish at sunrise and sunset, (c) the path of a torch beam becomes visible in a smoke-filled room, and (d) the sky appears dark to an astronaut in space.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Blue sky: air molecules are much smaller than the wavelength of visible light, so shorter wavelengths are scattered much more strongly, and the scattered blue light reaches our eyes from all directions of the sky. 2) Reddened sun: near the horizon sunlight travels a much longer path through the atmosphere, so most of the blue is scattered out of the direct beam and only the least-scattered red reaches the eye; at noon the path is short, scattering is small and the sun looks white. 3) Tyndall effect: smoke particles scatter the torch beam sideways and make its path visible; the scattered light looks bluish while the transmitted light looks reddish. 4) Dark sky in space: with no atmosphere there is nothing to scatter sunlight, so even with the sun shining the sky looks black to the astronaut. 5) The same least-scattering property of red is used in danger signal lights, since red remains visible from far away through fog and mist."
+        },
+        {
+          "question": "CASE: At an eye clinic, Ramesh cannot see objects beyond 4 m clearly, Suresh cannot read comfortably anything closer than 1 m, and their grandmother can read a newspaper only by holding it at 60 cm while also needing correction for distance vision. Answer: (a) Identify the defect of each person and the type of lens used for correction. (b) Calculate the power of the correcting lens for Ramesh and for Suresh. (c) Why is a bifocal lens suggested for the grandmother?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "Step 1: Ramesh has myopia with far point 4 m; the correcting concave lens must form the image of a distant object at the far point: u = infinity, v = -4 m, so 1/f = 1/v - 1/u = -0.25, f = -4 m and P = 1/f = -0.25 D. Step 2: Suresh has hypermetropia with near point 1 m; the correcting convex lens must form the virtual image of an object at the normal near point 25 cm at his near point: u = -25 cm, v = -100 cm, so 1/f = 1/v - 1/u = -1/100 + 1/25 = 3/100, f = 100/3 = 33.3 cm approx = 1/3 m, and P = 1/f = +3 D. Step 3: for (a), Ramesh: myopia corrected by a concave lens; Suresh: hypermetropia corrected by a convex lens; grandmother: presbyopia. Step 4: for (c), in presbyopia the power of accommodation falls with age and often myopia and hypermetropia coexist, so a bifocal lens is used with a concave upper part for distance vision and a convex lower part for reading. Answer: (a) myopia-concave lens, hypermetropia-convex lens, presbyopia-bifocal lens, (b) Ramesh -0.25 D and Suresh +3 D, (c) the bifocal lens combines both corrections in a single frame."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Electricity",
+      "summary": "Charge, current and potential difference lead to Ohm's law, resistance, resistivity and the series and parallel combinations that dominate circuit numericals; the heating effect H = I^2 Rt and electric power in watts and kilowatt-hours complete the quantitative core. This is the most numerical chapter of Class 10 physics and rewards formula-first practice.",
+      "weightageMarks": 7,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Ohm's law and the V-I graph",
+        "Series and parallel combination numericals",
+        "Resistivity and factors affecting resistance",
+        "Heating effect of current: H = I^2 Rt numericals",
+        "Electric power, kWh and electricity bill problems",
+        "Why domestic circuits use parallel connections"
+      ],
+      "sections": [
+        {
+          "heading": "Electric Current and Electric Circuits",
+          "points": [
+            "Electric current (write it on its own): I = Q/t, the rate of flow of charge; charge Q in coulomb and time t in second give current in ampere (A), where 1 A = 1 C/s.",
+            "One coulomb is the charge carried by about 6.25 × 10^18 electrons, since the charge on one electron is 1.6 × 10^-19 C.",
+            "In a metallic conductor current is due to the drift of free electrons; electrons flow from the negative to the positive terminal, but conventional current is taken from the positive to the negative terminal, opposite to the electron flow.",
+            "A complete circuit needs a source (cell or battery), conducting wires, a switch (key) and the appliance; an ammeter is connected in SERIES to measure current and has very low resistance so that it does not disturb the current.",
+            "A voltmeter is connected in PARALLEL across the component to measure potential difference and has very high resistance so that it draws negligible current.",
+            "Worked drill: a current of 0.5 A flowing for 10 minutes (600 s) carries Q = I × t = 0.5 × 600 = 300 C of charge through the circuit."
+          ],
+          "keyTerms": [
+            {
+              "term": "Electric current (I)",
+              "meaning": "Rate of flow of electric charge, I = Q/t, SI unit ampere."
+            },
+            {
+              "term": "Coulomb (C)",
+              "meaning": "SI unit of charge; 1 C equals the charge of about 6.25 × 10^18 electrons."
+            },
+            {
+              "term": "Circuit diagram",
+              "meaning": "Representation of a circuit using standard symbols for cell, battery, key, resistor, ammeter, voltmeter and wires."
+            }
+          ],
+          "trick": "Ammeter: A for All the current flows through it (series). Voltmeter: V for Views across the component (parallel). Electrons go minus to plus, current goes plus to minus.",
+          "examPointer": "1 to 2 mark questions on definitions, units, instrument connections and Q = It charge numericals appear in almost every alternate paper; always convert minutes to seconds first."
+        },
+        {
+          "heading": "Potential Difference and Ohm's Law",
+          "points": [
+            "Potential difference (write it on its own): V = W/Q, the work done per unit charge in moving a charge between two points; SI unit volt (V), where 1 V = 1 J/C.",
+            "Ohm's law: at constant temperature, the current through a metallic conductor is proportional to the potential difference across it, V proportional to I, giving V = IR, where R is the resistance of the conductor.",
+            "If current I is plotted on the vertical axis against potential difference V on the horizontal axis, the graph for a metallic conductor at constant temperature is a straight line through the origin and its slope equals 1/R.",
+            "Resistance R = V/I is the opposition offered by the conductor to the flow of current; SI unit ohm, where 1 ohm = 1 V/A.",
+            "Limitations: Ohm's law holds for metallic conductors at constant temperature; the bulb filament as it heats up, diodes and electrolytes are non-ohmic and do not give a straight-line graph.",
+            "Common mistake: R = V/I is used to CALCULATE resistance, but resistance does not increase just because V increases; R is a property of the conductor (material, length, area, temperature), not of the operating condition."
+          ],
+          "keyTerms": [
+            {
+              "term": "Potential difference (V)",
+              "meaning": "Work done per unit charge in moving a charge between two points, V = W/Q, SI unit volt."
+            },
+            {
+              "term": "Ohm's law",
+              "meaning": "V = IR for a metallic conductor at constant temperature, current proportional to potential difference."
+            },
+            {
+              "term": "Ohm",
+              "meaning": "SI unit of resistance; 1 ohm = 1 volt per ampere."
+            }
+          ],
+          "trick": "VIR triangle: cover the quantity you want and read the relation. Ohm's law needs CONSTANT temperature - a heating filament breaks the law.",
+          "examPointer": "State Ohm's law plus describe or draw the graph is a classic 2 to 3 mark question; always mention the constant-temperature condition to secure full marks."
+        },
+        {
+          "heading": "Resistance, Resistivity and Factors Affecting Resistance",
+          "points": [
+            "Resistance of a wire depends on its length (R proportional to l), its area of cross-section (R proportional to 1/A), the material through its resistivity, and the temperature.",
+            "Combined relation (write it on its own): R = rho × l / A, where rho is the resistivity of the material.",
+            "Resistivity (write it on its own): rho = RA/l, a property of the MATERIAL with SI unit ohm metre; it does not change with length or area but does change with temperature.",
+            "Material choice: metals like copper and aluminium have very low resistivity and are used for connecting wires; alloys like nichrome have higher resistivity, do not oxidise readily at high temperature and are used in heating elements; insulators have very large resistivity.",
+            "Worked drill: stretching a wire to double its length keeps the volume constant, so the area halves; new R = rho × (2l)/(A/2) = 4 × old R, so a wire of resistance 8 ohm becomes 32 ohm when stretched to double length.",
+            "Common mistake: resistance and resistivity are different; resistance depends on size and shape, resistivity depends only on the material (and its temperature)."
+          ],
+          "keyTerms": [
+            {
+              "term": "Resistivity (rho)",
+              "meaning": "Property of the material of the wire from R = rho l/A, SI unit ohm metre; independent of the dimensions of the wire."
+            },
+            {
+              "term": "Nichrome",
+              "meaning": "An alloy of high resistivity used for heating elements because it withstands high temperature without oxidising readily."
+            },
+            {
+              "term": "Area of cross-section (A)",
+              "meaning": "Thickness of the wire; doubling the area halves the resistance."
+            }
+          ],
+          "trick": "Long and thin = high R, short and thick = low R (l on top, A at the bottom in R = rho l/A). Stretch a wire to double length and the resistance jumps 4 times.",
+          "examPointer": "Numericals on R = rho l/A and the stretching result (double length gives 4 times resistance) are regular 3-mark items; when asked to define resistivity, quote rho = RA/l with its unit ohm metre."
+        },
+        {
+          "heading": "Series and Parallel Combinations of Resistors",
+          "points": [
+            "Series combination: the same current I flows through every resistor while the total voltage divides among them; equivalent resistance (write it on its own): Rs = R1 + R2 + R3 and so on; Rs is always MORE than the largest individual resistance.",
+            "Parallel combination: the same voltage V appears across every resistor while the current divides; equivalent resistance (write it on its own): 1/Rp = 1/R1 + 1/R2 + 1/R3 and so on; Rp is always LESS than the smallest individual resistance.",
+            "Worked drill (parallel): 6 ohm and 12 ohm in parallel give 1/Rp = 1/6 + 1/12 = 3/12, so Rp = 4 ohm; on a 12 V supply, I(6) = 12/6 = 2 A, I(12) = 12/12 = 1 A and total I = 3 A, which cross-checks as 12/4 = 3 A.",
+            "Worked drill (series): 2 ohm, 3 ohm and 5 ohm in series give Rs = 10 ohm; on a 10 V supply, I = 1 A and the potential differences are 2 V, 3 V and 5 V, adding up to 10 V.",
+            "Domestic wiring uses parallel connections: every appliance gets the full 220 V, each can be operated by its own switch independently, and a fault in one appliance does not stop the others.",
+            "Common mistake: in a series circuit the current is NOT shared between resistors (it is the same everywhere), and in a parallel circuit the VOLTAGE is not shared (it is the same across all branches)."
+          ],
+          "keyTerms": [
+            {
+              "term": "Series combination",
+              "meaning": "Resistors joined end to end carrying the same current; Rs = R1 + R2 + R3."
+            },
+            {
+              "term": "Parallel combination",
+              "meaning": "Resistors joined between the same two points so that the same voltage acts across each; 1/Rp = 1/R1 + 1/R2 + 1/R3."
+            },
+            {
+              "term": "Equivalent resistance",
+              "meaning": "The single resistance that can replace a network without changing the current drawn from the source."
+            }
+          ],
+          "trick": "SS-PP: Series Same current, Parallel same Potential. In parallel the answer is smaller than the smallest; for two resistors use the product over sum shortcut, like 6 and 12 give 72/18 = 4 ohm.",
+          "examPointer": "The 3 to 5 mark circuit numerical (reduce the network, then find branch currents) is almost guaranteed; first simplify step by step and then apply V = IR branch by branch, finishing with a total-current cross-check."
+        },
+        {
+          "heading": "Heating Effect of Electric Current and Its Applications",
+          "points": [
+            "Joule's law of heating (write it on its own): H = I^2 × R × t; equally, H = V × I × t = (V^2/R) × t; heat is proportional to the square of the current, to the resistance and to the time.",
+            "Origin: drifting electrons keep colliding with the ions of the conductor, transferring their kinetic energy, which appears as heat in the resistor.",
+            "Applications: electric heater, iron, geyser and toaster (heating elements of nichrome), the bulb filament of tungsten (melting point about 3380 degrees Celsius, glowing white-hot), and the electric fuse (a low-melting alloy wire that melts and breaks the circuit when the current exceeds a safe value).",
+            "Why nichrome for heating elements: high resistivity and high melting point, so it produces large heat without melting or oxidising quickly; why copper for wires: low resistivity so that I^2 R heating losses stay small.",
+            "Worked drill: a current of 2 A through a resistor of 100 ohm for 1 minute produces H = I^2 R t = 4 × 100 × 60 = 24000 J = 24 kJ.",
+            "Common mistake: forgetting to convert minutes to seconds; t must always be in seconds in H = I^2 R t, and remember that doubling the current quadruples the heat because I is squared."
+          ],
+          "keyTerms": [
+            {
+              "term": "Joule's law of heating",
+              "meaning": "H = I^2 Rt, the heat produced in a resistor is proportional to the square of the current, the resistance and the time."
+            },
+            {
+              "term": "Fuse",
+              "meaning": "A safety wire of low-melting alloy connected in series with the live wire; it melts on excessive current and breaks the circuit."
+            },
+            {
+              "term": "Tungsten",
+              "meaning": "Metal with a very high melting point (about 3380 degrees Celsius) used for bulb filaments."
+            }
+          ],
+          "trick": "H = I squared R t: double the current and the heat becomes FOUR times (current is squared). The fuse always lives in the LIVE wire.",
+          "examPointer": "H = I^2 Rt numericals with unit conversion of time to seconds are common 3-mark questions; a frequent 2-mark reason question is why the fuse is placed in the live wire and why its melting point must be low."
+        },
+        {
+          "heading": "Electric Power, Electrical Energy and the Kilowatt-hour",
+          "points": [
+            "Electric power (write it on its own): P = VI = I^2 R = V^2/R; SI unit watt (W), where 1 W = 1 J/s, and 1 kilowatt = 1000 W.",
+            "Rating interpretation: a bulb rated 100 W at 220 V draws I = P/V = 100/220 = 0.45 A approx and has filament resistance R = V^2/P = 220^2/100 = 484 ohm.",
+            "Electrical energy (write it on its own): E = P × t; the commercial unit is the kilowatt-hour, and 1 kWh = 1000 W × 3600 s = 3.6 × 10^6 J; 1 kWh is sold as 1 unit of electricity.",
+            "Worked drill (bill): two 60 W bulbs used 5 h daily and one 100 W fan used 10 h daily consume (2 × 60 × 5 + 100 × 10)/1000 = 1.6 kWh per day, that is 1.6 × 30 = 48 units in a 30-day month.",
+            "Worked drill (mixed circuit): 4 ohm and 12 ohm in parallel give 3 ohm; with a 1 ohm resistor in series across 6 V, total R = 4 ohm and I = 1.5 A; the parallel section drops 1.5 × 3 = 4.5 V, so the 4 ohm branch carries 1.125 A and the 12 ohm branch carries 0.375 A (the two sum to 1.5 A, verified).",
+            "Common mistake: in P = V^2/R and P = I^2 R, use the voltage or current of THAT resistor, not of the whole supply, unless the resistor is alone across the supply."
+          ],
+          "keyTerms": [
+            {
+              "term": "Watt (W)",
+              "meaning": "SI unit of power, 1 W = 1 J/s; also given by P = VI."
+            },
+            {
+              "term": "Kilowatt-hour (kWh)",
+              "meaning": "Commercial unit of electrical energy, 1 kWh = 3.6 × 10^6 J = 1 unit of electricity."
+            },
+            {
+              "term": "Rated values",
+              "meaning": "The voltage and power printed on an appliance, from which its normal current and resistance are calculated."
+            }
+          ],
+          "trick": "Power triangle: P = VI = I^2 R = V^2/R. Units to memorise: 1 unit = 1 kWh = 3.6 million joules. At the same supply voltage, the bulb with SMALLER resistance is brighter (P = V^2/R).",
+          "examPointer": "A 5-mark question often chains the rating plate to resistance, current and units consumed; convert minutes to seconds and watts to kilowatts before the final answer, and state the unit (kWh or joule) explicitly."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "The SI unit of electric charge is:",
+          "options": ["Ampere", "Coulomb", "Volt", "Ohm"],
+          "answerIndex": 1,
+          "explanation": "Charge is measured in coulomb; 1 C corresponds to about 6.25 × 10^18 electrons, and current in ampere is charge flowing per second.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "To measure the current flowing through a resistor, the ammeter is connected:",
+          "options": ["In parallel with the resistor", "In series with the resistor", "Across the battery only", "In any way, it does not matter"],
+          "answerIndex": 1,
+          "explanation": "An ammeter has very low resistance and must carry the full circuit current, so it is joined in series with the component.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "A current of 0.5 A flows through a bulb filament for 10 minutes. The electric charge that flows through the circuit is:",
+          "options": ["300 C", "30 C", "3000 C", "5 C"],
+          "answerIndex": 0,
+          "explanation": "Q = I × t = 0.5 × (10 × 60) = 0.5 × 600 = 300 C.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The unit of electrical resistance is:",
+          "options": ["Volt", "Coulomb", "Ohm", "Watt"],
+          "answerIndex": 2,
+          "explanation": "From Ohm's law R = V/I, the unit is volt per ampere, defined as the ohm.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Two resistors of 6 ohm and 12 ohm are connected in parallel. Their equivalent resistance is:",
+          "options": ["18 ohm", "9 ohm", "4 ohm", "2 ohm"],
+          "answerIndex": 2,
+          "explanation": "1/Rp = 1/6 + 1/12 = 3/12, so Rp = 4 ohm, which is smaller than the smaller resistor, as expected for a parallel combination.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The resistivity of a wire depends on:",
+          "options": ["Its length", "Its area of cross-section", "Its material and temperature", "Both its length and its area"],
+          "answerIndex": 2,
+          "explanation": "Resistivity is a material property; changing l or A changes the resistance but not the resistivity, though temperature can change the resistivity.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Household appliances are connected in parallel mainly because:",
+          "options": ["It saves wire", "Each appliance gets the full supply voltage and can be switched independently", "The total resistance of the circuit increases", "The same current flows through every appliance"],
+          "answerIndex": 1,
+          "explanation": "In parallel every appliance receives the full 220 V, has its own switch, and a fault in one branch does not affect the others.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A current of 2 A flows through a resistor of 100 ohm for 1 minute. The heat produced is:",
+          "options": ["240 J", "2.4 kJ", "240 kJ", "24 kJ"],
+          "answerIndex": 3,
+          "explanation": "H = I^2 R t = 4 × 100 × 60 = 24000 J = 24 kJ (time converted to 60 s).",
+          "difficulty": "medium"
+        },
+        {
+          "question": "An electric bulb is rated 100 W at 220 V. The resistance of its filament is:",
+          "options": ["220 ohm", "100 ohm", "484 ohm", "48.4 ohm"],
+          "answerIndex": 2,
+          "explanation": "R = V^2/P = (220 × 220)/100 = 48400/100 = 484 ohm; the normal current would be P/V = 0.45 A approx.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "A 6 V battery is connected to a 1 ohm resistor in series with a parallel combination of 4 ohm and 12 ohm. The total current drawn from the battery is:",
+          "options": ["1 A", "1.5 A", "2 A", "6 A"],
+          "answerIndex": 1,
+          "explanation": "Parallel part: (4 × 12)/(4 + 12) = 48/16 = 3 ohm; total R = 3 + 1 = 4 ohm; I = V/R = 6/4 = 1.5 A.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "State Ohm's law. If current I is plotted on the vertical axis against potential difference V on the horizontal axis for a metallic conductor at constant temperature, describe the graph and state what its slope represents.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Ohm's law: the potential difference across a metallic conductor at constant temperature is proportional to the current through it, V = IR. 2) The I-V graph is a straight line passing through the origin; its slope equals 1/R, so a smaller slope means a larger resistance. The constant-temperature condition must be stated, since a changing temperature spoils the proportionality."
+        },
+        {
+          "question": "Give reasons: (a) the fuse wire of an electric circuit must have a low melting point, (b) the filament of an electric bulb is made of tungsten.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Fuse: it is a safety device connected in series with the live wire; when the current exceeds the safe limit the heat produced melts it and the circuit breaks, so a LOW melting point alloy is essential for quick action. 2) Tungsten filament: the filament must reach a very high temperature to glow white-hot and emit light, so a metal with a very high melting point (tungsten, about 3380 degrees Celsius) and high resistivity is used, sealed in a glass bulb with inert gas to prevent oxidation."
+        },
+        {
+          "question": "Three resistors, each of resistance R, are connected (a) in series and (b) in parallel. Obtain the ratio of the equivalent resistance in series to the equivalent resistance in parallel.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: in series, Rs = R + R + R = 3R. Step 2: in parallel, 1/Rp = 1/R + 1/R + 1/R = 3/R, so Rp = R/3. Step 3: ratio Rs/Rp = 3R/(R/3) = 9. Answer: Rs : Rp = 9 : 1; the parallel combination is 9 times smaller, which is why parallel wiring reduces the total resistance of a circuit."
+        },
+        {
+          "question": "Two resistors of 4 ohm and 8 ohm are connected in parallel across a 12 V battery. Find the current through each resistor and the total current drawn from the battery.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Step 1: given R1 = 4 ohm, R2 = 8 ohm, V = 12 V; in parallel the same voltage acts across each branch. Step 2: I(4) = V/R1 = 12/4 = 3 A and I(8) = V/R2 = 12/8 = 1.5 A. Step 3: total current I = 3 + 1.5 = 4.5 A; cross-check with Rp = (4 × 8)/(4 + 8) = 32/12 = 2.67 ohm approx, so I = 12/2.67 = 4.5 A. Answer: 3 A through the 4 ohm resistor, 1.5 A through the 8 ohm resistor, total 4.5 A."
+        },
+        {
+          "question": "State the factors on which the resistance of a conductor depends, writing the governing relation. A wire of resistance 8 ohm is stretched so that its length becomes double. Find its new resistance, explaining the change in its area of cross-section.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) The resistance is proportional to the length l of the conductor. 2) The resistance is inversely proportional to its area of cross-section A. 3) The resistance depends on the material through its resistivity, so R = rho l/A. 4) The resistance also changes with temperature. Step 1: given R = 8 ohm and new length = 2l. Step 2: on stretching, the volume stays constant, so the area of cross-section becomes A/2. Step 3: new R = rho × (2l)/(A/2) = 4 rho l/A = 4 × 8 = 32 ohm. Answer: the new resistance is 32 ohm, four times the original, because the length doubled and the area halved simultaneously."
+        },
+        {
+          "question": "An electric kettle is rated 220 V, 1000 W. Calculate (a) the resistance of its heating element, (b) the current it draws at rated voltage, and (c) the energy it consumes in kWh if it runs 2 hours daily for 30 days. Also (d) state the commercial unit of electrical energy with its value in joules.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Step 1: given P = 1000 W and V = 220 V. Step 2: R = V^2/P = (220 × 220)/1000 = 48400/1000 = 48.4 ohm. Step 3: I = P/V = 1000/220 = 4.55 A approx. Step 4: energy per day = 1 kW × 2 h = 2 kWh, so for 30 days = 60 kWh = 60 units. Step 5: 1 kWh = 3.6 × 10^6 J, so 60 kWh = 2.16 × 10^8 J. Answer: (a) 48.4 ohm, (b) about 4.55 A, (c) 60 units in a month, (d) 1 kWh (1 unit) = 3.6 × 10^6 J."
+        },
+        {
+          "question": "CASE: A 12 V battery is connected to a circuit in which a 2 ohm resistor is in series with a parallel combination of a 6 ohm resistor and a 3 ohm resistor. Answer: (a) Find the equivalent resistance of the circuit. (b) Find the total current from the battery and the current through each of the 6 ohm and 3 ohm resistors. (c) Find the total heat produced in the circuit in 5 minutes.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "Step 1: parallel part, 1/Rp = 1/6 + 1/3 = 3/6, so Rp = 2 ohm; total R = 2 + 2 = 4 ohm. Step 2: total current I = V/R = 12/4 = 3 A, flowing through the battery line and the 2 ohm resistor. Step 3: voltage across the parallel section = I × Rp = 3 × 2 = 6 V, so I(6) = 6/6 = 1 A and I(3) = 6/3 = 2 A, and 1 + 2 = 3 A, which matches the total, verified. Step 4: heat H = I^2 R total t = 9 × 4 × 300 = 10800 J. Answer: (a) 4 ohm, (b) total 3 A with 1 A through the 6 ohm and 2 A through the 3 ohm resistor, (c) 10800 J of heat in 5 minutes."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Magnetic Effects of Electric Current",
+      "summary": "An electric current produces a magnetic field: field lines and the right-hand thumb rule lead to the solenoid and electromagnet, while Fleming's left-hand rule explains the force on a conductor and the working of the electric motor. Electromagnetic induction with Fleming's right-hand rule gives the generator, and the chapter ends with domestic circuits, fuses and earthing.",
+      "weightageMarks": 5,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Magnetic field lines and their properties",
+        "Right-hand thumb rule and field of a straight conductor",
+        "Solenoid and electromagnet",
+        "Fleming's left-hand rule and the electric motor",
+        "Electromagnetic induction, Fleming's right-hand rule and the generator",
+        "Domestic wiring, fuse rating and earthing"
+      ],
+      "sections": [
+        {
+          "heading": "Magnetic Field and Field Lines",
+          "points": [
+            "Oersted's experiment: a compass needle placed near a current-carrying wire is deflected whenever current flows, proving that an electric current produces a magnetic field around it; reversing the current reverses the deflection.",
+            "A magnetic field is the region around a magnet or a current-carrying conductor in which its force can be detected; the direction of the field at a point is the direction in which the north pole of a magnetic needle resting there points.",
+            "Field line rules: outside the magnet the lines emerge from the north pole and enter the south pole, inside the magnet they run from south to north, so field lines form closed continuous curves.",
+            "Two field lines never intersect, because at a point of intersection the compass needle would have to point in two directions at once, which is impossible.",
+            "The field is stronger where the field lines are crowded; for a bar magnet the field is strongest near the poles, and iron filings around the magnet align in curved patterns because each filing becomes a tiny magnet.",
+            "Common mistake: field lines are a visual tool with assigned direction, but they do not literally exist; also magnetic field lines are closed curves, unlike electric field lines which start and end on charges."
+          ],
+          "keyTerms": [
+            {
+              "term": "Magnetic field",
+              "meaning": "The region around a magnet or current-carrying conductor where a magnetic force can be detected."
+            },
+            {
+              "term": "Magnetic field lines",
+              "meaning": "Imaginary closed curves whose tangent at any point gives the direction of the magnetic field."
+            },
+            {
+              "term": "Oersted's discovery",
+              "meaning": "An electric current deflects a magnetic needle, establishing that current produces a magnetic field."
+            }
+          ],
+          "trick": "Field lines: North OUT, South IN, never CROSS. Crowded lines mean a strong field, just like a crowded bus means a strong push.",
+          "examPointer": "Properties of field lines and Oersted's observation are standard 2 mark questions; the never-intersect reason is a favourite one-liner, so learn it word for word."
+        },
+        {
+          "heading": "Magnetic Field due to a Straight Conductor and a Circular Loop",
+          "points": [
+            "Right-hand thumb rule: hold the wire in the right hand with the thumb pointing along the direction of the current; the curled fingers then point along the magnetic field, which forms concentric circles around the wire.",
+            "Field of a straight conductor: concentric circles centred on the wire, lying in planes perpendicular to it; the field is strongest near the wire and weakens as we move away.",
+            "The field strength increases with the current in the wire and decreases with the distance from the wire; reversing the current reverses the direction of the circular field lines.",
+            "Circular loop: every segment of the loop contributes, and at the centre the field lines are nearly straight and perpendicular to the plane of the loop; the field increases with the current and with the number of turns of the coil.",
+            "A compass placed near the wire aligns tangent to these circles, so above the wire and below the wire the needle points in opposite directions when current flows.",
+            "Common mistake: the right-hand thumb rule gives the FIELD around the wire, NOT the force on the wire; the force on a current-carrying conductor placed in an external magnetic field needs Fleming's left-hand rule."
+          ],
+          "keyTerms": [
+            {
+              "term": "Right-hand thumb rule",
+              "meaning": "Thumb along the current, curled fingers along the magnetic field lines around a straight current-carrying conductor."
+            },
+            {
+              "term": "Concentric field",
+              "meaning": "The circular magnetic field lines around a straight wire, centred on the wire itself."
+            },
+            {
+              "term": "Number of turns (N)",
+              "meaning": "Each turn of a coil adds its field at the centre, so N turns give N times the field of a single loop."
+            }
+          ],
+          "trick": "Thumb = current, curled fingers = field. Face rule for a loop: anticlockwise current face is north, clockwise current face is south (ACN-CS).",
+          "examPointer": "Draw concentric circles with arrows for the straight wire and describe the loop field at the centre; 2 to 3 marks are typical, and the compass deflection observation is a quick 1 mark add-on."
+        },
+        {
+          "heading": "Solenoid and Electromagnet",
+          "points": [
+            "A solenoid is a long coil of many closely wound circular turns; its field inside is the combined field of all the turns.",
+            "Inside a solenoid the field lines are straight, parallel and equally spaced, showing a UNIFORM field; outside, the pattern resembles the field of a bar magnet, so a current-carrying solenoid behaves like a bar magnet with a fixed north pole at one end and a south pole at the other.",
+            "The polarity of each end is found from the direction of current in the end turns: the face where the current appears anticlockwise behaves as a north pole and the clockwise face as a south pole.",
+            "Electromagnet: a soft iron core placed inside the current-carrying solenoid becomes strongly magnetised, producing a powerful magnet that can be switched on and off simply by switching the current.",
+            "Soft iron (not steel) is used for the core because it magnetises and demagnetises quickly and strongly; steel would retain magnetism permanently, which an electromagnet must not do.",
+            "Applications: electric bell, magnetic crane for lifting scrap iron, relay switches and speaker coils, wherever a strong, controllable, temporary magnet is required."
+          ],
+          "keyTerms": [
+            {
+              "term": "Solenoid",
+              "meaning": "A long coil of wire with many turns that produces a uniform magnetic field inside when current flows."
+            },
+            {
+              "term": "Electromagnet",
+              "meaning": "A solenoid with a soft iron core; a strong temporary magnet controlled by switching the current."
+            },
+            {
+              "term": "Uniform field",
+              "meaning": "A field with the same magnitude and direction at every point, shown by parallel, equally spaced field lines."
+            }
+          ],
+          "trick": "Solenoid = Soft iron + Many turns = Strong magnet you can SWITCH off. Inside: parallel lines = uniform, like a disciplined army.",
+          "examPointer": "Draw the solenoid field pattern (parallel lines inside, closing loops outside) and explain why it behaves like a bar magnet; the construction of an electromagnet with the choice of soft iron is a common 2 to 3 mark question."
+        },
+        {
+          "heading": "Force on a Current-Carrying Conductor: Fleming's Left-Hand Rule and the Electric Motor",
+          "points": [
+            "A current-carrying conductor placed in a magnetic field experiences a force perpendicular to both the field and the current; reversing the current alone or the field alone reverses the force, reversing both leaves it unchanged.",
+            "Fleming's left-hand rule: stretch the thumb, forefinger and middle finger of the LEFT hand mutually perpendicular; the forefinger points along the FIELD, the middle finger along the CURRENT, and the thumb then gives the direction of the FORCE on the conductor.",
+            "The rule gives directions only; the force is largest when the current is perpendicular to the magnetic field.",
+            "Electric motor: it converts electrical energy into mechanical energy using this force; the current-carrying coil (armature) placed in the field of a magnet experiences opposite forces on its two sides, producing a torque that rotates the coil.",
+            "Split-ring commutator: after every half rotation it reverses the current in the coil, so the forces keep turning the coil in the same sense; brushes maintain sliding electrical contact with the rotating ring.",
+            "Common mistake: LEFT hand is for the motor (force on a current-carrying conductor), RIGHT hand is for the generator (induced current); swapping the hands is a classic exam error."
+          ],
+          "keyTerms": [
+            {
+              "term": "Fleming's left-hand rule",
+              "meaning": "Forefinger = field, middle finger = current, thumb = force, all mutually perpendicular on the left hand."
+            },
+            {
+              "term": "Armature",
+              "meaning": "The rotating current-carrying coil of an electric motor."
+            },
+            {
+              "term": "Split-ring commutator",
+              "meaning": "Device that reverses the current in the motor coil after every half rotation so that the torque keeps acting in one direction."
+            }
+          ],
+          "trick": "FBI: Field (First finger), Current (middle finger), Force (thumb) - all on the LEFT hand for motors. Left hand LIFTS (motor works), right hand Rocks (generator).",
+          "examPointer": "State the rule with the correct finger assignments and then explain the motor working including the commutator; the 3 mark motor question and the 2 mark rule statement repeat regularly."
+        },
+        {
+          "heading": "Electromagnetic Induction and the Electric Generator",
+          "points": [
+            "Electromagnetic induction: the production of an induced current in a closed circuit whenever the magnetic field linked with it changes, discovered by Michael Faraday; the relative motion between a magnet and a coil is enough to produce it.",
+            "A galvanometer detects the induced current: its needle deflects only WHILE the magnet or coil is moving, the deflection reverses when the motion is reversed, and it becomes zero when everything is at rest.",
+            "The magnitude of the induced current increases with the speed of relative motion, the strength of the magnet and the number of turns of the coil.",
+            "Fleming's right-hand rule gives the direction of the induced current: thumb along the MOTION of the conductor, forefinger along the FIELD, and the middle finger then gives the induced CURRENT.",
+            "Electric generator: it converts mechanical energy into electrical energy using electromagnetic induction; rotating a coil in a magnetic field induces a current whose direction reverses every half rotation in an AC generator.",
+            "AC versus DC: in alternating current the direction reverses periodically (Indian household supply is 220 V, 50 Hz, so the direction changes every 1/100 s), while direct current flows in one direction only; a commutator converts the generator output into DC."
+          ],
+          "keyTerms": [
+            {
+              "term": "Electromagnetic induction",
+              "meaning": "Production of an induced current in a closed coil due to a changing magnetic field, that is relative motion between coil and magnet."
+            },
+            {
+              "term": "Fleming's right-hand rule",
+              "meaning": "Thumb = motion of conductor, forefinger = field, middle finger = induced current, all mutually perpendicular on the right hand."
+            },
+            {
+              "term": "AC and DC",
+              "meaning": "Alternating current reverses direction periodically; direct current flows in one direction only."
+            }
+          ],
+          "trick": "Motors LEFT, generators RIGHT. In induction: MOVE to MAKE current - no motion, no induction. 50 Hz means 50 cycles per second and 100 direction changes per second.",
+          "examPointer": "Faraday-based activities (magnet moved into a coil with a galvanometer) are asked as 3 mark explain questions; the 220 V, 50 Hz fact with 1/100 s reversal is a favourite 1 to 2 mark item."
+        },
+        {
+          "heading": "Domestic Electric Circuits, Fuse and Earthing",
+          "points": [
+            "Domestic supply: the LIVE wire (red insulation) carries the supply at 220 V and the NEUTRAL wire (black insulation) stays at zero potential; the potential difference between live and neutral is 220 V, and appliances are connected in PARALLEL between them.",
+            "The EARTH wire (green insulation) is connected to a metal plate buried deep near the house and to the metallic body of appliances such as heaters and toasters; it offers a low-resistance path so that leakage current flows into the earth instead of through a person touching the appliance.",
+            "Fuse: a thin wire of low-melting alloy in SERIES with the live wire; when the current exceeds its rating, the heat produced melts it and the circuit is broken, protecting the wiring and appliances.",
+            "Circuit ratings: a 15 A line feeds high-power appliances (geyser, heater, air conditioner) while a 5 A line feeds lights, fans and tubes; the fuse rating must be slightly above the normal current of the appliances on that line.",
+            "Overloading occurs when too many high-power appliances run from one point simultaneously; a SHORT-CIRCUIT occurs when live and neutral touch directly due to damaged insulation; both raise the current sharply and the fuse must blow.",
+            "Worked drill: a 2 kW geyser on 220 V draws I = P/V = 2000/220 = 9.1 A approx, so it must be connected on the 15 A line; a 5 A fuse would melt immediately."
+          ],
+          "keyTerms": [
+            {
+              "term": "Live wire",
+              "meaning": "The red-insulated wire carrying the supply at 220 V to the appliances."
+            },
+            {
+              "term": "Earth wire",
+              "meaning": "The green-insulated safety wire connected to the metal body of appliances and to an earth plate, providing a low-resistance escape path for leakage current."
+            },
+            {
+              "term": "Fuse rating",
+              "meaning": "The maximum safe current a fuse carries without melting; 5 A for lighting circuits and 15 A for power circuits."
+            }
+          ],
+          "trick": "RBE: Red-live, Black-neutral, Green-earth. Fuse in the LIVE wire. 15 for the geyser, 5 for the light. Earth wire is the shock absorber of the house.",
+          "examPointer": "Colour-identification, why-earthing and fuse-rating questions are near-certain 2 to 3 mark items; be ready to compute appliance current as P/V and then choose the correct circuit rating."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Outside a bar magnet, the magnetic field lines travel:",
+          "options": ["From south pole to north pole", "From north pole to south pole", "From north pole to north pole", "In straight lines without any direction"],
+          "answerIndex": 1,
+          "explanation": "Outside the magnet, field lines emerge from the north pole and enter the south pole; inside they run from south to north, forming closed curves.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The magnetic field inside a long current-carrying solenoid is:",
+          "options": ["Uniform and parallel to its axis", "Zero", "Radial towards the axis", "Circular around the axis"],
+          "answerIndex": 0,
+          "explanation": "Inside a solenoid the field lines are straight, parallel and equally spaced, showing a uniform field; outside, the pattern resembles a bar magnet.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Fleming's left-hand rule gives the direction of:",
+          "options": ["Induced current in a coil", "Magnetic field due to a current", "Force on a current-carrying conductor in a magnetic field", "Potential difference across a resistor"],
+          "answerIndex": 2,
+          "explanation": "The left hand links field (forefinger), current (middle finger) and force (thumb); this force drives the electric motor.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The insulation colour of the earth wire in domestic circuits is:",
+          "options": ["Red", "Black", "Green", "Blue"],
+          "answerIndex": 2,
+          "explanation": "Green is for earth, red for live and black for neutral; the earth wire is a safety connection to the metal body of appliances.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "According to the right-hand thumb rule, if the thumb of the right hand points along the current in a straight wire, the curled fingers show:",
+          "options": ["The direction of the force on the wire", "The direction of the magnetic field around the wire", "The direction of current inside the battery", "The direction of the north pole of a magnet"],
+          "answerIndex": 1,
+          "explanation": "The curled fingers trace the concentric circular field lines around the wire, lying in planes perpendicular to the current.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The core of an electromagnet is made of soft iron because soft iron:",
+          "options": ["Is a very good conductor of electricity", "Magnetises and demagnetises quickly", "Is cheap and lightweight", "Retains magnetism permanently"],
+          "answerIndex": 1,
+          "explanation": "Soft iron magnetises strongly when current flows and loses its magnetism when current stops, exactly what a temporary electromagnet needs.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The device that converts mechanical energy into electrical energy is:",
+          "options": ["Galvanometer", "Ammeter", "Electric generator", "Electric motor"],
+          "answerIndex": 2,
+          "explanation": "A generator rotates a coil in a magnetic field and produces current by electromagnetic induction; the motor does the reverse conversion.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A 2 kW electric geyser is to be connected to the 220 V mains. The correct circuit for it is:",
+          "options": ["The 5 A lighting circuit", "A 2 A circuit", "The 15 A power circuit", "Either the 5 A or the 15 A circuit"],
+          "answerIndex": 2,
+          "explanation": "I = P/V = 2000/220 = 9.1 A approx, which exceeds the 5 A rating, so the geyser must go on the 15 A line with a suitable fuse.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "In India the AC household supply has a frequency of 50 Hz. The direction of the current changes:",
+          "options": ["Every 1/100 second", "Every 1/50 second", "Every 1/220 second", "50 times per second"],
+          "answerIndex": 0,
+          "explanation": "One full cycle of 50 Hz AC contains two direction reversals, giving 100 reversals per second, that is one reversal every 1/100 s.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "When the north pole of a bar magnet is moved INTO a coil connected to a galvanometer, the face of the coil nearer the magnet:",
+          "options": ["Behaves as a south pole", "Develops no polarity", "Behaves as a north pole", "Polarity cannot be predicted"],
+          "answerIndex": 2,
+          "explanation": "The induced current opposes the approaching north pole, so the near face becomes a north pole and repels the magnet, opposing its motion.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What did Oersted's experiment demonstrate? Describe the observation made in the experiment.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Oersted placed a compass needle near a straight current-carrying wire and observed that the needle deflected whenever current flowed, showing that an electric current produces a magnetic field around it. 2) On reversing the current, the deflection of the needle reversed, proving that the direction of the magnetic field depends on the direction of the current; this experiment linked electricity and magnetism for the first time."
+        },
+        {
+          "question": "Why is it necessary to earth metallic appliances such as electric irons and toasters?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) The earth wire (green insulation) connects the metal body of the appliance to a metal plate buried in the earth, offering a very low-resistance path. 2) If the live wire accidentally touches the metal body, the large leakage current flows harmlessly to the earth instead of through the person touching it, and the large current also blows the fuse, cutting off the supply; earthing therefore prevents fatal electric shocks."
+        },
+        {
+          "question": "State the right-hand thumb rule. Describe the magnetic field produced by current through a straight conductor and mention the factors on which the strength of this field depends.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Rule: grasp the wire with the right hand so that the thumb points along the current; the curled fingers then give the direction of the magnetic field lines around the wire. 2) Field pattern: concentric circles centred on the wire, lying in planes perpendicular to it; the circles get wider as we move away from the wire. 3) The strength of the field increases with the current in the wire and decreases with the distance from the wire; the field is strongest close to the wire."
+        },
+        {
+          "question": "State Fleming's left-hand rule and explain how the split-ring commutator enables an electric motor to rotate continuously in one direction.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Fleming's left-hand rule: stretch the thumb, forefinger and middle finger of the left hand mutually perpendicular; with the forefinger along the magnetic field and the middle finger along the current, the thumb points along the force on the conductor. 2) In the motor, the two sides of the current-carrying armature coil experience opposite forces in the magnetic field, producing a torque that rotates the coil. 3) After every half rotation the split-ring commutator reverses the current in the coil, so the force on each side reverses its direction at the same moment and the coil continues rotating in the same sense; brushes keep sliding contact with the rotating ring."
+        },
+        {
+          "question": "What is electromagnetic induction? Describe an activity using a coil, a galvanometer and a bar magnet to demonstrate it, and state Fleming's right-hand rule.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Electromagnetic induction is the production of an induced current in a closed coil whenever the magnetic field linked with it changes, as discovered by Faraday. 2) Activity: connect a coil to a sensitive galvanometer; move the north pole of a bar magnet towards the coil and the galvanometer shows a deflection in one direction. 3) Hold the magnet still inside or near the coil and the deflection becomes zero; withdraw the magnet and the deflection appears in the opposite direction, proving that relative motion produces the current. 4) The deflection, and hence the induced current, increases with faster motion, a stronger magnet and more turns of the coil. 5) Fleming's right-hand rule: thumb along the motion of the conductor, forefinger along the magnetic field and the middle finger then gives the direction of the induced current; this principle runs the electric generator, converting mechanical energy into electrical energy."
+        },
+        {
+          "question": "Describe the domestic electric circuit: the three types of wire with their insulation colours, the two household circuits with their current ratings, the role of the fuse, and the meaning of overloading and short-circuit.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Live wire: red insulation, carries the supply at 220 V; neutral wire: black insulation, at zero potential; the 220 V supply exists between live and neutral, and all appliances are connected in parallel across them. 2) Earth wire: green insulation, joined to the metal body of appliances and to an earth plate, providing a low-resistance path for leakage current so that the user does not get a shock. 3) Two circuits: a 15 A line for power appliances such as geysers and heaters, and a 5 A line for bulbs, fans and tubes, each protected by its own fuse. 4) The fuse is a low-melting alloy wire in series with the live wire; when the current exceeds its rating, the heat produced (H = I^2 Rt) melts it and the circuit is cut off. 5) Overloading occurs when too many high-power appliances run from one point simultaneously; a short-circuit occurs when the live and neutral wires touch directly due to damaged insulation; both raise the current sharply and the fuse must blow to prevent fire and damage."
+        },
+        {
+          "question": "CASE: A house has a 5 A fuse on its lighting line and a 15 A fuse on its power line, both at 220 V. On the power line, a 2 kW geyser and a 600 W microwave oven are used together. Answer: (a) Find the current drawn by each appliance. (b) Will the 15 A fuse survive when both appliances run together? (c) Why must the fuse always be connected in the live wire, and what could happen if it were put in the neutral wire instead?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "Step 1: given P(geyser) = 2000 W, P(oven) = 600 W, V = 220 V. Step 2: I(geyser) = P/V = 2000/220 = 9.1 A approx; I(oven) = 600/220 = 2.7 A approx. Step 3: total current = 9.1 + 2.7 = 11.8 A approx, which is less than 15 A, so the 15 A fuse survives; a 10 A fuse, however, would have blown. Step 4: the fuse is placed in the live wire so that when it melts, the appliance is completely disconnected from the 220 V live supply. Step 5: if the fuse were in the neutral wire, the appliance body would remain connected to the live wire even after the circuit opened, and touching it could give a severe shock. Answer: (a) about 9.1 A and 2.7 A, (b) yes, the total of about 11.8 A stays below 15 A, (c) for complete isolation from the live supply and for safety against shocks."
+        }
+      ]
+    }
+  ]
+}

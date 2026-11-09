@@ -1,0 +1,222 @@
+     1→     1→// AUTO-GENERATED fix seed (hand-written gold standard). Format-compatible with data/seed/gen files.
+     2→     2→export default {
+     3→     3→  "code": "history",
+     4→     4→  "name": "History",
+     5→     5→  "bookName": "India and the Contemporary World II",
+     6→     6→  "weightageMarks": 20,
+     7→     7→  "chapters": [
+     8→     8→    {
+     9→     9→      "number": 5,
+    10→    10→      "title": "Print Culture and the Modern World",
+    11→    11→      "summary": "This chapter follows print from its Chinese beginnings to the European print revolution and into colonial India. It covers woodblock printing and the Diamond Sutra, Gutenberg's press at Mainz and the 1455 Bible, Luther's Reformation and the French Revolution as products of print, the nineteenth-century technological leaps (steam and cylindrical presses, wood-pulp paper, cheap serials), print's arrival in India from 1556, Hicky's Bengal Gazette of 1780, religious reform debates through newspapers, new publications for women and the poor, and the battle over censorship from the Licensing Regulations of 1823 to the Vernacular Press Act of 1878 and Tilak's conviction in 1908. Expect source-based questions on this chapter almost every year.",
+    12→    12→      "weightageMarks": 5,
+    13→    13→      "difficulty": "medium",
+    14→    14→      "hotTopics": [
+    15→    15→        "Gutenberg's press and the Print Revolution",
+    16→    16→        "Print and the Reformation (Martin Luther, 1517)",
+    17→    17→        "Print and the French Revolution",
+    18→    18→        "Vernacular Press Act 1878 and censorship",
+    19→    19→        "Print in India: Hicky's Gazette to nationalist newspapers"
+    20→    20→      ],
+    21→    21→      "sections": [
+    22→    22→        {
+    23→    23→          "heading": "The First Printed Books: China",
+    24→    24→          "para": "China holds the earliest place in the story of print. From AD 594 onwards, books in China were printed by rubbing paper against the inked surface of woodblocks. The Chinese invented paper itself in the second century CE, and skilled craftsmen made fine paper from bark and rags, which is why Chinese manuscript and print culture could grow so early. As the imperial state relied on an elaborate bureaucracy recruited through civil service examinations, textbooks for these examinations were printed in enormous numbers and in diverse styles, making China the largest user of printed books for centuries. By the seventeenth century, as urban culture bloomed in China, the uses of print diversified beyond official texts: merchants printed trade information and calendars, and readers enjoyed fiction, poetry, chronicles and anthologies. Women both read and wrote fiction, and printed popular fiction enriched urban leisure. Shanghai, where Western-style mechanical presses were introduced in the 1870s and 1890s, became the hub of this new print culture, connecting old woodblock traditions with modern newspapers and periodicals.",
+    25→    25→          "points": [
+    26→    26→            "From AD 594 onwards books in China were printed by rubbing paper against inked woodblocks.",
+    27→    27→            "Paper was invented in China in the second century CE, which made an early print culture possible.",
+    28→    28→            "Textbooks for civil service examinations were printed in vast numbers and in varied styles.",
+    29→    29→            "By the seventeenth century urban life diversified print: fiction, poetry, calendars and trade information.",
+    30→    30→            "Women in China both read and wrote printed fiction as urban culture bloomed.",
+    31→    31→            "Shanghai became the hub of the new print culture after Western-style presses arrived in the 1870s-1890s."
+    32→    32→          ],
+    33→    33→          "keyTerms": [
+    34→    34→            { "term": "Woodblock printing", "meaning": "Text carved in reverse on a wooden block, inked and pressed on paper to print a whole page." },
+    35→    35→            { "term": "Civil service examination", "meaning": "Imperial China's competitive exam for recruiting bureaucrats; its textbooks drove mass printing." },
+    36→    36→            { "term": "Shanghai", "meaning": "Port city that became the hub of modern Western-style printing in China from the 1870s." }
+    37→    37→          ],
+    38→    38→          "trick": "Think '594 = China gets print, 768 = Japan, 1295 = Europe' - print moves east to west like a relay race.",
+    39→    39→          "examPointer": "A one-marker often asks when printing began in China (AD 594) or which city was the hub of new print culture (Shanghai)."
+    40→    40→        },
+    41→    41→        {
+    42→    42→          "heading": "Print Reaches Japan: The Diamond Sutra",
+    43→    43→          "para": "Buddhist missionaries from China carried hand-printing technology to Japan around AD 768-770. The oldest printed book in the world is the Buddhist Diamond Sutra, dated AD 868; it contains six sheets of text with woodcut illustrations and was found in a Dunhuang cave in Chinese Turkestan. In medieval Japan, poets and prose writers were regularly printed, and books were cheap enough for ordinary people. Woodblock-illustrated collections of pictures depicted elegant court life and the pleasures of the urban world. The artist Kitagawa Utamaro, born in Edo (the old name of Tokyo), became famous for his 'ukiyo' - pictures of the 'floating world' showing urban entertainments and the courtesan and tea-house culture of Japan's big cities. Japanese print thus combined text and image long before Europe industrialised printing, and visual pleasure (looking at beautifully printed pictures) was itself a reason to read.",
+    44→    44→          "points": [
+    45→    45→            "Buddhist missionaries introduced hand printing from China into Japan around AD 768-770.",
+    46→    46→            "The Diamond Sutra (AD 868) is the oldest printed book; it has six sheets of text plus woodcut pictures.",
+    47→    47→            "In medieval Japan poets and prose writers were printed regularly and books became affordable.",
+    48→    48→            "Woodblock-illustrated collections showed elegant court life and urban pleasures.",
+    49→    49→            "Kitagawa Utamaro of Edo (old Tokyo) created 'ukiyo' - pictures of the floating world of urban Japan."
+    50→    50→          ],
+    51→    51→          "keyTerms": [
+    52→    52→            { "term": "Diamond Sutra", "meaning": "Oldest printed book in the world, dated AD 868, found at Dunhuang; a Buddhist text." },
+    53→    53→            { "term": "Ukiyo", "meaning": "Japanese 'pictures of the floating world' - prints of city entertainment by artists like Utamaro." },
+    54→    54→            { "term": "Edo", "meaning": "The old name of Tokyo, Japan's great centre of print and urban culture." }
+    55→    55→          ],
+    56→    56→          "trick": "D-Sutra = '868 Diamond': remember 8-6-8 by saying 'eighty-six, ate (8)'. Utamaro paints the FLOATING world - cities that float on pleasure.",
+    57→    57→          "examPointer": "Favourite short questions: oldest printed book (Diamond Sutra, AD 868), ancient name of Tokyo (Edo), and the artist of ukiyo prints (Kitagawa Utamaro)."
+    58→    58→        },
+    59→    59→        {
+    60→    60→          "heading": "Print Comes to Europe",
+    61→    61→          "para": "Chinese paper reached Europe through the Silk Route, carried by merchants, centuries before presses arrived. In 1295 Marco Polo returned to Italy from China and brought back the knowledge of woodblock printing, which spread through Italy and then the rest of Europe. As the demand for books grew, booksellers across Europe began exporting books in increasing quantities; book production by hand remained expensive and slow, and luxury editions were printed on vellum (treated calfskin) for the rich. Students, however, needed cheap textbooks, and merchants needed paper - so woodcuts and cheap popular prints met the middle demand. The breakthrough came from Johannes Gutenberg of Mainz in Germany. In the 1430s he developed printing press technology in Strasbourg, drawing on his experience as a goldsmith skilled in polishing stones and making mirrors. By 1448 he had perfected the system of movable metal type cast in an alloy of lead, tin and antimony, set on a press modelled on the wine and olive presses of the Rhineland. In 1455 he printed his famous 42-line Bible - about 180 copies - the first printed book of Europe, cheaper than any hand-copied manuscript.",
+    62→    62→          "points": [
+    63→    63→            "Paper reached Europe through the Silk Route long before printing did.",
+    64→    64→            "In 1295 Marco Polo returned from China to Italy, spreading knowledge of woodblock printing.",
+    65→    65→            "Luxury books were still written on vellum for the rich while students needed cheap textbooks.",
+    66→    66→            "Gutenberg developed press technology at Strasbourg in the 1430s using goldsmith skills.",
+    67→    67→            "By 1448 his press at Mainz cast movable type in lead, tin and antimony; the design imitated wine presses.",
+    68→    68→            "In 1455 Gutenberg printed about 180 copies of the Bible - Europe's first printed book."
+    69→    69→          ],
+    70→    70→          "keyTerms": [
+    71→    71→            { "term": "Vellum", "meaning": "Fine parchment made from calf skin, used for luxury handwritten books." },
+    72→    72→            { "term": "Movable type", "meaning": "Individually cast metal letters that can be rearranged to print many different pages." },
+    73→    73→            { "term": "Johannes Gutenberg", "meaning": "German goldsmith of Mainz who built the first European printing press (Bible, 1455)." }
+    74→    74→          ],
+    75→    75→          "trick": "Gutenberg's alloy = 'L-T-A: Lead, Tin, Antimony' - say 'LuTAni'. Bible 1455: 'one Bible for fifty-five'.",
+    76→    76→          "examPointer": "A 3-marker may ask how Gutenberg developed the press (goldsmith skills, Strasbourg 1430s, Mainz 1448, Bible 1455) - present it as a timeline."
+    77→    77→        },
+    78→    78→        {
+    79→    79→          "heading": "The Print Revolution and Its Impact",
+    80→    80→          "para": "The shift from hand printing to mechanical printing is called the Print Revolution, and it changed far more than technology. Before Gutenberg, a scribe might copy one book in months; a press with several workers could print hundreds of sheets a day, so the time and labour of producing books fell dramatically and multiple identical copies became available. Books could now reach wider circles of readers, and printed knowledge could be preserved in standard form instead of changing with every copyist. Historians emphasise that the print revolution led to a new 'reading public': not one uniform public, but several overlapping publics - the urban elite reading expensive editions, students and artisans reading cheap pamphlets, and, later, whole new groups of readers such as women and workers. Print also changed how people thought: ideas could now be compared across books, debated in public, and carried across borders faster than any traveller. In this sense print did not only record the modern world; it actively created it by standardising languages, spreading information, and forming communities of readers who had never met.",
+    81→    81→          "points": [
+    82→    82→            "The Print Revolution is the shift from hand printing to mechanical printing.",
+    83→    83→            "Printing time and labour fell sharply, so many identical copies reached far more readers.",
+    84→    84→            "It created a new reading public - actually several overlapping publics, not one uniform audience.",
+    85→    85→            "Print preserved knowledge in standard form instead of letting it shift with each copyist.",
+    86→    86→            "Ideas could be compared, debated publicly and carried across borders faster than ever before."
+    87→    87→          ],
+    88→    88→          "keyTerms": [
+    89→    89→            { "term": "Print Revolution", "meaning": "The transformation caused by the move from hand copying to mechanical printing after 1455." },
+    90→    90→            { "term": "Reading public", "meaning": "The new, wider circle of readers that cheap print created across classes and regions." },
+    91→    91→            { "term": "Standardisation", "meaning": "Print fixed spellings, grammar and texts in one form, helping shared languages and identities form." }
+    92→    92→          ],
+    93→    93→          "trick": "Print Revolution = 'SLOWER to FASTER, FEWER to MANY, LOCAL to CROSS-BORDER' - three arrows to draw in the margin.",
+    94→    94→          "examPointer": "Examiners ask for the 'changes brought by the print revolution' - answer with time/labour saved, wider access, standardised knowledge, new publics."
+    95→    95→        },
+    96→    96→        {
+    97→    97→          "heading": "The Reading Mania: Chapbooks and Almanacs",
+    98→    98→          "para": "Through the seventeenth and eighteenth centuries literacy rates rose in most parts of Europe, and churches set up schools in villages to carry literacy to peasants. As towns grew, a 'reading mania' swept Europe: shopkeepers, artisans and servants wanted to read too, even if not all of them could read every word - many households read aloud together, so print mixed with oral culture. Booksellers employed pedlars who carried cheap books for sale on village roads; in England these were called penny chapbooks, carried by travelling 'chapmen', and the French state licensed similar small books. In France, the Biliotheque Bleue sold low-priced small books printed on poor-quality paper, while in England ballads and folk tales were sold in cheap penny series. Almanacs - calendars with lunar phases and weather predictions - hung by every hearth, and alongside them appeared romances, histories, self-help books and sensational tales of crime. Newspapers and journals carried information about wars and trade and news from distant places, while scientific works - such as those spreading Isaac Newton's discoveries - connected communities of scientists who tested and argued over printed results. This cheap, popular print prepared the soil for the political storms of the late eighteenth century.",
+    99→    99→          "points": [
+   100→   100→            "Rising literacy, church village schools and town life produced a Europe-wide 'reading mania'.",
+   101→   101→            "Pedlars carried cheap books to villages; in England they were called penny chapbooks, sold by 'chapmen'.",
+   102→   102→            "France's Biliotheque Bleue printed cheap small books on popular themes for ordinary readers.",
+   103→   103→            "Almanacs with calendars and weather predictions, romances, crime tales and self-help books sold widely.",
+   104→   104→            "Newspapers carried war and trade news; printed science (like Newton's ideas) united scientific communities.",
+   105→   105→            "Even non-readers participated, since families read aloud and listening merged with oral culture."
+   106→   106→          ],
+   107→   107→          "keyTerms": [
+   108→   108→            { "term": "Chapbook", "meaning": "Small, cheap booklet of stories or ballads sold by travelling pedlars in England." },
+   109→   109→            { "term": "Biliotheque Bleue", "meaning": "French low-cost book series on blue paper for ordinary readers." },
+   110→   110→            { "term": "Almanac", "meaning": "Annual calendar booklet with lunar phases, predictions and useful information." }
+   111→   111→          ],
+   112→   112→          "trick": "'P.C.A.N.' = Penny chapbooks, Chapmen, Almanac, News - the street furniture of reading mania.",
+   113→   113→          "examPointer": "A 3-marker may ask how 'reading mania' spread in Europe - cover literacy, pedlars/chapbooks, almanacs and newspapers with examples."
+   114→   114→        },
+   115→   115→        {
+   116→   116→          "heading": "Fear of Print and the Reformation",
+   117→   117→          "para": "Print frightened religious and political authorities because it multiplied the reach of every idea, including seditious and irreligious ones. The sixteenth century saw book burnings and bans on unauthorised books, and several religious wars were partly blamed on printed criticism. Yet print proved unstoppable, and the Reformation is the proof. In 1517 the German monk Martin Luther wrote the Ninety Five Theses attacking the sale of indulgences (certificates believed to reduce punishment for sins) and displayed them on the door of the Wittenberg church. Printed copies spread through Germany within weeks, and between 1518 and 1525 Luther's writings sold some 300,000 copies. In 1522 his German translation of the New Testament appeared and thousands of ordinary Christians could read and debate scripture themselves. Luther declared that printing is 'the ultimate gift of God and the greatest one' - without print, he said, the Reformation would have been impossible. The scholarly Catholic humanist Erasmus pushed back, mocking in his Adages the flood of printed books as 'foolish, ignorant, malignant, irreligious and seditious' - showing that the fear of print was as old as print itself.",
+   118→   118→          "points": [
+   119→   119→            "Authorities feared print would spread rebellious and irreligious thoughts; books were burned and banned.",
+   120→   120→            "In 1517 Martin Luther's Ninety Five Theses against indulgences were printed and spread across Germany.",
+   121→   121→            "Luther's writings sold about 300,000 copies between 1518 and 1525.",
+   122→   122→            "Luther's 1522 New Testament let ordinary Christians read scripture and debate the Church directly.",
+   123→   123→            "Luther called printing 'the ultimate gift of God and the greatest one'; Reformation was unthinkable without print.",
+   124→   124→            "Erasmus in his Adages attacked the flood of 'foolish, ignorant... seditious' printed books."
+   125→   125→          ],
+   126→   126→          "keyTerms": [
+   127→   127→            { "term": "Indulgences", "meaning": "Certificates sold by the Catholic Church claiming to reduce punishment for sins; Luther attacked them." },
+   128→   128→            { "term": "Ninety Five Theses", "meaning": "Luther's 1517 list of criticisms of the Church, spread across Europe by print." },
+   129→   129→            { "term": "Reformation", "meaning": "The 16th-century religious movement that broke western Christendom; print was its engine." }
+   130→   130→          ],
+   131→   131→          "trick": "Luther = '1517 on the DOOR, 1522 in the HANDS' - on the church door in 1517, in readers' hands in 1522.",
+   132→   132→          "examPointer": "Source-based questions love Luther's quote. Explain: what he attacked (indulgences), why print mattered (speed, mass copies), and Erasmus as the counter-voice."
+   133→   133→        },
+   134→   134→        {
+   135→   135→          "heading": "Print Culture and the French Revolution",
+   136→   136→          "para": "Historians credit print with preparing the ground for the French Revolution of 1789 in three connected ways. First, popularising Enlightenment ideas: the writings of Voltaire and Rousseau were printed and read so widely that the idea that reason, not custom, should judge society became common sense among educated Frenchmen. Second, cheap print undercut the expense of handwritten books, so even ordinary readers could afford books, and reading groups, salons and cafes created a collective culture of dialogue where opinions were formed in public debate rather than handed down by church and crown. Third, print circulated scandal and critique: exposing the moral corruption of the clergy and the despotism of the monarchy eroded the sacred authority of both. A famous revolutionary slogan captured the spirit: 'Tremble, therefore, you tyrants of the world!' - printed satire and argument had made the people into critics. Print did not by itself cause the Revolution - bad harvests, debt and class privilege did that - but it created the conditions in which ordinary people could imagine a different social order and act together for it.",
+   137→   137→          "points": [
+   138→   138→            "Print popularised Enlightenment thinkers such as Voltaire and Rousseau across France.",
+   139→   139→            "Cheap printed books placed reading within reach of ordinary people, not just elites.",
+   140→   140→            "Salons, cafes and reading circles built a collective culture of dialogue and debate.",
+   141→   141→            "Printed satire exposed the corruption of the clergy and the despotism of the monarchy.",
+   142→   142→            "'Tremble, therefore, you tyrants of the world!' expressed print-made confidence against tyranny.",
+   143→   143→            "Print created the conditions for revolution, even though its immediate causes were economic and social."
+   144→   144→          ],
+   145→   145→          "keyTerms": [
+   146→   146→            { "term": "Enlightenment", "meaning": "18th-century intellectual movement valuing reason and questioning church and crown authority." },
+   147→   147→            { "term": "Voltaire and Rousseau", "meaning": "French philosophers whose printed critiques of tyranny and religion shaped revolutionary opinion." },
+   148→   148→            { "term": "Salon", "meaning": "Gathering in a private house where printed ideas were read out and debated - part of print's public culture." }
+   149→   149→          ],
+   150→   150→          "trick": "3 causes in order: 'IDEAS - ACCESS - EXPOSURE' (Enlightenment printed, books cheapened, corruption exposed).",
+   151→   151→          "examPointer": "A 5-marker asks how print culture assisted the growth of the French Revolution - always give all three points plus the 'tyrants' quotation."
+   152→   152→        },
+   153→   153→        {
+   154→   154→          "heading": "Nineteenth-Century Innovations in Printing",
+   155→   155→          "para": "The nineteenth century industrialised printing itself. Richard M. Hoe of New York perfected the power-driven cylindrical press in 1843, which could print 8,000 sheets per hour and was used by The Times of London; the shift from a flat hand press to a rotating cylinder multiplied speed. In the late nineteenth century the offset press was developed, printing on several surfaces at once, and electrotyping improved the clarity of images. Paper, previously made from rags, began to be made mechanically from wood pulp, cutting its price. Presses, composing and binding could now sit in the same building, and illustrated weeklies and cheap serial fiction followed. In England, popular works appeared in cheap 'Shilling Series' in the 1920s, while scary serials called 'penny dreadfuls' fed working-class boys; Germany sold cheap novels in series; in France serialised novels appeared in periodicals like La Presse. Compulsory primary education in France created a mass market for school textbooks, lending libraries spread through cities, and a children's press grew: the Grimm Brothers' fairy tales were published in 1823 and Hans Christian Andersen's stories became nursery classics. Women emerged as both important readers and significant writers - Jane Austen, the Bronte sisters and George Eliot proved that the novel was a strong field for women's authorship.",
+   156→   156→          "points": [
+   157→   157→            "Richard M. Hoe's power-driven cylindrical press (1843) printed 8,000 sheets an hour for The Times.",
+   158→   158→            "The offset press printed on multiple surfaces, and electrotyping sharpened printed images.",
+   159→   159→            "Paper made mechanically from wood pulp replaced rags, cutting costs.",
+   160→   160→            "England's Shilling Series (1920s) and 'penny dreadfuls', Germany's cheap novels and France's serials made books affordable.",
+   161→   161→            "Compulsory schooling created textbook demand; lending libraries and a children's press (Grimm Brothers 1823, Andersen) spread reading.",
+   162→   162→            "Women became major novelists and readers - Jane Austen, the Bronte sisters and George Eliot."
+   163→   163→          ],
+   164→   164→          "keyTerms": [
+   165→   165→            { "term": "Cylindrical press", "meaning": "Power-driven rotating press perfected by Richard M. Hoe in 1843; about 8,000 sheets an hour." },
+   166→   166→            { "term": "Offset press", "meaning": "Late-19th-century press that transferred ink via a rubber cylinder, printing several colours at once." },
+   167→   167→            { "term": "Shilling Series", "meaning": "Cheap English book series of the 1920s selling popular titles for a shilling." }
+   168→   168→          ],
+   169→   169→          "trick": "Innovation chain: 'STEAM - CYLINDER - OFFSET - WOOD PULP' = faster, clearer, cheaper, bigger.",
+   170→   170→          "examPointer": "A 5-marker lists 19th-century print innovations - name Hoe's cylinder press (1843), offset press, electrotyping, wood-pulp paper and cheap serial publications."
+   171→   171→        },
+   172→   172→        {
+   173→   173→          "heading": "India and the World of Print",
+   174→   174→          "para": "India had a long manuscript tradition: handwritten texts on palm leaves or birch bark were stitched together and often beautifully illustrated, but because they were handwritten they remained expensive, fragile and rare. Printing arrived with the Portuguese Jesuit missionaries, who landed in Goa in the mid-sixteenth century and had a press by 1556; Jesuit priests learnt Konkani and printed tracts, a Tamil book was printed at Cochin as early as 1578, and Malayalam books followed by 1713. The English East India Company began importing presses from the late seventeenth century, and from 1780 James Augustus Hicky's Bengal Gazette - a weekly he called 'scandalous' - appeared in Calcutta, followed by the India Gazette and the Calcutta Gazette, the Madras Courier and the Bombay Herald. Newspapers soon carried both commercial news and the wars of opinion between reformers and orthodox voices. Because manuscripts had chained knowledge to a few scribes and temples, print's arrival in India changed who could join public debate: religious texts, reformist pamphlets and newspapers connected readers who would never meet, from Calcutta literati to Tamil villages.",
+   175→   175→          "points": [
+   176→   176→            "Indian manuscripts on palm leaves and birch bark were costly and rare since every copy was handwritten.",
+   177→   177→            "The first printing press came to Goa with Jesuit missionaries in 1556; Konkani tracts were printed.",
+   178→   178→            "A Tamil book was printed at Cochin in 1578 and Malayalam books by 1713.",
+   179→   179→            "The English East India Company imported presses from the late seventeenth century.",
+   180→   180→            "Hicky's Bengal Gazette, a scandalous weekly, appeared in Calcutta in 1780, followed by the India Gazette, Calcutta Gazette (1784), Madras Courier (1784) and Bombay Herald (1789).",
+   181→   181→            "Print broke the scribes' monopoly and widened who could take part in public debate."
+   182→   182→          ],
+   183→   183→          "keyTerms": [
+   184→   184→            { "term": "Hicky's Bengal Gazette", "meaning": "First Indian newspaper, a Calcutta weekly started by James Augustus Hicky in 1780." },
+   185→   185→            { "term": "Palm leaf manuscript", "meaning": "Traditional Indian handwritten book on dried palm leaves, often illustrated." },
+   186→   186→            { "term": "Jesuit missionaries", "meaning": "Catholic priests who brought the first press to Goa (1556) and printed Konkani tracts." }
+   187→   187→          ],
+   188→   188→          "trick": "Indian print timeline: '1556 GOA press, 1578 Tamil, 1713 Malayalam, 1780 Hicky' - G-T-M-H = 'Goa Teaches More History'.",
+   189→   189→          "examPointer": "One-markers: first press in India (Goa, 1556), first newspaper (Hicky's Bengal Gazette, 1780). A 3-marker may ask how print reached India."
+   190→   190→        },
+   191→   191→        {
+   192→   192→          "heading": "Religious Reform and Public Debates in India",
+   193→   193→          "para": "From the early nineteenth century, Indian newspapers became the arena of the great religious and social debates of the age. Raja Rammohun Roy, the Bengal reformer, published the Sambad Kaumudi from 1821, while the orthodox Hindu side answered through the Samachar Chandrika; both sides fought through print over widow remarriage, idolatry, monotheism and the caste privileges of priests. The Ramcharitmanas of Tulsidas, composed in the sixteenth century, came out in printed form from Calcutta in 1810, carrying the devotional text far beyond temple reciters; Muslim scholars like Shah Abdul Aziz published printed sermons, and Persian newspapers such as Jam-i-Jahan Nama and Shamsul Akhbar carried political discussion to elite readers. Print multiplied the number of participants in these debates: a pamphlet printed in Calcutta could be read aloud in a Banaras courtyard, so communities of Hindus, Muslims and reformers argued about beliefs and practices across regions. Debates over widow immolation (sati), which Rammohun Roy campaigned against, show how print-based public opinion pushed the colonial government to legislate - the practice was banned in 1829. Print thus turned private conscience into public argument, the beginning of modern political discussion in India.",
+   194→   194→          "points": [
+   195→   195→            "Raja Rammohun Roy's Sambad Kaumudi (1821) debated reform; the orthodox answered with the Samachar Chandrika.",
+   196→   196→            "Tulsidas's Ramcharitmanas was printed from Calcutta in 1810, spreading the 16th-century text widely.",
+   197→   197→            "Printed sermons of Shah Abdul Aziz carried Islamic reformist views; Persian papers Jam-i-Jahan Nama and Shamsul Akhbar carried elite debate.",
+   198→   198→            "Newspapers argued over widow remarriage, sati, idolatry and Brahmanical priesthood.",
+   199→   199→            "Print connected communities across regions - readers debated beliefs and practices they had never discussed publicly.",
+   200→   200→            "Public opinion built through print helped push the ban on sati in 1829."
+   201→   201→          ],
+   202→   202→          "keyTerms": [
+   203→   203→            { "term": "Sambad Kaumudi", "meaning": "Bengali weekly started by Raja Rammohun Roy in 1821 to spread reformist views." },
+   204→   204→            { "term": "Samachar Chandrika", "meaning": "Orthodox Hindu newspaper that opposed reformers like Rammohun Roy through print." },
+   205→   205→            { "term": "Public debate", "meaning": "Argument carried out through printed newspapers so that society, not just priests or rulers, judges issues." }
+   206→   206→          ],
+   207→   207→          "trick": "Reformers vs orthodox = 'Kaumudi vs Chandrika' - moonlight (Kaumudi) versus the old moon (Chandrika).",
+   208→   208→          "examPointer": "A 5-marker asks how print helped religious reform debates - use Sambad Kaumudi vs Samachar Chandrika, the Ramcharitmanas print, and the 1829 sati ban as evidence."
+   209→   209→        },
+   210→   210→        {
+   211→   211→          "heading": "New Forms of Publication in India",
+   212→   212→          "para": "The nineteenth century multiplied what print could be in India. Novels in Bengali and Marathi began appearing from the 1860s, along with short stories and cheap bazaar romances; visual culture spread through woodcuts and coloured lithographs sold in bazaars, and caricature and satire found new forms in journals like the Delhi Sketch Book (1850s) and the Awadh Punch (1877). Newspapers grew in every province, with The Hindu in Madras and the Amrita Bazar Patrika from Bengal becoming famous names. Print opened a space for women: Rashsundari Devi learnt to read in secret and published her autobiography Amar Jiban in 1876, the first by an Indian woman; Tarabai Shinde's Stripurush Tulana (1882) compared women and men to attack patriarchy; Pandita Ramabai wrote about the lives of upper-caste Hindu women; and Begum Rokeya Sakhawat Hossein argued for girls' education. From the 1870s Hindi printing grew in north India, and by the early twentieth century journals for women, often edited and run by women themselves, circulated in the bazaars and homes. Print also reached the poor: Potheri Kunhambu, a lower-caste writer from Kerala, wrote the novel Saraswativijayam (1892) attacking caste oppression, and Kashibaba, a Kanpur millworker, published Chhote aur Bade ka Sawal (1938) linking caste and class exploitation; Bombay workers set up their own libraries.",
+   213→   213→          "points": [
+   214→   214→            "Bengali and Marathi novels and cheap bazaar literature appeared from the 1860s.",
+   215→   215→            "Woodcuts, lithographs and caricatures in the Delhi Sketch Book (1850s) and Awadh Punch (1877) created a visual press.",
+   216→   216→            "Rashsundari Devi's Amar Jiban (1876) was the first autobiography by an Indian woman.",
+   217→   217→            "Tarabai Shinde (Stripurush Tulana, 1882), Pandita Ramabai and Begum Rokeya wrote on women's condition and education.",
+   218→   218→            "Potheri Kunhambu's Saraswativijayam (1892) attacked caste oppression; millworker Kashibaba's Chhote aur Bade ka Sawal (1938) linked caste and class.",
+   219→   219→            "From the 1870s Hindi printing expanded, and early-20th-century women's journals were edited by women."
+   220→   220→          ],
+
+[showing lines 1-220 of 305; use offset=221 with limit to continue reading]

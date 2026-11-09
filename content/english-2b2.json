@@ -1,0 +1,617 @@
+{
+  "code": "english",
+  "name": "English",
+  "bookName": "Footprints Without Feet",
+  "weightageMarks": 80,
+  "chapters": [
+    {
+      "number": 25,
+      "title": "The Making of a Scientist",
+      "author": "Robert W. Peterson",
+      "summary": "Richard Ebright, an only child from Reading, Wisconsin, turned his childhood hobby of collecting butterflies into serious scientific research. Encouraged by his mother, guided by Dr Urquhart and driven by curiosity, he learnt through science fairs that real science means doing experiments. From the gold spots on monarch pupae to viceroy mimicry and the study of how cells read DNA, his discoveries made him a great scientist.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Childhood collection of butterflies",
+        "Role of Ebright's mother",
+        "Science fairs and the lesson of experiments",
+        "Discovery of the purpose of the gold spots on monarch pupae",
+        "Viceroy butterflies copying monarchs to survive",
+        "Cell theory and work on DNA"
+      ],
+      "sections": [
+        {
+          "heading": "Plot Summary",
+          "points": [
+            "Richard Ebright, an only child, grew up north of Reading, Wisconsin, and began collecting butterflies in his boyhood.",
+            "His mother encouraged his learning, took him on trips and bought him telescopes, microscopes, cameras and mounting material.",
+            "He lost his first county science fair with a simple display of frogs, and learnt that real science means doing experiments, not merely showing things.",
+            "He tagged monarch butterflies for Dr Urquhart's migration study and discovered the purpose of the twelve gold spots on monarch pupae.",
+            "He went on to prove why viceroy butterflies copy monarchs, and later worked on how cells read their DNA, becoming a famous scientist."
+          ],
+          "keyTerms": [
+            {"term": "Tagging butterflies", "meaning": "Sticking light adhesive tags with addresses on butterfly wings to track where the butterflies migrated."},
+            {"term": "Monarch pupa", "meaning": "The stage between caterpillar and adult butterfly, marked in Ebright's study by twelve tiny gold spots."},
+            {"term": "Mimicry", "meaning": "Copying the appearance of another creature to gain protection, as the viceroy copies the monarch."}
+          ],
+          "trick": "Remember the chain: mother's encouragement, butterfly collection, science fair failure, tagging with Dr Urquhart, gold spots, viceroy mimicry, DNA. Questions usually come from this sequence.",
+          "examPointer": "Expect short questions on the role of the mother, the gold spots experiment and the viceroy study; quote exact details like Reading, Wisconsin and Dr Urquhart of the University of Toronto for full marks."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Curiosity and the desire to know why things happen drive scientific discovery.",
+            "Success comes from doing experiments, not from mere collecting or display.",
+            "Failure is a stepping stone, for losing the first science fair taught Ebright the real spirit of science.",
+            "Family and teacher support, along with persistent effort, nurture talent into greatness."
+          ],
+          "keyTerms": [
+            {"term": "Curiosity", "meaning": "The strong wish to know the reason behind everything, the seed of all science."},
+            {"term": "Perseverance", "meaning": "Steady effort over years without giving up, shown in Ebright's long experiments."}
+          ],
+          "trick": "Link every event to a quality: collection to interest, failure to learning, experiments to hard work. Answers on the qualities of a scientist can be built from this mapping.",
+          "examPointer": "Long questions often ask how Ebright became a scientist or what qualities made him one; frame answers around curiosity, hard work, learning from failure and support from others."
+        },
+        {
+          "heading": "Characters",
+          "points": [
+            "Richard Ebright: a curious, competitive and hard-working boy who turned his hobby into path-breaking science.",
+            "Ebright's mother: his constant support who encouraged learning, bought him equipment and spent evenings with him after his father's death.",
+            "Dr Frederick A. Urquhart: professor at the University of Toronto whose butterfly migration project trained Ebright in real research.",
+            "Mr Weiherer: Ebright's science teacher who opened the world of science to him and pushed him to enter fairs."
+          ],
+          "keyTerms": [
+            {"term": "County science fair", "meaning": "A local competition where student projects are judged; Ebright's early failure here taught him scientific method."},
+            {"term": "Science exhibition", "meaning": "A public display of student projects where Ebright moved from simple displays to genuine experiments."}
+          ],
+          "trick": "Do not confuse the two mentors: Dr Urquhart guided his research, while Mr Weiherer guided his science fairs. Questions love this distinction.",
+          "examPointer": "Character-based questions on the mother and the teachers are common; support every trait with one incident from the chapter."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Two-mark questions: role of the mother, what Ebright collected, meaning of tagging butterflies.",
+            "Three-mark questions: the first science fair failure, the gold spots discovery, the viceroy butterfly experiment.",
+            "Five-mark questions: Ebright's journey from collector to scientist and the qualities that made him successful.",
+            "Extract-based questions usually quote Ebright's reflections on curiosity or on losing the science fair."
+          ],
+          "keyTerms": [
+            {"term": "Gold spots", "meaning": "Twelve tiny spots on a monarch pupa that Ebright proved produce a hormone needed for its development."},
+            {"term": "Cell theory", "meaning": "The study of how cells work and read their DNA, the field Ebright entered in later life."}
+          ],
+          "trick": "Memorise names and places, such as Reading, Wisconsin, Dr Urquhart, Mr Weiherer and the twelve gold spots, since factual MCQs target exactly these.",
+          "examPointer": "Begin long answers with who Ebright was, move chronologically through his discoveries and close with the lesson his life teaches."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Where did Richard Ebright spend his boyhood?",
+          "options": ["Reading, Wisconsin", "Chicago, Illinois", "Toronto, Canada", "New York, New York"],
+          "answerIndex": 0,
+          "explanation": "The chapter opens by saying Ebright grew up north of Reading, Wisconsin, where he began collecting butterflies.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What was Ebright's chief hobby as a boy?",
+          "options": ["Stamp collecting", "Collecting and raising butterflies", "Collecting fossils and coins", "Building model aeroplanes"],
+          "answerIndex": 1,
+          "explanation": "He collected everything, but butterflies were his passion; by second grade he had collected all the species found around his hometown.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Read the extract: 'I was competitive. If I didn't do well in something, I would try to figure out what I could do better the next time.' Which trait of Ebright does this reveal?",
+          "options": ["He blamed others for his failures", "He analysed his setbacks and improved himself", "He lost interest after every failure", "He depended on luck to succeed"],
+          "answerIndex": 1,
+          "explanation": "Ebright's competitive spirit made him examine his own work and do better each time, a quality essential to a scientist.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What did Ebright discover about the twelve gold spots on a monarch pupa?",
+          "options": ["They were only decorative markings", "They produced a hormone necessary for the butterfly's full development", "They attracted insects to the pupa", "They showed where the wings would grow"],
+          "answerIndex": 1,
+          "explanation": "His science fair project proved that the gold spots were not mere markings but produced a hormone vital for the development of the butterfly.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which book first connected Ebright with the study of butterfly migration?",
+          "options": ["The Travels of Monarch X", "The Origin of Species", "The Butterfly Hunters of Wisconsin", "Science Fair Projects Made Easy"],
+          "answerIndex": 0,
+          "explanation": "His mother gave him 'The Travels of Monarch X', which invited readers to tag butterflies and send them for Dr Urquhart's migration research.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What did Ebright's experiment with starving birds establish about viceroy butterflies?",
+          "options": ["Birds relished viceroy butterflies more than monarchs", "Viceroys were poisonous like the monarchs", "Birds refused the viceroy because it copied the distasteful monarch, proving that mimicry helped the viceroy survive", "Monarchs copied the wing patterns of viceroys for protection"],
+          "answerIndex": 2,
+          "explanation": "As monarchs fed on milkweed containing poisons, birds found them distasteful and shunned their look-alike viceroys; thus the viceroy's copying was a device for survival.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "How did Ebright's mother contribute to his growth as a scientist?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "After his father's death Ebright's mother brought him up single-handedly. She recognised his curiosity, took him on trips, bought him telescopes, microscopes, cameras and mounting material, and spent evenings with him. She also gave him the children's science book that launched his butterfly collection. Her encouragement was the foundation of his career."
+        },
+        {
+          "question": "What did Ebright learn from his failure at the county science fair?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "In seventh grade Ebright displayed a slide of frog tissue and a simple frog collection at the county science fair, and won nothing. He was disappointed but did not give up. He learnt that winners at fairs did real experiments, while he had only shown things. He understood that real science required testing ideas with experiments, and this realisation turned his collecting hobby into genuine research."
+        },
+        {
+          "question": "Describe Ebright's experiment to find the purpose of the gold spots on monarch pupae.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "In eighth grade Ebright wondered whether the twelve tiny gold spots on a monarch pupa were just markings. He raised caterpillars, removed the spots from some pupae and compared them with normal ones. He found that the spots produced a hormone essential for the butterfly's full development, for without them the pupa could not become a perfect adult. The project grew out of his habit of questioning everything."
+        },
+        {
+          "question": "Trace Richard Ebright's journey from a butterfly collector to a great scientist. What qualities made him a scientist?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "Ebright began collecting butterflies in kindergarten and, guided by the book 'The Travels of Monarch X', started tagging butterflies for Dr Urquhart's migration study. Losing his first county science fair taught him that real science means doing experiments. He then discovered that the twelve gold spots on monarch pupae produce a hormone vital for development, and proved that viceroy butterflies mimic the distasteful monarch to survive. Later he studied how cells read their DNA and won wide recognition. Curiosity that always asked why, the courage to question, readiness to learn from failure, immense hard work, competitive spirit and the support of his mother, his teachers and Dr Urquhart together made him a scientist. His life shows that a hobby pursued scientifically can become a great career."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "title": "The Necklace",
+      "author": "Guy de Maupassant",
+      "summary": "Matilda Loisel, a pretty but discontented clerk's wife, borrows a diamond necklace from Mme Forestier to shine at a ministerial ball and then loses it. She and her husband replace it at thirty-six thousand francs and toil for ten years to repay the debt. When the debt is cleared, Mme Forestier reveals that the necklace was paste worth five hundred francs at the most.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Matilda's dreams and dissatisfaction",
+        "The ball and the borrowed necklace",
+        "Loss of the necklace and its replacement",
+        "Ten years of hardship and honest repayment",
+        "The revelation that the necklace was paste"
+      ],
+      "sections": [
+        {
+          "heading": "Plot Summary",
+          "points": [
+            "Matilda, wife of a clerk in the Ministry of Public Instruction, is unhappy with her modest home and dreams of luxuries she cannot afford.",
+            "Her husband brings an invitation to a grand ball; she buys a dress for four hundred francs and borrows a diamond necklace from Mme Forestier.",
+            "She enjoys supreme success at the ball, but on reaching home discovers that the necklace is missing.",
+            "The Loisels borrow a fortune and buy a replacement costing thirty-six thousand francs, then toil for ten years to repay the debt.",
+            "When Matilda finally meets Mme Forestier, she learns that the original necklace was artificial paste worth five hundred francs at the most."
+          ],
+          "keyTerms": [
+            {"term": "Paste", "meaning": "Artificial jewels made of glass or imitation stones that look like real gems."},
+            {"term": "Ministry of Public Instruction", "meaning": "The government department where M Loisel worked as a clerk."}
+          ],
+          "trick": "Fix the figures in mind: four hundred francs for the dress, thirty-six thousand for the replacement, eighteen thousand from inheritance plus eighteen thousand borrowed, five hundred as the true value, ten years of toil.",
+          "examPointer": "Numbers and the twist ending are the most tested areas; quoting them accurately fetches full marks in factual and value-based questions."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Excessive pride and the hunger to appear rich lead to ruin; contentment is wiser than show.",
+            "Appearance and reality are contrasted, for the glittering necklace turns out to be fake.",
+            "Honest confession could have averted the tragedy, showing the cost of concealing truth out of false pride.",
+            "The story also honours the Loisels' honesty and hard work in repaying every franc of the debt."
+          ],
+          "keyTerms": [
+            {"term": "Vanity", "meaning": "Excessive concern for one's looks, status and outward show, Matilda's fatal flaw."},
+            {"term": "Irony of fate", "meaning": "The cruel twist by which great effort is wasted, as the lost necklace was worthless."}
+          ],
+          "trick": "Link each event to a theme: dreams to discontent, borrowing to vanity, debt to honesty, ending to irony. This mapping answers all theme questions.",
+          "examPointer": "The ending is pure dramatic irony, so be ready to explain how the Loisels' sacrifice was wasted; connect it to the message about honesty and simplicity."
+        },
+        {
+          "heading": "Characters",
+          "points": [
+            "Matilda Loisel: pretty and charming but discontented, a dreamer of luxury whose vanity brings ten years of suffering.",
+            "M Loisel: a loving, sacrificing clerk who gives up his savings for the dress and borrows heavily to save his wife's honour.",
+            "Mme Forestier: Matilda's wealthy school friend who lends the necklace kindly and reveals the truth about the fake diamonds at the end."
+          ],
+          "keyTerms": [
+            {"term": "Dissatisfaction", "meaning": "Restless unhappiness with what one has, the trait that governs Matilda's life."},
+            {"term": "Sacrifice", "meaning": "Giving up one's own comforts for another, best shown by M Loisel."}
+          ],
+          "trick": "Contrast the pair: Matilda dreams and suffers, while Loisel acts and sacrifices. Mme Forestier holds the twist, so remember her final words.",
+          "examPointer": "Character sketches must mix traits with incidents; mention the dress, the ball, the debt and the final meeting to substantiate each trait."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Two-mark questions: why Matilda was unhappy, why she threw the invitation aside in spite.",
+            "Three-mark questions: the Loisels' life during ten years of debt, the borrowing of thirty-six thousand francs.",
+            "Five-mark questions: character sketch of Matilda, the irony of the ending, what would have happened if she had confessed.",
+            "Extract-based questions often quote Matilda's anguish about her modest home or the final revelation."
+          ],
+          "keyTerms": [
+            {"term": "Ball", "meaning": "A grand formal dance party at the Ministry that becomes the turning point of the plot."},
+            {"term": "Debt", "meaning": "The money the Loisels owe after buying the replacement necklace."}
+          ],
+          "trick": "Practise the hypothetical question, 'What if she had confessed?', as it recurs in boards; answer it with the value of the fake necklace.",
+          "examPointer": "Support answers with figures and the final line of revelation; examiners reward precise details like five hundred francs and ten years."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "What was M Loisel's occupation?",
+          "options": ["Jeweller in Paris", "Clerk at the Ministry of Public Instruction", "Schoolmaster", "Officer in the army"],
+          "answerIndex": 1,
+          "explanation": "M Loisel was a petty clerk in the Ministry of Public Instruction, earning a modest salary.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How much did the Loisels spend on Matilda's dress for the ball?",
+          "options": ["Four hundred francs", "Five hundred francs", "Eighteen thousand francs", "Thirty-six thousand francs"],
+          "answerIndex": 0,
+          "explanation": "Loisel had saved exactly four hundred francs for a gun, and sacrificed the sum for his wife's dress.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Read the extract: 'She suffered endlessly, feeling herself born for every delicacy and luxury.' What does the line tell us about Matilda?",
+          "options": ["She was chronically ill and weak", "She longed for riches and refinement far beyond her means", "She was cruel to her husband", "She enjoyed her simple home"],
+          "answerIndex": 1,
+          "explanation": "The line captures Matilda's restless longing for wealth and refinement, which made her ordinary life unbearable.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How did the Loisels arrange thirty-six thousand francs for the replacement necklace?",
+          "options": ["By selling their house", "Eighteen thousand francs inherited by Loisel plus eighteen thousand borrowed at ruinous rates", "Mme Forestier gifted the money", "Matilda sold her ornaments and trousseau"],
+          "answerIndex": 1,
+          "explanation": "Loisel had eighteen thousand francs inherited from his father, and he signed ruinous loans with moneylenders for the remaining eighteen thousand.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What truth did Mme Forestier reveal at the end of the story?",
+          "options": ["She had lost her wealth long ago", "The necklace had cost her thirty-six thousand francs", "The necklace was paste, worth five hundred francs at the most", "She had known about the loss all along"],
+          "answerIndex": 2,
+          "explanation": "In the final line she confesses that her diamonds were artificial paste worth at most five hundred francs, turning the Loisels' sacrifice into bitter irony.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What, more than anything else, caused the Loisels' ruin?",
+          "options": ["Loisel's meagre salary", "Mme Forestier's carelessness", "The cruelty of the moneylenders", "Matilda's false pride, which stopped her from confessing the loss to Mme Forestier"],
+          "answerIndex": 3,
+          "explanation": "A frank confession would have shown that the necklace was cheap paste; vanity made the couple hide the truth and suffer ten needless years.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why did Matilda throw the invitation aside in spite?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "When her husband proudly brought the invitation to the Minister's ball, Matilda flung it away in spite because she had nothing suitable to wear. She felt humiliated by her shabby clothes and wanted to stay home. Her tears and complaints forced Loisel to sacrifice his savings for a dress."
+        },
+        {
+          "question": "Describe the Loisels' life during the ten years they took to repay their debt.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "The Loisels dismissed their maid, moved to a garret under the roof and learnt every household chore themselves. Matilda did the rough housework, washed linen, carried water, haggled with shopkeepers and defended every sou. Her beauty faded, her hands grew rough and red, and her hair was badly done. Loisel worked evenings and nights copying pages at five sous a page. In this grinding poverty they repaid every franc for ten years."
+        },
+        {
+          "question": "How does the ending of the story bring out the irony of fate?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "The Loisels replace the lost necklace with a real diamond piece worth thirty-six thousand francs and suffer ten years of poverty to repay the debt. At the end Mme Forestier casually reveals that her necklace was paste, worth five hundred francs at the most. All their sacrifice was thus wasted for a fake jewel, making the ending a classic example of dramatic irony where the truth comes too late to help the characters."
+        },
+        {
+          "question": "Sketch the character of Matilda Loisel. What lesson does her story teach?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Matilda is pretty and charming, yet born into a family of clerks, and this mismatch poisons her mind. She dreams of silks, jewels, grand rooms and admiring guests, and finds her modest home, worn chairs and ugly curtains unbearable. Her vanity makes her buy a costly dress, borrow a diamond necklace and hide the loss from Mme Forestier out of false pride. The same pride costs her youth, beauty and comfort as she repays thirty-six thousand francs in ten years. Yet Matilda is not dishonest, for she struggles heroically to repay every franc. Her story teaches that contentment, honesty and simplicity are worth more than outward show, and that a moment of vanity can ruin a lifetime of happiness."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "title": "Bholi",
+      "author": "K.A. Abbas",
+      "summary": "Sulekha, nicknamed Bholi, is the neglected youngest child of Ramlal the Numberdar, marked by a fall in infancy, smallpox and a stammer. At the village school a kind teacher's encouragement slowly fills her with confidence and learning. Years later she refuses to marry the dowry-seeking Bishamber and declares she will serve her village as a teacher in the same school.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Why Sulekha was called Bholi",
+        "The kind teacher and the village school",
+        "Bishamber's demand of five thousand rupees",
+        "Bholi's transformation through education",
+        "The wedding scene and Bholi's refusal"
+      ],
+      "sections": [
+        {
+          "heading": "Plot Summary",
+          "points": [
+            "Sulekha, called Bholi because she was a simpleton, falls off her cot as a baby, and smallpox leaves her pockmarked and stammering.",
+            "When the Tehsildar inaugurates the village school, Ramlal's wife suggests sending Bholi, so that the other daughters' marriage prospects are not risked.",
+            "The gentle teacher encourages her, shows her pictures in a book and gives her kind words, and Bholi slowly gains confidence and learning.",
+            "Her marriage is fixed with Bishamber, a greedy old widower, who demands five thousand rupees on seeing her pockmarked face.",
+            "Bholi throws the garland into the fire, refuses the marriage and declares she will serve her village as a teacher."
+          ],
+          "keyTerms": [
+            {"term": "Numberdar", "meaning": "A village revenue official of some standing, the position held by Ramlal."},
+            {"term": "Dowry", "meaning": "Money or goods demanded by the groom's side at marriage, which Bishamber demanded shamelessly."}
+          ],
+          "trick": "Remember the turning points in order: fall from the cot, smallpox, school entry, teacher's kindness, Bishamber's demand, final refusal.",
+          "examPointer": "The wedding scene and the role of the teacher are favourite zones of questions; keep the sequence crisp and the details exact."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Education transforms the weakest and most neglected child into a confident, dignified individual.",
+            "A sensitive teacher can change a child's life with love, patience and encouragement.",
+            "The story attacks the dowry system and the tendency to judge girls by their looks.",
+            "True empowerment lies in choosing service to others over a life of humiliation."
+          ],
+          "keyTerms": [
+            {"term": "Empowerment", "meaning": "Gaining the strength and confidence to take one's own decisions, as Bholi does."},
+            {"term": "Compassion", "meaning": "Sympathetic concern for others, shown by the teacher towards the timid child."}
+          ],
+          "trick": "Frame every answer around the contrast between Bholi before school and Bholi after school; the transformation itself is the message.",
+          "examPointer": "Value-based questions on women's education and the dowry evil recur; always connect Bholi's refusal to her education, not to mere anger."
+        },
+        {
+          "heading": "Characters",
+          "points": [
+            "Bholi (Sulekha): a neglected, timid girl who blossoms into a confident young woman through education.",
+            "The teacher: kind, patient and encouraging, he makes school a haven and awakens Bholi's self-belief.",
+            "Ramlal: the Numberdar, weak before his wife and society, torn between family honour and his daughter's welfare.",
+            "Bishamber Nath: a mean, greedy widower grocer who insults Bholi's face and demands five thousand rupees."
+          ],
+          "keyTerms": [
+            {"term": "Tehsildar", "meaning": "A revenue officer whose visit to inaugurate the school changes Bholi's life."},
+            {"term": "Stammer", "meaning": "An involuntary hesitation in speech that Bholi overcomes by the end."}
+          ],
+          "trick": "Do not mix the family details: Ramlal has seven children, three sons and four daughters, and Bholi is the seventh and youngest.",
+          "examPointer": "Quote the teacher's encouraging words and Bholi's final declaration in answers; they display both the cause and the effect of her change."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Two-mark questions: why Sulekha was called Bholi, why she was sent to school.",
+            "Three-mark questions: the teacher's treatment of Bholi, the scene at Bishamber's wedding.",
+            "Five-mark questions: how education transformed Bholi, the message of the story against dowry.",
+            "Extract-based questions usually quote the teacher's reassurance or Bholi's final refusal."
+          ],
+          "keyTerms": [
+            {"term": "Transformation", "meaning": "A complete change from fear and dependence to confidence and dignity."},
+            {"term": "Self-respect", "meaning": "Regard for one's own worth, which Bholi asserts at the wedding."}
+          ],
+          "trick": "The chapter is a transformation story, so memorise three befores (stammer, pockmarks, timidity) and three afters (eloquence, courage, purpose).",
+          "examPointer": "When asked why Bholi refused Bishamber, stress that she chose dignity and service, showing the true fruit of education, not mere defiance."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "What was Bholi's real name?",
+          "options": ["Sulekha", "Radha", "Mangla", "Kamla"],
+          "answerIndex": 0,
+          "explanation": "Her real name was Sulekha; Bholi, meaning simpleton, was the nickname her family gave her.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What left Bholi's face permanently disfigured?",
+          "options": ["A fall from the cot", "An attack of smallpox", "A burning lamp at her wedding", "A childhood fever"],
+          "answerIndex": 1,
+          "explanation": "Smallpox left deep pockmarks over her body; the earlier fall from the cot had only slightly damaged her brain.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Read the extract: 'Put the fear out of your heart and you will be able to speak like anyone else.' Who said these words and to whom?",
+          "options": ["Ramlal to Bholi", "The teacher to Bholi", "Bishamber to Bholi", "The Tehsildar to Ramlal"],
+          "answerIndex": 1,
+          "explanation": "On her first day at school, the gentle teacher said this to the stammering, frightened Bholi to draw her out of her shell.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Why was Bholi sent to school though her sisters were not?",
+          "options": ["She was the cleverest child of the family", "Her parents felt her prospects of marriage were slim, and schooling might improve them", "A teacher visited their house and asked for her", "She had a deep desire to study"],
+          "answerIndex": 1,
+          "explanation": "Ramlal and his wife worried that schooling might spoil the chances of the good-looking sisters, while Bholi was seen as a burden whose marriage was doubtful anyway.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Who was Bishamber Nath?",
+          "options": ["The village Numberdar", "Bholi's kind school teacher", "A well-to-do widower grocer with grown children who demanded five thousand rupees", "The Tehsildar's assistant"],
+          "answerIndex": 2,
+          "explanation": "Bishamber was a grocer from another village, a widower with grown-up children, who demanded five thousand rupees on seeing Bholi's face.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What makes Bholi's declaration that she would teach in the same school significant?",
+          "options": ["She wished to punish her parents for neglect", "She hoped to earn wealth quickly", "She had no other marriage option left", "She chose dignity and service, repaying her teacher's love by educating girls like her former self"],
+          "answerIndex": 3,
+          "explanation": "Her decision turns education into service and shows that her self-respect, not resentment, guided her choice of a life as a teacher.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why was Sulekha nicknamed Bholi?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Sulekha was nicknamed Bholi, the simpleton, because a fall from her cot in infancy had slightly damaged her brain, making her slow in learning and speech. An attack of smallpox later left her whole body permanently disfigured with pockmarks, and she stammered while speaking. These afflictions made the family and villagers treat her as a dumb cow."
+        },
+        {
+          "question": "How did the teacher help Bholi overcome her fear and stammer?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The teacher greeted the timid girl with a warm smile and spoke to her kindly. He let the stammering child struggle with her words without ever laughing at her, and encouraged her to speak when she felt ready. He gave her a book with her own picture in it, praised her efforts and promised that in time she would be more learned than anyone in the village. This love and faith slowly removed her fear and built her confidence."
+        },
+        {
+          "question": "What happened at Bishamber's wedding when the garland was about to be exchanged?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "When Bishamber lifted the garland, he saw Bholi's pockmarked face and demanded five thousand rupees as dowry. Ramlal placed his turban at his feet and wept, but the groom did not relent until the money was brought. As Bholi was about to put the garland round his neck, a branch of the lamp fell and set her veil alight; she flung the garland into the fire, refused to marry the mean old groom, and spoke fluently without a stammer."
+        },
+        {
+          "question": "How did Bholi's education transform her life? What message does the story give?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Bholi entered school as a frightened stammering girl whom everyone called a simpleton, mocked for her pockmarked face and neglected even by her parents. The teacher's kindness made the classroom her happiest place, and day by day she learnt to read, to speak and to hope. Education filled the empty spaces of her life with confidence, dignity and a sense of purpose, so much so that on her wedding day she spoke fluently and fearlessly. When Bishamber demanded five thousand rupees seeing her face, she refused to marry such a greedy man and declared that she would serve her village as a teacher in the same school. The story thus attacks the dowry system and the custom of valuing girls by their looks, and teaches that education, not beauty, is the real ornament that frees a woman from fear and dependence."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "title": "The Book That Saved the Earth",
+      "author": "Karel Capek",
+      "summary": "This twenty-fifth century play shows how a harmless book of Mother Goose nursery rhymes once saved Earth from a Martian invasion. The vain Think-Tank, his apprentice Noodle and a crew under Captain Omega misread the innocent rhymes as proof of Earthling power and flee in panic. Through its humour, the play celebrates the power of books and mocks ignorance and arrogance.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Think-Tank and his Martian crew",
+        "The historical library scene",
+        "Misinterpretation of nursery rhymes",
+        "Noodle's role as apprentice",
+        "Satire on arrogance and the value of books"
+      ],
+      "sections": [
+        {
+          "heading": "Plot Summary",
+          "points": [
+            "A Historian in a twenty-fifth century museum narrates how, centuries earlier, a Martian invasion of Earth was averted by a mere book.",
+            "The Great and Mighty Think-Tank, Commander-in-chief of Mars, sends a crew under Captain Omega with Lieutenant Iota and Sergeant Oop to survey Earth.",
+            "The crew reaches a historical library, first tries to eat books as food, and then reads Mother Goose nursery rhymes.",
+            "Think-Tank misinterprets the rhymes, believing Earthlings are powerful and dangerous, and orders the invasion cancelled with immediate evacuation.",
+            "The Historian reveals that Think-Tank was later dethroned and Earth was saved by a book of nursery rhymes."
+          ],
+          "keyTerms": [
+            {"term": "Commander-in-chief", "meaning": "The supreme head of armed forces, the self-important title Think-Tank gives himself."},
+            {"term": "Historical library", "meaning": "The building on Earth where the Martian crew encounters books for the first time."}
+          ],
+          "trick": "Follow the chain: museum narration, Martian council, library visit, eaten books, rhymes read, panic, evacuation. Each link is a potential question.",
+          "examPointer": "Name the characters exactly, Think-Tank, Noodle, Captain Omega, Lieutenant Iota and Sergeant Oop, since factual questions test these names."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Books open windows of knowledge, and reading with understanding is a power that can even save a planet.",
+            "Ignorance and arrogance breed foolish decisions, as Think-Tank's blunders show.",
+            "The play satirises pompous leaders who take credit for their juniors' ideas.",
+            "Humour carries a serious message that interpretation needs care, for misreading words can cause needless panic."
+          ],
+          "keyTerms": [
+            {"term": "Satire", "meaning": "The use of humour and ridicule to expose folly, the chief weapon of the play."},
+            {"term": "Misinterpretation", "meaning": "Understanding something wrongly, which turns harmless rhymes into imagined weapons."}
+          ],
+          "trick": "Connect each funny episode to its serious point: eating books to ignorance, wrong rhymes to misinterpretation, fleeing to the triumph of knowledge.",
+          "examPointer": "Value questions like 'How did a book save the Earth?' need both the plot details and the message about the power of reading."
+        },
+        {
+          "heading": "Characters",
+          "points": [
+            "Think-Tank: the vain, boastful ruler of Mars who calls himself the great and mighty and misjudges everything on Earth.",
+            "Noodle: his apprentice, outwardly submissive but subtly wise, who plants good ideas that Think-Tank claims as his own.",
+            "Captain Omega, Lieutenant Iota and Sergeant Oop: the obedient Martian crew whose literal-minded attempts create much of the humour.",
+            "The Historian: the twenty-fifth century narrator who frames the play and reveals the outcome of the invasion."
+          ],
+          "keyTerms": [
+            {"term": "Apprentice", "meaning": "A junior who learns under a master, the humble post Noodle holds under Think-Tank."},
+            {"term": "Martians", "meaning": "Imaginary inhabitants of Mars who plan the invasion of Earth."}
+          ],
+          "trick": "Remember Noodle's pattern: he calls Think-Tank great, then offers the needed idea as a humble doubt. This formula answers most character questions.",
+          "examPointer": "Character sketches should highlight contrast: Think-Tank's pomposity against Noodle's quiet intelligence and the crew's comical obedience."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Two-mark questions: who is Think-Tank, which book was read in the library.",
+            "Three-mark questions: how the Martians misread the rhymes, the role of Noodle, the humour in the play.",
+            "Five-mark questions: how a book of nursery rhymes saved the Earth, the play's message about books and ignorance.",
+            "Extract-based questions usually quote Think-Tank's boasts or Noodle's polite suggestions."
+          ],
+          "keyTerms": [
+            {"term": "Evacuation", "meaning": "Hasty withdrawal from a place, ordered by Think-Tank when he panics."},
+            {"term": "Mother Goose", "meaning": "The book of nursery rhymes whose innocent verses rout the invaders."}
+          ],
+          "trick": "Memorise two rhyme examples, the cow jumping over the moon and Humpty Dumpty's great fall, as Think-Tank's worst misreadings.",
+          "examPointer": "In long answers, show the contrast between the innocent rhymes and Think-Tank's terrifying conclusions, then close with the message about books."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Who narrates the story of the Martian invasion from a museum in the twenty-fifth century?",
+          "options": ["Think-Tank", "Noodle", "The Historian", "Captain Omega"],
+          "answerIndex": 2,
+          "explanation": "The play opens with the Historian in a museum, telling visitors how a book saved the Earth centuries earlier.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which book did the Martians read in the historical library?",
+          "options": ["A book of magic spells", "Mother Goose nursery rhymes", "A military training manual", "An atlas of the universe"],
+          "answerIndex": 1,
+          "explanation": "The crew opens a slim book of Mother Goose nursery rhymes, and its innocent verses panic Think-Tank.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Read the extract: 'Great and Mighty Think-Tank, most intelligent creature in the whole universe, ruler of Mars and her moons...' What does such constant address reveal?",
+          "options": ["Noodle's deep devotion to truth", "Think-Tank's modest nature", "Think-Tank's vanity and Noodle's honeyed flattery", "The crew's terror of Earthlings"],
+          "answerIndex": 2,
+          "explanation": "The grand titles feed Think-Tank's vanity, while they also let the clever Noodle flatter his master before slipping in a sensible suggestion.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How did Sergeant Oop and the crew first try to deal with the books?",
+          "options": ["They scanned them with a machine", "They listened to them carefully", "They ate a book, taking it for food", "They burnt them for warmth"],
+          "answerIndex": 2,
+          "explanation": "Mistaking books for sandwiches, the crew actually eats a page; only after Noodle's hint do they discover that books are meant to be read.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Why did Think-Tank order immediate evacuation and abandon the invasion?",
+          "options": ["Mars recalled him for another duty", "His army was defeated in battle", "Noodle refused to carry out his orders", "He misread the rhymes as proof that Earthlings were advanced and dangerous"],
+          "answerIndex": 3,
+          "explanation": "Taking the nursery rhymes as coded warnings of Earthling power, a terrified Think-Tank cancelled the invasion and ordered his crew home at once.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What makes the ending of the play deeply ironic?",
+          "options": ["The Martians conquered Earth easily", "Earth was saved by its own mighty weapons", "The Historian refused to tell the truth", "A mighty invasion collapsed because of innocent nursery rhymes, and the great Think-Tank lost his throne"],
+          "answerIndex": 3,
+          "explanation": "The irony lies in the mightiest war machine of Mars being routed by a children's rhyme book, which also costs the boastful Think-Tank his crown.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Describe Think-Tank in your own words.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Think-Tank is the ruler of Mars and its Commander-in-chief, who boasts of being the most intelligent being in the universe. He is pompous, vain and easily frightened, hungry for praise and glory. He misjudges the harmless rhymes of Mother Goose as threats, takes credit for Noodle's ideas and finally flees Earth in panic. His folly drives the whole comic plot."
+        },
+        {
+          "question": "How did the Martians misinterpret the nursery rhymes they read?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Reading Mother Goose for the first time, the Martians took the innocent verses as literal truth. Think-Tank decided that the cow jumping over the moon proved the Earthlings had mastered space travel and even cultured their animals, while Humpty Dumpty's great fall and the rest of the verses convinced him that they were dangerously powerful and might invade Mars. Convinced that Earthlings were far superior, he ordered evacuation and cancelled the invasion, though the rhymes were merely children's entertainment."
+        },
+        {
+          "question": "What role does Noodle play, and how does he handle Think-Tank?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Noodle is Think-Tank's apprentice at Mars Space Control. Though outwardly humble and always flattering his master, he is actually the most sensible Martian. It is Noodle who suggests that the books may be vitamins or food for the crew, and later hints that they might be read, steering Think-Tank towards the truth. He raises every good idea as a timid doubt, allowing the vain ruler to claim the credit, and thereby saves the situation without hurting his master's pride."
+        },
+        {
+          "question": "'A book of nursery rhymes saved the Earth.' Explain how, and state the message of the play.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "The Martians, led by the boastful Think-Tank, land in a historical library to learn about Earth before invading it. The crew first mistakes books for food and even eats a page, until Noodle hints that books might be read. They open Mother Goose, and Think-Tank, taking the innocent rhymes literally, concludes that Earthlings are far advanced, having taught even cows to cross space. Terrified that Earthlings might invade Mars, he cancels the invasion and flees home in panic, later losing his throne. Thus a single harmless book of nursery rhymes routs a mighty armada without a shot being fired. The message is gentle but firm: books are treasure houses of knowledge, reading with understanding is a power in itself, and arrogance born of ignorance leads only to comic ruin."
+        }
+      ]
+    }
+  ]
+}

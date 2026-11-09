@@ -1,0 +1,528 @@
+     1→export default {
+     2→  "code": "civics",
+     3→  "name": "Civics",
+     4→  "bookName": "Democratic Politics II",
+     5→  "weightageMarks": 20,
+     6→  "chapters": [
+     7→    {
+     8→      "number": 4,
+     9→      "title": "Political Parties",
+    10→      "summary": "This chapter explains what political parties are, the functions they perform in a democracy and the different party systems of the world. It describes the recognised national and state parties of India with their symbols and support bases. It then analyses the challenges facing political parties such as lack of internal democracy, dynastic succession, money and muscle power, and suggests reforms to strengthen them.",
+    11→      "weightageMarks": 6,
+    12→      "difficulty": "medium",
+    13→      "hotTopics": [
+    14→        "Functions of political parties",
+    15→        "Recognition of national and state parties",
+    16→        "National parties and their symbols",
+    17→        "Challenges: internal democracy, dynastic succession, money power",
+    18→        "Anti-defection law and reforms"
+    19→      ],
+    20→      "sections": [
+    21→        {
+    22→          "heading": "Meaning and Functions of Political Parties",
+    23→          "points": [
+    24→            "A political party is a group of people who come together to contest elections and hold power in the government.",
+    25→            "Parties agree on some policies and programmes for society with a view to promote the collective good.",
+    26→            "Parties contest elections: in most democracies elections are fought mainly among candidates put up by political parties.",
+    27→            "Parties put forward different policies and programmes, and voters choose from them; parties reduce a vast multitude of opinions into a few basic positions.",
+    28→            "Parties play a decisive role in making laws: laws are debated and passed in the legislature whose members belong to parties.",
+    29→            "Parties form and run governments: the party that wins a majority forms the government and recruits leaders to head departments.",
+    30→            "Parties that lose elections form the opposition, voice different views and criticise the government for its failures.",
+    31→            "Parties shape public opinion through their members and activists, and they provide people access to government machinery and welfare schemes."
+    32→          ],
+    33→          "keyTerms": [
+    34→            { "term": "Political party", "meaning": "A group of people who come together to contest elections, share policies and programmes, and seek to hold power in government." },
+    35→            { "term": "Partisanship", "meaning": "A tendency to take a side of a party and support its policies blindly; partisanship is marked by a tendency to take a biased standpoint." },
+    36→            { "term": "Opposition", "meaning": "Parties that lose the election but criticise the government, voice alternative views and keep the ruling party accountable." }
+    37→          ],
+    38→          "trick": "Remember CPL-ROA: Contest, Policies, Laws, Run government, Opinion, Access. A party without these six is just a club.",
+    39→          "examPointer": "Define a political party and state any three functions is a repeated 3 marker; the meaning of partisanship appears as a 1-2 marker."
+    40→        },
+    41→        {
+    42→          "heading": "Party Systems of the World",
+    43→          "points": [
+    44→            "A one-party system is not a good option because ruling parties in such systems are not answerable to the people; China is an example.",
+    45→            "In a two-party system power usually changes between two main parties; the United Kingdom and the United States are classic examples.",
+    46→            "A multiparty system allows several parties to compete for power, often forming coalitions; India is a prime example.",
+    47→            "The multiparty system appears messy at times and leads to political instability, yet it allows a variety of interests and opinions to enjoy political representation.",
+    48→            "The party system is not fixed by the Constitution; it evolves with the social and regional diversity of a country.",
+    49→            "India evolved from near one-party dominance after Independence to a genuine multiparty system with coalition governments since 1989."
+    50→          ],
+    51→          "keyTerms": [
+    52→            { "term": "One-party system", "meaning": "Only one party is allowed to rule and no opposition is permitted; ruling party is not accountable to people, as in China." },
+    53→            { "term": "Two-party system", "meaning": "Power changes hands between two main parties such as the Democrats and Republicans in the USA." },
+    54→            { "term": "Multiparty system", "meaning": "Several parties compete and often form alliances or coalitions to run governments, as in India." }
+    55→          ],
+    56→          "trick": "One party = no choice, Two parties = coin toss, Many parties = rainbow of voices. India plays the rainbow.",
+    57→          "examPointer": "Why is a one-party system not considered good, and which countries follow two-party and multiparty systems, are common 2-3 markers."
+    58→        },
+    59→        {
+    60→          "heading": "Recognised Parties: National and State",
+    61→          "points": [
+    62→            "The Election Commission of India registers parties and gives them recognition as national or state parties.",
+    63→            "A party that secures at least 6 percent of total votes in Lok Sabha elections or Assembly elections in at least four states, and wins at least 4 seats in the Lok Sabha, is recognised as a national party.",
+    64→            "National party status also comes if a party wins 2 percent of Lok Sabha seats from at least three states, or is recognised as a state party in four states.",
+    65→            "A state or regional party is recognised in at least one state; it secures at least 6 percent of the total votes in an election to the Legislative Assembly of the state and wins at least 2 seats.",
+    66→            "Recognised parties get a common symbol, and their symbols are not allotted to other contestants.",
+    67→            "As per the 2023 classification, national parties include the Bharatiya Janata Party, Indian National Congress, Bahujan Samaj Party, Communist Party of India Marxist and the National People's Party."
+    68→          ],
+    69→          "keyTerms": [
+    70→            { "term": "Recognised party", "meaning": "A party registered with the Election Commission that fulfils the vote and seat criteria to be treated as a national or state party." },
+    71→            { "term": "National party", "meaning": "A party recognised across at least four states with at least 6 percent votes there and 4 Lok Sabha seats." },
+    72→            { "term": "State party", "meaning": "A party recognised in at least one state; often called a regional party, such as the Biju Janata Dal or Telugu Desam Party." }
+    73→          ],
+    74→          "trick": "National recognition is the 6-4-4 rule: 6 percent votes in 4 states, plus 4 Lok Sabha seats. State party = same 6 percent but in ONE state with 2 seats.",
+    75→          "examPointer": "Distinguish national and state parties, and the conditions for recognition, are asked as 3-5 markers almost every alternate year."
+    76→        },
+    77→        {
+    78→          "heading": "National Parties of India",
+    79→          "points": [
+    80→            "The Bharatiya Janata Party, founded in 1980, grew from the Bharatiya Jana Sangh; it wants a full territorial integration of Jammu and Kashmir with India, a uniform civil code and a ban on religious conversions; its symbol is the lotus.",
+    81→            "The Indian National Congress, founded in 1885, is the oldest party of India; under Nehru it sought a democratic, socialist and secular India; it supports a mixed economy and a strong federal structure; its symbol is the open hand.",
+    82→            "The Bahujan Samaj Party, founded in 1984 under Kanshi Ram, draws inspiration from Sahu Maharaj, Mahatma Phule, Periyar and Babasaheb Ambedkar; it stands for the interests of Dalits, Adivasis, OBCs and religious minorities; its symbol is the elephant.",
+    83→            "The Communist Party of India Marxist, founded in 1964, believes in Marxism Leninism, supports socialism, secularism and democracy, and opposes imperialism; its symbol is the hammer, sickle and star.",
+    84→            "The National People's Party, founded in 2013 by P A Sangma, became the first national party from North East India; its symbol is the book.",
+    85→            "Symbols help even ordinary voters, including those who cannot read, to identify their party on the ballot."
+    86→          ],
+    87→          "keyTerms": [
+    88→            { "term": "Bharatiya Jana Sangh", "meaning": "The predecessor of the BJP, founded in 1951; the BJP was formed in 1980 from its ideological stream." },
+    89→            { "term": "Bahujan", "meaning": "The majority of the people in the BSP's ideology: Dalits, Adivasis, OBCs and minorities who form the base of the party." },
+    90→            { "term": "Party symbol", "meaning": "An allotment by the Election Commission that helps voters identify a party; national party symbols are exclusive." }
+    91→          ],
+    92→          "trick": "LCOHE: Lotus (BJP 1980), Open hand (Congress 1885, oldest), Elephant (BSP 1984), Hammer-sickle (CPI-M 1964), tExtbook (NPP 2013).",
+    93→          "examPointer": "Match-the-following on parties, founding years and symbols is a favourite MCQ cluster; describe any one national party's ideology appears as a 3 marker."
+    94→        },
+    95→        {
+    96→          "heading": "Challenges to Political Parties",
+    97→          "points": [
+    98→            "Lack of internal democracy: parties do not keep membership registers, hold organisational elections or conduct open membership procedures.",
+    99→            "Power in parties concentrates in the hands of a few leaders at the top, and ordinary members have no real information or say in decisions.",
+   100→            "Dynastic succession: leaders often favour their family members, giving unfair advantage to relatives and keeping talented ordinary workers away.",
+   101→            "Growing role of money and muscle power: parties nominate rich candidates who can fund elections, and criminals who can bully voters; this makes democracy weak.",
+   102→            "Often parties do not offer a meaningful choice: the fundamental difference among parties is reduced because the same set of leaders keeps shifting from one party to another.",
+   103→            "Voters find that economic and ideological questions are sidelined, and parties look alike on major policies, reducing the real choice before citizens."
+   104→          ],
+   105→          "keyTerms": [
+   106→            { "term": "Dynastic succession", "meaning": "The practice of passing party leadership and tickets to family members instead of talented ordinary workers." },
+   107→            { "term": "Defection", "meaning": "A legislator leaving the party on whose symbol he or she was elected to join another party for gain." },
+   108→            { "term": "Muscle power", "meaning": "Use of criminals and intimidation in elections to capture votes and booths." }
+   109→          ],
+   110→          "trick": "The four D's that damage parties: Democratic deficit inside, Dynastic succession, Dough (money) power, Duplicate choices.",
+   111→          "examPointer": "Explain any three challenges to political parties is one of the most repeated 3-5 markers; dynastic succession with an example is a 2 marker."
+   112→        },
+   113→        {
+   114→          "heading": "Reforms to Strengthen Political Parties",
+   115→          "points": [
+   116→            "The anti-defection law: the Tenth Schedule added in 1985 directs that an MLA or MP who defects loses the seat; it punishes members who switch parties but has also made dissent difficult.",
+   117→            "The Supreme Court of India in 2002 ordered every candidate to file an affidavit giving details of property and criminal cases pending against them.",
+   118→            "The Election Commission has made it compulsory for parties to hold their organisational elections and file income tax returns.",
+   119→            "Suggested reforms include a law to regulate the internal affairs of parties, maintenance of registers, and independent authorities to act as judges in party disputes.",
+   120→            "A quota for women candidates on party tickets and state funding of elections are debated reforms; state funding means the government gives parties money to support their election expenses.",
+   121→            "Besides laws, ordinary citizens, media and pressure groups can improve parties through public pressure, criticism and better participation."
+   122→          ],
+   123→          "keyTerms": [
+   124→            { "term": "Anti-defection law", "meaning": "The Tenth Schedule of the Constitution (1985) that disqualifies legislators who defect to another party." },
+   125→            { "term": "Affidavit", "meaning": "A sworn statement every candidate must file disclosing assets, education and criminal cases." },
+   126→            { "term": "State funding", "meaning": "Government financial support to political parties for election expenses, suggested as a reform to curb money power." }
+   127→          ],
+   128→          "trick": "Reform ladder: 1985 defection barred, 2002 affidavit filed, always income tax returns, plus people's pressure the best teacher.",
+   129→          "examPointer": "Suggest and explain reforms to strengthen parties, with the anti-defection law, is a regular 5 marker; the year 1985 of the Tenth Schedule is an MCQ."
+   130→        }
+   131→      ],
+   132→      "mcqs": [
+   133→        {
+   134→          "question": "Which of the following is NOT a function of political parties?",
+   135→          "options": ["Contesting elections", "Making laws", "Interpreting laws and delivering judgements in courts", "Shaping public opinion"],
+   136→          "answerIndex": 2,
+   137→          "explanation": "Interpreting laws and delivering judgements is the function of the judiciary, not of political parties.",
+   138→          "difficulty": "easy"
+   139→        },
+   140→        {
+   141→          "question": "A party is recognised as a national party if it secures at least 6 percent of total votes in four states and wins at least",
+   142→          "options": ["2 Lok Sabha seats", "4 Lok Sabha seats", "8 Lok Sabha seats", "11 Lok Sabha seats"],
+   143→          "answerIndex": 1,
+   144→          "explanation": "The recognition rule is 6 percent votes in Assembly or Lok Sabha polls in at least four states plus at least 4 Lok Sabha seats.",
+   145→          "difficulty": "medium",
+   146→          "pyq": "CBSE 2023"
+   147→        },
+   148→        {
+   149→          "question": "Which is the oldest political party of India?",
+   150→          "options": ["Bharatiya Janata Party", "Indian National Congress", "Communist Party of India Marxist", "Bahujan Samaj Party"],
+   151→          "answerIndex": 1,
+   152→          "explanation": "The Indian National Congress was founded in 1885 and is the oldest party of India.",
+   153→          "difficulty": "easy"
+   154→        },
+   155→        {
+   156→          "question": "The election symbol of the Bharatiya Janata Party is",
+   157→          "options": ["Open hand", "Lotus", "Elephant", "Book"],
+   158→          "answerIndex": 1,
+   159→          "explanation": "The BJP's symbol is the lotus; the Congress uses the open hand and the BSP the elephant.",
+   160→          "difficulty": "easy"
+   161→        },
+   162→        {
+   163→          "question": "The Bahujan Samaj Party was founded in 1984 under the leadership of",
+   164→          "options": ["Mayawati", "Kanshi Ram", "B R Ambedkar", "P A Sangma"],
+   165→          "answerIndex": 1,
+   166→          "explanation": "The BSP was founded in 1984 under the leadership of Kanshi Ram, drawing inspiration from Phule, Periyar and Ambedkar.",
+   167→          "difficulty": "medium"
+   168→        },
+   169→        {
+   170→          "question": "The Communist Party of India Marxist was founded in",
+   171→          "options": ["1925", "1951", "1964", "1977"],
+   172→          "answerIndex": 2,
+   173→          "explanation": "The CPI Marxist was founded in 1964 after a split in the original Communist Party of India.",
+   174→          "difficulty": "medium"
+   175→        },
+   176→        {
+   177→          "question": "Which party became the first national party from North East India?",
+   178→          "options": ["Mizo National Front", "National People's Party", "Sikkim Democratic Front", "Biju Janata Dal"],
+   179→          "answerIndex": 1,
+   180→          "explanation": "The National People's Party founded in 2013 by P A Sangma was recognised as a national party, the first from the North East.",
+   181→          "difficulty": "medium",
+   182→          "pyq": "CBSE 2022"
+   183→        },
+   184→        {
+   185→          "question": "The anti-defection law is contained in which Schedule of the Constitution?",
+   186→          "options": ["Eighth Schedule", "Ninth Schedule", "Tenth Schedule", "Eleventh Schedule"],
+   187→          "answerIndex": 2,
+   188→          "explanation": "The Tenth Schedule, added in 1985, contains the anti-defection law that disqualifies legislators who defect.",
+   189→          "difficulty": "medium",
+   190→          "pyq": "CBSE 2020"
+   191→        },
+   192→        {
+   193→          "question": "A party is recognised as a state party if it secures at least 6 percent of votes in a state Assembly election and wins at least",
+   194→          "options": ["1 seat", "2 seats", "3 seats", "4 seats"],
+   195→          "answerIndex": 1,
+   196→          "explanation": "A state party needs 6 percent of the state's Assembly votes plus at least 2 Assembly seats.",
+   197→          "difficulty": "medium"
+   198→        },
+   199→        {
+   200→          "question": "Giving party tickets mostly to family members of top leaders reflects which challenge?",
+   201→          "options": ["Lack of internal democracy", "Dynastic succession", "Money and muscle power", "No meaningful choice"],
+   202→          "answerIndex": 1,
+   203→          "explanation": "Dynastic succession is the challenge in which party posts and tickets go to relatives of leaders instead of talented workers.",
+   204→          "difficulty": "easy",
+   205→          "pyq": "CBSE 2019"
+   206→        },
+   207→        {
+   208→          "question": "Which country follows a two-party system in which power changes between the Democrats and the Republicans?",
+   209→          "options": ["China", "India", "United States of America", "Sri Lanka"],
+   210→          "answerIndex": 2,
+   211→          "explanation": "The United States is a classic two-party system with Democrats and Republicans alternating in power.",
+   212→          "difficulty": "easy"
+   213→        },
+   214→        {
+   215→          "question": "In 2002 the Supreme Court ordered that every candidate must file",
+   216→          "options": ["A domicile certificate", "An affidavit giving details of property and criminal cases", "A medical fitness report", "A party loyalty oath"],
+   217→          "answerIndex": 1,
+   218→          "explanation": "The Supreme Court in 2002 made it mandatory for candidates to file affidavits disclosing assets and criminal cases.",
+   219→          "difficulty": "medium"
+   220→        }
+   221→      ],
+   222→      "boardQuestions": [
+   223→        {
+   224→          "question": "What is a political party? State any one function it performs.",
+   225→          "marks": 2,
+   226→          "type": "SA",
+   227→          "probability": "high",
+   228→          "answer": "1) A political party is a group of people who come together to contest elections, share common policies and programmes for society, and seek to hold power in the government. 2) One important function is contesting elections: parties put up candidates who fight polls on the party's name and symbol, giving voters a clear choice. 3) Other functions include forming and running governments, making laws, playing the role of opposition and shaping public opinion."
+   229→        },
+   230→        {
+   231→          "question": "Describe any three functions of political parties in a democracy.",
+   232→          "marks": 3,
+   233→          "type": "SA",
+   234→          "probability": "very-high",
+   235→          "answer": "1) Parties put forward policies and programmes: they reduce a vast multitude of opinions into a few basic positions so that voters can choose a direction for society. 2) Parties make laws: members of parties dominate the legislature, and laws are debated and passed according to party positions. 3) Parties form and run governments: the majority party recruits leaders, assigns portfolios and runs the administration; the defeated parties act as opposition, criticise the government and voice alternative views. 4) Parties also shape public opinion and provide citizens access to government machinery and welfare schemes through their local leaders and activists."
+   236→        },
+   237→        {
+   238→          "question": "Distinguish between national parties and state parties with examples.",
+   239→          "marks": 3,
+   240→          "type": "SA",
+   241→          "probability": "high",
+   242→          "answer": "1) A national party is recognised by the Election Commission in at least four states: it must secure at least 6 percent of the total votes in Lok Sabha or Assembly elections in four states and win at least 4 Lok Sabha seats, or win 2 percent of Lok Sabha seats from at least three states, or be recognised as a state party in four states. Examples: BJP, Congress, BSP, CPI Marxist and NPP. 2) A state or regional party is recognised in at least one state: it needs 6 percent of the votes in the state Assembly election and at least 2 seats. Examples: Biju Janata Dal, Telugu Desam Party, Mizo National Front. 3) National parties operate across the country on national issues, while state parties focus on regional issues, language and regional identity, though many also influence national politics through coalitions."
+   243→        },
+   244→        {
+   245→          "question": "Explain any five challenges that political parties in India face today.",
+   246→          "marks": 5,
+   247→          "type": "LA",
+   248→          "probability": "very-high",
+   249→          "answer": "1) Lack of internal democracy: parties do not maintain membership registers, do not hold organisational meetings and elections regularly, and power concentrates in a few top leaders who take all decisions. 2) Dynastic succession: leaders favour their sons, daughters and relatives for posts and tickets, which keeps capable ordinary workers away and is against the spirit of democracy. 3) Growing role of money and muscle power: parties nominate rich candidates who can raise funds and criminals who can intimidate voters, so elections become contests of money rather than ideas. 4) No meaningful choice: the fundamental difference among major parties is shrinking because leaders keep shifting from one party to another and parties look alike on major policies. 5) Weak organisation at the grassroots: ordinary members lack information and influence, so decisions serve a small elite. These challenges weaken public trust in parties, which is why reforms like the anti-defection law, affidavits and stricter Election Commission oversight have been introduced."
+   250→        },
+   251→        {
+   252→          "question": "Suggest and explain any three reforms that can strengthen political parties in India.",
+   253→          "marks": 5,
+   254→          "type": "LA",
+   255→          "probability": "high",
+   256→          "answer": "1) Regulation of internal affairs: a law should require parties to maintain membership registers, hold internal elections and follow open procedures so that power is not concentrated in a few leaders; an independent authority could settle party disputes. 2) Anti-defection law and its careful use: the Tenth Schedule of 1985 already disqualifies defecting legislators; it should be applied so that elected representatives stay accountable to the voters, while genuine dissent should be protected. 3) Transparency measures: affidavits ordered by the Supreme Court in 2002 disclose assets and criminal cases, and compulsory income tax returns and organisational elections ordered by the Election Commission bring accountability. 4) Additional suggestions include quotas for women candidates on tickets and state funding of elections to reduce the dependence on big money. 5) Ultimately, the public, the media and pressure groups must keep pressing parties, because people's pressure is the most effective reform of all."
+   257→        },
+   258→        {
+   259→          "question": "Read the extract and answer: Party leadership in many organisations passes from father to son or from one relative to another, and ordinary members rarely rise to the top. Tickets for elections often go to the families of leaders. (a) Identify the challenge of political parties indicated in the extract. (b) How does this challenge harm democracy? (c) Suggest one remedy.",
+   260→          "marks": 4,
+   261→          "type": "CASE",
+   262→          "probability": "high",
+   263→          "answer": "(a) The extract indicates dynastic succession, one of the major challenges to political parties. (b) It harms democracy because talented and capable ordinary workers are denied opportunities, leadership quality declines since merit is replaced by inheritance, and parties become family firms instead of democratic organisations, reducing public trust in political life. (c) One remedy is a law or strong internal rule that regulates the internal affairs of parties, requiring transparent, merit-based selection of candidates and regular organisational elections; public pressure on parties to give at least some tickets to long-serving ordinary workers can also reduce dynasty."
+   264→        }
+   265→      ]
+   266→    },
+   267→    {
+   268→      "number": 5,
+   269→      "title": "Outcomes of Democracy",
+   270→      "summary": "This chapter evaluates democracy against the expectations people have from their own government. It examines how far democracy provides an accountable, responsive and legitimate government, promotes economic growth and equality, accommodates social diversity and protects the dignity and freedom of citizens. It ends by identifying the challenges to democracy such as foundational challenges, challenges of expansion and the deepening of democracy.",
+   271→      "weightageMarks": 6,
+   272→      "difficulty": "medium",
+   273→      "hotTopics": [
+   274→        "Accountable, responsive and legitimate government",
+   275→        "Democracy and economic growth comparison",
+   276→        "Reduction of inequality and poverty",
+   277→        "Accommodation of social diversity",
+   278→        "Dignity and freedom of citizens",
+   279→        "Foundational challenge, expansion and deepening"
+   280→      ],
+   281→      "sections": [
+   282→        {
+   283→          "heading": "How Do We Assess Democracy's Outcomes?",
+   284→          "points": [
+   285→            "People often complain that democracy is slow, that elected leaders change, that corruption keeps appearing and that elections cost a lot.",
+   286→            "Over a hundred countries of the world claim to practice some kind of democratic politics, so its record must be judged against its own promises.",
+   287→            "Democracy is judged on questions such as: does it produce a government that is accountable to citizens, does it promote development, does it reduce inequality, does it accommodate diversity and does it protect dignity.",
+   288→            "A democratic government is better because it is a legitimate government: it is elected by the people and enjoys their consent, so even if it performs poorly its decisions remain lawful.",
+   289→            "Democracy's outcomes depend not only on the form of government but also on social conditions, economic policies and the quality of political leaders.",
+   290→            "Comparing democracy with dictatorship must weigh not only the speed of decisions but also whether people's voices matter in those decisions."
+   291→          ],
+   292→          "keyTerms": [
+   293→            { "term": "Legitimate government", "meaning": "A government that people consider lawful and acceptable because it is elected by them and works under a constitution." },
+   294→            { "term": "Outcome", "meaning": "The real result a form of government produces in areas like accountability, growth, equality and dignity." },
+   295→            { "term": "Accountability", "meaning": "The duty of a government to answer to citizens for its decisions and to face elections and scrutiny." }
+   296→          ],
+   297→          "trick": "Judge democracy like a report card with five subjects: Accountability, Growth, Equality, Diversity, Dignity. Democracy toppers in Diversity and Dignity.",
+   298→          "examPointer": "How do we assess democracy in terms of expected outcomes is a standard 3-5 marker that opens most questions of this chapter."
+   299→        },
+   300→        {
+   301→          "heading": "Accountable, Responsive and Legitimate Government",
+   302→          "points": [
+   303→            "A democratic government is formed through free and fair elections, so it must answer to the people; if it does not, it can be voted out.",
+   304→            "Non-democratic rulers may take decisions very fast, but they need not worry about public opinion or majorities in parliament, so their decisions can be arbitrary.",
+   305→            "Democracy ensures that decision making is based on norms and procedures: a citizen who wants to know how a decision was taken can examine the process, which makes decisions more acceptable.",
+   306→            "Democratic governments are expected to be attentive to the needs and expectations of the people and relatively less corrupt than non-democratic ones, though the record varies.",
+   307→            "A democratic government is a legitimate government: it may be slow or less efficient, but it is the people's own government, and its support comes from its own legitimacy.",
+   308→            "So the correct comparison is not speed alone, but whether decisions are taken according to the wishes and welfare of the people."
+   309→          ],
+   310→          "keyTerms": [
+   311→            { "term": "Responsive government", "meaning": "A government that is attentive to the needs and demands of the people and acts upon them." },
+   312→            { "term": "Free and fair elections", "meaning": "Elections in which all adults can vote, choices are real, and results reflect the people's verdict without intimidation." },
+   313→            { "term": "Norms and procedures", "meaning": "The rules through which democratic decisions are taken, which make the process transparent and examineable." }
+   314→          ],
+   315→          "trick": "ARL ladder: Accountable (answers to you), Responsive (listens to you), Legitimate (chosen by you). Dictators can be fast, never ARL.",
+   316→          "examPointer": "How is a democratic government accountable, responsive and legitimate is the most repeated 5 marker of this chapter."
+   317→        },
+   318→        {
+   319→          "heading": "Economic Growth and Development",
+   320→          "points": [
+   321→            "Comparing the record of democracies and dictatorships on economic growth between 1950 and 2000, dictatorial regimes showed a somewhat higher average annual growth than democracies.",
+   322→            "The difference in average growth is small: development depends on the country's size, resources, population, relations with other countries and economic priorities, not only the form of government.",
+   323→            "Within democracies there is a big variation: some democratic countries are very rich, others quite poor; the same spread exists among dictatorships.",
+   324→            "However, economic development cannot be measured by growth alone: reduction of poverty, inequality, health, education and dignity matter equally.",
+   325→            "China's economy has grown faster than India's, yet growth figures alone cannot prove that a non-democratic system is better because other freedoms and fairness also count.",
+   326→            "Democracies have had a better record in managing economic hardships through public debate, welfare schemes and correction of policies through elections."
+   327→          ],
+   328→          "keyTerms": [
+   329→            { "term": "Economic growth rate", "meaning": "The annual increase in a country's production of goods and services, usually measured by the growth of GDP." },
+   330→            { "term": "Development", "meaning": "Overall improvement in the standard of living including income, health, education and equality, not just higher production." },
+   331→            { "term": "GDP", "meaning": "Gross Domestic Product, the total value of goods and services produced in a country in a year." }
+   332→          ],
+   333→          "trick": "Dictators can sprint, democracies run a relay: growth gap is small, and only democracy lets the people change the runner.",
+   334→          "examPointer": "Does democracy lead to economic development, with the 1950-2000 comparison, is a classic 3-5 marker; the China-India growth point is a repeated example."
+   335→        },
+   336→        {
+   337→          "heading": "Reduction of Inequality and Poverty",
+   338→          "points": [
+   339→            "Democracies have not shown a very good record in reducing economic inequalities.",
+   340→            "The poor in democracies possess a growing share of votes, yet elected governments do not always appear keen to address poverty.",
+   341→            "In many democratic countries the share of the poor population is declining while the rich enjoy rising incomes, increasing the gap.",
+   342→            "In some countries, even within a democracy, a small number of ultra-rich enjoy a highly disproportionate share of wealth and incomes; South Africa shows political democracy coexisting with deep economic inequality.",
+   343→            "At the same time, democracies provide mechanisms such as public distribution, employment guarantees like MGNREGA 2005 and reservations by which inequality can be fought.",
+   344→            "So democracy creates the political space in which inequality can be challenged, even though it does not automatically remove it."
+   345→          ],
+   346→          "keyTerms": [
+   347→            { "term": "Economic inequality", "meaning": "The unequal distribution of income and wealth among the people of a country." },
+   348→            { "term": "MGNREGA 2005", "meaning": "The Mahatma Gandhi National Rural Employment Guarantee Act that guarantees 100 days of wage employment in rural areas, an anti-poverty measure." },
+   349→            { "term": "Poverty line", "meaning": "The minimum income or consumption level considered necessary to live a basic life; people below it are counted poor." }
+   350→          ],
+   351→          "trick": "Democracy is a courtroom for inequality: it does not end poverty by itself, but it keeps the case open for the poor to argue every election.",
+   352→          "examPointer": "Explain how democracy has failed to reduce inequality, with the South Africa example, is a frequent 3-5 marker."
+   353→        },
+   354→        {
+   355→          "heading": "Accommodation of Social Diversity",
+   356→          "points": [
+   357→            "Democracies usually develop procedures to compete and negotiate differences; differences of opinion are respected rather than suppressed.",
+   358→            "No society can permanently resolve all differences, but democracy is best suited to produce outcomes that accommodate diversity.",
+   359→            "Rule by the majority does not mean rule by a majority community in terms of religion, race or language; it means whichever group gains a majority through elections must work with other groups.",
+   360→            "Majority rule expects that the majority works with the minority so that governments function to represent the general view.",
+   361→            "The example of Sri Lanka shows that imposing the will of the majority community by force leads to conflict, while Belgium shows accommodation through power sharing keeps unity.",
+   362→            "It is the responsibility of every citizen and group to see that democracy accommodates diversity and does not turn majority rule into majoritarianism."
+   363→          ],
+   364→          "keyTerms": [
+   365→            { "term": "Majoritarianism", "meaning": "The unjust rule of a majority community over others, as attempted in Sri Lanka with the Sinhala Only policies." },
+   366→            { "term": "Accommodation", "meaning": "Arranging power sharing so that different social groups live together with respect for their differences." },
+   367→            { "term": "Coalition", "meaning": "An alliance of parties or groups that together form a majority and share power." }
+   368→          ],
+   369→          "trick": "Democracy's majority is a formed majority: groups combine for five years, not a born majority that rules forever. Sri Lanka failed this test, Belgium passed it.",
+   370→          "examPointer": "How does democracy accommodate social diversity, with Belgium and Sri Lanka examples, is a repeated 5 marker."
+   371→        },
+   372→        {
+   373→          "heading": "Dignity, Freedom and the Challenges to Democracy",
+   374→          "points": [
+   375→            "Democracy stands much superior to any other form of government in promoting the dignity and freedom of the individual.",
+   376→            "Every adult citizen, poor or rich, has one vote with equal value, which recognises the dignity of every person.",
+   377→            "Dignity of women: feminist movements and legal recognition of equal rights show how democratic struggles expand dignity; dignity of Dalits: the claim for equal status and treatment is possible only in a democracy.",
+   378→            "Democracy gives people the freedom to express opinions, organise protests and choose their leaders, which expands the freedom of individuals.",
+   379→            "Challenges to democracy include the foundational challenge of making the transition to democracy in non-democratic countries, as in Myanmar or Iraq.",
+   380→            "The challenge of expansion means applying democracy to more regions, groups and institutions, for example giving more powers to panchayats and to women; deepening of democracy means strengthening the institutions and practices that people trust, fighting inequality, corruption and poverty, and expecting more from democracy than the government alone."
+   381→          ],
+   382→          "keyTerms": [
+   383→            { "term": "Universal adult franchise", "meaning": "The right of every adult citizen to vote regardless of wealth, caste, religion or gender." },
+   384→            { "term": "Foundational challenge", "meaning": "The challenge of bringing democracy to countries that have never had it or have lost it." },
+   385→            { "term": "Deepening of democracy", "meaning": "Strengthening democratic institutions, practices and values so that democracy delivers more to every group of people." }
+   386→          ],
+   387→          "trick": "Three challenges: Foundation (build it where it is missing), Expansion (spread it where it is missing for some), Deepening (strengthen it everywhere). Remember F-E-D.",
+   388→          "examPointer": "How does democracy promote dignity and freedom of citizens, and the three challenges to democracy, are both regular 5 markers; expectations like corruption-free governance are 2 markers."
+   389→        }
+   390→      ],
+   391→      "mcqs": [
+   392→        {
+   393→          "question": "Which of these expectations is most central to evaluating the outcomes of democracy?",
+   394→          "options": ["That the government is rich and powerful", "That the government is accountable to its citizens", "That the government never changes", "That the government takes all decisions secretly"],
+   395→          "answerIndex": 1,
+   396→          "explanation": "Democracy's core promise is an accountable government formed through free and fair elections that answers to the people.",
+   397→          "difficulty": "easy"
+   398→        },
+   399→        {
+   400→          "question": "Non-democratic regimes may sometimes take decisions faster. The correct evaluation is that they",
+   401→          "options": ["Take decisions quickly and remain accountable", "May take decisions quickly but the decisions may not be acceptable to the people", "Always take better decisions than democracies", "Never take wrong decisions"],
+   402→          "answerIndex": 1,
+   403→          "explanation": "Non-democratic rulers can act fast because they ignore procedures, but such decisions need not reflect people's wishes and are not accountable.",
+   404→          "difficulty": "medium",
+   405→          "pyq": "CBSE 2020"
+   406→        },
+   407→        {
+   408→          "question": "Between 1950 and 2000, the comparison of GDP growth rates shows that",
+   409→          "options": ["Democracies always grew faster than dictatorships", "Dictatorships recorded a slightly higher average growth than democracies", "Both grew at exactly the same rate", "Growth depended only on the form of government"],
+   410→          "answerIndex": 1,
+   411→          "explanation": "The NCERT comparison shows dictatorial regimes averaged slightly higher growth, but the difference is small and many other factors affect growth.",
+   412→          "difficulty": "medium",
+   413→          "pyq": "CBSE 2023"
+   414→        },
+   415→        {
+   416→          "question": "Which country's economy grew at a faster rate than India's, showing that growth alone cannot measure democracy's worth?",
+   417→          "options": ["Nepal", "Bangladesh", "China", "Bhutan"],
+   418→          "answerIndex": 2,
+   419→          "explanation": "China recorded faster economic growth than India, yet democracy is valued for fairness, freedom and accountability beyond growth.",
+   420→          "difficulty": "easy"
+   421→        },
+   422→        {
+   423→          "question": "A democratic government is called a legitimate government because it is",
+   424→          "options": ["The most efficient government", "The people's own government, elected by them", "The richest government", "A government of the military"],
+   425→          "answerIndex": 1,
+   426→          "explanation": "Legitimacy comes from the consent of the governed: a democratic government is elected by the people and enjoys their support.",
+   427→          "difficulty": "easy",
+   428→          "pyq": "CBSE 2019"
+   429→        },
+   430→        {
+   431→          "question": "Which country shows that political democracy can coexist with large economic inequalities?",
+   432→          "options": ["South Africa", "Japan", "Norway", "Switzerland"],
+   433→          "answerIndex": 0,
+   434→          "explanation": "South Africa is the NCERT example where democracy did not automatically reduce deep economic inequality left by apartheid.",
+   435→          "difficulty": "medium"
+   436→        },
+   437→        {
+   438→          "question": "Majority rule in a democracy means",
+   439→          "options": ["Rule by the majority religion or race", "Rule by whichever group gains a majority through elections, working with other groups", "Rule by the richest group", "Rule of one community over others permanently"],
+   440→          "answerIndex": 1,
+   441→          "explanation": "Democratic majority is a formed majority that works with minorities; it never means permanent rule by one community, as Sri Lanka's experience shows.",
+   442→          "difficulty": "medium"
+   443→        },
+   444→        {
+   445→          "question": "Democracy has promoted the dignity of which groups in particular?",
+   446→          "options": ["Only the rich", "Only men", "Women and Dalits along with every citizen through equal franchise", "Only the majority community"],
+   447→          "answerIndex": 2,
+   448→          "explanation": "Equal franchise and social movements in democracies have expanded the dignity of women, Dalits and every ordinary citizen.",
+   449→          "difficulty": "easy",
+   450→          "pyq": "CBSE 2022"
+   451→        },
+   452→        {
+   453→          "question": "The challenge of making the transition to democracy in a non-democratic country is called",
+   454→          "options": ["The challenge of expansion", "The foundational challenge", "The deepening of democracy", "The challenge of corruption"],
+   455→          "answerIndex": 1,
+   456→          "explanation": "The foundational challenge involves establishing democracy where it does not exist, as in Myanmar or Iraq.",
+   457→          "difficulty": "medium"
+   458→        },
+   459→        {
+   460→          "question": "Giving more powers to panchayats and reserving seats for women are examples of",
+   461→          "options": ["The foundational challenge", "The challenge of expansion of democracy", "Deepening of democracy", "Majoritarianism"],
+   462→          "answerIndex": 1,
+   463→          "explanation": "The challenge of expansion means applying democratic government to more regions, groups and institutions, such as local bodies and women.",
+   464→          "difficulty": "medium"
+   465→        },
+   466→        {
+   467→          "question": "Deepening of democracy means",
+   468→          "options": ["Making elections costlier", "Strengthening the institutions and practices of democracy so it delivers more to people", "Bringing a military government back", "Reducing the number of voters"],
+   469→          "answerIndex": 1,
+   470→          "explanation": "Deepening of democracy involves strengthening institutions, fighting inequality and corruption, and improving democratic practices.",
+   471→          "difficulty": "easy"
+   472→        },
+   473→        {
+   474→          "question": "Which of the following is an outcome democracy is expected to deliver that it alone can best provide?",
+   475→          "options": ["Fastest possible decisions", "Accommodation of social diversity through negotiation", "Rule by a single party", "Complete removal of all economic inequalities immediately"],
+   476→          "answerIndex": 1,
+   477→          "explanation": "Democracy is best suited to accommodate diversity because it develops procedures for groups to compete, negotiate and live together.",
+   478→          "difficulty": "medium"
+   479→        }
+   480→      ],
+   481→      "boardQuestions": [
+   482→        {
+   483→          "question": "How is democracy accountable and responsive to the needs of its citizens? Explain.",
+   484→          "marks": 3,
+   485→          "type": "SA",
+   486→          "probability": "very-high",
+   487→          "answer": "1) Accountability: a democratic government is formed through free and fair elections, so it must answer to the people; if citizens are unhappy they can change the government in the next election, which non-democratic rulers need not fear. 2) Responsiveness: democratic governments are expected to be attentive to the needs and expectations of the people and to work according to procedures that citizens can examine, so a citizen can find out how and why a decision was taken. 3) Legitimacy: because it is the people's own government, its decisions are accepted as lawful even when slow, which makes the overall system more responsive to public welfare than arbitrary non-democratic rule."
+   488→        },
+   489→        {
+   490→          "question": "Explain any three outcomes of democracy that people expect from it.",
+   491→          "marks": 3,
+   492→          "type": "SA",
+   493→          "probability": "high",
+   494→          "answer": "1) An accountable and legitimate government: people expect rulers elected by them to answer for their decisions, and even a slow democracy is legitimate because it is the people's own government. 2) Accommodation of social diversity: people expect democracy to respect differences of religion, language and caste and to negotiate them through power sharing, as in Belgium, rather than suppress them as in Sri Lanka. 3) Dignity and freedom of the individual: people expect equal respect through universal adult franchise, expanding dignity of women, Dalits and every citizen along with freedom of expression. 4) People also expect economic growth and reduction of inequality, though the record of democracy here has been mixed."
+   495→        },
+   496→        {
+   497→          "question": "Democracy promotes dignity and freedom of the individual. Explain any three ways in which this happens.",
+   498→          "marks": 5,
+   499→          "type": "LA",
+   500→          "probability": "very-high",
+   501→          "answer": "1) Equal respect to every citizen: universal adult franchise gives one vote of equal value to every adult, rich or poor, high or low caste, so each person stands equal in the political arena; this is a unique recognition of individual dignity. 2) Dignity of women: democracy gives women legal equality and a platform through movements and reserved seats, so claims for equal treatment and respect increasingly become accepted, transforming attitudes. 3) Dignity of Dalits and the marginalised: in a democracy, Dalits and oppressed groups can demand equal status, organise, vote as a bloc and win legal protections; their claim to dignity is possible only in a democratic system. 4) Freedom of expression and association: citizens can voice opinions, criticise the government, hold meetings and choose their leaders freely, which expands personal freedom. 5) Thus democracy's guarantee of rights and free elections makes it the best form of government for dignity and freedom, even though social prejudices take longer to die."
+   502→        },
+   503→        {
+   504→          "question": "Describe the three major challenges to democracy with examples.",
+   505→          "marks": 5,
+   506→          "type": "LA",
+   507→          "probability": "high",
+   508→          "answer": "1) Foundational challenge: this is the challenge of making a transition to democracy and establishing democratic government in non-democratic countries; for example, Myanmar and Iraq are trying to bring democracy where military or authoritarian rule existed. 2) Challenge of expansion: this involves applying the basic principles of democratic government across all regions, social groups and institutions; examples include giving more powers to panchayats and municipalities, ensuring greater participation of women and minorities, and extending federal principles to more units. 3) Deepening of democracy: this means strengthening the institutions and practices that help people's participation and control, fighting inequality, poverty, illiteracy and corruption, and expecting democracy to deliver more to every group. 4) These challenges are continuous: even old democracies must keep expanding rights and deepening participation, and citizens, not only governments, are central to meeting them."
+   509→        },
+   510→        {
+   511→          "question": "Read the source and answer: A study compared economic growth rates of democracies and dictatorial regimes between 1950 and 2000 and found dictatorial regimes slightly ahead on average. Yet many argue growth alone cannot judge a system. (a) What does the comparison show about democracy and growth? (b) Why can growth figures alone not decide the superiority of a political system? (c) What other outcomes matter besides growth?",
+   512→          "marks": 4,
+   513→          "type": "CASE",
+   514→          "probability": "high",
+   515→          "answer": "(a) The comparison shows that dictatorial regimes recorded only a slightly higher average annual growth than democracies during 1950-2000, and the difference is small; growth depends on many factors like size, resources and policies, not merely the form of government. (b) Growth figures alone cannot decide superiority because they ignore how the growth is shared, whether people's voices and freedoms are respected, and whether decisions are accountable; a fast-growing regime can still be unjust and unresponsive to its people. (c) Other outcomes that matter include reduction of inequality and poverty, accommodation of social diversity, dignity and freedom of citizens, accountable and responsive government and legitimacy, on which democracy has a clearly better record."
+   516→        },
+   517→        {
+   518→          "question": "How do democracies accommodate social diversity? Explain with examples.",
+   519→          "marks": 3,
+   520→          "type": "SA",
+   521→          "probability": "medium",
+   522→          "answer": "1) Democracies develop procedures for different groups to compete and negotiate their differences, so conflicts are settled by dialogue rather than force. 2) Majority rule is interpreted as a formed majority: whichever group wins elections must work with other groups and respect their interests; it does not mean permanent rule of one religious or linguistic community. 3) Belgium shows accommodation: power sharing between Dutch and French speakers kept the country united, while Sri Lanka shows the failure of majoritarianism, where imposing Sinhala supremacy led to civil war. This comparison proves democracy is the best suited system to handle social diversity."
+   523→        }
+   524→      ]
+   525→    }
+   526→  ]
+   527→}
+   528→

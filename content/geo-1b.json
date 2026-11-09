@@ -1,0 +1,496 @@
+{
+  "code": "geography",
+  "name": "Geography",
+  "bookName": "Contemporary India II",
+  "weightageMarks": 20,
+  "chapters": [
+    {
+      "number": 3,
+      "title": "Water Resources",
+      "summary": "Water is a renewable resource, but growing population, rising irrigation demand and over-exploitation of groundwater create scarcity across India. Multipurpose river valley projects like Bhakra-Nangal, Hirakud, Nagarjuna Sagar and Sardar Sarovar bring irrigation, power and flood control, yet face criticism for displacement and ecological damage, as voiced by the Narmada Bachao Andolan. Traditional rainwater harvesting methods such as tankas, guls and kuls, khadins and johads, and bamboo drip irrigation show practical ways to conserve every drop.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Dam and river matching for multipurpose projects",
+        "Causes of water scarcity in India",
+        "Rainwater harvesting methods and their regions",
+        "Criticism of multipurpose projects and Narmada Bachao Andolan",
+        "Rooftop rainwater harvesting and tankas"
+      ],
+      "sections": [
+        {
+          "heading": "Water Scarcity and Its Causes",
+          "points": [
+            "Water is a renewable resource, but fresh usable water is limited, and per capita availability is falling as the population grows.",
+            "India receives most of its rain in a few monsoon months and in selected regions, so many areas remain dry for most of the year.",
+            "Growing population, expanding cities and industries, and large irrigation needs multiply the demand for water every year.",
+            "Over-exploitation of groundwater through tubewells lowers the water table; pollution of rivers and aquifers reduces the usable supply further.",
+            "Scarcity can be seasonal and short-term in some regions and chronic, linked with quality and access, in others."
+          ],
+          "keyTerms": [
+            {"term": "Water scarcity", "meaning": "A situation in which the demand for water exceeds the amount available, or where water of good quality is not accessible."},
+            {"term": "Over-exploitation", "meaning": "Drawing groundwater or river water faster than nature can recharge it."},
+            {"term": "Water table", "meaning": "The upper level of groundwater below which the soil and rock are saturated with water."}
+          ],
+          "trick": "Causes = DUOP: Demand up, Uneven rain, Over-pumping, Pollution.",
+          "examPointer": "For a 3-mark answer on causes of water scarcity, give one social cause (population), one agricultural cause (irrigation) and one quality cause (pollution) for balanced marks."
+        },
+        {
+          "heading": "Multipurpose River Valley Projects",
+          "points": [
+            "A multipurpose project is a large dam built across a river to serve several purposes at once: irrigation, hydroelectricity, flood control, drinking water supply, fish breeding, navigation and recreation.",
+            "Dams store monsoon water and release it through canals and turbines in the dry season, making agriculture and industry independent of seasonal uncertainty.",
+            "Jawaharlal Nehru described big dams as the Temples of Modern India because they symbolised national development and scientific progress.",
+            "Each project creates a reservoir that submerges upstream areas but protects downstream areas from floods and drought.",
+            "Famous multipurpose projects of India include Bhakra-Nangal, Hirakud, Nagarjuna Sagar, the Damodar Valley Corporation, Tehri and Sardar Sarovar."
+          ],
+          "keyTerms": [
+            {"term": "Multipurpose project", "meaning": "A large dam on a river planned to provide many benefits together such as irrigation, power and flood control."},
+            {"term": "Reservoir", "meaning": "The artificial lake formed behind a dam where river water is stored."},
+            {"term": "Hydroelectricity", "meaning": "Electricity generated when stored reservoir water falls on turbines."}
+          ],
+          "trick": "Think of a dam as a multitool: I-H-F-W = Irrigation, Hydel power, Flood control, Water supply - one wall, many jobs.",
+          "examPointer": "Definition questions should include at least three uses plus the phrase several purposes at once to earn full marks."
+        },
+        {
+          "heading": "Major Multipurpose Projects of India",
+          "points": [
+            "Bhakra-Nangal Project: built on the Satluj river; one of the highest dams of India; provides irrigation to Punjab, Haryana and Rajasthan along with hydel power.",
+            "Hirakud Dam: built on the Mahanadi river in Odisha; one of the longest dams in the world; controls floods in the Mahanadi basin and supplies irrigation and power.",
+            "Nagarjuna Sagar: built on the Krishna river; a major irrigation and hydel project serving the Krishna basin areas of Telangana and Andhra Pradesh.",
+            "Damodar Valley Corporation: built on the Damodar river; the first multipurpose river valley project of India, planned on the lines of the Tennessee Valley Authority of the USA; serves West Bengal and Jharkhand with flood control, power and irrigation.",
+            "Tehri Dam: built on the Bhagirathi river in Uttarakhand; one of the tallest dams of India; generates power and stores water.",
+            "Sardar Sarovar Project: built on the Narmada river in Gujarat; supplies irrigation and drinking water and generates power; opposed by the Narmada Bachao Andolan."
+          ],
+          "keyTerms": [
+            {"term": "Flood control", "meaning": "Regulating river water through dams so that downstream areas are protected from floods."},
+            {"term": "Irrigation", "meaning": "Supplying water to crops through canals, tanks, wells and tubewells."},
+            {"term": "Multipurpose river valley project", "meaning": "A dam project combining irrigation, power, flood control and water supply in one scheme."}
+          ],
+          "trick": "Dam-river match chant: SATluj-Bhakra, MAHAnadi-Hirakud, KRISHna-Nagarjuna, DAModar-DVC, NARMada-Sardar Sarovar, BHAGirathi-Tehri.",
+          "examPointer": "Dam-river matching is the single most repeated 1-mark item from this chapter; always write the pair as dam: river to score full marks."
+        },
+        {
+          "heading": "Criticism of Dams and the Narmada Bachao Andolan",
+          "points": [
+            "Big dams submerge forests, farmland and villages, causing deforestation and loss of biodiversity in the submergence zone.",
+            "Thousands of people, especially tribals and small farmers, are displaced; rehabilitation packages are often slow and inadequate.",
+            "Dams obstruct the natural flow of rivers; sediment settles on the riverbed and reduces storage capacity over the years.",
+            "Regulated release of water can sometimes trigger floods downstream; sharing dam water also fuels disputes between states.",
+            "The Narmada Bachao Andolan, led by Medha Patkar, opposed the Sardar Sarovar Project demanding proper rehabilitation of the displaced and a review of environmental costs."
+          ],
+          "keyTerms": [
+            {"term": "Displacement", "meaning": "Forced shifting of people from their homes and land when an area is submerged by a reservoir."},
+            {"term": "Rehabilitation", "meaning": "Resettling displaced families with land, houses, jobs and compensation."},
+            {"term": "Sedimentation", "meaning": "Accumulation of silt on the bed of a reservoir, which slowly reduces its storage capacity."}
+          ],
+          "trick": "Cons of dams = DESI: Displacement, Ecology lost, Sedimentation, Inter-state disputes.",
+          "examPointer": "Balance is the key: in dam questions, write benefits and criticism side by side and end with the Narmada Bachao Andolan as the real-life example."
+        },
+        {
+          "heading": "Traditional Rainwater Harvesting in India",
+          "points": [
+            "Rainwater harvesting has been practised in India since ancient times, especially in arid and semi-arid regions.",
+            "Guls or kuls: diversion channels built in the Western Himalayas of Himachal Pradesh and Jammu and Kashmir to carry meltwater and spring water to villages and fields.",
+            "Khadins and johads: rain-fed storage structures made in agricultural fields of Rajasthan; khadins are typical of Jaisalmer; stored water stands and moistens the soil before sowing.",
+            "Tankas: small storage tanks built inside houses in semi-arid towns like Bikaner to store rooftop rainwater for drinking through the dry months.",
+            "Bamboo drip irrigation: practised in Meghalaya; split bamboo pipes carry spring water from the hills to plantations drop by drop.",
+            "All these methods store water at the point of rainfall, recharge groundwater and reduce dependence on distant sources."
+          ],
+          "keyTerms": [
+            {"term": "Gul or kul", "meaning": "A diversion channel in the Western Himalayas that carries hill and spring water to fields."},
+            {"term": "Johad", "meaning": "A rain-fed storage structure built near fields in Rajasthan to hold rainwater and recharge the soil."},
+            {"term": "Bamboo drip irrigation", "meaning": "A Meghalaya method in which split bamboo pipes carry spring water to plantations drop by drop."}
+          ],
+          "trick": "Map the method to the land: Hills-Kul, Desert-Khadin/Johad/Tanka, Meghalaya-Bamboo. Remember H-R-M.",
+          "examPointer": "Always name the state along with the method; writing bamboo drip irrigation without Meghalaya loses the region mark."
+        },
+        {
+          "heading": "Rooftop Rainwater Harvesting Today",
+          "points": [
+            "Rooftop rainwater harvesting means collecting rain falling on roofs and storing it in tanks or recharging wells; it is the most common practice in Shillong, Meghalaya.",
+            "In Gendathur village of Mysuru district, Karnataka, almost every house has installed a rooftop harvesting system and the village harvests a large quantity of rainwater every year.",
+            "The Tamil Nadu government has made rooftop rainwater harvesting structures compulsory for all houses across the state.",
+            "Benefits: provides drinking water, recharges groundwater and wells, reduces run-off and urban flooding, and cuts dependence on distant water sources.",
+            "In western Rajasthan the traditional tanka practice has declined as piped water supply spread, so reviving harvesting is important for water conservation."
+          ],
+          "keyTerms": [
+            {"term": "Rooftop rainwater harvesting", "meaning": "Collecting rain that falls on rooftops and storing it in tanks or using it to recharge wells."},
+            {"term": "Tanka", "meaning": "A small underground or house-side tank in Rajasthan used to store rooftop rainwater for drinking."},
+            {"term": "Run-off", "meaning": "Rainwater that flows over the ground surface instead of soaking into the soil."}
+          ],
+          "trick": "Shillong = rooftop harvesting capital of India, straight from NCERT; Gendathur in Karnataka is the famous village example.",
+          "examPointer": "A common 1-mark fact: NCERT cites Shillong in Meghalaya as the place where rooftop rainwater harvesting is the most common practice."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Hirakud Dam, one of the longest dams in the world, is built on which river?",
+          "options": ["Satluj", "Mahanadi", "Krishna", "Narmada"],
+          "answerIndex": 1,
+          "explanation": "Hirakud is built on the Mahanadi in Odisha and helps control floods in the Mahanadi basin.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which was the first multipurpose river valley project of India?",
+          "options": ["Bhakra-Nangal Project", "Sardar Sarovar Project", "Damodar Valley Corporation", "Nagarjuna Sagar Project"],
+          "answerIndex": 2,
+          "explanation": "The Damodar Valley Corporation, built on the Damodar river, was the first multipurpose project of independent India.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Bamboo drip irrigation, in which spring water is carried through bamboo pipes, is traditionally practised in:",
+          "options": ["Rajasthan", "Punjab", "Meghalaya", "Haryana"],
+          "answerIndex": 2,
+          "explanation": "Farmers of Meghalaya divert spring water to plantations through split bamboo pipes, saving the cost of metal pipes.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Tanka, a tank built to store rooftop rainwater for drinking, is traditionally associated with:",
+          "options": ["Bikaner in Rajasthan", "Kottayam in Kerala", "Guwahati in Assam", "Srinagar in Kashmir"],
+          "answerIndex": 0,
+          "explanation": "In semi-arid Rajasthan, especially Bikaner, families built tankas to store rooftop rainwater for drinking through the dry months.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The Bhakra-Nangal Project is built on which river?",
+          "options": ["Beas", "Ravi", "Chenab", "Satluj"],
+          "answerIndex": 3,
+          "explanation": "The Bhakra-Nangal Project stands on the Satluj and irrigates Punjab, Haryana and Rajasthan.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Sardar Sarovar Project, the focus of the Narmada Bachao Andolan, is built on which river?",
+          "options": ["Tapti", "Mahi", "Narmada", "Luni"],
+          "answerIndex": 2,
+          "explanation": "The Sardar Sarovar Dam is on the Narmada in Gujarat; the Tapti is a separate river further south.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Who led the Narmada Bachao Andolan against the Sardar Sarovar Project?",
+          "options": ["Sunderlal Bahuguna", "Medha Patkar", "Rajendra Singh", "Chandi Prasad Bhatt"],
+          "answerIndex": 1,
+          "explanation": "Medha Patkar led the movement demanding rehabilitation of the families displaced by the Sardar Sarovar Project.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Khadins and johads, rain-fed storage structures built in agricultural fields, are associated with:",
+          "options": ["Punjab", "Kerala", "West Bengal", "Rajasthan"],
+          "answerIndex": 3,
+          "explanation": "The khadins of Jaisalmer and the johads of other Rajasthan districts store rain in fields so that it moistens the soil.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Damodar Valley Corporation was set up on the lines of which foreign project?",
+          "options": ["Hoover Dam Project of the USA", "Tennessee Valley Authority of the USA", "Aswan High Dam of Egypt", "Snowy Mountains Scheme of Australia"],
+          "answerIndex": 1,
+          "explanation": "DVC, the first multipurpose project of India, was planned on the lines of the Tennessee Valley Authority of the USA.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which of the following dam-river pairs is INCORRECTLY matched?",
+          "options": ["Bhakra-Nangal : Satluj", "Hirakud : Mahanadi", "Nagarjuna Sagar : Krishna", "Sardar Sarovar : Tapti"],
+          "answerIndex": 3,
+          "explanation": "Sardar Sarovar is built on the Narmada, not on the Tapti; the other three pairs are correctly matched.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why does water scarcity keep increasing in India even though the country receives ample monsoon rainfall? Give any two reasons.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Population pressure: a fast-growing population needs more water for drinking, sanitation and industry, so per capita availability keeps falling. 2) Irrigation demand: expanding agriculture draws huge quantities of river and groundwater, leading to over-exploitation of aquifers. 3) Uneven rainfall: most rain falls in a few monsoon months and in selected regions, so many areas stay dry for the rest of the year. 4) Pollution of rivers and groundwater reduces the amount of usable water further."
+        },
+        {
+          "question": "What is meant by a multipurpose river valley project? Name any two major multipurpose projects of India with their rivers.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Meaning: a multipurpose river valley project is a large dam built across a river to serve many purposes together, such as irrigation, hydroelectricity generation, flood control, drinking water supply, fish breeding and recreation. 2) Jawaharlal Nehru called such dams the Temples of Modern India. 3) Two major projects: Bhakra-Nangal on the Satluj and Hirakud on the Mahanadi; other correct examples are the Damodar Valley Corporation, Nagarjuna Sagar, Tehri and Sardar Sarovar."
+        },
+        {
+          "question": "Explain any three traditional methods of rainwater harvesting practised in India, mentioning the region where each is used.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Guls and kuls: diversion channels built in the Western Himalayas of Himachal Pradesh and Jammu and Kashmir; they carry meltwater and spring water across hillsides to villages and fields. 2) Khadins and johads: rain-fed storage structures made in agricultural fields of Rajasthan; khadins are found in Jaisalmer; they let water stand and moisten the soil before sowing. 3) Tankas: small tanks built inside houses in semi-arid towns like Bikaner to store rooftop rainwater for drinking through the dry months. 4) Bamboo drip irrigation: in Meghalaya, split bamboo pipes carry spring water to plantations drop by drop; rooftop harvesting is also the most common practice in Shillong."
+        },
+        {
+          "question": "Multipurpose projects and big dams have come under great opposition and criticism. Explain any three reasons.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Social cost: large dams submerge villages and fertile land; thousands of people, especially tribals and small farmers, are displaced and often do not get proper rehabilitation. 2) Ecological cost: forests are destroyed and biodiversity is lost under reservoirs; the natural flow of rivers is disturbed, harming aquatic life. 3) Technical problems: sediment collects on the riverbed and reduces storage capacity; regulated release can trigger floods downstream; some big dams are also blamed for making areas earthquake-prone. 4) Disputes: sharing dam water causes conflicts between states. 5) The Narmada Bachao Andolan against the Sardar Sarovar Project, led by Medha Patkar, is a famous example of such opposition."
+        },
+        {
+          "question": "Describe the advantages of multipurpose river valley projects and the reasons for their criticism. Why is it said that dams have benefits as well as costs?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Irrigation: dams store monsoon water and supply it through canals, converting rain-fed land into irrigated farmland; the Bhakra-Nangal Project irrigates Punjab, Haryana and Rajasthan. 2) Hydroelectricity: reservoir water turns turbines and gives cheap power to farms and industries. 3) Flood control: dams hold back flood water and release it in a controlled way, protecting downstream areas; the Damodar Valley Corporation was built to tame the floods of the Damodar. 4) Water supply: cities, towns and industries get assured drinking and industrial water from reservoirs. 5) Other benefits: fish breeding, recreation and employment increase around project sites. 6) Social criticism: dam construction displaces local communities, especially tribals and peasants, and rehabilitation is often incomplete; fertile agricultural land is submerged. 7) Environmental criticism: large-scale deforestation and loss of biodiversity occur; the natural flow of the river is obstructed, sediment builds up on the riverbed and storage capacity falls; regulated flow may cause floods downstream instead of preventing them. 8) Economic and political criticism: huge costs, inter-state water disputes and fears of earthquake-prone damage add to the opposition. 9) The Narmada Bachao Andolan, led by Medha Patkar, opposed the Sardar Sarovar Project over displacement and environmental concerns. 10) Conclusion: multipurpose projects are needed for development, but planning must include proper rehabilitation, environmental safeguards and rainwater harvesting as a cheaper local alternative."
+        },
+        {
+          "question": "Name any five major multipurpose projects of India. For each project, write the river on which it is built and one important feature or benefit.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Bhakra-Nangal Project: built on the Satluj river; one of the highest dams of India; provides irrigation to Punjab, Haryana and Rajasthan and generates hydel power. 2) Hirakud Dam: built on the Mahanadi river in Odisha; one of the longest dams in the world; controls floods in the Mahanadi basin and provides irrigation and power. 3) Nagarjuna Sagar: built on the Krishna river; a major irrigation and hydel project serving the Krishna basin areas of Telangana and Andhra Pradesh. 4) Damodar Valley Corporation: built on the Damodar river; the first multipurpose river valley project of India, planned on the lines of the Tennessee Valley Authority of the USA; gives flood control, power and irrigation to West Bengal and Jharkhand. 5) Sardar Sarovar Project: built on the Narmada river in Gujarat; supplies irrigation and drinking water, serves drought-prone areas of Kutch and Saurashtra, and generates power; it was opposed by the Narmada Bachao Andolan over displacement. 6) Tehri Dam: built on the Bhagirathi river in Uttarakhand; one of the tallest dams of India; it stores river water and generates a large amount of hydel power for the foothill region. 7) Exam tip: always write the river name with the dam name in matching questions, as each project is remembered by its river; quoting at least five correct dam-river pairs with one benefit each secures full marks in this 5-mark answer."
+        },
+        {
+          "question": "Read the following passage and answer the questions: Kiran Devi is the sarpanch of a village in a semi-arid district of Rajasthan. For years the village hired water tankers every summer because its old ponds dried up and the groundwater level kept falling. The water board has now suggested rooftop rainwater harvesting on every house and the revival of old johads near the fields. On television, Kiran Devi watches a debate on the Sardar Sarovar Project, where activists of the Narmada Bachao Andolan demand proper rehabilitation of the families displaced by the dam. (a) What is rooftop rainwater harvesting and why is it especially suitable for Rajasthan? (b) What are johads and how do they help farmers? (c) Why did the Narmada Bachao Andolan oppose the Sardar Sarovar Project?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) Rooftop rainwater harvesting means collecting the rain that falls on the roof of a house and storing it in tanks called tankas for later use; it suits Rajasthan because rainfall there is scarce, uncertain and concentrated in a few monsoon months, so stored rooftop water can meet the drinking needs of a family through the long dry season, exactly as the people of Bikaner did traditionally, while surplus rain can be used to recharge wells. 2) (b) Johads are rain-fed storage structures built in or near agricultural fields; they hold rainwater so that it stands and moistens the soil before sowing, recharge wells and groundwater, provide water for cattle, and reduce soil erosion; the khadins of Jaisalmer are similar field-level structures made in Rajasthan. 3) (c) The Narmada Bachao Andolan, led by Medha Patkar, opposed the Sardar Sarovar Project because the reservoir would submerge villages, forests and fertile farmland, displacing a large number of tribals and peasants without adequate rehabilitation, while the dam would also disturb the natural flow of the river and cause ecological damage; the movement therefore demanded proper resettlement of the displaced and a fair review of the benefits and costs of big dams, so that development does not come at the cost of people and the environment."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Agriculture",
+      "summary": "Indian farming works on three cropping seasons - rabi, kharif and zaid - and each crop, from rice and wheat to millets, pulses, cotton, jute, tea and coffee, needs specific soil, temperature and rainfall conditions. Institutional reforms such as the Green Revolution, White Revolution, Kisan Credit Card, minimum support price and PM Fasal Bima Yojana support farmers and strengthen food security. Globalisation and organic farming are shaping the future of Indian agriculture.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Rabi, Kharif and Zaid cropping seasons",
+        "Geographical conditions of rice, wheat and millets",
+        "Crop with largest producing state pairs",
+        "Institutional reforms: KCC, MSP and PM Fasal Bima Yojana",
+        "Green Revolution and White Revolution",
+        "Food security and organic farming"
+      ],
+      "sections": [
+        {
+          "heading": "Types of Farming in India",
+          "points": [
+            "Primitive subsistence farming: practised on small patches with primitive tools such as the hoe, dao and digging stick; family or community labour is used; it is also called slash and burn agriculture, known as jhumming in the North-East and podu in parts of Andhra Pradesh and Odisha.",
+            "Intensive subsistence farming: high population pressure on small holdings; farmers use more labour and inputs per hectare to raise output, but productivity stays low because plots are tiny.",
+            "Commercial farming: the main aim is to sell the produce; high-yielding variety seeds, chemical fertilizers, insecticides and assured irrigation are used; wheat and rice in Punjab, Haryana and western Uttar Pradesh are examples.",
+            "Plantation farming: a single crop like tea, coffee, rubber or banana is grown on a large estate; it needs capital, migrant labour and good transport, and the produce is processed on the plantation itself.",
+            "Supporting activities like dairy, poultry, fisheries and horticulture reduce pressure on land and raise rural incomes."
+          ],
+          "keyTerms": [
+            {"term": "Primitive subsistence farming", "meaning": "Small-scale farming with hand tools on cleared patches, mainly to feed the farmer's own family."},
+            {"term": "Commercial farming", "meaning": "Farming mainly for sale in the market, using modern inputs like HYV seeds and fertilizers."},
+            {"term": "Plantation farming", "meaning": "Growing a single crop on a large estate with capital, labour and processing facilities."}
+          ],
+          "trick": "Farming ladder from hand to market: Primitive (tools) to Intensive (labour) to Commercial (HYV for sale) to Plantation (one crop, one estate).",
+          "examPointer": "A 2-marker often asks to name a type of farming with two features; always mention tools, labour and the purpose of production."
+        },
+        {
+          "heading": "Cropping Seasons: Rabi, Kharif and Zaid",
+          "points": [
+            "Rabi: sown in October-November and harvested in March-April; needs a cool growing season; main crops are wheat, gram, mustard and barley; grown widely in Punjab, Haryana, Uttar Pradesh and Bihar.",
+            "Kharif: sown with the onset of the monsoon in June-July and harvested in September-October; depends on rain; main crops are rice, maize, bajra, cotton, jute and tur.",
+            "Zaid: a short summer season between rabi and kharif, from March to June; crops include watermelon, muskmelon, cucumber, vegetables and fodder crops.",
+            "Season choice follows climate: kharif rides the monsoon, rabi depends on winter temperature and irrigation, zaid uses leftover moisture and summer heat.",
+            "Plantation crops like tea and coffee are not tied to these field-crop seasons; they grow all year on estates."
+          ],
+          "keyTerms": [
+            {"term": "Rabi", "meaning": "Winter cropping season from October-November sowing to March-April harvest."},
+            {"term": "Kharif", "meaning": "Monsoon cropping season from June-July sowing to September-October harvest."},
+            {"term": "Zaid", "meaning": "Short summer season between rabi and kharif for melons, cucumber and fodder."}
+          ],
+          "trick": "R-W-M for Rabi: Wheat-Mustard-GRAM sown in Winter. Kharif rides the Monsoon: Rice-Maize-Cotton-Jute. Zaid = Zesty summer melons.",
+          "examPointer": "Categorising a crop into its season is a guaranteed easy MCQ; note that jute and cotton are kharif crops, a common trap."
+        },
+        {
+          "heading": "Food Crops: Rice, Wheat, Millets, Maize and Pulses",
+          "points": [
+            "Rice: staple food of the majority; needs temperature above 25 degrees Celsius, humidity and rainfall above 100 cm; grows in north and north-east plains and coastal deltaic areas; West Bengal is the largest producer; Punjab and Haryana grow it with irrigation.",
+            "Wheat: needs a cool season with 10 to 15 degrees Celsius at sowing and 21 to 26 degrees Celsius at ripening; 50 to 75 cm rainfall; grown in the Ganga-Sutlej plains; Uttar Pradesh is the largest producer, followed by Punjab and Haryana.",
+            "Millets: jowar, bajra and ragi are coarse grains with high nutritional value; they survive on poor soils and low rainfall; Maharashtra leads in jowar, Rajasthan in bajra and Karnataka in ragi.",
+            "Maize: food and fodder crop; needs 21 to 27 degrees Celsius and 50 to 100 cm rainfall; grows well in old alluvial soil; Karnataka and Uttar Pradesh are major producers.",
+            "Pulses: gram, tur, urad, moong and masoor; mostly rabi crops except tur; leguminous plants fix nitrogen and restore soil fertility; India is the largest producer and consumer of pulses in the world; Madhya Pradesh is a leading producer.",
+            "Exam pair: rice loves water and heat, wheat loves cool weather - never mix their temperature and rainfall numbers."
+          ],
+          "keyTerms": [
+            {"term": "Staple food", "meaning": "The main food eaten daily by most people of a region, such as rice in eastern India."},
+            {"term": "Coarse grains", "meaning": "Millets like jowar, bajra and ragi that grow on poor soil with little water and are highly nutritive."},
+            {"term": "Leguminous crop", "meaning": "A crop like gram or tur whose roots fix atmospheric nitrogen and restore soil fertility."}
+          ],
+          "trick": "Rice Wants Rain (100 cm) and Warmth (25 degrees Celsius) - West Bengal; Wheat Wants Winter cool (10-15 degrees Celsius) - Uttar Pradesh.",
+          "examPointer": "Temperature and rainfall figures of rice and wheat are asked as direct MCQs; learn the numbers, not just the adjectives."
+        },
+        {
+          "heading": "Cash Crops: Cotton, Jute, Tea, Coffee and Sugarcane",
+          "points": [
+            "Cotton: kharif crop needing high temperature of 21 to 30 degrees Celsius, bright sunshine, black regur soil of the Deccan and about 210 frost-free days; Maharashtra is the largest producer; raw cotton feeds the textile industry.",
+            "Jute: called the golden fibre; needs hot, humid climate and well-drained fertile soils of flood plains where rivers renew the silt every year; West Bengal is the largest producer; used for gunny bags, ropes and mats.",
+            "Tea: plantation crop needing a warm, moist, frost-free climate, 150 to 300 cm rainfall, and deep, fertile, well-drained soil rich in humus; grown on gentle slopes; leaves are plucked by hand; Assam is the largest producer.",
+            "Coffee: the Arabica variety, initially brought from Yemen, is grown in India; it needs shaded, well-drained slopes of the Western Ghats; Karnataka is the largest producer, followed by Kerala and Tamil Nadu; the Baba Budan Hills are the traditional home of Indian coffee.",
+            "Sugarcane: tropical and subtropical crop needing hot, humid climate and rich soil; Uttar Pradesh is the largest producer; used for sugar, jaggery, molasses and ethanol.",
+            "Crop-state pairs to memorise: cotton-Maharashtra, jute-West Bengal, tea-Assam, coffee-Karnataka, sugarcane-Uttar Pradesh."
+          ],
+          "keyTerms": [
+            {"term": "Golden fibre", "meaning": "Jute, valued for its shiny golden colour and use in gunny bags, ropes and mats."},
+            {"term": "Plantation crop", "meaning": "A single commercial crop grown on a large estate, such as tea, coffee or rubber."},
+            {"term": "Arabica", "meaning": "The high-quality coffee variety initially brought from Yemen and grown in the Baba Budan Hills."}
+          ],
+          "trick": "BJTK: Bangla Jute (West Bengal), Maharashtra Cotton, Assam Tea, Karnataka Koffee. Golden fibre = jute, black soil = cotton, slopes = tea, shade = coffee.",
+          "examPointer": "Crop and largest-producing-state pairs are the most repeated map-work items; revise them with the physical map of India."
+        },
+        {
+          "heading": "Institutional Reforms and Government Schemes",
+          "points": [
+            "After independence, land reforms tried to abolish zamindari, fix land ceilings and consolidate holdings, but land remains unequally distributed and holdings are small.",
+            "Green Revolution: use of high-yielding variety seeds, chemical fertilizers and assured irrigation raised foodgrain output sharply, especially in Punjab, Haryana and western Uttar Pradesh.",
+            "White Revolution or Operation Flood: milk cooperatives like Amul turned India into one of the leading milk producers of the world.",
+            "Minimum Support Price: the government announces remunerative prices for major crops before the season and procures grain at MSP to protect farmers from distress sales.",
+            "Kisan Credit Card gives farmers timely crop loans through banks; Personal Accident Insurance covers KCC holders; the PM Fasal Bima Yojana insures standing crops against natural calamities.",
+            "Other support: subsidies on fertilizers and power, rural banking and cooperatives, and food security maintained through buffer stocks and the public distribution system."
+          ],
+          "keyTerms": [
+            {"term": "Green Revolution", "meaning": "The rise in foodgrain production through HYV seeds, chemical fertilizers and assured irrigation."},
+            {"term": "White Revolution", "meaning": "Operation Flood, which expanded milk production through cooperatives and made India a leading milk producer."},
+            {"term": "Minimum Support Price", "meaning": "A government-announced price at which major crops are procured to protect farmers from distress sales."}
+          ],
+          "trick": "Green feeds the field, White fills the glass: Green = HYV grain, White = milk (Operation Flood). KCC = Kisaan ka Credit Card, Fasal Bima = Fasal ki Insurance.",
+          "examPointer": "Match-the-scheme questions are common: KCC stands for credit, Fasal Bima for insurance, MSP for price protection; never interchange their purposes."
+        },
+        {
+          "heading": "Food Security, Globalisation and Organic Farming",
+          "points": [
+            "Food security means all people, at all times, have availability, accessibility and affordability of food; India maintains buffer stocks through the Food Corporation of India and supplies grain through the public distribution system.",
+            "After the Green Revolution India became self-sufficient in foodgrains, yet hunger persists among the poor because of low purchasing power, so employment and income support matter as much as production.",
+            "Globalisation brings competition: heavily subsidised farm produce from developed countries can hurt Indian farmers, so Indian agriculture needs modernisation, diversification to high-value crops and better marketing and infrastructure.",
+            "Organic farming avoids chemical fertilizers and pesticides and uses compost, animal manure and natural pest control; it protects soil health, lowers input costs and fetches premium prices for chemical-free produce.",
+            "Diversification into dairy, poultry, fisheries, horticulture and agro-processing gives farmers alternative incomes and reduces pressure on land."
+          ],
+          "keyTerms": [
+            {"term": "Food security", "meaning": "A situation where all people have availability, accessibility and affordability of food at all times."},
+            {"term": "Buffer stock", "meaning": "Grain stocks held by the government, mainly through the FCI, to stabilise prices and supply food in shortages."},
+            {"term": "Organic farming", "meaning": "Farming without chemical fertilizers and pesticides, using compost and natural manures."}
+          ],
+          "trick": "Food security = the 3 A's: Availability, Accessibility, Affordability.",
+          "examPointer": "Define food security with the three A's and add FCI buffer stocks as the supporting example for a full 2-mark answer."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Which one of the following is a rabi crop?",
+          "options": ["Rice", "Cotton", "Wheat", "Jute"],
+          "answerIndex": 2,
+          "explanation": "Wheat is sown in October-November and harvested in March-April, which makes it a rabi crop.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which fibre crop is popularly called the golden fibre?",
+          "options": ["Cotton", "Jute", "Silk", "Coir"],
+          "answerIndex": 1,
+          "explanation": "Jute is called the golden fibre for its shiny golden colour and its use in gunny bags and ropes.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which state is the largest producer of tea in India?",
+          "options": ["Karnataka", "Kerala", "Assam", "West Bengal"],
+          "answerIndex": 2,
+          "explanation": "Assam leads tea production; its warm, humid climate and well-drained slopes suit tea gardens.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Watermelon, muskmelon and cucumber are grown mainly in which cropping season?",
+          "options": ["Rabi", "Kharif", "Zaid", "Throughout the year"],
+          "answerIndex": 2,
+          "explanation": "Watermelon, muskmelon and cucumber are zaid crops of the short summer season between rabi and kharif.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Arabica coffee in India is mainly grown in and around which hills?",
+          "options": ["Baba Budan Hills", "Nilgiri Hills", "Garo Hills", "Shivalik Hills"],
+          "answerIndex": 0,
+          "explanation": "Arabica coffee grows on the slopes of the Baba Budan Hills in Karnataka, the largest coffee-producing state.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "India is the largest producer as well as the largest consumer of which crop group?",
+          "options": ["Coffee", "Pulses", "Rubber", "Oilseeds"],
+          "answerIndex": 1,
+          "explanation": "India is the largest producer as well as the largest consumer of pulses in the world.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which type of soil is considered best for cotton cultivation?",
+          "options": ["Black regur soil", "Red laterite soil", "Sandy desert soil", "Saline soil"],
+          "answerIndex": 0,
+          "explanation": "Cotton needs the black regur soil of the Deccan and about 210 frost-free days; Maharashtra is the largest producer.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The White Revolution (Operation Flood) is associated with which produce?",
+          "options": ["Fish", "Milk", "Eggs", "Honey"],
+          "answerIndex": 1,
+          "explanation": "Operation Flood, the White Revolution, made India one of the leading milk producers through dairy cooperatives.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The PM Fasal Bima Yojana mainly aims to:",
+          "options": ["Give free seeds to farmers", "Provide crop insurance against natural calamities", "Give free electricity for tubewells", "Redistribute land to landless farmers"],
+          "answerIndex": 1,
+          "explanation": "The PM Fasal Bima Yojana insures standing crops and pays compensation when natural calamities destroy them.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which of the following crop-largest producer pairs is INCORRECTLY matched?",
+          "options": ["Rice : West Bengal", "Jute : West Bengal", "Coffee : Karnataka", "Wheat : Tamil Nadu"],
+          "answerIndex": 3,
+          "explanation": "Wheat is grown mainly in the Ganga-Sutlej plains and Uttar Pradesh is its largest producer, so the wheat-Tamil Nadu pair is wrong.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Distinguish between rabi and kharif crops on the basis of sowing time, harvest time and water dependence, giving one example of each.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Time of sowing and harvest: rabi crops are sown in October-November and harvested in March-April, while kharif crops are sown with the onset of the monsoon in June-July and harvested in September-October. 2) Water dependence: kharif crops depend on monsoon rains, whereas rabi crops grow in winter and need irrigation support. 3) Examples: wheat, gram and mustard are rabi crops; rice, maize, cotton and jute are kharif crops."
+        },
+        {
+          "question": "Why are pulses considered important crops in Indian agriculture? State two reasons and mention India's position in world pulse production.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) India is the largest producer as well as the largest consumer of pulses in the world; gram and tur (arhar) are the main pulses grown here. 2) Pulses are leguminous crops: they fix atmospheric nitrogen in the soil and restore fertility, so they need less moisture and fit well in rotation with foodgrains. 3) Pulses are rich in protein and are the main protein source for a largely vegetarian population, which explains the huge domestic demand."
+        },
+        {
+          "question": "Describe the geographical conditions required for the growth of rice. Name the largest rice-producing state.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Temperature: rice needs a high temperature of about 25 degrees Celsius or above along with humidity for growth. 2) Rainfall: it requires heavy annual rainfall of more than 100 cm; in areas of lesser rainfall, such as Punjab and Haryana, rice is grown with canal and tubewell irrigation. 3) Soil: deep, fertile clayey or clay-loam soil that can hold water is best; old alluvial and deltaic soils suit rice. 4) Land: level plains, river deltas and coastal areas where fields can be flooded for transplanting. 5) Labour: rice cultivation is labour-intensive, so densely populated regions grow it. 6) Largest producer: West Bengal is the largest rice-producing state, and rice is the staple food of the majority of Indians."
+        },
+        {
+          "question": "Explain any three institutional reforms or government schemes that support Indian farmers, such as the Kisan Credit Card, PM Fasal Bima Yojana and Minimum Support Price.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Kisan Credit Card (KCC): gives farmers timely and cheap crop loans from banks and cooperatives through a single card, so they do not fall into the hands of moneylenders. 2) PM Fasal Bima Yojana: a crop insurance scheme under which farmers pay a small premium and receive compensation if crops are destroyed by drought, flood, hail or other natural calamities. 3) Minimum Support Price (MSP): the government announces remunerative prices for major crops before the season and buys produce at these rates, protecting farmers from distress sales. 4) Related reforms: the Green Revolution raised foodgrain output with HYV seeds and irrigation, the White Revolution (Operation Flood) boosted milk production through cooperatives, and land reforms aimed at consolidating holdings."
+        },
+        {
+          "question": "On an outline political map of India, five states have been marked as A, B, C, D and E. These are the largest producing states of five major crops. Identify the states and write the crop with the correct state name for: (a) Rice (b) Wheat (c) Tea (d) Cotton (e) Coffee.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) (a) Rice - West Bengal: marked in eastern India on the Bay of Bengal; its deltaic plain, fertile alluvium and 100 cm-plus rainfall make it the top paddy state; Punjab, Haryana and the coastal states grow rice too, but West Bengal is the largest producer. 2) (b) Wheat - Uttar Pradesh: marked across the northern Ganga plain; the Ganga-Sutlej plains form the wheat belt of India, with Punjab and Haryana as the other leading wheat states. 3) (c) Tea - Assam: marked in the far north-east; warm humid climate and well-drained valley slopes suit its tea gardens. 4) (d) Cotton - Maharashtra: marked in west-central peninsular India; the black regur soil of the Deccan is ideal for cotton. 5) (e) Coffee - Karnataka: marked in south-western India on the Western Ghats; shaded slopes around the Baba Budan Hills grow Arabica coffee. 6) Memory directions: Assam in the far north-east, West Bengal in the east, Uttar Pradesh in the north, Maharashtra in the west-centre and Karnataka in the south-west. 7) Extra pairs often marked on maps: jute-West Bengal, sugarcane-Uttar Pradesh, bajra-Rajasthan, ragi-Karnataka, rubber-Kerala. 8) Exam tip: label neatly with a sharpened pencil and write the crop with the state name; a correct state with a wrong crop earns no mark, so revise all the pairs before entering the examination hall."
+        },
+        {
+          "question": "Describe the geographical conditions required for the growth of tea and coffee. Why are both crops grown mainly on hilly slopes?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Tea - climate: a warm, moist, frost-free climate throughout the year with well-distributed rainfall of 150 to 300 cm; long dry spells harm the bushes, so misty hills with regular showers are ideal. 2) Tea - soil and land: deep, fertile, well-drained soil rich in humus and organic matter; water must not stand at the roots, which is why tea is planted on gentle, well-drained slopes. 3) Tea - labour and output: it is a labour-intensive plantation crop; tender leaves are plucked by hand at regular intervals and sent quickly to nearby factories for processing; Assam is the largest producer and Darjeeling tea is world famous for its aroma. 4) Coffee - variety and home: the Arabica variety, initially brought from Yemen, is grown in India; the Baba Budan Hills of Karnataka are its traditional home. 5) Coffee - conditions: warm, humid climate, shaded slopes, well-drained soil and protection from strong sun and wind; coffee bushes grow under the natural shade of tall evergreen trees; Karnataka is the largest producer, followed by Kerala and Tamil Nadu. 6) Why hills: both crops need quick drainage of water, cool air and shade, which hot and waterlogged plains cannot provide; hence their plantations occupy the hill slopes of the North-East and the Western Ghats."
+        },
+        {
+          "question": "Read the following passage and answer the questions: Ravi's family farms two hectares in western Uttar Pradesh. His grandfather still remembers how wheat yields tripled with new seeds, chemical fertilizers and tubewell irrigation, and how milk cooperatives changed the village economy. Today Ravi borrows from a moneylender at high interest and lost part of his bajra crop to drought last year. A bank officer tells him about the Kisan Credit Card and the PM Fasal Bima Yojana; an agricultural scientist advises him to try organic farming on one plot. (a) Name the revolution that transformed wheat farming in India and list its two main inputs. (b) How can the Kisan Credit Card and PM Fasal Bima Yojana solve Ravi's two problems? (c) What is organic farming and why may it suit Ravi's small plot?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) The Green Revolution transformed wheat farming, especially in Punjab, Haryana and western Uttar Pradesh; its two main inputs were high-yielding variety (HYV) seeds of wheat and assured irrigation combined with chemical fertilizers and plant protection; foodgrain output rose so sharply that India became self-sufficient in foodgrains and no longer depended on food imports; the White Revolution (Operation Flood) similarly used milk cooperatives to make India one of the leading milk producers of the world. 2) (b) Kisan Credit Card: banks give Ravi timely crop loans at reasonable interest against the card, so he can escape the moneylender's high rates and buy seeds and fertilizers on time. PM Fasal Bima Yojana: by paying a small premium, Ravi insures his standing crops and receives compensation when drought, flood or hail destroys them; this protects him from losses like the one he suffered on his bajra and lets him invest in better seeds without fear. 3) (c) Organic farming is cultivation without chemical fertilizers and pesticides, using compost, cow dung manure, crop rotation and natural pest control; it suits Ravi's small plot because the inputs are cheap and locally available, soil fertility improves over the years, and chemical-free produce earns premium prices in the market."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+     1→     1→=== CHAPTER 1 :: Resources and Development ===
+     2→     2→HEADING: Meaning and Classification of Resources
+     3→     3→  - Everything available in our environment which can be used to satisfy our needs, provided it is technologically accessible, economically feasible and culturally acceptable, is termed a resource.
+     4→     4→  - On the basis of origin resources are classified as biotic, like flora and fauna, and abiotic, like rocks and metals.
+     5→     5→  - On the basis of exhaustibility they are renewable, which can be renewed or reproduced, and non-renewable, like fossil fuels, which have a fixed stock and may get exhausted; non-renewable resources are further divided into recyclable and non-recyclable types.
+     6→     6→  - On the basis of ownership resources can be individual, community owned, national or international; oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone belong to international bodies like the UN.
+     7→     7→  - On the basis of status of development resources are potential, developed stocks, reserves and actual resources.
+     8→     8→  - Potential resources exist in a region but have not been utilised, like solar and wind energy in Rajasthan and Gujarat before development.
+     9→     9→  - Materials found in the environment which have the potential to satisfy human needs but are not technologically accessible form stock, while reserves are a subset of stock which can be put into use with existing technology but have been kept for future needs.
+    10→    10→HEADING: Development of Resources and Sustainability
+    11→    11→  - Resources are vital for human survival, but irrational consumption and over-utilisation of resources have led to socio-economic and environmental problems.
+    12→    12→  - Indiscriminate use of resources by a few rich people has divided society into rich and poor, and resource depletion has led to global ecological crises like ozone depletion, pollution and land degradation.
+    13→    13→  - Therefore equitable distribution and planned and sustainable use of resources are essential for the existence of all life.
+    14→    14→  - Sustainable development means development that takes place without damaging the environment, meeting the needs of the present generation without compromising the needs of future generations.
+    15→    15→  - The first Earth Summit, also called the Rio de Janeiro Earth Summit, was held in 1992 and adopted Agenda 21 for global sustainable development.
+    16→    16→  - Agenda 21 aims at achieving global sustainable development, with every local government drawing its own local Agenda 21 to combat environmental damage, poverty and disease.
+    17→    17→  - Resource planning is a widely accepted strategy for judicious use of resources and has three stages: identification and inventory, evolving a planning structure with technology and institutions, and matching resource development plans with national development plans.
+    18→    18→HEADING: Land Use Pattern in India
+    19→    19→  - Land resources are used for purposes such as forests, land not available for cultivation, other uncultivated land and net sown area.
+    20→    20→  - The total geographical area of India is 3.28 million square kilometres, but land use data is available for only about 93 per cent of the total area because land use reporting for most of the north-east states except Assam has not been done fully.
+    21→    21→  - The share of area under forest has increased from 14.12 per cent in 1960-61 to 22.57 per cent, yet it is far lower than the 33 per cent prescribed by the National Forest Policy of 1952.
+    22→    22→  - Land under permanent pasture has decreased, which is a cause of worry for livestock and dairy development.
+    23→    23→  - Net sown area remains about 54 per cent of the reporting area; total cultivated area includes net sown area plus current fallow and other fallow land.
+    24→    24→  - Land put to non-agricultural uses is increasing because of growing population and expansion of settlements, industries and transport.
+    25→    25→  - Waste land includes rocky, arid and desert areas, while land put to non-agricultural uses includes buildings, roads, railways and industry.
+    26→    26→HEADING: Land Degradation and Its Conservation
+    27→    27→  - About 130 million hectares of land in India is degraded, and approximately 28 per cent of it is forest degraded area, 56 per cent is water eroded area and the rest is affected by saline and alkaline conditions.
+    28→    28→  - Mining and deforestation degrade land; mining sites are abandoned after excavation leaving deep scars and traces of overburdening in states like Jharkhand, Chhattisgarh, Madhya Pradesh and Odisha.
+    29→    29→  - In states like Gujarat, Rajasthan, Madhya Pradesh and Maharashtra overgrazing is a major cause of land degradation.
+    30→    30→  - Deforestation due to mining, over-irrigation causing water logging leading to salinity and alkalinity, mineral processing and industrial effluents also degrade land.
+    31→    31→  - Degraded land can be checked by afforestation and proper management of grazing.
+    32→    32→  - Stabilising sand dunes by growing thorny bushes, controlling mining activities, proper discharge and treatment of industrial effluents before release, and ploughing along contours on sloping areas help conserve land.
+    33→    33→  - Planning of shelter belts and over-irrigation should be avoided, and strip cropping should be practised to make land use sustainable.
+    34→    34→HEADING: Soil Types of India
+    35→    35→  - Alluvial soil is the most widely spread and important soil, covering about 40 per cent of the country in the northern plains and river valleys, and it is very fertile, supporting rice, wheat and sugarcane.
+    36→    36→  - Alluvial soils are classified as Bangar, the old alluvium with higher concentration of kankar nodules, and Khadar, the new alluvium which is more fertile; they are rich in potash but poor in nitrogen and phosphorus.
+    37→    37→  - Black soil, also called regur, develops in the Deccan trap of Maharashtra, Gujarat and Madhya Pradesh, is ideal for cotton because of its moisture-retaining capacity, is rich in iron, lime, magnesium and alumina but poor in nitrogen and phosphorus, and develops cracks in summer.
+    38→    38→  - Red and yellow soils develop on crystalline igneous rocks in areas of low rainfall in the eastern and southern Deccan; the red colour comes from diffusion of iron in crystalline and metamorphic rocks.
+    39→    39→  - Laterite soil develops in areas with high temperature and heavy rainfall through intense leaching, is poor in humus and lime and is used for tea, coffee and cashew; bricks made of laterite are used as building material.
+    40→    40→  - Arid soil is sandy and saline in western Rajasthan and Gujarat, lacks moisture and humus, contains calcium deposits called kankar layers, and can be made fertile with proper irrigation and gypsum treatment.
+    41→    41→  - Forest or mountain soils occur in the Himalayan slopes, are acidic with low humus in snowy areas, and are fertile in valleys where orchards grow.
+    42→    42→HEADING: Soil Erosion and Conservation
+    43→    43→  - The denudation of the soil cover and subsequent washing down is described as soil erosion, caused by running water, wind, glaciers and human activities like deforestation, overgrazing and faulty farming.
+    44→    44→  - When water flows down a slope in narrow channels making deep grooves, it is gully erosion; the land becomes unfit for cultivation and is called ravines, as in the Chambal valley.
+    45→    45→  - When water removes the top soil as a sheet over large areas, it is sheet erosion, and wind blows loose soil off flat or sloping land in windy regions like western Rajasthan.
+    46→    46→  - Deforestation, overgrazing, construction, mining and defective methods of farming like ploughing up and down the slope accelerate soil erosion.
+    47→    47→  - Contour ploughing, ploughing along the contour lines on a slope, decelerates the flow of water down the slopes and checks erosion.
+    48→    48→  - Terrace cultivation on steep slopes restricts erosion, and strip cropping divides large fields into strips with grass in between so that water cannot carry away the soil.
+    49→    49→  - Shelter belts of trees planted in rows check wind erosion, stabilise sand dunes in western Rajasthan and have contributed to the development of green belts.
+    50→    50→=== CHAPTER 2 :: Forest and Wildlife Resources ===
+    51→    51→HEADING: India's Biodiversity and Its Depletion
+    52→    52→  - India is one of the world's richest countries in terms of biological diversity, with about 47,000 plant species, ranking tenth in the world and fourth in Asia in plant diversity.
+    53→    53→  - There are about 15,000 flowering plant species in India, which account for 6 per cent of the world's total number of flowering plant species.
+    54→    54→  - India has about 89,000 animal species, 1,200 bird species and 2,500 fish species, which constitute more than one-tenth of all animal species of the world.
+    55→    55→  - Biodiversity is under great threat, and the International Union for Conservation of Nature and Natural Resources (IUCN) reports that many species are endangered or critically endangered.
+    56→    56→  - The cheetah, the world's fastest land mammal, has become extinct in India, and the pink-headed duck, mountain quail and forest spotted owlet are also among extinct species.
+    57→    57→  - Depletion of forest resources impoverishes the resource base of local communities and threatens the ecological balance on which all life depends.
+    58→    58→HEADING: Categories of Species: IUCN Classification
+    59→    59→  - Normal species are species whose population levels are considered normal for their survival, such as cattle, sal, pine and rodents.
+    60→    60→  - Endangered species are those whose numbers have been depleted to a level from which they may not survive, such as black buck, crocodile, Indian wild ass, lion-tailed macaque and rhinoceros.
+    61→    61→  - Vulnerable species are those whose population has declined to levels from which they may move into the endangered category, such as blue sheep, Asiatic elephant and Gangetic dolphin.
+    62→    62→  - Rare species are species with small population which may move into endangered or vulnerable category, like Himalayan brown bear, wild Asiatic buffalo, desert fox and hornbill.
+    63→    63→  - Endemic species are found only in particular areas, like the Andaman teal, Nicobar pigeon, Andaman wild pig and mithun in Arunachal Pradesh.
+    64→    64→  - Extinct species are species which are no longer seen and cannot be sighted anywhere, such as the pink-headed duck, mountain quail and forest spotted owlet.
+    65→    65→  - This classification helps conservationists decide the urgency and type of protection each species requires.
+    66→    66→HEADING: Causes of Depletion of Forest and Wildlife Resources
+    67→    67→  - During the colonial period the British exploited forests for railways, ship-building and commercial agriculture, destroying vast stretches of natural forests.
+    68→    68→  - Agricultural expansion after independence, large-scale development projects and industry have continued to shrink forest cover.
+    69→    69→  - Hunting by greedy hunters for pleasure, commerce, vanity and illegal trade in animal products like skins, tusks and bones has pushed many species to extinction.
+    70→    70→  - The greatest damaging factor to wildlife is habitat destruction through deforestation, mining, dam building and urbanisation.
+    71→    71→  - In the Buxa Tiger Reserve in West Bengal, the Great Himalayan Biodiversity Hotspot region and the rainforests of the Western Ghats, severe damage to biodiversity has taken place due to mining and development.
+    72→    72→  - Pollution, forest fires and invasion of exotic species also damage ecosystems and push native species out.
+    73→    73→  - Rich biodiversity is important because ecological processes depend on it, and its loss directly harms local communities that depend on forests for food, fuel, fodder and medicine.
+    74→    74→HEADING: Conservation of Forests and Wildlife
+    75→    75→  - Conservation of forests and wildlife is essential to preserve biodiversity, maintain ecological balance and protect the livelihood of forest-dependent communities.
+    76→    76→  - The Indian Wildlife Protection Act was implemented in 1972, with various provisions for protecting habitats and whole ecosystems, and an all-India list of protected species was published.
+    77→    77→  - The thrust of the programme was towards protecting the remaining population of certain endangered species by banning hunting, giving legal protection to habitats and restricting trade in wildlife.
+    78→    78→  - Project Tiger was launched in 1973, when the tiger population had dwindled to 1,827; it is one of the most successful conservation ventures, and today there are 53 tiger reserves in India.
+    79→    79→  - The tiger is found in various parts of the country, from the Himalayan and central Indian forests to the mangroves of the Sundarbans, and in reserves like Corbett, Ranthambore, Sariska, Manas and Bandipur.
+    80→    80→  - Project Elephant was launched in 1992 to protect elephants and their habitats and corridors.
+    81→    81→  - In theNotification of 1980s and 1990s, many national parks and wildlife sanctuaries were established, and programmes like the Great Himalayan Biodiversity Hotspot and the Western Ghats rainforest programme were strengthened.
+    82→    82→HEADING: Types and Distribution of Forests
+    83→    83→  - Indian forests are classified into reserved forests, protected forests and unclassed forests on the basis of the degree of protection they receive.
+    84→    84→  - Reserved forests are regarded as the most valuable as far as conservation of forest and wildlife resources is concerned; more than half of the total forest land has been declared reserved.
+    85→    85→  - In reserved forests, most of the rights of hunting, grazing and timber collection by local people are restricted and the forest department has full control.
+    86→    86→  - Protected forests are protected from any further depletion, and local people are allowed certain rights like grazing and collecting fuel wood and non-timber forest products.
+    87→    87→  - Unclassed forests are large parts of forests belonging to both government and private individuals and communities, with the least degree of protection.
+    88→    88→  - Madhya Pradesh has the largest area under permanent forests, which means reserved and protected forests, and it has stated that 75 per cent of its forest area is under permanent forests.
+    89→    89→  - The forests of India are distributed in the Himalayan region, the Western Ghats, the northeastern states, the Deccan plateau and the coastal areas, with varying degrees of degradation.
+    90→    90→HEADING: Community and Conservation: Chipko and Joint Forest Management
+    91→    91→  - In India, forests are home to many communities whose lives depend on them, and conservation of forests and wildlife cannot be done without their participation.
+    92→    92→  - In Sariska Tiger Reserve, Rajasthan, villagers have fought against mining by citing the Wildlife Protection Act, and in many areas of the country local communities are conserving habitats of their own accord.
+    93→    93→  - The famous Chipko movement in the Himalayas successfully resisted deforestation in several areas, when village women like Gaura Devi of Reni village hugged trees to stop contractors from felling them.
+    94→    94→  - Community conservation is possible only when local communities get some benefit from the resource, and many communities have declared their own conservation rules.
+    95→    95→  - The Beej Bachao Andolan in Tehri district of Uttarakhand and Navdanya have shown that adequate levels of diversified crop production without the use of synthetic agrochemicals are possible.
+    96→    96→  - Joint Forest Management (JFM) furnishes a good example of involving local communities in the management and restoration of degraded forests; it has been in formal existence since 1988 when the state of Odisha passed the first resolution.
+    97→    97→  - In the Arabari forest range of Midnapore district, West Bengal, as early as 1972, the forest department involved 618 families of eleven villages to protect 1,272 hectares of degraded sal forest, and by 1983 the value of the sal trees was 12.5 crore rupees.
+    98→    98→=== CHAPTER 3 :: Water Resources ===
+    99→    99→HEADING: Water Scarcity and the Need for Conservation
+   100→   100→  - Water is a renewable resource, but its availability in acceptable quantity and quality is decreasing due to growing population, rising demand and uneven distribution.
+   101→   101→  - About three-fourths of the earth's surface is covered with water, but 97.5 per cent of it is ocean water which cannot be used directly, and only 2.5 per cent is fresh water.
+   102→   102→  - Nearly 70 per cent of this fresh water occurs as ice sheets and glaciers in Antarctica, Greenland and mountain regions, and less than one per cent is stored in lakes, rivers and the ground for human use.
+   103→   103→  - India receives four per cent of global precipitation and ranks 133 in the world in terms of water availability per person, and predictions say India may face water scarcity by 2025.
+   104→   104→  - Water scarcity arises not only from low rainfall but from over-exploitation, unequal access, pollution and the growing demand of cities, industries and agriculture.
+   105→   105→  - A society with a large population producing food from irrigated land needs far more water than a smaller society, so scarcity is linked to population, lifestyle and the nature of water use.
+   106→   106→  - Conservation and management of water through harvesting, watershed development and recycling has become an urgent need.
+   107→   107→HEADING: Multipurpose River Projects and Dams
+   108→   108→  - Dams are built across rivers to impound water, which is then used for irrigation, electricity generation, water supply, flood control, navigation and fish breeding.
+   109→   109→  - A dam is traditionally defined as a barrier across flowing water that obstructs or directs the flow, and a reservoir is an artificial lake created by impounding water behind the dam.
+   110→   110→  - Dams are now called multipurpose projects because they serve many purposes at the same time: irrigation, power generation, flood control, drinking water, navigation, fisheries and recreation.
+   111→   111→  - Bhakra Nangal project is built on the Satluj river, the Hirakud project on the Mahanadi, and the Damodar Valley Corporation came up on the Damodar river in 1948 as the first multipurpose project of India.
+   112→   112→  - Other important multipurpose projects are the Nagarjuna Sagar on the Krishna, the Krishna Raja Sagar on the Cauvery, the Mettur dam and the Tehri project on the Bhagirathi.
+   113→   113→  - Jawaharlal Nehru proudly proclaimed the dams as the temples of modern India, since they would integrate the development of agriculture and the village economy with rapid industrialisation.
+   114→   114→  - Multipurpose projects are seen as combining water conservation with development of the entire river basin.
+   115→   115→HEADING: Why Multipurpose Projects Are Criticised
+   116→   116→  - Multipurpose projects and large dams have come under great scrutiny and opposition for their environmental and social costs.
+   117→   117→  - Regulating and damming rivers affects their natural flow, causing poorer sediment flow and excessive sedimentation at the bottom of reservoirs, which reduces their water storage capacity.
+   118→   118→  - Dams also fragment rivers, making it difficult for aquatic fauna, especially fish, to migrate along the river for spawning.
+   119→   119→  - The reservoirs submerge existing vegetation and soil, leading to its decomposition over time and contributing to greenhouse emissions.
+   120→   120→  - Large dams cause the displacement of local communities, like the tribals and peasants whose land is submerged, and irrigation without proper drainage causes water logging and salinity.
+   121→   121→  - Interestingly, dams built to control floods have themselves triggered floods due to sedimentation and the release of excess water, as seen in Punjab, where floods occurred despite dams like Bhakra.
+   122→   122→  - Opposition to projects has grown into movements: the Narmada Bachao Andolan against the Sardar Sarovar dam, and protests over the Tehri dam, argue that local people are denied benefits and suffer displacement.
+   123→   123→HEADING: Narmada Bachao Andolan and the Debate on Large Dams
+   124→   124→  - The Narmada Bachao Andolan is a movement against the large multi-purpose dams being built on the Narmada river, especially the Sardar Sarovar project in Gujarat.
+   125→   125→  - The movement, which began in the mid-1980s under leaders like Medha Patkar, questions the very premise of large dam development.
+   126→   126→  - It argues that the projects benefit big farmers and industry while the costs are borne by the poor, especially the adivasis whose villages and forests are submerged.
+   127→   127→  - The Andolan demands complete information about the projects, the right to participate in decision-making, and proper rehabilitation of the displaced people.
+   128→   128→  - The Narmada valley project would displace lakhs of people and submerge large areas of forest and farmland in Madhya Pradesh, Maharashtra and Gujarat.
+   129→   129→  - The struggle raised national debates on development, showing that development should not mean destroying the livelihood of the weakest sections.
+   130→   130→  - The issue highlights the need for assessing costs and benefits of every project, including social and environmental costs, before taking decisions.
+   131→   131→HEADING: Traditional Rainwater Harvesting
+   132→   132→  - India has a long tradition of water harvesting systems suited to local rainfall and terrain, practised for thousands of years.
+   133→   133→  - In the arid and semi-arid regions of Rajasthan, particularly in Bikaner and Phalodi, rooftop rainwater harvesting was commonly practised to store drinking water in underground tanks called tankas.
+   134→   134→  - In the flood-prone areas of western Rajasthan, khadins are traditional earthen embankments that stop water and let it percolate into the soil for cropping.
+   135→   135→  - Johads are small earthen check dams built across streams to collect rainwater and recharge groundwater, revived in many villages of Rajasthan by community effort.
+   136→   136→  - In hill and mountain areas, guls or channels were used in the western Himalayas for irrigation, diverting water from hill streams to fields.
+   137→   137→  - Bamboo drip irrigation is practised in Meghalaya, where bamboo pipes carry water from springs to fields and reduce wastage by about 18-20 litres per site during peak summer.
+   138→   138→  - In the northeastern states, bamboo drip irrigation systems transport water over long distances and distribute it to the fields drop by drop.
+   139→   139→HEADING: Modern Rainwater Harvesting: Rooftop and Watershed
+   140→   140→  - Rooftop rainwater harvesting is the most common practice in Shillong in Meghalaya, where it is practised because of the hilly terrain and despite high rainfall.
+   141→   141→  - In Shillong, about 15-25 per cent of households use rooftop rainwater harvesting, and water is stored and piped to homes.
+   142→   142→  - Tamil Nadu is the first state in India to make rooftop rainwater harvesting compulsory for every house to avoid groundwater depletion; it was made compulsory in 2001.
+   143→   143→  - In Gendathur, a backward village in Mysuru district of Karnataka, villagers have installed rainwater harvesting systems to meet their drinking water needs.
+   144→   144→  - Gendathur receives an annual rainfall of about 1,000 mm, and with 80 per cent collection efficiency, about 1,00,000 litres of rainwater is harvested per household per year.
+   145→   145→  - With nearly 200 households, the net quantity of rainwater harvested in Gendathur amounts to 20,00,000 litres per year, showing that community effort can solve water problems.
+   146→   146→  - Watershed development and rainwater harvesting together help increase soil moisture, raise the groundwater table, check floods and provide reliable water supplies.
+   147→   147→=== CHAPTER 4 :: Agriculture ===
+   148→   148→HEADING: Types of Farming
+   149→   149→  - Primitive subsistence farming is practised on small patches of land with primitive tools like hoe, dao and digging sticks, and family or community labour.
+   150→   150→  - This type of farming depends on monsoon, natural fertility of the soil and suitability of other environmental conditions; when soil fertility decreases, farmers shift to a new patch, which is called slash and burn agriculture.
+   151→   151→  - Slash and burn agriculture is locally known as jhumming in the north-eastern states, Bewar or Dahiya in Madhya Pradesh, Podu in Odisha, Kuruwa in Jharkhand and Dipa in Bastar, Chhattisgarh and the Andaman and Nicobar Islands.
+   152→   152→  - Intensive subsistence farming is practised in areas of high population pressure on land, where the holdings are small and farmers use high doses of biochemical inputs and irrigation for high yields.
+   153→   153→  - There is enormous pressure on agricultural land for intensive subsistence farming of food grains like rice, and even the per capita availability of land is decreasing.
+   154→   154→  - Commercial farming is practised to produce crops mainly for sale in the market, with higher doses of modern inputs and use of better yielding seeds, chemical fertilisers, insecticides and pesticides.
+   155→   155→  - Plantation is a type of commercial farming in which a single crop is grown on a large area, like tea, coffee, sugarcane, cashew, rubber, banana and cotton, requiring well-developed networks of transport and communication.
+   156→   156→HEADING: Cropping Seasons: Rabi, Kharif and Zaid
+   157→   157→  - India has three cropping seasons: rabi, kharif and zaid.
+   158→   158→  - Rabi crops are sown in winter from October to December and harvested in summer from April to June; important rabi crops are wheat, barley, peas, gram and mustard.
+   159→   159→  - Rabi crops are mainly grown in Punjab, Haryana, Uttar Pradesh, Bihar, Rajasthan and parts of Madhya Pradesh, using the availability of green revolution technology and irrigation.
+   160→   160→  - Kharif crops are grown with the onset of monsoon in different parts of the country and are harvested in September-October; important kharif crops are paddy, maize, bajra, tur or arhar, jute and cotton.
+   161→   161→  - Paddy is the main kharif crop, grown in Assam, West Bengal, coastal regions of Andhra Pradesh, Tamil Nadu, Kerala, Maharashtra and Odisha.
+   162→   162→  - Zaid is a short season in the summer months between the rabi and the kharif seasons, when crops like watermelon, muskmelon, cucumber, vegetables and fodder crops are grown.
+   163→   163→  - Some crops like rice and gram grow in more than one season in different regions depending on temperature and irrigation facilities.
+   164→   164→HEADING: Food Crops: Rice, Wheat, Millets, Maize and Pulses
+   165→   165→  - Rice is the staple food crop of a majority of people in India, requiring high temperature above 25 degree Celsius and high humidity with annual rainfall above 100 cm; it can grow with irrigation in lower rainfall areas like Punjab and Haryana.
+   166→   166→  - Rice is grown in the plains of north and north-eastern India, coastal areas and deltaic regions; West Bengal, Punjab and Uttar Pradesh are leading producers, and India is among the largest rice producers in the world.
+   167→   167→  - Wheat requires a cool growing season with bright sunshine at ripening and 50 to 75 cm of rainfall, and it grows in the Ganga-Satluj plains of Punjab, Haryana, Uttar Pradesh and the black soil region of the Deccan; India is the second largest producer of wheat in the world.
+   168→   168→  - Millets, called coarse grains, are of high nutritional value and include jowar, bajra and ragi; India is the largest producer of ragi, with Karnataka leading, while Maharashtra leads in jowar and Rajasthan in bajra.
+   169→   169→  - Maize is a food as well as fodder crop, known as queen of cereals, requiring temperature between 21 and 27 degree Celsius and old alluvial soil; Karnataka, Uttar Pradesh, Bihar and Madhya Pradesh are major producers.
+   170→   170→  - Pulses are the main source of protein for vegetarians, and India is the largest producer as well as consumer of pulses in the world; gram and tur are major pulses, grown mostly in Madhya Pradesh, Maharashtra and Rajasthan.
+   171→   171→  - Pulses need less moisture and survive even in dry conditions, and being leguminous they restore soil fertility by fixing nitrogen.
+   172→   172→HEADING: Cash Crops: Sugarcane, Oilseeds, Cotton, Jute, Tea and Coffee
+   173→   173→  - Sugarcane is a tropical as well as subtropical crop requiring 21 to 27 degree Celsius temperature and 75 to 100 cm rainfall; it grows in Uttar Pradesh, Maharashtra, Karnataka, Tamil Nadu and Andhra Pradesh, and India is the second largest producer after Brazil.
+   174→   174→  - Sugarcane provides sugar, gur, khandsari and molasses, and it is a long duration crop of almost a year needing fertile soil.
+   175→   175→  - Oilseeds cover a variety like groundnut, mustard, coconut, sesamum, soyabean, castor, cotton seeds, linseed and sunflower; India is the largest producer of oilseeds in the world.
+   176→   176→  - Groundnut accounts for about half of the major oilseeds produced in the country, with Gujarat and Andhra Pradesh as leading producers, while Rajasthan is a leading producer of mustard and coconut grows along the coasts of Kerala and Tamil Nadu.
+   177→   177→  - Cotton is a kharif crop requiring high temperature, light rainfall or irrigation, 210 frost-free days and bright sunshine, and black cotton soil of the Deccan; Maharashtra, Gujarat and Telangana are leading producers, and cotton is used as raw material for the textile industry.
+   178→   178→  - Jute, known as the golden fibre, grows well on well-drained fertile soils in the flood plains where soils are renewed every year, needing high temperature and heavy rainfall; West Bengal, Bihar and Assam are main producers, and jute is used to make gunny bags, mats, ropes and carpets.
+   179→   179→  - Tea grows well in tropical and subtropical climates in deep, fertile, well-drained soil rich in humus and organic matter, needing warm and moist frost-free climate with frequent showers of 150 to 200 cm; Assam and West Bengal hills are the main producers. Coffee, of the Arabica and Robusta varieties originally brought from Yemen through the Baba Budan Hills, grows in Karnataka, Kerala and Tamil Nadu.
+   180→   180→HEADING: Technological and Institutional Reforms
+
+[showing lines 1-180 of 343; use offset=181 with limit to continue reading]

@@ -1,0 +1,1558 @@
+{
+  "code": "science",
+  "name": "Science",
+  "bookName": "Science (NCERT Class 10)",
+  "weightageMarks": 80,
+  "chapters": [
+    {
+      "number": 5,
+      "title": "Life Processes",
+      "summary": "Life processes are the basic functions that all living organisms perform continuously to stay alive, namely nutrition, respiration, transportation and excretion. This chapter explains how organisms obtain and break down food, transport water, food and blood, and remove harmful wastes. It carries the highest weightage in Class 10 Biology and is rich in equations, pathways and diagrams.",
+      "weightageMarks": 7,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Photosynthesis equation and events",
+        "Human digestive system and enzymes",
+        "Aerobic and anaerobic respiration",
+        "Double circulation in the human heart",
+        "Structure and working of the nephron",
+        "Transpiration and translocation in plants"
+      ],
+      "sections": [
+        {
+          "heading": "Life Processes - What Keeps Organisms Alive",
+          "points": [
+            "Life processes are the essential maintenance functions that keep organisms alive, performed even when an organism is resting or inactive.",
+            "The major life processes are nutrition, respiration, transportation, excretion, control and coordination, and reproduction.",
+            "Molecular movement inside the body is necessary for life because food must be broken down, gases transported and wastes removed continuously.",
+            "Unicellular organisms satisfy all their needs by simple diffusion through the body surface, so they do not need special organs.",
+            "In multicellular organisms all cells are not in direct contact with the environment, and diffusion is too slow over large distances, so specialised tissues and organs evolved for nutrition, respiration and transport."
+          ],
+          "keyTerms": [
+            {
+              "term": "Life process",
+              "meaning": "A basic function such as nutrition, respiration or excretion that an organism performs to maintain and sustain life."
+            },
+            {
+              "term": "Diffusion",
+              "meaning": "Movement of molecules from a region of higher concentration to a region of lower concentration without any special organ or effort."
+            },
+            {
+              "term": "Metabolism",
+              "meaning": "The sum total of all chemical reactions, both building up and breaking down, occurring inside a living body."
+            }
+          ],
+          "trick": "Use MRS GREN - Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrition - the seven-point checklist of being alive.",
+          "examPointer": "CBSE often begins the paper with a 1 or 2 marker such as: why is diffusion insufficient to meet the oxygen requirements of multicellular organisms like humans?"
+        },
+        {
+          "heading": "Nutrition and Its Types",
+          "points": [
+            "Nutrition is the process of taking in food and using it for energy, growth, repair and maintenance of the body.",
+            "Autotrophic nutrition: organisms synthesise their own food from simple inorganic substances like carbon dioxide and water in the presence of sunlight; examples are green plants and some bacteria.",
+            "Heterotrophic nutrition: organisms depend on other organisms for ready-made complex organic food, since they cannot make their own food.",
+            "Holozoic nutrition: the organism takes in whole food and digests it inside the body, as in Amoeba and human beings.",
+            "Saprotrophic nutrition: the organism secretes juices outside the body to break down dead and decaying matter and then absorbs the nutrients, as in fungi like bread mould and mushrooms.",
+            "Parasitic nutrition: the parasite lives on or inside another living organism (the host) and takes food from it, as in Cuscuta (amarbel), ticks, leeches and tapeworm."
+          ],
+          "keyTerms": [
+            {
+              "term": "Autotroph",
+              "meaning": "An organism that prepares its own food from simple substances using sunlight, like green plants."
+            },
+            {
+              "term": "Heterotroph",
+              "meaning": "An organism that cannot make its own food and depends on other organisms for nutrition."
+            },
+            {
+              "term": "Saprophyte",
+              "meaning": "An organism that feeds on dead and decaying organic matter, such as fungi growing on bread."
+            }
+          ],
+          "trick": "Sort heterotrophs as HSP: Holozoic (hunt and swallow), Saprotrophic (suck from decay), Parasitic (pirate from a host).",
+          "examPointer": "Expect a 2 marker asking to classify organisms like Cuscuta, mushroom, Amoeba and Rhizopus into nutrition types with one-line reasons."
+        },
+        {
+          "heading": "Photosynthesis - Food Making in Green Plants",
+          "points": [
+            "Photosynthesis is the process by which green plants convert carbon dioxide and water into carbohydrate (glucose) using sunlight and chlorophyll, releasing oxygen.",
+            "Balanced equation: 6CO2 + 6H2O ->(sunlight, chlorophyll) C6H12O6 + 6O2; the raw materials are carbon dioxide from air and water from soil.",
+            "Site: chloroplasts containing chlorophyll, mainly in the mesophyll cells of leaves.",
+            "Three events: absorption of light energy by chlorophyll; conversion of light energy into chemical energy with splitting of water into hydrogen and oxygen; reduction of carbon dioxide to carbohydrate.",
+            "These events need not occur immediately one after the other; desert plants take in carbon dioxide at night and use it for food synthesis during the day.",
+            "Stomata: tiny pores on the leaf surface for exchange of gases; each stoma is surrounded by two guard cells whose swelling and shrinking open and close the pore."
+          ],
+          "keyTerms": [
+            {
+              "term": "Stomata",
+              "meaning": "Tiny pores usually on the underside of leaves through which exchange of gases and loss of water vapour occur."
+            },
+            {
+              "term": "Guard cells",
+              "meaning": "Two bean-shaped cells around each stoma that control its opening and closing by gaining or losing water."
+            },
+            {
+              "term": "Chlorophyll",
+              "meaning": "The green pigment inside chloroplasts that absorbs sunlight for photosynthesis."
+            }
+          ],
+          "trick": "Remember the photo equation as 6-6-1-6: 6CO2 plus 6H2O give 1 glucose plus 6O2, with sunlight and chlorophyll written above the arrow.",
+          "examPointer": "CBSE frequently asks the balanced photosynthesis equation, the role of stomata with a labelled diagram of guard cells, and why plants need to exchange gases separately day and night."
+        },
+        {
+          "heading": "Nutrition in Humans - Digestive System and Enzymes",
+          "points": [
+            "The alimentary canal runs: mouth -> oesophagus -> stomach -> small intestine -> large intestine -> anus; digestion is both mechanical (chewing, peristalsis) and chemical (enzymes).",
+            "Mouth: teeth crush food; saliva containing salivary amylase digests starch into maltose; the tongue shapes the bolus and pushes it into the oesophagus.",
+            "Oesophagus: food moves down by peristaltic movement, the wave-like contraction and relaxation of the muscles of the canal.",
+            "Stomach: gastric juice contains hydrochloric acid (creates the acidic medium needed by pepsin and kills germs), pepsin (digests proteins) and mucus (protects the stomach lining from the acid).",
+            "Small intestine: bile from the liver emulsifies fats and makes the medium alkaline; pancreatic juice supplies trypsin (proteins), pancreatic amylase (starch) and lipase (emulsified fats); intestinal juice from the intestinal wall completes digestion into amino acids, glucose and fatty acids with glycerol.",
+            "Absorption: finger-like villi greatly increase the surface area and are richly supplied with blood vessels that carry absorbed food to every cell; in the large intestine the remaining water and salts are absorbed."
+          ],
+          "keyTerms": [
+            {
+              "term": "Peristalsis",
+              "meaning": "Rhythmic wave-like contraction and relaxation of the muscles of the alimentary canal that pushes food forward."
+            },
+            {
+              "term": "Emulsification",
+              "meaning": "Breaking of large fat globules into smaller droplets by bile salts, helping lipase digest fats faster."
+            },
+            {
+              "term": "Villi",
+              "meaning": "Millions of tiny finger-like projections in the small intestine that increase the absorptive surface area."
+            }
+          ],
+          "trick": "Follow the food: Mouth makes starch sweet (amylase), Stomach works on proteins (pepsin in acid), Intestine finishes everything (bile, trypsin, lipase, intestinal juice) - the MSI mantra.",
+          "examPointer": "A 3 or 5 marker usually asks: explain digestion in the stomach and small intestine naming the enzymes, or draw the human digestive system and label liver, pancreas, small intestine and villi."
+        },
+        {
+          "heading": "Respiration - Breaking Down Food for Energy",
+          "points": [
+            "Cellular respiration breaks down glucose to release energy, which is trapped as ATP, the energy currency used for all cellular activities.",
+            "Aerobic respiration (with oxygen): C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy; it occurs in the mitochondria and releases much more energy.",
+            "Anaerobic respiration in yeast (absence of oxygen): C6H12O6 -> 2C2H5OH (ethanol) + 2CO2 + energy; this fermentation is used in making bread and alcoholic drinks.",
+            "Anaerobic respiration in human muscles during vigorous exercise: C6H12O6 -> 2C3H6O3 (lactic acid) + energy; lactic acid accumulation causes muscle cramps.",
+            "In humans air passes: nostrils (filtered by hairs and mucus) -> pharynx -> larynx (voice box) -> trachea (held open by cartilage rings) -> bronchi -> bronchioles -> alveoli.",
+            "Alveoli: balloon-like sacs with very thin walls and a dense network of capillaries; their huge surface area allows oxygen to diffuse into blood and carbon dioxide to diffuse out quickly."
+          ],
+          "keyTerms": [
+            {
+              "term": "ATP",
+              "meaning": "Adenosine triphosphate, the energy currency of the cell, formed during respiration and used for all cellular work."
+            },
+            {
+              "term": "Alveoli",
+              "meaning": "Balloon-like air sacs at the end of bronchioles where exchange of gases between air and blood takes place."
+            },
+            {
+              "term": "Fermentation",
+              "meaning": "Anaerobic breakdown of glucose by yeast into ethanol and carbon dioxide with the release of less energy."
+            }
+          ],
+          "trick": "Yeast turns sweet to spirit (glucose to ethanol plus CO2), tired muscles turn sour (glucose to lactic acid) - Y for spirit, M for sour.",
+          "examPointer": "Very common: write the equations of aerobic and anaerobic respiration, tabulate their differences, or explain why the breathing rate rises during exercise and why cramps occur after running."
+        },
+        {
+          "heading": "Transportation in Plants and Animals",
+          "points": [
+            "Xylem transports water and dissolved minerals upward from roots to leaves; phloem transports food from leaves to other parts in both directions using energy in the form of ATP (translocation).",
+            "Water rises mainly due to transpiration pull, the suction created when water evaporates from the stomata; transpiration also cools the plant, while root pressure pushes water up when transpiration is low.",
+            "Human blood: plasma carries food, gases and wastes; red blood cells with haemoglobin carry oxygen; white blood cells fight infection; platelets help in clotting. Lymph carries digested fat and drains excess tissue fluid back into the blood.",
+            "The human heart has four chambers - two atria and two ventricles - with valves that keep blood flowing in one direction only and prevent backflow.",
+            "Double circulation: pulmonary circuit (right ventricle -> pulmonary artery -> lungs -> pulmonary vein -> left atrium) and systemic circuit (left ventricle -> aorta -> body -> vena cava -> right atrium); blood passes through the heart twice in one complete cycle.",
+            "Pulmonary artery is the only artery carrying carbon dioxide-rich blood and pulmonary vein the only vein carrying oxygen-rich blood; the left ventricle has the thickest wall as it pumps blood to the entire body, and separation of the two blood types suits warm-blooded animals with high energy needs."
+          ],
+          "keyTerms": [
+            {
+              "term": "Transpiration pull",
+              "meaning": "The suction force created by evaporation of water from leaf stomata that pulls the water column up the xylem."
+            },
+            {
+              "term": "Double circulation",
+              "meaning": "Circulation in which blood passes through the heart twice in one complete cycle, once for oxygenation and once for supply to the body."
+            },
+            {
+              "term": "Haemoglobin",
+              "meaning": "The red pigment in red blood cells that has high affinity for oxygen and transports it to all body parts."
+            }
+          ],
+          "trick": "Trace the tour: RA -> RV -> Lungs -> LA -> LV -> Body, six stops with two pumps; and remember Arteries Away, Veins In, with the pulmonary artery and pulmonary vein as the famous exceptions.",
+          "examPointer": "A 5-mark favourite: draw the human heart, label the four chambers, aorta, vena cava, pulmonary artery and vein, and explain double circulation and its importance; 2 markers ask why the left ventricle wall is thicker."
+        },
+        {
+          "heading": "Excretion - Nephron and Dialysis",
+          "points": [
+            "Excretion is the removal of harmful metabolic wastes, mainly nitrogenous wastes like urea, from the body.",
+            "Human excretory system: a pair of kidneys, a pair of ureters, the urinary bladder and the urethra; urine formed in the kidneys flows through the ureters, is stored in the bladder and is expelled through the urethra.",
+            "Nephron: the basic structural and functional unit of the kidney; each kidney contains a very large number of nephrons.",
+            "Nephron working: blood is filtered under pressure in the glomerulus inside the cup-shaped Bowman's capsule; useful substances like glucose, amino acids, salts and much water are selectively reabsorbed in the tubule; the remaining fluid with urea forms urine.",
+            "The amount of water reabsorbed depends on how much excess water the body has to remove and how much dissolved waste has to be excreted; plants also excrete wastes through stomata, resins and gums.",
+            "Dialysis: in kidney failure, an artificial kidney machine passes the patient's blood through long tubes of porous membrane placed in dialysing fluid; urea and other wastes diffuse out and the cleaned blood is returned to a vein."
+          ],
+          "keyTerms": [
+            {
+              "term": "Nephron",
+              "meaning": "The structural and functional unit of the kidney that filters blood and forms urine."
+            },
+            {
+              "term": "Urea",
+              "meaning": "The main nitrogenous waste produced from the breakdown of proteins, removed from the blood by the kidneys."
+            },
+            {
+              "term": "Dialysis",
+              "meaning": "The process of removing urea and other wastes from the blood of a kidney patient using an artificial kidney machine."
+            }
+          ],
+          "trick": "Nephron mantra - Filter, Reabsorb, Excrete (FRE): the glomerulus filters, the tubule reabsorbs the good stuff, the rest leaves as urine.",
+          "examPointer": "Expect a 5 marker: describe the structure and working of a nephron with a labelled diagram, or a 2 marker on why dialysis is needed and how the artificial kidney works."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "The life process that breaks down food to release energy inside cells is",
+          "options": ["Nutrition", "Respiration", "Transportation", "Excretion"],
+          "answerIndex": 1,
+          "explanation": "Respiration releases energy from food, while nutrition is only the intake of food.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which enzyme present in saliva begins the digestion of starch?",
+          "options": ["Pepsin", "Trypsin", "Salivary amylase", "Lipase"],
+          "answerIndex": 2,
+          "explanation": "Salivary amylase in saliva breaks starch into maltose in the mouth itself.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Gaseous exchange in a green leaf takes place mainly through the",
+          "options": ["Cuticle", "Xylem vessels", "Phloem", "Stomata"],
+          "answerIndex": 3,
+          "explanation": "Stomata are tiny pores guarded by guard cells through which gases diffuse in and out.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The structural and functional unit of the kidney is the",
+          "options": ["Neuron", "Nephron", "Alveolus", "Villus"],
+          "answerIndex": 1,
+          "explanation": "Each kidney contains a large number of nephrons that filter blood and form urine.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Bile and pancreatic juice are poured into which part of the alimentary canal?",
+          "options": ["Stomach", "Duodenum of the small intestine", "Large intestine", "Rectum"],
+          "answerIndex": 1,
+          "explanation": "Bile from the liver and pancreatic juice from the pancreas enter the duodenum, the first part of the small intestine.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "In which form does respiration make energy available for cellular activities?",
+          "options": ["Glucose", "Starch", "ATP", "ADP"],
+          "answerIndex": 2,
+          "explanation": "Energy released during respiration is used to synthesise ATP, the energy currency of cells.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which chamber of the human heart pumps oxygenated blood into the aorta?",
+          "options": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+          "answerIndex": 3,
+          "explanation": "The thick-walled left ventricle sends oxygenated blood to the whole body through the aorta.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Bile helps in the digestion of fats mainly by",
+          "options": ["Chemically breaking fat molecules", "Emulsifying large fat globules into small droplets", "Converting fats into glucose", "Absorbing water from undigested food"],
+          "answerIndex": 1,
+          "explanation": "Bile is not an enzyme; it emulsifies fats so that lipase can digest them efficiently.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "During vigorous exercise, human muscle cells switch to anaerobic respiration. Which product is formed and what is its effect?",
+          "options": ["Ethanol and carbon dioxide, causing fatigue", "Lactic acid, causing muscle cramps", "Pyruvate, causing muscle cramps", "Lactic acid, causing high fever"],
+          "answerIndex": 1,
+          "explanation": "When oxygen supply falls short, muscles break glucose into lactic acid, whose accumulation causes cramps.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which statement about translocation in phloem is correct?",
+          "options": ["It occurs only upward due to transpiration pull", "It occurs only downward due to gravity", "It can occur in both directions and requires energy in the form of ATP", "It occurs through dead, hollow cells"],
+          "answerIndex": 2,
+          "explanation": "Phloem transports food up or down as the plant needs, using ATP energy, unlike passive xylem transport.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why is diffusion insufficient to meet the oxygen requirements of multicellular organisms like human beings?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) In multicellular organisms, many cells are located deep inside the body, far away from the body surface where oxygen is available. 2) Diffusion is a very slow process and works only over very short distances, so it cannot push oxygen quickly to all the inner cells. 3) Hence multicellular organisms need specialised respiratory organs like lungs and a transport system like blood to deliver oxygen rapidly to every cell."
+        },
+        {
+          "question": "State the role of hydrochloric acid and mucus in the human stomach.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) HCl makes the stomach medium strongly acidic, which is necessary for the protein-digesting enzyme pepsin to work. 2) The acid also kills harmful germs and microbes that enter the body along with food. 3) Mucus forms a protective lining on the inner wall of the stomach and saves it from being corroded by the acid and digested by pepsin."
+        },
+        {
+          "question": "Explain the three major events that occur during photosynthesis.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Absorption of light energy by chlorophyll: the chlorophyll present in chloroplasts of leaf cells traps sunlight. 2) Conversion of light energy into chemical energy along with splitting of water molecules into hydrogen and oxygen; the oxygen is released into the air as a by-product. 3) Reduction of carbon dioxide: CO2 is reduced using the hydrogen from water to form carbohydrate such as glucose, which is stored as insoluble starch in the leaves for later use. 4) These events need not occur one immediately after the other; for example desert plants take in CO2 at night and convert it to food during the day."
+        },
+        {
+          "question": "Write the balanced chemical equations for aerobic respiration, anaerobic respiration in yeast and anaerobic respiration in human muscles, stating one location where each occurs.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Aerobic respiration: C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy; it occurs in the mitochondria of most cells in the presence of oxygen and releases much energy. 2) Anaerobic respiration in yeast: C6H12O6 -> 2C2H5OH (ethanol) + 2CO2 + energy; it occurs in the cytoplasm of yeast cells and is used in making bread and alcoholic drinks. 3) Anaerobic respiration in human muscles: C6H12O6 -> 2C3H6O3 (lactic acid) + energy; it occurs in muscle cells when oxygen supply falls during vigorous exercise, and lactic acid accumulation causes cramps. 4) Aerobic respiration releases far more energy because glucose is completely broken down, while anaerobic respiration is an incomplete emergency pathway that releases much less energy."
+        },
+        {
+          "question": "Explain double circulation in human beings. Describe the pathway of blood in its two circuits and state why this arrangement is necessary. Also describe the labels you would show on a diagram of the human heart.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) The human heart has four chambers: right atrium, right ventricle, left atrium and left ventricle, with valves that keep blood flowing in one direction only. 2) Pulmonary circulation: deoxygenated blood from the body enters the right atrium through the vena cava, passes into the right ventricle and is pumped to the lungs through the pulmonary artery; in the lungs it releases carbon dioxide and picks up oxygen, then returns as oxygenated blood through the pulmonary veins to the left atrium. 3) Systemic circulation: oxygenated blood moves from the left atrium into the thick-walled left ventricle, which pumps it through the aorta to the entire body; deoxygenated blood returns through the veins to the right atrium. 4) In one complete cycle blood passes twice through the heart, once through each side, so this arrangement is called double circulation. 5) Diagram labels to show: vena cava, pulmonary artery, pulmonary vein, aorta, right atrium, left atrium, right ventricle, left ventricle and the valves between atria and ventricles. 6) Necessity: the four chambers prevent mixing of oxygenated and deoxygenated blood, so the body receives blood rich in oxygen; such an efficient supply is essential for warm-blooded animals like humans that need high energy to maintain a constant body temperature. 7) The left ventricle has the thickest muscular wall because it pumps blood at high pressure to the whole body, while the right ventricle only sends blood a short distance to the lungs."
+        },
+        {
+          "question": "Describe the structure and working of a nephron, and explain why a person with kidney failure needs dialysis.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) The nephron is the basic filtration unit of the kidney; each kidney contains a very large number of nephrons closely packed together. 2) Structure: a cup-shaped Bowman's capsule that encloses a bunch of capillaries called the glomerulus, followed by a long coiled tubule which opens into a collecting duct. 3) Filtration: blood entering the glomerulus is under high pressure, so water, glucose, amino acids, salts and urea are filtered into the Bowman's capsule, while blood cells and large proteins stay behind in the capillaries. 4) Selective reabsorption: as the filtrate flows through the tubule, useful substances like glucose, amino acids, most salts and a large amount of water are reabsorbed into the blood vessels around the tubule. 5) The amount of water reabsorbed depends on how much excess water the body needs to remove and how much dissolved waste has to be excreted. 6) Urine: the remaining fluid, containing urea, excess salts and water, is collected as urine, passes through the ureters into the urinary bladder and is expelled through the urethra. 7) Dialysis: when the kidneys fail, urea and other wastes accumulate in the blood and become poisonous, so a dialysis machine is used as an artificial kidney. 8) In dialysis, blood from the patient's vein is passed through long tubes of porous membrane placed in dialysing fluid; wastes like urea diffuse out of the blood into the fluid, and the cleaned blood is returned to the body. 9) Dialysis is repeated periodically and keeps the patient alive till a kidney transplant becomes possible."
+        },
+        {
+          "question": "Read the passage: Ravi ran a 400 metre race. Soon after finishing, his breathing rate remained very high for some time and he complained of severe pain in his leg muscles. His sports teacher explained that his leg muscle cells had switched over to another mode of respiration for a while. (a) Which type of respiration occurred in his leg muscles and which compound caused the pain? (b) Why did Ravi keep breathing fast even after the race had ended? (c) Write the balanced equation for the respiration that took place in his muscle cells and name one everyday situation in which yeast performs a similar mode of respiration.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) During the sprint, Ravi's muscles needed more energy than the oxygen supply could support, so his muscle cells switched to anaerobic respiration, breaking glucose without oxygen; lactic acid was formed and its accumulation caused pain and cramps in the legs. 2) (b) Anaerobic respiration meets the energy demand only temporarily and leaves lactic acid accumulated in the muscles; to remove this lactic acid completely, extra oxygen is required. 3) Hence Ravi continued to breathe fast after the race: the deep and rapid breathing supplied extra oxygen which cleared the lactic acid; this extra oxygen need after exercise is called oxygen debt. 4) (c) Equation in muscle cells: C6H12O6 -> 2C3H6O3 (lactic acid) + energy; no oxygen is used and much less energy is released than in aerobic respiration. 5) Yeast performs a different anaerobic pathway: C6H12O6 -> 2C2H5OH (ethanol) + 2CO2 + energy. 6) Everyday situation: yeast respires anaerobically when it makes bread dough rise by releasing carbon dioxide, and also during the making of alcoholic drinks. 7) Comparison: aerobic respiration (C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy) releases far more energy because glucose is completely oxidised, while anaerobic respiration is a quick emergency pathway with incomplete breakdown. 8) Learning point: cramps after running are a normal sign of temporary oxygen shortage in the muscles."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Control and Coordination",
+      "summary": "Control and coordination in animals is achieved jointly by the nervous system, which sends fast electrical-chemical signals, and the endocrine system, which uses hormones. Plants coordinate through tropic movements and plant hormones. This chapter covers the neuron and synapse, reflex action and reflex arc, the human brain, plant hormones and the major endocrine glands.",
+      "weightageMarks": 5,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Reflex action and reflex arc pathway",
+        "Structure of neuron and synapse",
+        "Parts of the human brain and their functions",
+        "Plant hormones and their roles",
+        "Tropic and nastic movements in plants",
+        "Endocrine glands, hormones and feedback control"
+      ],
+      "sections": [
+        {
+          "heading": "Neuron - The Unit of the Nervous System",
+          "points": [
+            "Neuron is the structural and functional unit of the nervous system; information travels through it as an electrical-chemical impulse.",
+            "Parts: dendrites receive information, the cell body contains the nucleus and cytoplasm, and the axon is a long fibre that carries the impulse away to the axon endings.",
+            "At the synapse, the tiny gap between the axon ending of one neuron and the dendrite of the next, the arriving impulse releases a chemical that crosses the gap and starts a new impulse in the next cell.",
+            "Nerve impulses are fast, precise and can travel over long distances, which is why the nervous system handles quick responses like reflexes.",
+            "Motor neurons carry commands from the central nervous system to muscles and glands; sensory neurons carry information from receptors to the central nervous system."
+          ],
+          "keyTerms": [
+            {
+              "term": "Synapse",
+              "meaning": "The microscopic gap between the axon ending of one neuron and the dendrite of the next, across which a chemical carries the signal."
+            },
+            {
+              "term": "Neurotransmitter",
+              "meaning": "The chemical released at a synapse that carries the signal across the gap to start a fresh impulse in the next neuron."
+            },
+            {
+              "term": "Axon",
+              "meaning": "The single long fibre of a neuron that conducts the impulse away from the cell body towards the nerve endings."
+            }
+          ],
+          "trick": "D-A rule: Dendrites Deliver the message in, Axon sends it Away out; the synapse is the chemical bridge between two electrical wires.",
+          "examPointer": "CBSE asks to draw and label a neuron (dendrite, cell body, axon, nerve endings) or explain in steps how an impulse crosses the synapse from one neuron to the next."
+        },
+        {
+          "heading": "Reflex Action and Reflex Arc",
+          "points": [
+            "Reflex action is a sudden, quick, involuntary response to a stimulus, such as withdrawing the hand from a hot object or blinking at bright light.",
+            "Reflex arc pathway: receptor in the skin -> sensory neuron -> spinal cord -> motor neuron -> effector (muscle or gland).",
+            "The connection between the sensory and motor neurons is made in the spinal cord itself, so the thinking part of the brain is bypassed and time is saved.",
+            "Reflex arcs evolved because the thinking process of the brain is too slow for immediate protection from dangerous stimuli, so fast escape pathways were retained.",
+            "The brain still receives the information through ascending nerves, so pain is felt only after the hand has already been withdrawn."
+          ],
+          "keyTerms": [
+            {
+              "term": "Reflex action",
+              "meaning": "A rapid, automatic and involuntary response to a stimulus, controlled by the spinal cord."
+            },
+            {
+              "term": "Reflex arc",
+              "meaning": "The shortest nerve pathway from receptor to effector: receptor -> sensory neuron -> spinal cord -> motor neuron -> effector."
+            },
+            {
+              "term": "Effector",
+              "meaning": "The muscle or gland that responds to a nerve impulse by acting, such as a muscle pulling the hand away."
+            }
+          ],
+          "trick": "Spell the arc as R-S-S-M-E: Receptor, Sensory neuron, Spinal cord, Motor neuron, Effector - Remember: Some Signals Make Escape.",
+          "examPointer": "A very frequent question: define reflex action, draw the reflex arc with labels and explain why the spinal cord, and not the brain, controls it."
+        },
+        {
+          "heading": "Human Brain and the Nervous System",
+          "points": [
+            "The nervous system has two parts: the central nervous system (brain and spinal cord) and the peripheral nervous system (nerves connecting the central nervous system to all body parts).",
+            "Cerebrum: the largest and most complex part of the brain; the seat of thinking, intelligence, memory and control of voluntary actions like writing.",
+            "Cerebellum: maintains posture and balance of the body and makes voluntary movements precise and smooth, such as picking a pencil or riding a bicycle.",
+            "Medulla (brain stem): controls involuntary vital actions - heartbeat, breathing, blood pressure, salivation and vomiting.",
+            "The brain is protected inside the bony skull, and the spinal cord runs within the vertebral column; both are cushioned by membranes and fluid.",
+            "Nerves are classified by function: sensory nerves carry impulses from receptors to the central nervous system, and motor nerves carry commands from the central nervous system to muscles and glands."
+          ],
+          "keyTerms": [
+            {
+              "term": "Cerebrum",
+              "meaning": "The largest part of the brain responsible for thinking, memory, intelligence and voluntary actions."
+            },
+            {
+              "term": "Medulla",
+              "meaning": "The part of the brain that controls involuntary vital functions like heartbeat, breathing and blood pressure."
+            },
+            {
+              "term": "Peripheral nervous system",
+              "meaning": "All the nerves arising from the brain and spinal cord that connect the central nervous system to the rest of the body."
+            }
+          ],
+          "trick": "CCM ladder: Cerebrum is the Chairman (thinking and decisions), Cerebellum is the Balance boss, Medulla is the Machine room running heartbeat and breathing automatically.",
+          "examPointer": "Expect a 3 marker: name the brain part responsible for a given action (thinking, cycling balance, heartbeat) or explain how the brain and spinal cord are protected."
+        },
+        {
+          "heading": "Coordination in Plants - Tropic and Nastic Movements",
+          "points": [
+            "Plants respond to stimuli either by movements independent of growth (like folding of Mimosa leaves) or by movements caused by growth (like bending of shoots towards light).",
+            "Tropic movements are directional growth movements towards or away from a stimulus: phototropism (light), geotropism (gravity), hydrotropism (water), chemotropism (chemicals) and thigmotropism (touch).",
+            "Examples: shoot grows towards light (positive phototropism) while root grows downward with gravity (positive geotropism); root bends towards water (hydrotropism); pollen tube grows towards the ovule (chemotropism); tendrils coil around a support (thigmotropism).",
+            "Tropic movements occur because cells on one side of the organ grow more than on the other side, so the organ slowly bends; they are usually irreversible growth movements.",
+            "Nastic movements like the folding of touch-me-not (Mimosa) leaves are quick, reversible and independent of the direction of the stimulus, caused by sudden changes in the water content of cells.",
+            "Immediate responses in plants use electrical-chemical means without growth, while slower long-term responses use growth itself as the response."
+          ],
+          "keyTerms": [
+            {
+              "term": "Tropism",
+              "meaning": "A directional growth movement of a plant part towards (positive) or away (negative) from a stimulus."
+            },
+            {
+              "term": "Nastic movement",
+              "meaning": "A non-directional, usually quick and reversible movement of a plant part independent of the direction of the stimulus."
+            },
+            {
+              "term": "Thigmotropism",
+              "meaning": "A growth movement in response to touch, as when tendrils wind around a support."
+            }
+          ],
+          "trick": "Five tropisms in one breath - Photo (light), Geo (ground), Hydro (water), Chemo (chemical), Thigmo (touch); Mimosa is the nasty (nastic) one that folds without growth.",
+          "examPointer": "A favourite 2-3 marker: identify the type of tropism from a described situation (pollen tube, tendril, root towards water) and distinguish tropic from nastic movement."
+        },
+        {
+          "heading": "Plant Hormones (Phytohormones)",
+          "points": [
+            "Auxin: made at the shoot tip; promotes cell elongation; makes the shoot bend towards light by elongating cells on the shaded side.",
+            "Gibberellin: promotes elongation of stems, germination of seeds and flowering.",
+            "Cytokinin: promotes cell division; naturally present in higher concentration in fruits and seeds.",
+            "Abscisic acid: inhibits growth, triggers wilting of leaves and closing of stomata; it acts as the stress hormone under unfavourable conditions.",
+            "Ethylene: a gaseous hormone that promotes ripening of fruits.",
+            "Together these hormones coordinate growth, dormancy, ripening and responses to stress, allowing plants to adjust without a nervous system."
+          ],
+          "keyTerms": [
+            {
+              "term": "Auxin",
+              "meaning": "A plant hormone synthesised at the shoot tip that promotes cell elongation and phototropism."
+            },
+            {
+              "term": "Abscisic acid",
+              "meaning": "A plant hormone that inhibits growth, causes wilting and closes stomata during stress."
+            },
+            {
+              "term": "Ethylene",
+              "meaning": "A gaseous plant hormone that speeds up the ripening of fruits."
+            }
+          ],
+          "trick": "AGCAE jobs: Auxin Arranges length (stretch), Gibberellin Grows stems, Cytokinin Creates cells (division), ABA Alerts stress, Ethylene makes fruit Eat-ready (ripening).",
+          "examPointer": "Common questions: name the hormone responsible for fruit ripening (ethylene) or cell division (cytokinin), and explain with auxin why a shoot bends towards light."
+        },
+        {
+          "heading": "Hormones in Animals - The Endocrine System",
+          "points": [
+            "Hormones are chemical messengers secreted by ductless (endocrine) glands directly into the blood; each hormone acts on specific target organs.",
+            "Pituitary gland: the master gland at the base of the brain; its growth hormone controls overall growth; deficiency in childhood causes dwarfism and excess causes abnormal overgrowth.",
+            "Thyroid gland: secretes thyroxine, which regulates the metabolism of carbohydrates, proteins and fats; iodine in the diet is essential, and its deficiency causes goitre.",
+            "Pancreas: secretes insulin, which lowers blood glucose; deficiency causes diabetes mellitus, managed with diet control and insulin injections.",
+            "Adrenal gland: secretes adrenaline, the emergency hormone that increases heartbeat, breathing rate and blood pressure to prepare the body to face danger.",
+            "Testes secrete testosterone and ovaries secrete oestrogen, which bring about the changes of puberty; a feedback mechanism keeps the level of each hormone within limits."
+          ],
+          "keyTerms": [
+            {
+              "term": "Hormone",
+              "meaning": "A chemical messenger secreted by an endocrine gland into the blood that controls the activities of target organs."
+            },
+            {
+              "term": "Endocrine gland",
+              "meaning": "A ductless gland, like the thyroid or pituitary, that pours its secretion directly into the bloodstream."
+            },
+            {
+              "term": "Feedback mechanism",
+              "meaning": "The self-controlling system in which the level of a hormone in the blood regulates its own further secretion."
+            }
+          ],
+          "trick": "Hormone hit-list: Pituitary the Inspector (growth), Thyroid the Engine (iodine, metabolism), Pancreas the Sugar police (insulin), Adrenal the Fire alarm (adrenaline), Testes-Ovaries the Puberty switch (testosterone, oestrogen).",
+          "examPointer": "Board classic: match glands with hormones and functions, explain goitre or diabetes with reasons, and describe the feedback control of insulin or thyroxine secretion."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "The structural and functional unit of the nervous system is the",
+          "options": ["Nephron", "Neuron", "Axon", "Synapse"],
+          "answerIndex": 1,
+          "explanation": "The neuron is the basic unit that receives and conducts nerve impulses.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which part of the brain controls involuntary actions such as heartbeat and breathing?",
+          "options": ["Cerebrum", "Cerebellum", "Medulla", "Spinal cord"],
+          "answerIndex": 2,
+          "explanation": "The medulla in the brain stem regulates vital involuntary functions like heartbeat and breathing.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which plant hormone promotes the ripening of fruits?",
+          "options": ["Auxin", "Gibberellin", "Cytokinin", "Ethylene"],
+          "answerIndex": 3,
+          "explanation": "Ethylene is a gaseous hormone that speeds up fruit ripening.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Insulin, which controls the blood sugar level, is secreted by the",
+          "options": ["Pancreas", "Liver", "Thyroid", "Pituitary"],
+          "answerIndex": 0,
+          "explanation": "The pancreas secretes insulin, which lowers blood glucose; its deficiency causes diabetes.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The correct pathway of a reflex arc is",
+          "options": ["Receptor -> motor neuron -> spinal cord -> sensory neuron -> effector", "Receptor -> sensory neuron -> spinal cord -> motor neuron -> effector", "Receptor -> spinal cord -> effector -> motor neuron -> sensory neuron", "Receptor -> effector -> spinal cord -> motor neuron -> sensory neuron"],
+          "answerIndex": 1,
+          "explanation": "The impulse travels from the receptor through the sensory neuron to the spinal cord and back through the motor neuron to the effector.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A shoot bends towards light because",
+          "options": ["Auxin accumulates on the illuminated side and elongates it", "Auxin accumulates on the shaded side and elongates those cells", "Light destroys auxin throughout the shoot", "Cytokinin increases cell division on the illuminated side"],
+          "answerIndex": 1,
+          "explanation": "Auxin moves to the shaded side and makes those cells elongate more, so the shoot bends towards light.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Deficiency of iodine in the diet mainly causes",
+          "options": ["Diabetes mellitus", "Dwarfism", "Goitre", "Anaemia"],
+          "answerIndex": 2,
+          "explanation": "Without iodine the thyroid cannot make enough thyroxine, so the gland swells up causing goitre.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The junction between two adjacent neurons is called the",
+          "options": ["Dendrite", "Axon", "Synapse", "Effector"],
+          "answerIndex": 2,
+          "explanation": "At the synapse a chemical messenger carries the signal across the tiny gap between neurons.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "If the medulla of a person is damaged, which functions will be most seriously affected?",
+          "options": ["Thinking and memory", "Balance while cycling", "Heartbeat, breathing and blood pressure", "Voluntary movement of the limbs"],
+          "answerIndex": 2,
+          "explanation": "The medulla controls vital involuntary functions, so its damage affects heartbeat, breathing and blood pressure.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Why is goitre more common among people living in hilly regions?",
+          "options": ["Their food and water lack sufficient iodine", "Low oxygen affects the thyroid gland", "Cold temperature enlarges the thyroid", "Excess calcium blocks thyroxine synthesis"],
+          "answerIndex": 0,
+          "explanation": "Hilly regions often have iodine-deficient water and food, so thyroxine production falls and the thyroid swells.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why is the use of iodised salt advisable?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Iodine is essential for the thyroid gland to make the hormone thyroxine. 2) Thyroxine regulates the metabolism of carbohydrates, proteins and fats and controls the overall growth and development of the body. 3) In areas where iodine is lacking in diet and drinking water, thyroxine cannot be made in sufficient quantity and the thyroid gland swells up, causing goitre. 4) Using iodised salt ensures a regular supply of iodine and prevents such deficiency diseases."
+        },
+        {
+          "question": "What is a tropic movement? Give one example each of a positive and a negative tropic response in plants.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Tropic movement is a directional growth movement of a plant part in response to an external stimulus such as light, gravity, water or chemicals. 2) The movement is called positive if the part grows towards the stimulus and negative if it grows away from it. 3) Example of positive tropism: a shoot grows towards light, which is positive phototropism. 4) Example of negative tropism: a root grows away from light (negative phototropism), while it bends towards gravity, which is positive geotropism."
+        },
+        {
+          "question": "With the help of a labelled description of a reflex arc, explain how a person withdraws the hand on touching a hot object, and why the thinking part of the brain is not directly involved.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Pathway of the reflex arc: receptor in the skin of the hand -> sensory neuron -> spinal cord -> motor neuron -> effector muscle of the arm. 2) On touching a hot object, heat receptors in the skin generate an impulse that travels through the sensory neuron to the spinal cord. 3) In the spinal cord the impulse passes to the motor neuron, which orders the arm muscles to contract and pull the hand away at once. 4) The brain is not directly involved because the sensory and motor neurons connect in the spinal cord itself; this saves time and gives an immediate protective response. 5) The brain learns of the event later through ascending nerves, so pain is felt after the hand is withdrawn. 6) Diagram: show the receptor, sensory nerve, spinal cord, motor nerve and effector muscle with arrows marking the impulse direction."
+        },
+        {
+          "question": "Name four plant hormones and state one main function of each.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Auxin: synthesised at the shoot tip; promotes cell elongation and causes the shoot to bend towards light. 2) Gibberellin: helps in the elongation of stems and in seed germination. 3) Cytokinin: promotes cell division and is found in higher concentration in fruits and seeds. 4) Abscisic acid: inhibits growth, causes wilting of leaves and closes stomata during stress. 5) These hormones are made in very small quantities at specific sites like the shoot tip and young leaves, and act far from the place where they are made. 6) Note: ethylene is a fifth hormone, gaseous in nature, which promotes fruit ripening. 7) Memory hook: auxin stretches, gibberellin grows, cytokinin divides, ABA alerts, ethylene ripens."
+        },
+        {
+          "question": "Describe the human endocrine system. Name four endocrine glands, the hormones they secrete and one function of each, and explain how the feedback mechanism controls hormone levels using insulin or thyroxine as an example.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) The endocrine system is made of ductless glands that pour their secretions called hormones directly into the blood; hormones travel to specific target organs and control body activities. 2) Pituitary gland: the master gland at the base of the brain; secretes growth hormone which controls overall growth; its deficiency in childhood causes dwarfism and excess causes abnormal overgrowth. 3) Thyroid gland: located in the neck; secretes thyroxine which regulates carbohydrate, protein and fat metabolism; iodine is needed to make it and its deficiency causes goitre. 4) Pancreas: secretes insulin which lowers the blood sugar level; deficiency of insulin causes diabetes mellitus in which blood sugar rises abnormally. 5) Adrenal gland: secretes adrenaline, the emergency hormone that increases heartbeat, breathing rate and blood pressure in frightening situations and sends more blood to the muscles for quick action. 6) Testes secrete testosterone and ovaries secrete oestrogen, which bring about the secondary sexual characters at puberty. 7) Feedback mechanism: the level of a hormone in the blood controls its own further secretion. 8) Example with insulin: when blood sugar rises, the pancreas increases insulin secretion; insulin makes cells take up glucose and the blood sugar falls; once the sugar level is normal, insulin secretion is reduced. 9) Example with thyroxine: low thyroxine triggers more thyroid stimulating hormone from the pituitary, which pushes the thyroid to make more thyroxine; adequate thyroxine then reduces this stimulus. 10) Thus feedback keeps hormone levels within a safe range, like a thermostat."
+        },
+        {
+          "question": "Draw and label the structure of a neuron (describe the labels in words) and explain how a nerve impulse travels from one neuron to another. Why can impulses not pass directly as electricity from cell to cell?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Structure of a neuron: it has three main parts - dendrites, cell body and axon. 2) Dendrites: short branched extensions that receive information from receptors or from previous neurons. 3) Cell body: contains the nucleus and cytoplasm; it integrates the incoming signals. 4) Axon: a single long fibre that carries the impulse away from the cell body and ends in fine axon terminals (nerve endings). 5) Diagram labels to show: dendrites, cell body with nucleus, axon, axon terminals and the synapse with the next neuron. 6) Impulse travel: information is picked up at the dendrite tip; a chemical reaction sets up an electrical impulse that travels along the axon to its endings. 7) At the synapse, the tiny gap between the axon ending of one neuron and the dendrite of the next, the arriving impulse makes the ending release a chemical (neurotransmitter) into the gap. 8) The chemical crosses the gap and starts a fresh electrical impulse in the dendrite of the next neuron; in this way the signal passes from neuron to neuron. 9) When the impulse reaches a muscle or gland, the effector acts; the same chain allows the brain to send commands through the spinal cord and nerves to all body parts. 10) Why a chemical bridge: neurons are not physically connected; the synaptic gap cannot carry an electrical impulse directly, so a chemical messenger converts the signal across the gap, which also lets the impulse pass in one direction only."
+        },
+        {
+          "question": "Read the passage: On a nature walk, Meera touched the leaves of a touch-me-not (Mimosa) plant and they folded up within seconds. Later she saw the tip of a young potted plant placed near a window bending slowly towards the sunlight over several days. At home, her younger brother accidentally touched a hot pan and instantly pulled his hand away. (a) Identify the type of response shown by the Mimosa leaves, the bending plant tip and the boy's hand, stating in each case whether growth is involved and whether it is a plant or an animal response. (b) Explain the mechanism behind the bending of the shoot towards light. (c) Explain the pathway by which the boy's hand moved, and state why it was faster than a voluntary action.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) Mimosa leaves folding: a nastic movement of a plant, independent of the direction of the stimulus, occurring without growth, by sudden changes in the water content of leaf cells; it is quick and reversible. 2) Shoot bending towards the window: a tropic movement, specifically positive phototropism; it is a directional growth movement, slow, and occurs by unequal growth on the two sides of the shoot. 3) Hand pulled away from the hot pan: a reflex action of the nervous system in an animal; it is involuntary, immediate and controlled at the spinal cord level. 4) (b) Mechanism of phototropism: the plant hormone auxin is made at the shoot tip; when light falls from one side, auxin diffuses towards the shaded side and makes the cells there elongate more. 5) The shaded side therefore grows faster than the illuminated side, and the shoot bends towards the light; this is why seedlings kept near a window lean towards the sunlight. 6) (c) Reflex pathway: receptor in the skin of the finger -> sensory neuron -> spinal cord -> motor neuron -> muscles of the arm (effector) contract and the hand is withdrawn. 7) It was faster because the decision was taken in the spinal cord itself without going up to the thinking part of the brain, which would take extra time. 8) Difference summary: plant tropic responses use growth and are slow; nastic movements use turgor changes and are fast; animal reflexes use nerve impulses and are the fastest, protecting the body from injury."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "How do Organisms Reproduce?",
+      "summary": "Reproduction produces new individuals of a species and ensures the continuity of life, with DNA copying passing on the blueprint of body design. The chapter explains asexual reproduction modes like fission, budding, fragmentation, regeneration, spore formation and vegetative propagation, and sexual reproduction in flowering plants and humans. It also covers the menstrual cycle, reproductive health and contraceptive methods.",
+      "weightageMarks": 5,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Asexual reproduction modes with examples",
+        "Parts of a flower and pollination",
+        "Fertilisation, seed and fruit formation",
+        "Human male and female reproductive systems",
+        "Menstrual cycle and sites of fertilisation and implantation",
+        "Contraceptive methods and reproductive health"
+      ],
+      "sections": [
+        {
+          "heading": "Why Organisms Reproduce - DNA Copying and Variation",
+          "points": [
+            "Reproduction is the biological process by which new individuals of the same species are produced; it is essential for the continuation of the species, though not for the survival of an individual.",
+            "During reproduction, DNA copying is essential because DNA carries the blueprint of the body design that the new individual needs to build its cells and organs.",
+            "DNA copying is not perfectly accurate; small variations are generated in every generation.",
+            "Variations may be useful or harmful, but useful ones give the species a better chance of surviving if the environment, like temperature or water supply, changes.",
+            "The combination of DNA copying and variation makes reproduction a way of both preserving the body design and slowly improving the adaptability of a species."
+          ],
+          "keyTerms": [
+            {
+              "term": "DNA copying",
+              "meaning": "The making of a copy of the genetic material before cells divide, so that new cells receive the complete body-design blueprint."
+            },
+            {
+              "term": "Variation",
+              "meaning": "Small differences in body design that arise during DNA copying and help a species survive changing environments."
+            },
+            {
+              "term": "Species",
+              "meaning": "A group of similar organisms that can interbreed and produce offspring of the same kind."
+            }
+          ],
+          "trick": "Photocopy logic: DNA copies are like photocopies - mostly identical with tiny smudges; the smudge is variation, the raw material of survival.",
+          "examPointer": "Asked as a 2-3 marker: why is DNA copying essential in reproduction, or why is variation beneficial to the species but not always to the individual."
+        },
+        {
+          "heading": "Asexual Reproduction and Its Modes",
+          "points": [
+            "Asexual reproduction involves only one parent and produces offspring that are genetically identical to the parent, without the fusion of gametes.",
+            "Binary fission: a unicellular organism divides into two; Amoeba divides in any plane, Leishmania divides longitudinally, while Plasmodium shows multiple fission, dividing into many daughter cells at once.",
+            "Budding: an outgrowth or bud forms on the parent body by repeated cell division and grows into a new individual; seen in yeast and Hydra.",
+            "Fragmentation and regeneration: in Spirogyra, each broken fragment grows into a new filament; in Planaria, each cut piece regrows the missing parts with the help of specialised cells and becomes a complete animal.",
+            "Spore formation: organisms like Rhizopus (bread mould) produce thick-coated spores inside sporangia; each spore germinates on a moist surface into a new individual.",
+            "Vegetative propagation: new plants grow from stems, roots or leaves without seeds; examples are potato and ginger (buds on underground stems) and Bryophyllum (buds on leaf margins); advantages include faster growth, earlier flowering and fruits of the same quality as the parent."
+          ],
+          "keyTerms": [
+            {
+              "term": "Binary fission",
+              "meaning": "Division of a unicellular organism into two equal daughter cells, as in Amoeba."
+            },
+            {
+              "term": "Budding",
+              "meaning": "Formation of an outgrowth (bud) on the parent body that develops into a new individual, as in yeast and Hydra."
+            },
+            {
+              "term": "Regeneration",
+              "meaning": "The ability of a cut piece of an organism to regrow into a complete individual, as in Planaria."
+            }
+          ],
+          "trick": "Chain the modes as F-B-F-R-S-V: Fission, Budding, Fragmentation, Regeneration, Spores, Vegetative - Fish Bite Fish, Rats Steal Veggies.",
+          "examPointer": "Very frequent: identify the mode of reproduction from the organism given (Hydra, Planaria, Plasmodium, Rhizopus, Bryophyllum) or draw the stages of budding in yeast."
+        },
+        {
+          "heading": "Sexual Reproduction in Flowering Plants - Flower and Pollination",
+          "points": [
+            "The flower is the reproductive organ of angiosperms; sexual reproduction in plants involves gamete formation, pollination, fertilisation and seed formation.",
+            "Stamen, the male part, has two parts: the filament (stalk) and the anther, which produces pollen grains containing the male gametes.",
+            "Carpel or pistil, the female part, has three parts: the sticky stigma (receives pollen), the style (tube below the stigma) and the ovary (contains ovules with egg cells).",
+            "Pollination is the transfer of pollen grains from the anther to the stigma; it may be self-pollination (same flower) or cross-pollination (different flower of the same species).",
+            "Pollination agents include wind, water and insects; after landing on a compatible stigma, the pollen grain begins to grow a pollen tube down the style."
+          ],
+          "keyTerms": [
+            {
+              "term": "Pollination",
+              "meaning": "Transfer of pollen grains from the anther of a stamen to the stigma of a carpel."
+            },
+            {
+              "term": "Stamen",
+              "meaning": "The male reproductive part of a flower, made of the filament and the pollen-producing anther."
+            },
+            {
+              "term": "Carpel",
+              "meaning": "The female reproductive part of a flower, made of the stigma, style and ovary."
+            }
+          ],
+          "trick": "Anther Makes, Stigma Takes: the anther makes pollen and the stigma takes it; read the carpel top-down as S-S-O: Stigma, Style, Ovary.",
+          "examPointer": "Expect: draw a flower and label the stamen (filament and anther) and carpel (stigma, style, ovary), and differentiate self-pollination from cross-pollination."
+        },
+        {
+          "heading": "Fertilisation, Seed and Fruit Formation",
+          "points": [
+            "The pollen tube grows through the style and carries the male gamete into the ovule inside the ovary.",
+            "Fertilisation is the fusion of the male gamete with the egg cell (female gamete) of the ovule, forming the zygote.",
+            "The zygote divides repeatedly and develops into an embryo inside the ovule.",
+            "The ovule develops a tough protective coat and becomes the seed; the ovary grows and ripens into the fruit, while petals, sepals, stamens, style and stigma usually wither and fall off.",
+            "Under suitable conditions of moisture, air and warmth, the seed germinates into a seedling using the food stored inside it."
+          ],
+          "keyTerms": [
+            {
+              "term": "Fertilisation",
+              "meaning": "Fusion of the male gamete from the pollen with the egg cell inside the ovule to form a zygote."
+            },
+            {
+              "term": "Zygote",
+              "meaning": "The single cell formed after fusion of gametes, which divides repeatedly to become the embryo."
+            },
+            {
+              "term": "Ovule",
+              "meaning": "The structure inside the ovary that contains the egg cell and, after fertilisation, develops into the seed."
+            }
+          ],
+          "trick": "Twin transformations: Ovule -> Seed and Ovary -> Fruit (O-S, O-F); the zygote is the baby, the ovule its seed-suitcase, the ovary the fruit wrapper.",
+          "examPointer": "A classic 3 marker: state what the ovule and the ovary change into after fertilisation, or trace the journey from pollen grain to seed step by step."
+        },
+        {
+          "heading": "Human Male Reproductive System",
+          "points": [
+            "Testes: a pair of glands that produce the male gametes (sperms) and the hormone testosterone; they lie outside the abdomen in the scrotum because sperm formation needs a temperature lower than the normal body temperature.",
+            "Vas deferens: the tube that carries sperms from each testis towards the urethra.",
+            "Seminal vesicles and prostate gland: add secretions that nourish the sperms and provide a fluid medium, making the sperms mobile; sperms together with these secretions form semen.",
+            "Urethra: a common duct for sperms and urine, opening outside through the penis; the two fluids never pass together.",
+            "Sperms are tiny motile cells that swim through the fluid to reach the egg; each sperm carries the father's genetic material in a compact head."
+          ],
+          "keyTerms": [
+            {
+              "term": "Scrotum",
+              "meaning": "The pouch outside the abdominal cavity that holds the testes at a temperature lower than body temperature for sperm formation."
+            },
+            {
+              "term": "Testosterone",
+              "meaning": "The male sex hormone secreted by the testes that controls sperm production and secondary sexual characters."
+            },
+            {
+              "term": "Semen",
+              "meaning": "The fluid containing sperms along with the secretions of the seminal vesicles and the prostate gland."
+            }
+          ],
+          "trick": "Sperm highway: Testis -> Vas deferens -> Vesicles and Prostate add fuel -> Urethra -> Penis; remember the five stations T-V-V-U-P.",
+          "examPointer": "Common questions: why are the testes located outside the abdominal cavity (2 marks) or draw and label the male reproductive system showing testis, vas deferens and urethra."
+        },
+        {
+          "heading": "Human Female Reproductive System and Menstrual Cycle",
+          "points": [
+            "Ovaries: a pair of glands that produce the female gametes (eggs or ova) and the hormone oestrogen; one egg matures and is released every month.",
+            "Oviduct (fallopian tube): paired tubes with funnel-shaped openings that carry the egg to the uterus; fertilisation normally occurs here when sperms are present.",
+            "Uterus: a pear-shaped organ with a soft, spongy and blood-rich lining where the zygote implants; the placenta develops here to supply oxygen and nutrients to the growing embryo.",
+            "Cervix and vagina: the lower passage of the female reproductive tract; the vagina receives sperms and also acts as the birth canal.",
+            "Menstrual cycle: an about 28-day monthly cycle in which the uterine lining thickens, an egg is released around day 14 (ovulation), and if the egg is not fertilised the lining breaks down and is shed with blood as menstruation.",
+            "Menarche is the first menstrual flow at puberty and menopause is the permanent stoppage of menstrual cycles around 45-50 years of age."
+          ],
+          "keyTerms": [
+            {
+              "term": "Ovulation",
+              "meaning": "The release of a mature egg from the ovary, occurring around the 14th day of the menstrual cycle."
+            },
+            {
+              "term": "Implantation",
+              "meaning": "The embedding of the fertilised egg (zygote) into the thick, blood-rich lining of the uterus."
+            },
+            {
+              "term": "Menstruation",
+              "meaning": "The monthly shedding of the thickened uterine lining along with blood through the vagina when the egg is not fertilised."
+            }
+          ],
+          "trick": "The 28-day BBB story: Build (lining grows), Burst (egg released near day 14), Break (lining sheds if no baby) - no fertilisation means menstruation.",
+          "examPointer": "Very high probability: explain the menstrual cycle in phases, state where fertilisation (oviduct) and implantation (uterus) occur, and what happens when the egg is not fertilised."
+        },
+        {
+          "heading": "Reproductive Health and Contraception",
+          "points": [
+            "Puberty brings secondary sexual characters under the control of testosterone in males and oestrogen in females, marking sexual maturation.",
+            "Sexually transmitted diseases (STDs) like gonorrhoea, syphilis and HIV-AIDS spread through unsafe sexual contact and can be largely prevented by using condoms.",
+            "Barrier methods: condoms (used by males or females) stop sperms from reaching the egg and also protect against STDs.",
+            "Hormonal and other methods: oral pills change the hormonal balance so eggs are not released; intrauterine devices like Copper-T prevent implantation in the uterus.",
+            "Surgical methods: vasectomy (cutting or tying the vas deferens in males) and tubectomy (cutting or tying the oviducts in females) provide permanent contraception.",
+            "Good reproductive health also needs awareness, balanced diet, personal hygiene and avoiding unsafe sexual activity."
+          ],
+          "keyTerms": [
+            {
+              "term": "Contraception",
+              "meaning": "The deliberate use of methods or devices to prevent unwanted pregnancy."
+            },
+            {
+              "term": "Vasectomy",
+              "meaning": "A surgical contraceptive method in males in which the vas deferens is cut or tied so sperms cannot reach the urethra."
+            },
+            {
+              "term": "Tubectomy",
+              "meaning": "A surgical contraceptive method in females in which the oviducts are cut or tied so the egg cannot meet the sperm."
+            }
+          ],
+          "trick": "Contraceptive ladder: Barrier Blocks, Pills Prevent release, Copper Cuts implantation, Surgery Seals the duct - B-P-C-S from temporary to permanent.",
+          "examPointer": "Expect: name two sexually transmitted diseases, list contraceptive methods with one advantage each, or explain why reproductive health and awareness are important (2-3 marks)."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Which plant reproduces vegetatively through buds present on the margins of its leaves?",
+          "options": ["Rhizopus", "Bryophyllum", "Planaria", "Spirogyra"],
+          "answerIndex": 1,
+          "explanation": "Buds on the margins of Bryophyllum leaves grow into new plantlets when they fall on moist soil.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The male gamete in human beings is called the",
+          "options": ["Sperm", "Ovum", "Zygote", "Embryo"],
+          "answerIndex": 0,
+          "explanation": "Sperm is the male gamete and ovum (egg) is the female gamete; their fusion forms the zygote.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Fertilisation in human females normally occurs in the",
+          "options": ["Uterus", "Ovary", "Oviduct or fallopian tube", "Vagina"],
+          "answerIndex": 2,
+          "explanation": "Sperms meet the egg in the oviduct, where the zygote is formed before moving to the uterus.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The transfer of pollen grains from the anther to the stigma is called",
+          "options": ["Pollination", "Fertilisation", "Germination", "Transpiration"],
+          "answerIndex": 0,
+          "explanation": "Pollination is only the transfer of pollen; fertilisation occurs later when the gametes fuse.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Plasmodium, the malarial parasite, reproduces asexually by",
+          "options": ["Binary fission", "Multiple fission", "Budding", "Regeneration"],
+          "answerIndex": 1,
+          "explanation": "Plasmodium divides many times within its host to release numerous daughter cells at once, which is multiple fission.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "After fertilisation in a flower, the ovule develops into the",
+          "options": ["Seed", "Fruit", "Endosperm", "Calyx"],
+          "answerIndex": 0,
+          "explanation": "The ovule becomes the seed while the ovary ripens into the fruit.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Copper-T is an example of a",
+          "options": ["Barrier method", "Hormonal method", "Intrauterine contraceptive device", "Surgical method"],
+          "answerIndex": 2,
+          "explanation": "Copper-T is placed inside the uterus and prevents implantation of the fertilised egg.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which hormone brings about the secondary sexual characters in human males?",
+          "options": ["Oestrogen", "Insulin", "Testosterone", "Adrenaline"],
+          "answerIndex": 2,
+          "explanation": "Testosterone from the testes controls male secondary sexual characters like facial hair and a deeper voice.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "In tubectomy, the oviducts of a woman are cut and tied. Which statement is correct?",
+          "options": ["Ovaries stop producing eggs", "The uterus stops preparing its lining", "Menstruation stops immediately and permanently", "Eggs are released but sperms cannot reach them, so fertilisation cannot occur"],
+          "answerIndex": 3,
+          "explanation": "Tubectomy blocks only the passage; eggs are still released and hormones still act, but sperms cannot meet the egg.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "In a normal 28-day menstrual cycle, what happens if the egg released around day 14 is not fertilised?",
+          "options": ["The uterine lining keeps thickening further", "The egg remains stored in the oviduct for months", "The thick uterine lining breaks down and is shed along with blood", "Another egg is released immediately from the same ovary"],
+          "answerIndex": 2,
+          "explanation": "Without fertilisation the thickened lining is no longer needed, so it breaks down and passes out as menstruation.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why is DNA copying an essential part of the process of reproduction?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) DNA carries the blueprint of the body design of an organism. 2) During reproduction, cells must make a copy of DNA so that the new generation receives the complete set of inherited information needed to build its body and carry out life processes. 3) DNA copying also introduces small variations, which give the species a better chance of survival if the environment changes. 4) Without DNA copying, no new cell or organism could receive the information required to stay alive and reproduce further."
+        },
+        {
+          "question": "What is pollination? Differentiate between self-pollination and cross-pollination.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Pollination is the transfer of pollen grains from the anther of a stamen to the stigma of a carpel in a flower. 2) Self-pollination: pollen falls on the stigma of the same flower or of another flower of the same plant; it needs no external agent. 3) Cross-pollination: pollen is carried from one flower to the stigma of another flower of the same species, usually by agents like wind, water or insects. 4) Cross-pollination brings greater variation, while self-pollination preserves the parental characters in the offspring."
+        },
+        {
+          "question": "Describe the reproductive parts of a flower and state the function of each. Describe the labels in words: stamen with filament and anther; carpel with stigma, style and ovary.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Stamen is the male reproductive part of a flower; it has two parts: a stalk called the filament and a swollen tip called the anther. 2) The anther produces and stores pollen grains, which contain the male gametes of the plant. 3) Carpel (pistil) is the female reproductive part; it has three parts: the sticky stigma at the top, a tube called the style in the middle and the ovary at the base. 4) The stigma receives pollen grains during pollination; the style provides the passage for the pollen tube. 5) The ovary contains ovules, and inside each ovule lies the egg cell or female gamete. 6) After fertilisation the ovules become seeds and the ovary ripens into the fruit."
+        },
+        {
+          "question": "What happens after a pollen grain lands on the stigma of a flower? Describe the events till the seed is formed.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) The pollen grain germinates on the compatible, sticky stigma and grows a pollen tube downwards through the style towards the ovary. 2) The male gamete travels down the pollen tube and reaches the ovule inside the ovary. 3) Fertilisation occurs: the male gamete fuses with the egg cell of the ovule to form a zygote. 4) The zygote divides repeatedly and develops into an embryo inside the ovule. 5) The ovule gradually develops a tough protective coat and becomes a seed, while the ovary grows and ripens into a fruit; the other floral parts usually dry and fall off. 6) Under suitable conditions of moisture, air and warmth the seed germinates into a new seedling."
+        },
+        {
+          "question": "Describe the human female reproductive system with the role of each part, and explain in detail what happens if the egg released during a menstrual cycle is not fertilised.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Ovaries: a pair of ovaries in the abdomen produce the female gametes called eggs or ova, and the hormone oestrogen; one egg matures and is released every month from either ovary. 2) Oviduct or fallopian tube: paired tubes with funnel-shaped openings near the ovary; they carry the egg towards the uterus and are the usual site of fertilisation, where a sperm fuses with the egg to form a zygote. 3) Uterus: a pear-shaped muscular organ with a soft, spongy and blood-rich lining; here the zygote implants and grows into an embryo and later a foetus. 4) Cervix and vagina: the lower parts of the tract; the vagina receives sperms during mating and serves as the birth canal. 5) Placenta: a special disc-like tissue that develops between the uterine wall and the embryo; it supplies oxygen and nutrients from the mother and removes wastes of the growing baby. 6) If the egg is not fertilised: the matured egg along with the thickened lining of the uterus with its blood vessels is no longer needed. 7) Slowly the lining breaks down and comes out through the vagina along with blood and the unfertilised egg; this bleeding is called menstruation. 8) Menstruation lasts for a few days, after which the lining starts building up again for the next cycle; the whole cycle of about 28 days is controlled by hormones. 9) The first menstrual flow at puberty is called menarche, and its permanent stoppage around 45 to 50 years of age is called menopause."
+        },
+        {
+          "question": "Describe the different modes of asexual reproduction in organisms with one example and a brief description of each: binary fission, multiple fission, budding, fragmentation, regeneration, spore formation and vegetative propagation.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Asexual reproduction needs only one parent and produces offspring identical to the parent without gamete fusion. 2) Binary fission: a unicellular organism divides into two equal daughter cells; Amoeba divides in any plane, while Leishmania divides longitudinally along its length. 3) Multiple fission: the parent divides simultaneously into many daughter cells, as in Plasmodium, the malarial parasite. 4) Budding: a small outgrowth or bud appears on the parent body, grows by repeated cell division and may detach or remain attached; seen in yeast and Hydra. 5) Fragmentation: the body of a simple multicellular organism breaks into fragments, and each fragment grows into a new complete individual, as in Spirogyra. 6) Regeneration: if the body of Planaria is cut into several pieces, each piece regrows the missing parts and becomes a complete animal, because specialised cells proliferate and differentiate. 7) Spore formation: organisms like Rhizopus (bread mould) produce rounded spores inside sporangia; each spore has a thick protective coat and germinates into a new individual when it lands on a moist surface. 8) Vegetative propagation: new plants arise from vegetative parts like stems, roots or leaves without seeds; potato and ginger grow from buds on their underground stems, while Bryophyllum forms plantlets from buds on the leaf margins. 9) Advantages of vegetative propagation: plants grow faster, flower and fruit earlier, keep the same fruit quality as the parent, and seedless plants can also be raised. 10) Diagram hints: for budding show yeast with a chain of buds; for binary fission show Amoeba elongating and dividing into two; for spore formation show Rhizopus with round sporangia on fine threads."
+        },
+        {
+          "question": "Read the passage: Aditi kept a slice of bread inside a moist, covered box in a dark corner of the kitchen. After four or five days she saw cottony white threads with black powdery dots growing on it. At the same time, a few potatoes stored in a drawer had developed small sprouts from tiny depressions on their surface. (a) Identify the organism growing on the bread and the process by which it spreads. (b) Which parts of the potato produced the sprouts, and what is this mode of reproduction called? State two advantages of this mode in crop plants. (c) Why did the bread mould grow well in the moist, dark box, and how can such spoilage be prevented?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) The cottony white threads with black dots are Rhizopus, the bread mould; the black dots are sporangia filled with spores. 2) It spreads by spore formation: spores are released from the sporangia, and each spore, having a thick protective coat, germinates into a new mould when it lands on a suitable moist surface. 3) (b) The sprouts came from the buds present in the eyes of the potato, which is an underground stem tuber. 4) Growing new plants from stems, roots or leaves without seeds is called vegetative propagation. 5) Advantages: plants raised this way grow faster and flower and fruit earlier than those raised from seeds, they keep exactly the same fruit quality as the parent plant so good varieties can be multiplied, and seedless fruits can also be obtained. 6) (c) Rhizopus spores are always present in the air; the moist box in a dark, warm corner gave them moisture, nutrients from the bread and a suitable temperature, so they germinated quickly. 7) Prevention: keep food dry and covered, store it in refrigerators or airtight containers, and consume it before it spoils, since dryness stops spore germination. 8) Learning point: spore formation helps fungi survive unfavourable conditions because the thick coat protects spores till they find moisture and food, while vegetative propagation lets farmers multiply the best plants quickly without seeds."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Heredity",
+      "summary": "Heredity is the transmission of characters from parents to offspring through genes located on chromosomes. The chapter explains Gregor Mendel's experiments on pea plants, the monohybrid cross with 3:1 and 1:2:1 ratios, the dihybrid cross with the 9:3:3:1 ratio, how genes control traits through proteins, and the mechanism of sex determination in humans.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Monohybrid cross and 3:1 ratio",
+        "Dihybrid cross and 9:3:3:1 ratio",
+        "Mendel's three laws of inheritance",
+        "Dominant and recessive traits",
+        "Sex determination in humans (XX-XY)",
+        "Acquired versus inherited traits"
+      ],
+      "sections": [
+        {
+          "heading": "Heredity, Genes and Mendel's Pea Plant",
+          "points": [
+            "Heredity is the transmission of traits or characters from parents to offspring through genes present on chromosomes.",
+            "A gene is a segment of DNA that controls a trait; each gene has alternative forms called alleles, such as T for tallness and t for dwarfness in pea plants.",
+            "Gregor Mendel, called the father of genetics, worked on garden pea (Pisum sativum) and established the basic rules of inheritance.",
+            "Mendel chose the pea plant because it has clear contrasting pairs of traits (tall or dwarf, round or wrinkled seeds, violet or white flowers), is naturally self-pollinating, and is easy to grow and breed in large numbers.",
+            "Homozygous individuals carry two identical alleles (TT or tt); heterozygous individuals carry two different alleles (Tt)."
+          ],
+          "keyTerms": [
+            {
+              "term": "Heredity",
+              "meaning": "The passing on of traits from parents to their offspring through genes."
+            },
+            {
+              "term": "Gene",
+              "meaning": "A segment of DNA that controls one trait and exists in alternative forms called alleles."
+            },
+            {
+              "term": "Alleles",
+              "meaning": "The two alternative forms of a gene, one inherited from each parent, such as T and t for plant height."
+            }
+          ],
+          "trick": "Three Ps for choosing pea: Pure lines available, Pollinates itself, Pairs of contrasting traits; and TT or tt is homo (same), Tt is hetero (different).",
+          "examPointer": "Expect: why did Mendel select the garden pea for his experiments, define gene and alleles, or identify homozygous and heterozygous genotypes from a list."
+        },
+        {
+          "heading": "Monohybrid Cross - The Famous 3:1",
+          "points": [
+            "A monohybrid cross studies the inheritance of one pair of contrasting traits, for example pure tall (TT) crossed with pure dwarf (tt) pea plants.",
+            "F1 generation: all offspring are Tt and appear tall, showing that tallness is dominant and dwarfness is recessive; the dwarf trait is hidden but not destroyed.",
+            "Self-pollination of F1 plants: each F1 plant forms T and t gametes in equal numbers, giving F2 combinations TT, Tt, tT and tt.",
+            "F2 phenotypic ratio: 3 tall : 1 dwarf; F2 genotypic ratio: 1 TT : 2 Tt : 1 tt.",
+            "Reappearance of dwarf plants in F2 proved that recessive traits are not lost but only masked in the heterozygous F1 generation."
+          ],
+          "keyTerms": [
+            {
+              "term": "Dominant trait",
+              "meaning": "A trait that is expressed even when only one allele of the pair is present, like tallness (T) in peas."
+            },
+            {
+              "term": "Recessive trait",
+              "meaning": "A trait that is expressed only when both alleles are of the recessive form, like dwarfness (tt) in peas."
+            },
+            {
+              "term": "F2 generation",
+              "meaning": "The second filial generation obtained by self-pollinating the F1 plants, showing the 3:1 phenotypic ratio."
+            }
+          ],
+          "trick": "F1 looks uniform (all Tt tall), F2 splits 3:1 in looks and 1:2:1 in genes; chant TT-tall, Tt-tall carrier, tt-tiny.",
+          "examPointer": "Board regular: draw the monohybrid cross up to F2 with a Punnett square, state both ratios, and explain why the recessive trait reappears."
+        },
+        {
+          "heading": "Dihybrid Cross and Mendel's Laws",
+          "points": [
+            "A dihybrid cross studies two pairs of contrasting traits together, for example pure round-yellow seeds (RRYY) crossed with pure wrinkled-green seeds (rryy).",
+            "F1 plants are all RrYy with round-yellow seeds, showing round dominates wrinkled and yellow dominates green.",
+            "Self-pollination of F1 gives F2 with four phenotypes in the ratio 9 round-yellow : 3 round-green : 3 wrinkled-yellow : 1 wrinkled-green.",
+            "The new combinations (round-green, wrinkled-yellow) prove that the two pairs of traits are inherited independently of each other.",
+            "Law of dominance: in a heterozygote only the dominant allele expresses itself; Law of segregation: the two alleles of a pair separate during gamete formation, each gamete receiving only one.",
+            "Law of independent assortment: alleles of different genes assort independently during gamete formation, giving all possible combinations in equal numbers."
+          ],
+          "keyTerms": [
+            {
+              "term": "Dihybrid cross",
+              "meaning": "A genetic cross between plants differing in two pairs of contrasting traits, giving the F2 ratio 9:3:3:1."
+            },
+            {
+              "term": "Segregation",
+              "meaning": "The separation of the two alleles of a gene pair during gamete formation so that each gamete carries only one allele."
+            },
+            {
+              "term": "Independent assortment",
+              "meaning": "The independent inheritance of alleles of different genes, allowing new trait combinations in offspring."
+            }
+          ],
+          "trick": "Sing the ratio 9-3-3-1: each middle 3 swaps one trait, and the 1 is the double recessive; laws in order - DOM (dominance), SEG (segregation), IND (independent assortment).",
+          "examPointer": "High probability: derive the 9:3:3:1 ratio with a Punnett square, or state Mendel's three laws with one line of evidence each."
+        },
+        {
+          "heading": "How Genes Control Traits",
+          "points": [
+            "Every body cell carries two copies of each gene because chromosomes occur in pairs, one set inherited from each parent.",
+            "During gamete formation the chromosome pairs separate, so each gamete carries only one copy of each gene; fertilisation restores the pair in the zygote.",
+            "A gene controls a trait by providing the information for making a specific protein or enzyme.",
+            "Example: one allele of the height gene in peas makes an efficient enzyme that produces enough plant hormone for tall growth; the other allele makes a less efficient enzyme, so less hormone is made and the plant stays dwarf.",
+            "Thus the visible trait (phenotype) depends on the proteins and enzymes produced, which in turn depend on the gene pair (genotype) present."
+          ],
+          "keyTerms": [
+            {
+              "term": "Chromosomes",
+              "meaning": "Thread-like structures in the nucleus made of DNA and proteins, which carry genes in pairs."
+            },
+            {
+              "term": "Genotype",
+              "meaning": "The genetic make-up of an organism for a trait, such as TT, Tt or tt."
+            },
+            {
+              "term": "Phenotype",
+              "meaning": "The externally visible expression of a trait, such as a tall or dwarf plant."
+            }
+          ],
+          "trick": "Gene to trait chain: Gene -> Enzyme -> Effect; one gene makes one protein, and the protein builds the trait - the GEE chain.",
+          "examPointer": "A 3 marker often asks: explain with the tall-dwarf example how a gene controls a trait through an enzyme, or differentiate genotype and phenotype."
+        },
+        {
+          "heading": "Acquired and Inherited Traits",
+          "points": [
+            "Acquired traits develop during the lifetime of an individual due to environment, use or experience, such as low body weight of a starved beetle, learning to dance, or a cut tail.",
+            "Inherited traits are contained in the DNA of germ cells (reproductive cells) and pass from parents to offspring, such as eye colour or blood group.",
+            "Acquired traits are not inherited because they involve changes only in body (somatic) cells and never change the DNA of the germ cells.",
+            "Since only the DNA of gametes reaches the next generation, experiences like training or injuries die with the individual.",
+            "Classic example: if the tails of several generations of mice are cut, tailless mice are never born, because tail-cutting is an acquired change."
+          ],
+          "keyTerms": [
+            {
+              "term": "Acquired trait",
+              "meaning": "A change developed during an organism's lifetime that affects only body cells and is not inherited."
+            },
+            {
+              "term": "Inherited trait",
+              "meaning": "A trait present in the DNA of germ cells that is transmitted from parents to offspring."
+            },
+            {
+              "term": "Germ cells",
+              "meaning": "The reproductive cells (gametes) whose DNA alone is passed on to the next generation."
+            }
+          ],
+          "trick": "Body change is a bought change (acquired, stops with you); DNA change is a born change (inherited, travels to children).",
+          "examPointer": "A classic 2-3 marker: differentiate acquired and inherited traits with one example each; the tail-cutting mice example is a favourite."
+        },
+        {
+          "heading": "Sex Determination in Humans",
+          "points": [
+            "Human body cells contain 23 pairs of chromosomes: 22 pairs of autosomes and one pair of sex chromosomes.",
+            "Females have two similar sex chromosomes (XX); males have one X and one Y chromosome (XY).",
+            "All eggs (ova) produced by the mother carry one X chromosome; sperms produced by the father carry either X or Y.",
+            "If a Y sperm fertilises the egg, the child is a boy (XY); if an X sperm fertilises it, the child is a girl (XX); the probability of each is about 50 percent.",
+            "Hence the father's sperm determines the sex of the child, and blaming the mother for the sex of a baby has no scientific basis."
+          ],
+          "keyTerms": [
+            {
+              "term": "Sex chromosomes",
+              "meaning": "The chromosome pair (XX in females, XY in males) that determines the sex of an individual."
+            },
+            {
+              "term": "Autosomes",
+              "meaning": "The 22 pairs of chromosomes in humans that do not determine sex but carry genes for other traits."
+            },
+            {
+              "term": "Gamete",
+              "meaning": "A reproductive cell (egg or sperm) carrying only one copy of each chromosome pair."
+            }
+          ],
+          "trick": "Mother always sends X, father sends X or Y - so papa picks the sex: XX girl, XY boy; chances are 50:50 every pregnancy.",
+          "examPointer": "Very frequent: draw the sex determination cross and explain why the father, not the mother, determines the sex of the child."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Who is called the father of genetics for his experiments on garden pea plants?",
+          "options": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "Robert Hooke"],
+          "answerIndex": 1,
+          "explanation": "Gregor Mendel established the rules of inheritance through systematic pea plant experiments.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In human beings, the sex of a child is determined by",
+          "options": ["The egg of the mother", "The sperm of the father, which carries X or Y", "The size of the zygote", "The nutrition of the mother"],
+          "answerIndex": 1,
+          "explanation": "All eggs carry X, but sperms carry either X or Y, so the father's sperm decides the sex.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "A cross between a pure tall (TT) and a pure dwarf (tt) pea plant produces F1 plants that are",
+          "options": ["All tall with genotype Tt", "All dwarf with genotype tt", "Half tall and half dwarf", "All of medium height"],
+          "answerIndex": 0,
+          "explanation": "All F1 plants are heterozygous Tt and appear tall because tallness is dominant.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which of the following is an acquired trait in human beings?",
+          "options": ["Blood group", "Natural eye colour", "Cycling skill learned by practice", "Inborn hair colour"],
+          "answerIndex": 2,
+          "explanation": "Skills learned during life affect only body cells and are never passed to offspring.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The genotypic ratio in the F2 generation of a monohybrid cross is",
+          "options": ["3:1", "9:3:3:1", "1:2:1", "1:1"],
+          "answerIndex": 2,
+          "explanation": "F2 genotypes are 1 TT : 2 Tt : 1 tt, while the phenotypic ratio is 3:1.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The phenotypic ratio in the F2 generation of a dihybrid cross is",
+          "options": ["9:3:3:1", "3:1", "1:2:1", "1:1:1:1"],
+          "answerIndex": 0,
+          "explanation": "Two trait pairs assort independently, giving 9 round-yellow, 3 round-green, 3 wrinkled-yellow and 1 wrinkled-green.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Whatever the number of earlier children, the probability that the next child is a boy is",
+          "options": ["100 percent", "75 percent", "25 percent", "50 percent"],
+          "answerIndex": 3,
+          "explanation": "Half the sperms carry X and half carry Y, so every pregnancy has an equal 50 percent chance.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which of the following genotypes represents a heterozygous condition?",
+          "options": ["TT", "tt", "Tt", "YY"],
+          "answerIndex": 2,
+          "explanation": "Heterozygous means two different alleles of a gene, here T and t together.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Dwarf pea plants reappear in the F2 generation of a monohybrid cross because",
+          "options": ["Tall plants mutated into dwarf plants", "Some F2 offspring received the recessive allele t from both parents", "Dwarfness was acquired from the soil", "Fertilisation failed in some ovules"],
+          "answerIndex": 1,
+          "explanation": "Both F1 parents form t gametes, and the tt combinations express the hidden recessive dwarf trait.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "A cross between two pea plants gives 50 percent dwarf (tt) offspring. The genotypes of the parents must be",
+          "options": ["Tt and Tt", "TT and TT", "Tt and tt", "TT and tt"],
+          "answerIndex": 2,
+          "explanation": "Tt crossed with tt produces half Tt (tall) and half tt (dwarf) offspring.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Differentiate between dominant and recessive traits with one example of each.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) A dominant trait is expressed even when only one copy of its allele is present in the pair; it masks the other allele. 2) A recessive trait is expressed only when both alleles of the pair are of the recessive form. 3) Example: in pea plants, tallness is dominant over dwarfness, so a plant with Tt genotype is tall, while dwarfness appears only in tt plants. 4) In Mendel's cross, the F1 plants (Tt) were all tall, proving that tallness is dominant and dwarfness is recessive."
+        },
+        {
+          "question": "Differentiate between acquired and inherited traits with one example each. Why are acquired traits not inherited?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Acquired traits develop during the lifetime of an organism due to environment or use, for example the low weight of a starved beetle. 2) Inherited traits are present in the DNA of germ cells and pass from parents to offspring, for example eye colour or blood group. 3) Acquired traits are not inherited because they change only the body (somatic) cells and never change germ cell DNA. 4) Since only germ cell DNA reaches the next generation, changes like cut tails of mice are never inherited."
+        },
+        {
+          "question": "How are traits expressed through genes? Explain with the example of tallness and dwarfness in pea plants.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) A gene is a segment of DNA that provides the information for making a particular protein or enzyme. 2) For the height trait, one version of the gene makes an efficient enzyme that helps the plant produce a plant hormone needed for growth; the other version makes a less efficient form of this enzyme. 3) In a tall pea plant the efficient enzyme makes enough hormone, so the plant grows tall; in the dwarf plant the less efficient enzyme makes less hormone, so growth remains limited and the plant stays dwarf. 4) Thus a trait depends on the protein or enzyme a gene produces, and a single gene pair can decide the visible character of the plant. 5) Every cell carries two copies of each gene because chromosomes come in pairs, one set from each parent."
+        },
+        {
+          "question": "How is the sex of a child determined in human beings? Describe the cross and state the probability of a boy or a girl.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Human body cells have 23 pairs of chromosomes; 22 pairs are autosomes and one pair is the sex chromosome pair. 2) Females have two X chromosomes (XX); males have one X and one Y chromosome (XY). 3) Every egg produced by the mother carries one X chromosome. 4) Sperms produced by the father carry either X or Y chromosome in roughly equal numbers. 5) If an X sperm fertilises the egg, the zygote is XX and the child is a girl; if a Y sperm fertilises it, the zygote is XY and the child is a boy. 6) Since half the sperms carry X and half carry Y, the probability of a boy or a girl is about 50 percent each; hence the father, not the mother, determines the sex of the child."
+        },
+        {
+          "question": "Describe Mendel's monohybrid cross from the parental generation to F2 with the help of a Punnett square (describe it in words), state the F1 and F2 ratios, and explain the laws of dominance and segregation shown by this experiment.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Monohybrid cross: Mendel crossed pure tall pea plants (TT) with pure dwarf plants (tt); both parents bred true for generations. 2) Gametes: the tall parent produced gametes with T only, and the dwarf parent produced gametes with t only. 3) F1 generation: all offspring were Tt and appeared tall; the dwarf character disappeared, showing that tallness is dominant and dwarfness is recessive; this is the law of dominance. 4) Mendel then self-pollinated the F1 tall plants. 5) Gametes of F1: each F1 plant formed two kinds of gametes, T and t, in equal numbers, because the two alleles separate during gamete formation; this is the law of segregation. 6) Punnett square described: make a 2 by 2 grid; write T and t of one parent on top and T and t of the other on the side; the four boxes give TT, Tt, tT and tt. 7) F2 results: three of the four plants are tall (TT, Tt, tT) and one is dwarf (tt), so the phenotypic ratio is 3 tall : 1 dwarf. 8) Genotypic ratio: 1 TT : 2 Tt : 1 tt, showing that genotypes differ even when phenotypes look alike. 9) Interpretation: the dwarf trait did not vanish in F1; it was merely hidden and reappeared in F2, proving that traits are controlled by separate units (genes) which do not blend. 10) Significance: segregation explains why each parent passes only one allele of a pair to each offspring, and dominance explains which allele is seen in the heterozygote."
+        },
+        {
+          "question": "Describe Mendel's dihybrid cross in pea plants up to the F2 generation, derive the phenotypic ratio, and explain the law of independent assortment.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Dihybrid cross: Mendel crossed pea plants having pure round and yellow seeds (RRYY) with plants having wrinkled and green seeds (rryy). 2) Gametes: the first parent produced only RY gametes and the second only ry gametes. 3) F1 generation: all offspring were RrYy and had round and yellow seeds, showing that round dominates wrinkled and yellow dominates green. 4) Self-pollination of F1: each F1 plant formed four kinds of gametes in equal numbers - RY, Ry, rY and ry - because the alleles of the two genes assorted independently during gamete formation. 5) Punnett square described: a 4 by 4 grid with RY, Ry, rY and ry written on both sides gives 16 boxes. 6) F2 phenotypes: 9 round-yellow, 3 round-green, 3 wrinkled-yellow and 1 wrinkled-green; phenotypic ratio 9:3:3:1. 7) New combinations: round-green (Rryy) and wrinkled-yellow (rrYy) were not present in the parents, yet they appeared in F2. 8) Law of independent assortment: the two pairs of contrasting traits are inherited independently of each other because the alleles of different genes separate into gametes without influencing each other. 9) Interpretation: the appearance of new combinations proves that the genes for seed shape and seed colour are separate units that can combine freely. 10) Check: 9 plus 3 plus 3 plus 1 equals 16, matching the 16 boxes of the Punnett square; this ratio is the classic proof of independent assortment in dihybrid inheritance."
+        },
+        {
+          "question": "Read the passage: A plant breeder crossed pure-breeding pea plants having round and yellow seeds with pure-breeding plants having wrinkled and green seeds. All the F1 plants produced round and yellow seeds. When he self-pollinated the F1 plants, the F2 generation showed four kinds of seeds: round-yellow, round-green, wrinkled-yellow and wrinkled-green in the ratio 9:3:3:1. (a) Why did all the F1 plants show round and yellow seeds? (b) Which seed types in F2 were absent in the parents, and what does their appearance prove? (c) Write the genotypes possible for each of the four F2 seed types and state Mendel's law demonstrated by this experiment.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) Roundness is dominant over wrinkledness and yellow is dominant over green; the F1 plants received one dominant allele of each pair (RrYy), so only the dominant characters, round and yellow, were visible. 2) The recessive alleles r and y remained hidden in the F1 genotype but were carried safely into the gametes. 3) (b) Round-green and wrinkled-yellow seeds were absent in the original parents, yet they appeared in the F2 generation. 4) Their appearance proves that the gene for seed shape and the gene for seed colour are inherited independently, so new combinations can form when the F1 gametes fuse in all possible ways. 5) (c) Genotypes: round-yellow can be RRYY, RrYY, RRYy or RrYy (9 plants in all); round-green is Rryy (3 plants); wrinkled-yellow is rrYy (3 plants); wrinkled-green is rryy (1 plant). 6) The classic ratio 9:3:3:1 comes from the 16 boxes of the F1 self-cross Punnett square, with gametes RY, Ry, rY and ry on both sides. 7) Law demonstrated: Mendel's law of independent assortment, because the alleles of seed shape and seed colour separated into gametes without influencing each other, along with the law of dominance seen in the F1. 8) Practical value: breeders use such crosses to combine useful traits like high yield and disease resistance into one variety, relying on the independent assortment of genes."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Our Environment",
+      "summary": "An ecosystem consists of all interacting living organisms in an area along with their non-living surroundings, connected by food chains and food webs. Energy flows in one direction through trophic levels with about ten percent transferred at each step, while nutrients are recycled by decomposers. The chapter also covers ozone layer depletion by CFCs and the management of biodegradable and non-biodegradable wastes.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Food chain, food web and trophic levels",
+        "Ten percent law with numerical problems",
+        "Ozone layer depletion by CFCs",
+        "Biodegradable and non-biodegradable wastes",
+        "Ecosystem components and role of decomposers",
+        "3R principle and garbage management"
+      ],
+      "sections": [
+        {
+          "heading": "Ecosystem and Its Components",
+          "points": [
+            "An ecosystem is made of all the interacting organisms in an area together with their physical surroundings, which include abiotic components like air, water, soil, temperature and light.",
+            "Producers: green plants and algae (autotrophs) that trap sunlight and make food by photosynthesis; they form the energy base of every ecosystem.",
+            "Consumers: organisms that depend on others for food - herbivores (plant eaters) are primary consumers, small carnivores are secondary consumers, and big carnivores are top or tertiary consumers.",
+            "Decomposers: bacteria and fungi that break down complex dead remains into simple inorganic substances, returning nutrients to the soil for reuse by plants.",
+            "Decomposers are the cleaning crew of nature; without them dead matter would pile up, nutrients would never return to the soil and the nutrient cycle would stop.",
+            "Ecosystems may be natural like forests, ponds and lakes, or artificial like aquariums, gardens and crop fields."
+          ],
+          "keyTerms": [
+            {
+              "term": "Ecosystem",
+              "meaning": "All the interacting organisms in an area together with their non-living physical surroundings."
+            },
+            {
+              "term": "Producers",
+              "meaning": "Autotrophic organisms like green plants that make food from sunlight and form the first trophic level."
+            },
+            {
+              "term": "Decomposers",
+              "meaning": "Saprotrophic organisms like bacteria and fungi that break down dead matter and recycle nutrients."
+            }
+          ],
+          "trick": "P-C-D ladder: Producers produce, Consumers consume, Decomposers decompose and recycle; no D in the team means no soil fertility ever.",
+          "examPointer": "CBSE asks: what happens if decomposers are removed from an ecosystem (2-3 marks), or to classify a given list of organisms as producers, consumers and decomposers."
+        },
+        {
+          "heading": "Food Chains and Food Webs",
+          "points": [
+            "A food chain is a linear sequence of organisms showing who eats whom, for example grass -> deer -> lion or grass -> grasshopper -> frog -> snake -> hawk.",
+            "Arrows in a food chain point from the organism being eaten to the one that eats it, showing the direction of energy flow.",
+            "Each step of a food chain is a trophic level: producers form the first level, herbivores the second, small carnivores the third and larger carnivores the fourth.",
+            "A food web is the network of many interconnected food chains in an ecosystem, formed because most organisms eat more than one kind of food.",
+            "Food webs make ecosystems stable: if one food source becomes scarce, a consumer can switch to another, so no population depends on a single chain.",
+            "Because energy is lost at every trophic level, food chains rarely exceed four or five steps, and the number of individuals decreases at higher levels."
+          ],
+          "keyTerms": [
+            {
+              "term": "Food chain",
+              "meaning": "A step-by-step sequence of organisms in which each organism is eaten by the next, showing energy flow."
+            },
+            {
+              "term": "Food web",
+              "meaning": "The interconnected network of many food chains in an ecosystem."
+            },
+            {
+              "term": "Trophic level",
+              "meaning": "The position of an organism in a food chain, decided by its source of food and energy."
+            }
+          ],
+          "trick": "Arrows aim at the eater: grass -> deer -> lion; memorise the NCERT five-step chain G-H-F-S-H (grass, grasshopper, frog, snake, hawk) with levels 1 to 5.",
+          "examPointer": "Expect: construct a four-level food chain and name each trophic level, or explain why a food web is more realistic and stable than a single food chain."
+        },
+        {
+          "heading": "Energy Flow and the Ten Percent Law",
+          "points": [
+            "Energy enters the ecosystem as sunlight fixed by producers during photosynthesis and then flows only in one direction, from producers to consumers; it is never cycled back.",
+            "Ten percent law: only about ten percent of the energy stored in one trophic level is passed on to the next trophic level.",
+            "Numerical example: producers 10,000 J -> herbivores 1,000 J -> small carnivores 100 J -> top carnivores 10 J; each step loses ninety percent of the energy as heat and in life processes.",
+            "Due to this steep energy loss, food chains are short and the population of top carnivores is always small.",
+            "Harmful non-biodegradable chemicals like pesticides, which cannot be degraded or excreted completely, keep accumulating in body tissues and become most concentrated in top consumers; this is biological magnification.",
+            "Energy flow is one-way while nutrients are cycled back by decomposers; this difference explains why ecosystems need constant sunlight but recycle matter."
+          ],
+          "keyTerms": [
+            {
+              "term": "Ten percent law",
+              "meaning": "The rule that only about 10 percent of the energy of one trophic level is transferred to the next level."
+            },
+            {
+              "term": "Biological magnification",
+              "meaning": "The progressive increase in the concentration of harmful non-biodegradable chemicals at successively higher trophic levels."
+            },
+            {
+              "term": "Unidirectional energy flow",
+              "meaning": "The one-way movement of energy from producers to consumers, which can never be reversed or recycled."
+            }
+          ],
+          "trick": "Chop one zero at every step: 10,000 -> 1,000 -> 100 -> 10 J, the ten percent staircase; energy is a one-way street, matter is a round trip.",
+          "examPointer": "The classic numerical: calculate the energy at the third or fourth trophic level when energy at producers is given; also define biomagnification and explain why food chains are short."
+        },
+        {
+          "heading": "Ozone Layer Depletion",
+          "points": [
+            "Ozone (O3) is a molecule made of three oxygen atoms; most of the ozone lies high up in the atmosphere as a layer called the ozone layer.",
+            "The ozone layer absorbs most of the harmful ultraviolet (UV) radiations from the sun and stops them from reaching the Earth's surface.",
+            "UV radiation can cause skin cancer and cataract, weaken the immune system, and also damage crops and aquatic life.",
+            "Chlorofluorocarbons (CFCs), used in refrigerators, air conditioners and aerosol sprays, release reactive chlorine atoms in the upper atmosphere that break ozone molecules and deplete the layer.",
+            "Ozone depletion is a global problem, and worldwide measures such as banning and phasing out CFCs are being taken to protect the layer."
+          ],
+          "keyTerms": [
+            {
+              "term": "Ozone",
+              "meaning": "A molecule of three oxygen atoms (O3) that forms a protective layer in the upper atmosphere."
+            },
+            {
+              "term": "CFCs",
+              "meaning": "Chlorofluorocarbons, synthetic gases used in refrigerators and sprays, whose chlorine destroys ozone molecules."
+            },
+            {
+              "term": "Ultraviolet radiation",
+              "meaning": "Harmful rays from the sun that the ozone layer absorbs, protecting living beings from skin cancer and cataract."
+            }
+          ],
+          "trick": "O3 is the O-shield of the sky; CFC means Chlorine From Coolers (fridges and ACs) that punches holes in the sun umbrella.",
+          "examPointer": "Common 2-3 marker: where is ozone found, what is its function, which chemicals deplete it, and what harms follow when UV reaches the Earth."
+        },
+        {
+          "heading": "Biodegradable and Non-Biodegradable Wastes",
+          "points": [
+            "Biodegradable wastes can be broken down into simple, harmless substances by decomposers; examples: vegetable peels, paper, cotton cloth, wood and cow dung.",
+            "Non-biodegradable wastes cannot be decomposed by microbes and persist for very long periods; examples: plastics, polybags, glass, aluminium cans and certain pesticides.",
+            "Biodegradable waste can be converted into compost or biogas, returning nutrients to the soil and producing useful energy.",
+            "Non-biodegradable waste accumulates in the environment, chokes drains, pollutes soil and water, harms animals that swallow plastic and enters food chains through biological magnification.",
+            "Segregating garbage at the source into wet (biodegradable) and dry (non-biodegradable) bins makes composting and recycling much easier."
+          ],
+          "keyTerms": [
+            {
+              "term": "Biodegradable waste",
+              "meaning": "Waste that decomposers can break down into simple natural substances, like food scraps and paper."
+            },
+            {
+              "term": "Non-biodegradable waste",
+              "meaning": "Waste that cannot be broken down by microbes and remains in the environment, like plastic and glass."
+            },
+            {
+              "term": "Compost",
+              "meaning": "Nutrient-rich manure formed by the controlled decomposition of biodegradable waste."
+            }
+          ],
+          "trick": "Bio = bite-able by bacteria (peels, paper, dung); Non-bio = never bite-able (plastic, glass) - bin them separately: wet bin, dry bin.",
+          "examPointer": "Asked: give two examples of each type with reasons, explain why plastics are dangerous, or design a two-bin segregation plan for a household (2-3 marks)."
+        },
+        {
+          "heading": "Managing Garbage - The 3R Way and Our Role",
+          "points": [
+            "3R principle: Reduce (create less waste and avoid unnecessary packaging), Reuse (use things again like bottles and jars), Recycle (send paper, glass and metals to factories to be made into new products).",
+            "Composting and vermicomposting: biodegradable waste decomposed in pits or with the help of earthworms into rich manure for gardens and fields.",
+            "Recyclable dry waste should go to recycling units, and only the small leftover fraction should reach sanitary landfills.",
+            "Open burning of plastic and rubber releases toxic fumes and must be avoided; single-use plastics should be refused.",
+            "Unmanaged garbage breeds flies, mosquitoes and rodents, spreads diseases and blocks drains, causing water pollution and flooding.",
+            "Every individual can help: separate wet and dry waste at home, compost kitchen waste, carry cloth bags, save paper by using both sides, and encourage neighbours to follow the same habits."
+          ],
+          "keyTerms": [
+            {
+              "term": "3R principle",
+              "meaning": "Reduce, Reuse and Recycle - the three steps to minimise waste, applied in that order of preference."
+            },
+            {
+              "term": "Vermicomposting",
+              "meaning": "Conversion of biodegradable waste into manure using earthworms."
+            },
+            {
+              "term": "Sanitary landfill",
+              "meaning": "A specially designed site where residual non-recyclable waste is buried safely without polluting the surroundings."
+            }
+          ],
+          "trick": "R-order matters: Reduce before Reuse before Recycle - not creating waste saves the most; wet waste to compost, dry waste to the recycle bin.",
+          "examPointer": "Expect: explain the 3R principle with one example of each, suggest a garbage disposal plan for a locality, or list individual actions for waste management (often a CASE question)."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Green plants in an ecosystem are called",
+          "options": ["Consumers", "Producers", "Decomposers", "Scavengers"],
+          "answerIndex": 1,
+          "explanation": "Green plants make food by photosynthesis and hence are producers.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which of the following is a non-biodegradable waste?",
+          "options": ["Vegetable peels", "Paper", "Polythene bag", "Cotton cloth"],
+          "answerIndex": 2,
+          "explanation": "Polythene cannot be broken down by decomposers and persists in the environment.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The ozone layer protects living organisms mainly from",
+          "options": ["Ultraviolet radiation", "Infrared radiation", "X-rays from the sun", "Radio waves"],
+          "answerIndex": 0,
+          "explanation": "Ozone absorbs the harmful ultraviolet rays coming from the sun.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In the food chain grass -> deer -> lion, the deer occupies which trophic level?",
+          "options": ["Producer", "Primary consumer (herbivore)", "Secondary consumer", "Decomposer"],
+          "answerIndex": 1,
+          "explanation": "The deer eats grass directly, so it is a herbivore at the second trophic level.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "According to the ten percent law, if producers store 20,000 J of energy, the energy reaching the third trophic level is",
+          "options": ["2,000 J", "200 J", "20 J", "1,000 J"],
+          "answerIndex": 1,
+          "explanation": "Energy becomes 2,000 J at the second level and 200 J at the third level, losing ninety percent at each step.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which organism works as a decomposer in an ecosystem?",
+          "options": ["Grass", "Algae", "Goat", "Mushroom (fungus)"],
+          "answerIndex": 3,
+          "explanation": "Fungi like mushrooms break down dead organic matter and recycle nutrients.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which of the following is an artificial or man-made ecosystem?",
+          "options": ["Forest", "Pond", "Lake", "Aquarium"],
+          "answerIndex": 2,
+          "explanation": "An aquarium is created and maintained by humans, while the others are natural ecosystems.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The chemicals chiefly responsible for depletion of the ozone layer are",
+          "options": ["Carbon dioxide and methane", "CFCs used in refrigerators and sprays", "Oxygen and nitrogen", "Sulphur dioxide only"],
+          "answerIndex": 1,
+          "explanation": "Chlorofluorocarbons release reactive chlorine in the upper atmosphere that breaks ozone molecules.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "In the food chain grass -> grasshopper -> frog -> snake -> hawk, if the hawk receives 10 J of energy, the approximate energy stored in grass is",
+          "options": ["100 J", "1,000 J", "10,000 J", "100,000 J"],
+          "answerIndex": 3,
+          "explanation": "Working backwards by the ten percent law: 10 J at hawk, 100 J at snake, 1,000 J at frog, 10,000 J at grasshopper and 100,000 J at grass.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "A non-biodegradable pesticide sprayed on a field keeps circulating in the food chain. After several years, its highest concentration will be found in",
+          "options": ["Top carnivores of the food chain", "Herbivores of the field", "Producers like grass", "Soil water only"],
+          "answerIndex": 0,
+          "explanation": "Non-degradable pesticides accumulate progressively at each trophic level and are most concentrated in top consumers; this is biological magnification.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What are trophic levels? Give an example of a food chain and name the trophic levels in it.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) A trophic level is the position an organism occupies in a food chain, based on its source of food and energy. 2) Example food chain: grass -> grasshopper -> frog -> snake -> hawk. 3) Grass is the producer at the first trophic level. 4) The grasshopper is the herbivore at the second trophic level, the frog is the small carnivore at the third, the snake at the fourth and the hawk is the top carnivore at the fifth level."
+        },
+        {
+          "question": "Differentiate between biodegradable and non-biodegradable substances with two examples of each.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Biodegradable substances can be broken down into simple harmless substances by decomposers like bacteria and fungi; examples: vegetable peels and paper. 2) Non-biodegradable substances cannot be broken down by decomposers and remain in the environment for a very long time; examples: plastics and glass bottles. 3) Biodegradable waste can be converted into compost or biogas, while non-biodegradable waste accumulates and pollutes soil and water, so it must be recycled or disposed of safely. 4) This difference decides how each type of garbage should be handled."
+        },
+        {
+          "question": "State the ten percent law of energy flow. If 10,000 J of energy is available to producers, calculate the energy available to the second and third trophic levels, and explain why food chains rarely have more than four or five steps.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Ten percent law: only about ten percent of the energy stored in the organisms of one trophic level is transferred to the next trophic level; the rest is lost in life processes and as heat. 2) Calculation: producers 10,000 J -> herbivores (second trophic level) 1,000 J -> small carnivores (third trophic level) 100 J -> top carnivores (fourth level) only 10 J. 3) Because almost ninety percent of the energy is lost at each step, the energy remaining after a few levels becomes too small to support more organisms. 4) Hence food chains are usually short, rarely exceeding four or five steps, and top carnivores are always few in number."
+        },
+        {
+          "question": "Where is the ozone layer found and why is it important? Name the chemicals that deplete it and suggest one step to protect it.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Ozone is a molecule of three oxygen atoms (O3); most of the ozone is found high up in the atmosphere as a layer called the ozone layer. 2) Importance: it absorbs most of the harmful ultraviolet (UV) radiations coming from the sun and stops them from reaching the Earth's surface. 3) UV rays can cause skin cancer and cataract, damage the immune system and harm crops and aquatic life, so the ozone layer acts as a protective shield for all life. 4) Depleting chemicals: chlorofluorocarbons (CFCs) used in refrigerators, air conditioners and aerosol sprays release reactive chlorine in the upper atmosphere, which breaks ozone molecules and thins the layer. 5) Protective step: phase out and avoid CFC-based products, use CFC-free refrigerants, and support international bans on ozone-harming chemicals."
+        },
+        {
+          "question": "Describe the components of an ecosystem with the special role of decomposers. Construct a food web (describe it in words) for a garden ecosystem and explain why a food web is more realistic than a single food chain.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Ecosystem: all the interacting organisms in an area together with the non-living surroundings like air, water, soil, temperature and light. 2) Biotic components: producers, consumers and decomposers. 3) Producers: green plants and algae that trap sunlight and make food by photosynthesis; they form the energy base of the ecosystem. 4) Consumers: herbivores eat plants (primary consumers), small carnivores eat herbivores (secondary consumers), and top carnivores occupy the highest level. 5) Decomposers: bacteria and fungi that break down dead bodies and wastes into simple inorganic substances, returning nutrients to the soil for reuse by plants. 6) Role of decomposers: without them dead matter would pile up and nutrients would never return to the soil, so the nutrient cycle would stop and the ecosystem would collapse. 7) Garden food web described: grass and shrubs are eaten by grasshoppers and rabbits; grasshoppers are eaten by frogs and birds; rabbits are eaten by snakes and hawks; snakes are also eaten by hawks; dead leaves are broken down by fungi and earthworms. 8) Since each organism eats more than one kind of food, all these chains interconnect into a web: grass -> grasshopper -> frog -> snake -> hawk and grass -> rabbit -> hawk are two chains sharing the same hawk. 9) Advantage of a web: if one food source becomes scarce, consumers switch to another, so populations do not collapse; the web gives stability to the ecosystem, while a single food chain is fragile."
+        },
+        {
+          "question": "Explain the 3R principle of waste management with examples. Describe how garbage should be disposed of in a locality and list the actions individuals can take to manage waste.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) 3R stands for Reduce, Reuse and Recycle, applied in that order of preference. 2) Reduce: cut down the amount of waste created, for example buying products with less packaging, refusing polybags and using cloth bags, and avoiding single-use plastic items. 3) Reuse: use a thing again instead of throwing it away, for example refilling glass or plastic bottles, reusing jars for storage and donating old clothes and books. 4) Recycle: send used materials like paper, glass, metal and some plastics to factories where they are processed into new products, saving raw materials and energy. 5) Segregation: households should keep two bins, one for wet biodegradable waste like peels and leftover food, and one for dry non-biodegradable waste like plastics, paper and metal. 6) Disposal methods: biodegradable waste can be composted in pits or vermicomposted using earthworms to make manure; dry recyclable waste goes to recycling units; the small remaining fraction goes to sanitary landfills. 7) Avoid open burning: burning plastic and rubber releases poisonous gases and should never be done; batteries and e-waste need special collection points. 8) Individual actions: separate wet and dry waste at home, compost kitchen waste, carry cloth bags, save paper by using both sides, avoid packaged and single-use items, and encourage family and neighbours to follow the same habits. 9) Benefit: proper waste management keeps soil, water and air clean, prevents diseases spread by flies and rodents, and conserves resources for future generations."
+        },
+        {
+          "question": "Read the passage: In a village, farmers grew crops around a pond. The pond contained algae and small aquatic plants, which were eaten by small fish; big fish ate the small fish, and pond herons ate the big fish. For many years the farmers sprayed a non-biodegradable pesticide on the fields, and some of it washed into the pond. Tests done after several years showed the pesticide concentration to be highest in the herons. (a) Construct the aquatic food chain described and name the trophic levels. (b) Explain why the pesticide concentration was highest in the herons even though they never touched the sprayed fields. (c) If the energy stored in the aquatic plants is 50,000 J, calculate the energy reaching the herons, and state one step the village can take to reduce this pesticide problem.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) Food chain: aquatic plants and algae (producers, first trophic level) -> small fish (herbivores, second level) -> big fish (carnivores, third level) -> pond herons (top carnivores, fourth level). 2) (b) The pesticide is non-biodegradable, so it is not broken down or excreted completely by the organisms that take it in. 3) It enters the pond water, is absorbed by plants, then passes to small fish, then big fish and finally herons; at every step it accumulates in the body tissues. 4) Since it moves up the food chain and becomes more and more concentrated, the top consumers, the herons, carry the highest amount; this progressive increase of harmful chemicals is called biological magnification. 5) (c) Calculation by the ten percent law: plants 50,000 J -> small fish 5,000 J -> big fish 500 J -> herons 50 J. 6) Only about ten percent of the energy passes to the next level, so herons receive roughly 50 J of energy from the 50,000 J fixed by the plants. 7) This steep loss of energy also explains why herons, as top consumers, are few in number. 8) Step for the village: stop or minimise the spraying of non-biodegradable pesticides and switch to biodegradable or biological pest control methods, keeping the pond water free of chemical runoff. 9) Learning point: energy flows one way and decreases along a chain, while non-biodegradable harmful substances flow the same way but increase in concentration, endangering top carnivores like herons, fish-eating birds and even humans."
+        }
+      ]
+    }
+  ]
+}

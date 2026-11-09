@@ -1,0 +1,1516 @@
+{
+  "code": "science",
+  "name": "Science",
+  "bookName": "Science (NCERT Class 10)",
+  "weightageMarks": 80,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Chemical Reactions and Equations",
+      "summary": "This chapter shows how atoms rearrange in chemical reactions to form new substances and how equations are written and balanced using the law of conservation of mass. It classifies reactions into combination, decomposition, displacement, double displacement and redox types, and links energy changes with daily life. It closes with two harmful oxidation effects, corrosion and rancidity, and their prevention.",
+      "weightageMarks": 5,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Balancing equations by hit and trial method",
+        "Combination and decomposition reactions with observations",
+        "Displacement and double displacement equations",
+        "Identifying oxidation, reduction and agents in redox",
+        "Exothermic vs endothermic with examples",
+        "Corrosion and rancidity with prevention"
+      ],
+      "sections": [
+        {
+          "heading": "Recognising a Chemical Reaction",
+          "points": [
+            "A chemical reaction rearranges atoms to form one or more new substances with entirely different properties; in a physical change no new substance is formed.",
+            "Reliable signs that a reaction has occurred include change in colour, evolution of a gas, formation of a precipitate, change in temperature and change of state.",
+            "When a cleaned magnesium ribbon burns in air with a dazzling white flame, white magnesium oxide forms: 2Mg + O2 -> 2MgO.",
+            "Zinc granules dropped into dilute sulphuric acid give bubbles of hydrogen and the tube becomes warm: Zn + H2SO4 -> ZnSO4 + H2, showing both gas evolution and heat release.",
+            "Burning magnesium must be watched only from a safe distance with eye protection because its intense white light can harm the eyes.",
+            "Common exam mistake: giving only heat release as evidence; a complete answer quotes at least two observations along with the balanced equation."
+          ],
+          "keyTerms": [
+            {
+              "term": "Chemical reaction",
+              "meaning": "Process in which reactants are converted into new substances called products with different properties."
+            },
+            {
+              "term": "Reactants and products",
+              "meaning": "Starting substances of a reaction are reactants; the new substances formed are products."
+            },
+            {
+              "term": "Precipitate",
+              "meaning": "Insoluble solid that separates out of a solution during a chemical reaction."
+            }
+          ],
+          "trick": "Spot a reaction with the CODE test: Colour change, Odour or gas Out, Discharge of light or heat, Effervescence or precipitate formed.",
+          "examPointer": "CBSE gives an observation (white powder after burning Mg, bubbles on Zn in acid) and asks for the balanced equation plus one more observation, so practise writing equations straight from described experiments."
+        },
+        {
+          "heading": "Writing and Balancing Chemical Equations",
+          "points": [
+            "A skeletal equation only lists formulas; a balanced equation keeps the number of atoms of every element equal on both sides, obeying the law of conservation of mass.",
+            "Balancing uses the hit and trial method: count atoms of each element, change only the coefficients written before formulas, and never alter subscripts inside a formula.",
+            "Example: hydrogen and oxygen form water as 2H2 + O2 -> 2H2O; writing H2O alone leaves oxygen unbalanced, and changing water to H2O2 is chemically wrong.",
+            "State symbols (s), (l), (g) and (aq) plus conditions written over the arrow add information, for example CaCO3 ->(heat) CaO + CO2.",
+            "Self-check habit: after balancing 3Fe + 4H2O -> Fe3O4 + 4H2, recount iron (3), oxygen (4) and hydrogen (8) on both sides.",
+            "Common exam mistake: leaving an equation unbalanced or changing subscripts to force a balance; a wrong formula scores zero even if atom counts add up."
+          ],
+          "keyTerms": [
+            {
+              "term": "Skeletal equation",
+              "meaning": "Unbalanced equation showing formulas of reactants and products without equal atom counts."
+            },
+            {
+              "term": "Law of conservation of mass",
+              "meaning": "Mass can neither be created nor destroyed in a chemical reaction, so atoms must balance on both sides."
+            },
+            {
+              "term": "Coefficient",
+              "meaning": "Number placed before a formula to balance atoms; changing it does not change the substance itself."
+            }
+          ],
+          "trick": "Balance in the MNHO order: Metals first, then Non-metals, then Hydrogen, leave Oxygen for last; this settles most equations in two tries.",
+          "examPointer": "A 2-mark question usually asks to balance two skeletal equations; always rewrite the complete balanced equation, since writing coefficients alone earns nothing."
+        },
+        {
+          "heading": "Combination and Decomposition Reactions",
+          "points": [
+            "In a combination reaction two or more reactants form a single product: CaO + H2O -> Ca(OH)2 (highly exothermic), H2 + Cl2 -> 2HCl and 2Mg + O2 -> 2MgO.",
+            "Slaked lime from quicklime is used for whitewashing; it reacts slowly with CO2 of air to give a shiny calcium carbonate finish: Ca(OH)2 + CO2 -> CaCO3 + H2O.",
+            "In decomposition a single compound breaks into simpler substances; the three types are thermal (by heat), electrolytic (by electricity) and photo decomposition (by light).",
+            "Thermal examples: CaCO3 ->(heat) CaO + CO2; 2FeSO4 ->(heat) Fe2O3 + SO2 + SO3, where green crystals first turn white on losing water and then leave a brown residue smelling of burning sulphur; 2Pb(NO3)2 ->(heat) 2PbO + 4NO2 + O2 with brown fumes of NO2.",
+            "Electrolytic decomposition: 2H2O ->(electricity) 2H2 + O2, where the volume of hydrogen collected is double that of oxygen. Photolytic decomposition: 2AgBr ->(sunlight) 2Ag + Br2, the chemistry of black and white photography, and 2AgCl ->(sunlight) 2Ag + Cl2, white turning grey.",
+            "Common exam mistake: skipping the intermediate white stage when ferrous sulphate is heated, or forgetting the burning sulphur smell; observation details carry separate marks."
+          ],
+          "keyTerms": [
+            {
+              "term": "Combination reaction",
+              "meaning": "Reaction in which two or more substances combine to form a single new substance."
+            },
+            {
+              "term": "Decomposition reaction",
+              "meaning": "Reaction in which a single compound breaks down into two or more simpler substances using heat, light or electricity."
+            },
+            {
+              "term": "Photolytic decomposition",
+              "meaning": "Decomposition carried out by light energy, as in silver bromide turning grey in sunlight."
+            }
+          ],
+          "trick": "Decomposition needs a driver: TEP = Thermal, Electrolytic, Photo; remember that TEP fuels every split.",
+          "examPointer": "Expect observation-based questions on heating ferrous sulphate (green to white to brown, burning sulphur smell) and lead nitrate (brown fumes); quote exact colours and smells for full marks."
+        },
+        {
+          "heading": "Displacement and Double Displacement Reactions",
+          "points": [
+            "In displacement a more reactive element pushes a less reactive element out of its salt solution: Fe + CuSO4 -> FeSO4 + Cu and Zn + CuSO4 -> ZnSO4 + Cu.",
+            "The blue colour of copper sulphate fades and brown copper deposits on the iron nail because iron stands above copper in the activity series; copper cannot do the reverse.",
+            "In double displacement two compounds exchange ions: Na2SO4 + BaCl2 -> BaSO4 + 2NaCl, where white insoluble barium sulphate precipitates, so it is also called a precipitation reaction.",
+            "Neutralisation is a double displacement between an acid and a base forming salt and water: NaOH + HCl -> NaCl + H2O.",
+            "Insoluble barium sulphate is used to test for sulphate ions and as a barium meal in X-ray imaging of the digestive tract because it does not dissolve in body fluids.",
+            "Common exam mistake: calling Fe + CuSO4 a double displacement reaction; only one element swaps place here, so it is displacement."
+          ],
+          "keyTerms": [
+            {
+              "term": "Displacement reaction",
+              "meaning": "Reaction in which a more reactive element displaces a less reactive element from its compound."
+            },
+            {
+              "term": "Double displacement reaction",
+              "meaning": "Reaction in which two compounds exchange ions to form two new compounds."
+            },
+            {
+              "term": "Precipitation reaction",
+              "meaning": "Double displacement reaction that produces an insoluble solid called a precipitate."
+            }
+          ],
+          "trick": "Single swap is displacement, partner swap is double displacement; picture one person stealing a seat versus two couples exchanging partners.",
+          "examPointer": "The iron nail in copper sulphate experiment is a CBSE favourite: state the fading blue colour, the brown deposit and the equation Fe + CuSO4 -> FeSO4 + Cu together."
+        },
+        {
+          "heading": "Oxidation, Reduction and Redox Reactions",
+          "points": [
+            "Oxidation is gain of oxygen or loss of hydrogen by a substance; reduction is loss of oxygen or gain of hydrogen; both occur together in a redox reaction.",
+            "Classic example: CuO + H2 -> Cu + H2O; copper oxide loses oxygen and is reduced, hydrogen gains oxygen and is oxidised, so CuO is the oxidising agent and H2 is the reducing agent.",
+            "ZnO + C -> Zn + CO shows carbon oxidised to carbon monoxide while zinc oxide is reduced; passing hydrogen over hot copper oxide reverses the black coating reaction 2Cu + O2 ->(heat) 2CuO, turning black CuO to brown copper.",
+            "In electron language, oxidation is loss of electrons and reduction is gain of electrons (OIL RIG), which also explains displacement reactions between metals.",
+            "Everyday redox: respiration is slow oxidation of glucose releasing energy, while burning of fuels like CH4 + 2O2 -> CO2 + 2H2O is fast oxidation with heat and light.",
+            "Common exam mistake: naming CuO as oxidised in the CuO and H2 reaction; the substance that loses oxygen is reduced, and the one that supplies oxygen is the oxidising agent."
+          ],
+          "keyTerms": [
+            {
+              "term": "Oxidation",
+              "meaning": "Gain of oxygen or loss of hydrogen (loss of electrons) by a substance."
+            },
+            {
+              "term": "Reduction",
+              "meaning": "Loss of oxygen or gain of hydrogen (gain of electrons) by a substance."
+            },
+            {
+              "term": "Redox reaction",
+              "meaning": "Reaction in which oxidation and reduction occur simultaneously."
+            }
+          ],
+          "trick": "Use OIL RIG: Oxidation Is Loss, Reduction Is Gain (of electrons); and remember the substance oxidised itself reduces the other, so it is the reducing agent.",
+          "examPointer": "Questions ask to name the substance oxidised, the substance reduced, the oxidising agent and the reducing agent in reactions like CuO + H2 -> Cu + H2O and ZnO + C -> Zn + CO; answer all four parts explicitly."
+        },
+        {
+          "heading": "Exothermic and Endothermic Reactions",
+          "points": [
+            "Exothermic reactions give out heat so the container becomes hot: burning of natural gas (CH4 + 2O2 -> CO2 + 2H2O + heat), respiration, CaO with water, and decomposition of vegetable matter into compost.",
+            "Endothermic reactions absorb heat so the container feels cold: CaCO3 ->(heat) CaO + CO2, 2H2O ->(electricity) 2H2 + O2, and Ba(OH)2 + 2NH4Cl -> BaCl2 + 2NH3 + 2H2O, which cools the tube enough to chill water placed under it.",
+            "Most decomposition reactions are endothermic because energy must be supplied to break a compound; most combination reactions are exothermic because new bonds release energy.",
+            "Photosynthesis absorbs light energy to build glucose, so it is endothermic in energy terms, while respiration is its exothermic reverse.",
+            "Energy words matter: state whether heat is released or absorbed and attach a balanced equation as proof in every classification answer.",
+            "Common exam mistake: assuming every reaction needing a burner is endothermic; classify by the net heat change, not by whether a flame is used in the lab."
+          ],
+          "keyTerms": [
+            {
+              "term": "Exothermic reaction",
+              "meaning": "Reaction in which heat is released to the surroundings, making them warmer."
+            },
+            {
+              "term": "Endothermic reaction",
+              "meaning": "Reaction in which heat, light or electrical energy is absorbed from the surroundings."
+            }
+          ],
+          "trick": "Exo = Exit of heat (container hot), Endo = Enter of heat (container cold); touch-the-tube logic wins the marks.",
+          "examPointer": "A frequent 2-mark question asks to classify CaO + H2O, decomposition of CaCO3, respiration and photosynthesis as exothermic or endothermic with a one-line reason each."
+        },
+        {
+          "heading": "Corrosion and Rancidity: Harmful Oxidation",
+          "points": [
+            "Corrosion is the slow eating up of metal surfaces by moist air and gases: iron gets a reddish brown coating of rust, hydrated iron(III) oxide Fe2O3.xH2O; copper turns green due to basic copper carbonate; silver turns black due to silver sulphide.",
+            "Rusting needs oxygen and moisture together; the three-test-tube experiment shows nails in dry air (with anhydrous calcium chloride) and in boiled water sealed with oil stay rust-free, while the nail in ordinary water rusts.",
+            "Prevention of corrosion: painting, oiling or greasing, galvanisation with zinc, electroplating with tin or chromium, and alloying such as stainless steel; the barrier keeps moist air away from the metal.",
+            "Rancidity is oxidation of fats and oils in food on exposure to air, which spoils taste and smell; it is why packets of chips are flushed with nitrogen gas before sealing.",
+            "Prevention of rancidity: adding antioxidants like BHA and BHT, nitrogen flushing, refrigeration, and airtight storage away from light.",
+            "Common exam mistake: writing rust as Fe2O3 only; the correct chemical nature is hydrated iron(III) oxide, Fe2O3.xH2O, formed in the presence of both air and moisture."
+          ],
+          "keyTerms": [
+            {
+              "term": "Corrosion",
+              "meaning": "Gradual destruction of a metal surface by attack of moist air, acids or gases in the environment."
+            },
+            {
+              "term": "Rancidity",
+              "meaning": "Oxidation of fats and oils in food that changes their smell and taste."
+            },
+            {
+              "term": "Antioxidant",
+              "meaning": "Substance added to food to slow down oxidation of fats and oils and prevent rancidity."
+            }
+          ],
+          "trick": "Corrosion colour code: Iron brown, Copper green, Silver black; remember ICS as Iron-Copper-Silver in brown-green-black order.",
+          "examPointer": "The three-test-tube rusting experiment and chip packet nitrogen flushing are the two most repeated case-study setups of this chapter; know the conditions and the prevention logic."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Which of the following is a combination reaction?",
+          "options": [
+            "CaCO3 ->(heat) CaO + CO2",
+            "CaO + H2O -> Ca(OH)2",
+            "Zn + CuSO4 -> ZnSO4 + Cu",
+            "NaOH + HCl -> NaCl + H2O"
+          ],
+          "answerIndex": 1,
+          "explanation": "Calcium oxide and water join to form a single product, calcium hydroxide; the third option is displacement and the fourth is neutralisation (double displacement).",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The white powder formed when a magnesium ribbon burns in air is",
+          "options": [
+            "Magnesium nitride",
+            "Magnesium oxide",
+            "Magnesium carbonate",
+            "Magnesium hydroxide"
+          ],
+          "answerIndex": 1,
+          "explanation": "Magnesium burns with a dazzling white flame to give white magnesium oxide: 2Mg + O2 -> 2MgO.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Rusting of iron requires",
+          "options": [
+            "Only oxygen",
+            "Only water vapour",
+            "Both oxygen and moisture",
+            "Only carbon dioxide"
+          ],
+          "answerIndex": 2,
+          "explanation": "Rust forms only when iron meets both oxygen of air and moisture; either one alone cannot rust iron.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In the reaction Zn + H2SO4 -> ZnSO4 + H2, the gas evolved is",
+          "options": [
+            "Oxygen",
+            "Sulphur dioxide",
+            "Hydrogen",
+            "Hydrogen sulphide"
+          ],
+          "answerIndex": 2,
+          "explanation": "Zinc displaces hydrogen from dilute sulphuric acid, and the hydrogen burns with a pop sound.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "On heating ferrous sulphate crystals in a dry test tube, the correct sequence of observations is",
+          "options": [
+            "Green changes to brown directly with a pop sound",
+            "Green changes to white and then brown residue forms with a smell of burning sulphur",
+            "Blue changes to white with water droplets",
+            "A colourless gas with a pungent smell of ammonia is released"
+          ],
+          "answerIndex": 1,
+          "explanation": "Green crystals first lose water of crystallisation and turn white, then decompose to brown Fe2O3 releasing SO2 and SO3 that smell of burning sulphur.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which of the following is an endothermic process?",
+          "options": [
+            "Respiration in living cells",
+            "Burning of natural gas",
+            "Electrolysis of water",
+            "Reaction of quicklime with water"
+          ],
+          "answerIndex": 2,
+          "explanation": "Electrolysis of water absorbs electrical energy to split water into hydrogen and oxygen, so it is endothermic; the others release heat.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The reaction Na2SO4 + BaCl2 -> BaSO4 + 2NaCl is best described as a",
+          "options": [
+            "Displacement reaction",
+            "Combination reaction",
+            "Double displacement precipitation reaction",
+            "Decomposition reaction"
+          ],
+          "answerIndex": 2,
+          "explanation": "Two compounds exchange ions and insoluble white barium sulphate precipitates, so it is a double displacement (precipitation) reaction.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "When silver bromide is kept in sunlight, it turns grey because",
+          "options": [
+            "It absorbs moisture from air",
+            "It decomposes into silver metal and bromine",
+            "It reacts with oxygen of air",
+            "It reacts with carbon dioxide"
+          ],
+          "answerIndex": 1,
+          "explanation": "Silver bromide undergoes photolytic decomposition in sunlight: 2AgBr ->(sunlight) 2Ag + Br2, and the silver makes it grey.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "In the reaction CuO + H2 -> Cu + H2O, the oxidising agent is",
+          "options": [
+            "H2",
+            "CuO",
+            "Cu",
+            "H2O"
+          ],
+          "answerIndex": 1,
+          "explanation": "CuO supplies oxygen to hydrogen and is itself reduced to Cu, so CuO is the oxidising agent while H2 is the reducing agent.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "A white salt on heating decomposes to give brown fumes and a yellow residue. The salt and the residue are respectively",
+          "options": [
+            "Lead nitrate and lead oxide",
+            "Zinc nitrate and zinc oxide",
+            "Silver bromide and silver",
+            "Ferrous sulphate and ferric oxide"
+          ],
+          "answerIndex": 0,
+          "explanation": "Lead nitrate decomposes as 2Pb(NO3)2 ->(heat) 2PbO + 4NO2 + O2, giving brown NO2 fumes and a yellow PbO residue.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why should a magnesium ribbon be cleaned with sandpaper before burning it in air? Also write the balanced equation for the burning of magnesium ribbon.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Magnesium reacts slowly with air to form a thin protective layer of magnesium oxide on its surface, which blocks the metal from direct contact with oxygen. 2) Cleaning with sandpaper removes this dull layer and exposes the shiny metal, so the ribbon catches fire easily and burns with a dazzling white flame. 3) The balanced equation is 2Mg + O2 -> 2MgO, where magnesium combines with the oxygen of air to give white magnesium oxide; the bright flame should always be viewed with eye protection from a safe distance."
+        },
+        {
+          "question": "Why is respiration considered an exothermic reaction? Write the equation involved.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) During respiration, glucose combines with oxygen inside living cells and breaks down, releasing energy as heat which keeps the body warm, so respiration is an exothermic reaction. 2) The process is C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy. 3) Since energy is given out to the surroundings instead of being absorbed, respiration fits the definition of an exothermic reaction, unlike photosynthesis which stores sunlight energy in glucose."
+        },
+        {
+          "question": "Distinguish between displacement and double displacement reactions with one balanced chemical equation of each.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) In a displacement reaction, a more reactive element takes the place of a less reactive element in its salt solution, for example Fe + CuSO4 -> FeSO4 + Cu, where iron displaces copper from copper sulphate and the blue colour of the solution fades. 2) In a double displacement reaction, two compounds in solution exchange their ions to form two new compounds, for example Na2SO4 + BaCl2 -> BaSO4 + 2NaCl, where white barium sulphate precipitates. 3) Displacement involves one element and one compound and is guided by the activity series, while double displacement is an ion exchange between two compounds and often gives a precipitate, water or a gas."
+        },
+        {
+          "question": "What is rancidity? State any three methods by which rancidity of packed food can be prevented.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Rancidity is the slow oxidation of fats and oils present in food when they stay exposed to air; it spoils the taste and gives a bad smell, which is why stale fried food smells unpleasant. 2) Prevention one: food is stored in airtight containers so that oxygen of air cannot reach the fats and oils. 3) Prevention two: packets of chips and similar snacks are flushed with unreactive nitrogen gas before sealing, which pushes out the oxygen. 4) Prevention three: antioxidants such as BHA and BHT are added to foods, and refrigeration or storage away from light and heat also slows oxidation. 5) All these methods work by cutting off oxygen or by adding a substance that gets oxidised first."
+        },
+        {
+          "question": "Define combination, decomposition, displacement and double displacement reactions. Write one balanced chemical equation for each and state which of these types are generally exothermic or endothermic.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Combination reaction: two or more reactants join to form a single product, for example CaO + H2O -> Ca(OH)2, where quicklime combines with water releasing much heat to give slaked lime. 2) Decomposition reaction: one compound splits into simpler substances using heat, electricity or light; examples are CaCO3 ->(heat) CaO + CO2, 2H2O ->(electricity) 2H2 + O2 and 2AgBr ->(sunlight) 2Ag + Br2, the last being the basis of black and white photography. 3) Displacement reaction: a more reactive element takes the place of a less reactive element in its salt solution, for example Fe + CuSO4 -> FeSO4 + Cu, where the blue colour of copper sulphate fades and brown copper settles on the iron nail. 4) Double displacement reaction: two compounds in solution exchange their ions to form two new compounds, for example Na2SO4 + BaCl2 -> BaSO4 + 2NaCl, giving a white precipitate of barium sulphate. 5) Energy link: most combination reactions are exothermic because forming new bonds releases energy, as in CaO with water or burning of coal, while most decomposition reactions are endothermic because energy in the form of heat, light or electricity must be supplied to break the compound apart. 6) While answering, name the reaction type first, then give the balanced equation, and finally state the energy change, because this order matches how the marks are distributed in the scheme."
+        },
+        {
+          "question": "CASE: A student took about two grams of green coloured ferrous sulphate crystals in a dry boiling tube and heated them over a burner flame. She observed that the crystals first changed from green to white and water droplets appeared near the mouth of the tube, so the water droplets seen near the mouth are condensed steam. On continued heating, the white mass turned brown and a gas with the smell of burning sulphur came out. (a) Write the balanced chemical equation for the reaction on strong heating. (b) Name the type of reaction and explain both colour changes. (c) Write one more thermal decomposition reaction that gives coloured fumes.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) On strong heating, ferrous sulphate decomposes as 2FeSO4 ->(heat) Fe2O3 + SO2 + SO3; the brown residue is ferric oxide and the mixture of sulphur dioxide and sulphur trioxide gives the characteristic smell of burning sulphur. 2) (b) The reaction is a thermal decomposition; first the green crystals lose their water of crystallisation as FeSO4.7H2O ->(heat) FeSO4 + 7H2O, which explains the change from green to white anhydrous ferrous sulphate, and then the white salt decomposes to brown ferric oxide. 3) (c) A similar decomposition with coloured fumes is 2Pb(NO3)2 ->(heat) 2PbO + 4NO2 + O2, where the brown fumes are of nitrogen dioxide and the residue is yellow lead oxide. 4) Conclusion: heating a hydrated salt can first drive off its water of crystallisation and then decompose the anhydrous salt left behind; in answers, mention both stages separately, name the two gases SO2 and SO3 with the burning sulphur smell, and give the brown colour of Fe2O3, since these observation details carry separate marks in the marking scheme. 5) Extra note: the droplets form on the cooler upper walls of the tube because the steam released condenses there, which is why the mouth of the tube is cooler than its base during such heating."
+        },
+        {
+          "question": "What are exothermic and endothermic reactions? Explain with four examples each, writing equations wherever possible, and state why decomposition reactions are mostly endothermic while combination reactions are mostly exothermic.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Exothermic reactions release heat to the surroundings, so the reaction vessel becomes hot; endothermic reactions absorb heat, so the vessel feels cold to touch. 2) Exothermic examples: burning of natural gas, CH4 + 2O2 -> CO2 + 2H2O + heat; respiration, where glucose is slowly oxidised inside cells releasing body-warming energy; reaction of quicklime with water, CaO + H2O -> Ca(OH)2; and decay of vegetable matter into compost. 3) Endothermic examples: decomposition of calcium carbonate, CaCO3 ->(heat) CaO + CO2; electrolysis of water, 2H2O ->(electricity) 2H2 + O2; heating of lead nitrate, 2Pb(NO3)2 ->(heat) 2PbO + 4NO2 + O2; and mixing barium hydroxide with ammonium chloride, Ba(OH)2 + 2NH4Cl -> BaCl2 + 2NH3 + 2H2O, which makes the bottom of the test tube ice cold. 4) Reason for the pattern: breaking an existing compound needs energy input, so decompositions are mostly endothermic, while combination and burning form new bonds and release energy, so they are mostly exothermic. 5) Quick check used in answers: a warm tube means exothermic, a cold tube means endothermic, and photosynthesis is the light-absorbing opposite of the exothermic respiration. 6) A quick self-test before writing: ask whether the tube would feel hot or cold in your hand; that single check correctly sorts almost every reaction asked in this chapter."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Acids, Bases and Salts",
+      "summary": "This chapter classifies substances as acids, bases and salts using indicators, explains their key reactions with metals, carbonates, bases and non-metal oxides, and introduces the pH scale to measure strength. It connects pH with tooth decay, digestion, soil treatment and animal self-defence, and studies important salts from the chlor-alkali process, baking soda, washing soda, bleaching powder and plaster of Paris.",
+      "weightageMarks": 5,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Acid and base reactions with metals and carbonates",
+        "pH scale and its daily life importance",
+        "Chlor-alkali process and its three products",
+        "Baking soda and washing soda formulas and uses",
+        "Plaster of Paris preparation and setting",
+        "Water of crystallisation and hydrated salts"
+      ],
+      "sections": [
+        {
+          "heading": "Acids, Bases and Indicators",
+          "points": [
+            "Acids produce hydrogen ions (H+) in water, which combine with water molecules to form hydronium ions (H3O+); bases produce hydroxide ions (OH-) in water, so aqueous solutions alone show acidic or basic behaviour.",
+            "Common laboratory acids: HCl, H2SO4, HNO3 and CH3COOH; common bases: NaOH, KOH, Ca(OH)2 and Mg(OH)2; natural acids include lactic acid in curd, citric acid in lemon, tartaric acid in tamarind, acetic acid in vinegar and formic acid injected by ant and nettle stings.",
+            "Litmus turns red in acid and blue in base; methyl orange is red in acid and yellow in base; phenolphthalein is colourless in acid and pink in base; china rose juice gives dark pink in acid and green in base.",
+            "Olfactory indicators such as onion juice and vanilla essence lose or change their smell in basic solutions, which helps visually impaired students test acids and bases.",
+            "Acidic and basic solutions conduct electricity because of ions; dry HCl gas shows no acidic behaviour with dry litmus since ions form only in the presence of water.",
+            "Common exam mistake: forgetting the word aqueous; an acid behaves as an acid only in water because H+ cannot exist freely without hydration to H3O+."
+          ],
+          "keyTerms": [
+            {
+              "term": "Indicator",
+              "meaning": "Substance whose colour changes differently in acidic and basic solutions, used to test their nature."
+            },
+            {
+              "term": "Olfactory indicator",
+              "meaning": "Substance whose smell changes in acidic and basic media, such as onion juice or vanilla essence."
+            },
+            {
+              "term": "Hydronium ion",
+              "meaning": "H3O+ ion formed when the H+ released by an acid combines with a water molecule."
+            }
+          ],
+          "trick": "Phenolphthalein pairs: P for Pink with base, P for Plain (colourless) with acid; acid plus blue litmus always gives red.",
+          "examPointer": "CBSE frequently asks why dry HCl gas fails to turn dry litmus red and why acids conduct electricity; the expected answer always mentions formation of ions in water."
+        },
+        {
+          "heading": "Chemical Properties of Acids",
+          "points": [
+            "Acid + active metal gives salt and hydrogen: Zn + 2HCl -> ZnCl2 + H2; the hydrogen burns with a pop sound when a burning splinter is brought near.",
+            "Acid + metal carbonate gives salt, water and carbon dioxide: Na2CO3 + 2HCl -> 2NaCl + H2O + CO2; with marble chips, CaCO3 + 2HCl -> CaCl2 + H2O + CO2.",
+            "Acid + metal hydrogen carbonate also releases CO2: NaHCO3 + HCl -> NaCl + H2O + CO2; the gas turns lime water milky as Ca(OH)2 + CO2 -> CaCO3 + H2O.",
+            "Acid + base is neutralisation: NaOH + HCl -> NaCl + H2O; milk of magnesia neutralises excess stomach acid: Mg(OH)2 + 2HCl -> MgCl2 + 2H2O.",
+            "Acid + metal oxide (basic oxide) gives salt and water: CuO + 2HCl -> CuCl2 + H2O, where black copper oxide dissolves to give a blue-green copper chloride solution.",
+            "Common exam mistake: writing hydrogen instead of carbon dioxide with carbonates; link each gas to its test, pop sound for H2 and milky lime water for CO2."
+          ],
+          "keyTerms": [
+            {
+              "term": "Neutralisation",
+              "meaning": "Reaction between an acid and a base producing salt and water."
+            },
+            {
+              "term": "Metal carbonate test",
+              "meaning": "Brisk effervescence of CO2 when acid is added to a carbonate; the gas turns lime water milky."
+            },
+            {
+              "term": "Pop sound test",
+              "meaning": "A burning splinter brought near hydrogen gas is extinguished with a pop sound."
+            }
+          ],
+          "trick": "Acid output ladder M-C-B: Metal gives Hydrogen, Carbonate gives Carbon dioxide plus water, Base gives only water.",
+          "examPointer": "Equation-writing questions usually pick acid + metal carbonate and acid + base; balance carefully and name the salt formed, since half marks are lost on unbalanced equations."
+        },
+        {
+          "heading": "Chemical Properties of Bases",
+          "points": [
+            "Strong bases react with some active metals releasing hydrogen: Zn + 2NaOH -> Na2ZnO2 + H2, forming sodium zincate; aluminium reacts similarly to form sodium aluminate.",
+            "Bases neutralise acids: Ca(OH)2 + 2HCl -> CaCl2 + 2H2O; the same idea treats acidic soil with slaked lime and excess stomach acid with mild bases.",
+            "Bases react with non-metal oxides, which are acidic oxides: Ca(OH)2 + CO2 -> CaCO3 + H2O and 2NaOH + SO3 -> Na2SO4 + H2O, showing CO2 and SO3 are acidic.",
+            "Water-soluble bases are called alkalis (NaOH, KOH, Ca(OH)2); insoluble hydroxides like Cu(OH)2 and Fe(OH)3 are bases but not alkalis.",
+            "Common exam mistake: claiming all bases react with all metals; only reactive metals like Zn and Al react with strong alkalis, and sodium with water (2Na + 2H2O -> 2NaOH + H2) is a metal-water reaction, not a base-metal one."
+          ],
+          "keyTerms": [
+            {
+              "term": "Alkali",
+              "meaning": "A base that dissolves in water, such as sodium hydroxide or potassium hydroxide."
+            },
+            {
+              "term": "Sodium zincate",
+              "meaning": "Salt Na2ZnO2 formed when zinc reacts with sodium hydroxide solution."
+            },
+            {
+              "term": "Acidic oxide",
+              "meaning": "Non-metal oxide like CO2 or SO3 that reacts with bases to form salt and water."
+            }
+          ],
+          "trick": "Bases beat non-metal oxides because non-metal oxides are acidic; remember Non-metal oxide = acidic oxide = neutralised by base.",
+          "examPointer": "The zinc + sodium hydroxide equation and the base + non-metal oxide equation are the two least-practised reactions; write Na2ZnO2 correctly as sodium zincate to save the formula mark."
+        },
+        {
+          "heading": "The pH Scale and Strength of Acids and Bases",
+          "points": [
+            "The pH scale runs from 0 to 14 and measures the hydrogen ion concentration of a solution; pH below 7 is acidic, 7 is neutral and above 7 is basic.",
+            "Lower pH means more H+ ions and stronger acid; higher pH means more OH- ions and stronger base; universal indicator shows red through orange and yellow, green at 7, and blue to violet for strong bases.",
+            "Strong acids and bases ionise almost completely in water (HCl, H2SO4, NaOH, KOH), while weak ones ionise only partially (CH3COOH, citric acid, NH4OH).",
+            "Neutral solutions like pure water and NaCl solution have pH 7; the human body works within a pH range of about 7.0 to 7.8.",
+            "pH paper or universal indicator gives the approximate pH value, while litmus only tells whether a solution is acidic or basic.",
+            "Common exam mistake: reading the scale backwards; for acids, smaller pH means stronger, so a pH 3 solution is more acidic than a pH 5 solution."
+          ],
+          "keyTerms": [
+            {
+              "term": "pH scale",
+              "meaning": "Scale from 0 to 14 that measures how acidic or basic a solution is, based on hydrogen ion concentration."
+            },
+            {
+              "term": "Strong acid",
+              "meaning": "Acid that ionises almost completely in water, such as hydrochloric acid."
+            },
+            {
+              "term": "Weak acid",
+              "meaning": "Acid that ionises only partially in water, such as acetic acid."
+            }
+          ],
+          "trick": "Slide rule idea: pH Low means Liquid acid strong, pH High means heavy base strong, and 7 is the neutral landing spot in the middle.",
+          "examPointer": "One-mark questions often give pH values of four solutions and ask which is most acidic or most basic; pick the lowest pH for the strongest acid and the highest pH for the strongest base."
+        },
+        {
+          "heading": "pH in Everyday Life",
+          "points": [
+            "Tooth decay: mouth bacteria act on sugars and food remains to produce acids; when mouth pH drops below 5.5, the acid corrodes tooth enamel made of calcium phosphate, so brushing with basic toothpaste neutralises the acid.",
+            "Digestion: the stomach makes hydrochloric acid for digestion; excess acid causes indigestion, relieved by antacids like milk of magnesia, Mg(OH)2 + 2HCl -> MgCl2 + 2H2O.",
+            "Soil: excess fertilisers make soil acidic, corrected by adding quicklime (CaO) or slaked lime (Ca(OH)2); overly basic soil is treated with decomposed organic matter such as compost or manure, which releases acids.",
+            "Self-defence by animals and plants: nettle leaf stinging hairs and ant stings inject formic acid (methanoic acid), causing burning pain; rubbing with baking soda paste or dock plant juice neutralises the acid.",
+            "Plants defend chemically too: the nettle is a wild plant whose stinging hairs deliver methanoic acid, and nature even provides the remedy, since the dock plant often grows beside the nettle and its juice is basic.",
+            "Common exam mistake: writing the tooth decay threshold as pH 5 or 6; the exact value quoted is 5.5, below which enamel starts getting corroded."
+          ],
+          "keyTerms": [
+            {
+              "term": "Tooth enamel",
+              "meaning": "Hard calcium phosphate layer on teeth that gets corroded when mouth pH falls below 5.5."
+            },
+            {
+              "term": "Antacid",
+              "meaning": "Mild base like magnesium hydroxide that neutralises excess hydrochloric acid in the stomach."
+            },
+            {
+              "term": "Formic acid",
+              "meaning": "Methanoic acid injected by nettle stinging hairs and ant stings, causing pain and irritation."
+            }
+          ],
+          "trick": "Daily pH anchors: enamel breaks at 5.5, neutral is 7, body works between 7.0 and 7.8; chant the ladder 5.5-7-7.8.",
+          "examPointer": "The 5.5 tooth decay fact and the nettle sting formic acid example are hot one-mark and case-study items; never round 5.5 to 5 or 6."
+        },
+        {
+          "heading": "Common Salt, Chlor-Alkali Process and Bleaching Powder",
+          "points": [
+            "Salts formed from the same acid or base belong to one family; common salt (NaCl) is obtained by evaporation of sea water and from rock salt, and it is the raw material for many everyday chemicals.",
+            "Chlor-alkali process is electrolysis of brine: 2NaCl + 2H2O ->(electricity) 2NaOH + Cl2 + H2; chlorine is released at the anode, hydrogen at the cathode, and sodium hydroxide forms near the cathode.",
+            "Uses of NaOH: soaps and detergents, paper making, degreasing of metals; uses of Cl2: water treatment, PVC, disinfectants and bleaching powder; uses of H2: fuel, margarine and ammonia for fertilisers.",
+            "Bleaching powder is made by the action of chlorine on dry slaked lime: Ca(OH)2 + Cl2 -> CaOCl2 + H2O; it bleaches cotton and wood pulp and disinfects drinking water.",
+            "The name chlor-alkali comes from the two main products formed together, chlorine and the alkali sodium hydroxide, in one electrolysis.",
+            "Common exam mistake: swapping the electrode products; negative chloride ions move to the anode and give chlorine, while hydrogen appears at the cathode."
+          ],
+          "keyTerms": [
+            {
+              "term": "Brine",
+              "meaning": "Concentrated solution of sodium chloride in water used in the chlor-alkali process."
+            },
+            {
+              "term": "Chlor-alkali process",
+              "meaning": "Electrolysis of brine producing sodium hydroxide, chlorine gas and hydrogen gas together."
+            },
+            {
+              "term": "Bleaching powder",
+              "meaning": "Calcium oxychloride, CaOCl2, made by the action of chlorine on dry slaked lime; used for bleaching and disinfecting."
+            }
+          ],
+          "trick": "Chlor-alkali ABC: Anode Attracts chloride giving Chlorine, Cathode hosts Hydrogen, NaOH sits near the Cathode; A-C-H order never shifts.",
+          "examPointer": "A common 3-mark question asks the chlor-alkali equation, the product at each electrode and one use of each product; learn the electrode positions exactly."
+        },
+        {
+          "heading": "Baking Soda, Washing Soda, Plaster of Paris and Water of Crystallisation",
+          "points": [
+            "Baking soda is sodium hydrogen carbonate, NaHCO3, made as NaCl + H2O + CO2 + NH3 -> NH4Cl + NaHCO3; it is a mild, non-corrosive base used in baking and as an antacid, and it neutralises formic acid of stings.",
+            "On heating, baking soda releases CO2 that makes cakes fluffy: 2NaHCO3 ->(heat) Na2CO3 + H2O + CO2; it is also used in soda-acid type fire extinguishers.",
+            "Washing soda is sodium carbonate decahydrate, Na2CO3.10H2O, got by recrystallising sodium carbonate solution: Na2CO3 + 10H2O -> Na2CO3.10H2O; it removes permanent hardness of water and is used in glass, soap and paper industries.",
+            "Plaster of Paris is calcium sulphate hemihydrate, CaSO4.1/2H2O, prepared by heating gypsum at 373 K: CaSO4.2H2O ->(373 K) CaSO4.1/2H2O + 3/2H2O; with water it sets back to gypsum: CaSO4.1/2H2O + 3/2H2O -> CaSO4.2H2O.",
+            "Water of crystallisation is fixed water inside crystals: blue copper sulphate is CuSO4.5H2O and on heating becomes white anhydrous CuSO4, CuSO4.5H2O ->(heat) CuSO4 + 5H2O, turning blue again with drops of water.",
+            "Common exam mistake: writing plaster of Paris as CaSO4.2H2O (that is gypsum), or heating gypsum far above 373 K; always show the dot before the water count in hydrated salts."
+          ],
+          "keyTerms": [
+            {
+              "term": "Water of crystallisation",
+              "meaning": "Fixed number of water molecules chemically attached within the crystals of a salt, such as 5 in CuSO4.5H2O."
+            },
+            {
+              "term": "Plaster of Paris",
+              "meaning": "Calcium sulphate hemihydrate, CaSO4.1/2H2O, obtained by heating gypsum; sets into a hard mass with water."
+            },
+            {
+              "term": "Gypsum",
+              "meaning": "Calcium sulphate dihydrate, CaSO4.2H2O, the raw material for plaster of Paris."
+            }
+          ],
+          "trick": "Water-of-crystallisation countdown: Washing soda 10, Copper sulphate 5, Gypsum 2, POP half; remember 10-5-2-half.",
+          "examPointer": "Expect 2-3 mark questions on uses of baking soda and washing soda, the POP preparation and setting reactions, and the colour change of CuSO4.5H2O on heating and rewetting."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "A solution turns blue litmus red. Its pH is likely to be",
+          "options": [
+            "8",
+            "10",
+            "3",
+            "7"
+          ],
+          "answerIndex": 2,
+          "explanation": "Blue litmus turning red shows an acidic solution, so pH must be below 7; among the options only 3 fits.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The acid present in curd is",
+          "options": [
+            "Citric acid",
+            "Lactic acid",
+            "Formic acid",
+            "Tartaric acid"
+          ],
+          "answerIndex": 1,
+          "explanation": "Curd contains lactic acid, lemon contains citric acid and tamarind contains tartaric acid.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The chemical name of baking soda is",
+          "options": [
+            "Sodium carbonate",
+            "Sodium hydrogen carbonate",
+            "Calcium carbonate",
+            "Sodium hydroxide"
+          ],
+          "answerIndex": 1,
+          "explanation": "Baking soda is sodium hydrogen carbonate, NaHCO3, used in baking and as a mild antacid.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "When dilute hydrochloric acid is added to sodium carbonate, the gas evolved is",
+          "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Carbon dioxide",
+            "Chlorine"
+          ],
+          "answerIndex": 2,
+          "explanation": "Acids react with metal carbonates to release carbon dioxide, which turns lime water milky.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Dry hydrogen chloride gas does not turn dry blue litmus paper red because",
+          "options": [
+            "Dry HCl is not an acid",
+            "Litmus paper is itself a base",
+            "H+ ions are formed only in the presence of water",
+            "HCl gas contains no chlorine"
+          ],
+          "answerIndex": 2,
+          "explanation": "Acids ionise only in water to give H3O+ ions; dry HCl gas has no water, so no ions form and dry litmus stays unchanged.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "In the chlor-alkali process, the gas liberated at the anode during electrolysis of brine is",
+          "options": [
+            "Hydrogen",
+            "Chlorine",
+            "Oxygen",
+            "Carbon dioxide"
+          ],
+          "answerIndex": 1,
+          "explanation": "In the chlor-alkali process chlorine is liberated at the anode and hydrogen at the cathode, with NaOH forming near the cathode.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Plaster of Paris is obtained by heating",
+          "options": [
+            "Gypsum at 373 K",
+            "Limestone at high temperature",
+            "Sodium carbonate decahydrate",
+            "Calcium chloride crystals"
+          ],
+          "answerIndex": 0,
+          "explanation": "Plaster of Paris is obtained when gypsum, CaSO4.2H2O, is heated at 373 K to remove half a water molecule per formula unit.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which one of the following salts is used to remove permanent hardness of water?",
+          "options": [
+            "Baking soda",
+            "Washing soda",
+            "Bleaching powder",
+            "Plaster of Paris"
+          ],
+          "answerIndex": 1,
+          "explanation": "Washing soda, Na2CO3.10H2O, precipitates calcium and magnesium ions and removes permanent hardness of water.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "When excess carbon dioxide is passed through lime water, the milkiness first formed disappears because",
+          "options": [
+            "CaCO3 changes into insoluble Ca(OH)2",
+            "Soluble calcium bicarbonate is formed",
+            "CO2 reacts with water to give a strong acid",
+            "Lime water gets evaporated"
+          ],
+          "answerIndex": 1,
+          "explanation": "Excess CO2 converts the insoluble white CaCO3 into soluble calcium bicarbonate, Ca(HCO3)2, so the milkiness disappears.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "A student adds phenolphthalein to sodium hydroxide solution and then adds dilute hydrochloric acid drop by drop. The correct observation is",
+          "options": [
+            "The solution remains colourless throughout",
+            "The solution turns pink and stays pink",
+            "The solution turns pink first and becomes colourless when enough acid is added",
+            "The solution turns green"
+          ],
+          "answerIndex": 2,
+          "explanation": "NaOH turns phenolphthalein pink; as enough HCl is added the base is neutralised and the pink colour disappears.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "A student tested dry HCl gas and aqueous HCl with litmus paper. Explain the observation with reason and write the equation for the reaction between HCl and NaOH.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Acids show acidic behaviour only when they release H+ ions, which combine with water to form hydronium ions (H3O+). 2) Dry HCl gas has no water, so no H3O+ ions form and dry litmus stays unchanged, whereas HCl solution ionises as HCl + H2O -> H3O+ + Cl- and turns blue litmus red. 3) The reaction of HCl with sodium hydroxide is a neutralisation: NaOH + HCl -> NaCl + H2O."
+        },
+        {
+          "question": "Curd and other sour food substances should not be kept in brass or copper vessels. Why? Which acid is present in curd?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Curd and other sour foods contain organic acids, the main one being lactic acid in curd. 2) These acids react chemically with copper or brass and form toxic metallic salts that mix into the food and make it harmful to eat. 3) The vessel surface also gets corroded, since acid plus metal gives salt and hydrogen. 4) That is why sour foods are always stored in steel or glass containers, which do not react with food acids."
+        },
+        {
+          "question": "Write balanced chemical equations for three reactions of dilute hydrochloric acid: (i) with zinc metal, (ii) with sodium hydrogen carbonate, (iii) with sodium hydroxide. Name the gas evolved in (i) and (ii).",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Acid with metal: Zn + 2HCl -> ZnCl2 + H2; hydrogen gas is evolved, which burns with a pop sound. 2) Acid with metal bicarbonate: NaHCO3 + HCl -> NaCl + H2O + CO2; carbon dioxide is evolved and turns lime water milky as Ca(OH)2 + CO2 -> CaCO3 + H2O. 3) Acid with base is neutralisation: NaOH + HCl -> NaCl + H2O, forming common salt and water with no gas evolution. 4) All three give salts as products, showing that acids react characteristically with metals, carbonates and bases. 5) While writing these, place the condition or observation beside each equation, such as pop sound for hydrogen and milkiness for carbon dioxide, to make each answer complete."
+        },
+        {
+          "question": "Give two important uses each of baking soda and washing soda. Write their chemical formulas and one thermal equation related to baking soda.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Baking soda (sodium hydrogen carbonate, NaHCO3) uses: it makes cakes and bread fluffy because on heating 2NaHCO3 ->(heat) Na2CO3 + H2O + CO2 releases carbon dioxide, and it acts as a mild, non-corrosive antacid to reduce stomach acidity. 2) Washing soda (sodium carbonate decahydrate, Na2CO3.10H2O) uses: it removes permanent hardness of water by precipitating calcium and magnesium ions, and it is used in glass, soap and paper industries. 3) Both belong to the sodium family of salts made from common salt, and baking soda also neutralises the formic acid of ant or nettle stings when applied as a paste."
+        },
+        {
+          "question": "What is the pH scale? Explain the importance of pH in daily life with reference to tooth decay, indigestion, soil treatment and self-defence by plants and animals, including chemical names or equations wherever relevant.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) The pH scale runs from 0 to 14 and measures the hydrogen ion concentration of a solution; values below 7 are acidic, 7 is neutral and above 7 is basic, with lower pH meaning stronger acid. 2) Tooth decay: bacteria in the mouth act on leftover sugars and produce acids; when the pH of the mouth falls below 5.5, the acid attacks the enamel, which is made of calcium phosphate, and decay begins, so brushing with basic toothpaste neutralises the acid and protects the teeth. 3) Indigestion: the stomach produces hydrochloric acid for digestion; excess acid causes pain and burning, which is relieved by antacids such as milk of magnesia, Mg(OH)2 + 2HCl -> MgCl2 + 2H2O. 4) Soil: when soil becomes too acidic due to excess chemical fertilisers, farmers add quicklime (CaO) or slaked lime (Ca(OH)2); when soil is too basic, decomposed organic matter like compost or manure is added, which releases acids to neutralise the excess bases. 5) Self-defence by plants and animals: stinging hairs of nettle leaves and ant stings inject formic acid (methanoic acid) that burns; rubbing the area with a mild base like baking soda, or with dock plant juice, neutralises the acid and relieves the pain. 6) Our body works within a narrow pH range of about 7.0 to 7.8, so maintaining pH is essential for healthy life."
+        },
+        {
+          "question": "Describe the chlor-alkali process with its balanced equation. State the product formed at each electrode and give uses of each product. Also write the equation for the preparation of bleaching powder from these products.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) The chlor-alkali process is the electrolysis of brine, a concentrated solution of sodium chloride; it is named so because the products are chlorine and the alkali sodium hydroxide. 2) Balanced equation: 2NaCl + 2H2O ->(electricity) 2NaOH + Cl2 + H2. 3) At the anode, chloride ions get oxidised and chlorine gas is liberated; at the cathode, water is reduced and hydrogen gas is liberated, while sodium hydroxide forms in the solution near the cathode. 4) Uses of chlorine: disinfecting drinking water and swimming pools, bleaching cotton and wood pulp, and making PVC, disinfectants and bleaching powder. 5) Uses of hydrogen: as a pollution-free fuel, for hydrogenation of vegetable oils into margarine, and for making ammonia which is used in fertilisers. 6) Uses of sodium hydroxide: manufacture of soaps and detergents, paper making, and degreasing of metals in workshops. 7) Bleaching powder is prepared by the action of chlorine on dry slaked lime: Ca(OH)2 + Cl2 -> CaOCl2 + H2O, and it is used for bleaching washed clothes and for disinfecting drinking water. 8) Remember the naming logic and the electrode logic together: the process gives chlorine plus an alkali in one step, and the electrode positions decide which gas comes out where, so adding a word-diagram of the cell earns the final mark."
+        },
+        {
+          "question": "CASE: In the art room, a student mixed a white powder X with water and stirred it. Within a few minutes the paste became a hard white mass, which is how doctors also plaster fractured bones. The powder X had been prepared by heating another white substance Y carefully at 373 K. (a) Identify X and Y and write the equation for the preparation of X. (b) Write the equation for the change when X is mixed with water and state two uses of X. (c) Why must X be stored in moisture-proof containers?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) The powder X is plaster of Paris, calcium sulphate hemihydrate, CaSO4.1/2H2O, and the starting substance Y is gypsum, CaSO4.2H2O; gypsum is heated carefully at 373 K to give it: CaSO4.2H2O ->(373 K) CaSO4.1/2H2O + 3/2H2O. 2) (b) On mixing with water, plaster of Paris takes back its water of crystallisation and sets into a hard solid mass of gypsum again: CaSO4.1/2H2O + 3/2H2O -> CaSO4.2H2O; this setting property is why it is used by doctors to plaster fractured bones and by artists for statues, moulds and decorative pieces. 3) (c) Plaster of Paris must be stored in moisture-proof containers because water vapour of air converts it slowly into hard gypsum, after which it cannot be made into a paste and becomes useless. 4) Supporting idea: the dot notation in hydrated salts shows fixed water of crystallisation, and the heating must stop at 373 K so that only half a water molecule per formula unit is removed, keeping the setting ability intact. 5) Bonus link: the same dot notation logic explains why blue copper sulphate crystals turn white on heating, so once water of crystallisation is understood, every hydrated salt question becomes a short two-line answer in the exam."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Metals and Non-metals",
+      "summary": "This chapter contrasts the physical and chemical properties of metals and non-metals, explains ionic bond formation and the reactivity series that decides displacements, and details extraction of metals from ores by concentration, roasting or calcination, reduction and electrolytic refining. It closes with corrosion of iron, copper and silver, its prevention through galvanisation and alloying, and common alloys.",
+      "weightageMarks": 6,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Reactivity series and displacement predictions",
+        "Extraction routes: roasting, calcination, reduction",
+        "Electrolytic refining and anode mud",
+        "Ionic bond formation and properties",
+        "Corrosion of iron, copper, silver and prevention",
+        "Reactions of metals with oxygen, water, acids"
+      ],
+      "sections": [
+        {
+          "heading": "Physical Properties of Metals and Non-metals",
+          "points": [
+            "Metals are lustrous, malleable, ductile, sonorous and good conductors of heat and electricity; gold and silver are the most malleable and ductile metals.",
+            "Non-metals are generally brittle, non-lustrous, non-sonorous and poor conductors, existing as solids like iodine and carbon, liquids like bromine and gases like oxygen and nitrogen.",
+            "Exceptions are exam gold: mercury is the only liquid metal; sodium and potassium are soft enough to cut with a knife; gallium and caesium melt on a warm palm; iodine is a lustrous non-metal; graphite conducts electricity.",
+            "Diamond, an allotrope of the non-metal carbon, is the hardest natural substance and does not conduct electricity, the exact opposite of graphite.",
+            "Most metals have high melting points, but these exceptions mean any statement saying all metals are hard solids is false.",
+            "Common exam mistake: forgetting bromine, the liquid non-metal, when the question asks which elements are liquid at room temperature."
+          ],
+          "keyTerms": [
+            {
+              "term": "Malleability",
+              "meaning": "Property of metals by which they can be beaten into thin sheets."
+            },
+            {
+              "term": "Ductility",
+              "meaning": "Property of metals by which they can be drawn into thin wires."
+            },
+            {
+              "term": "Sonority",
+              "meaning": "Property of metals to produce a ringing sound when struck."
+            }
+          ],
+          "trick": "Exception trio: Liquid metal = Mercury, Lustrous non-metal = Iodine, Conducting non-metal = Graphite; chant M-I-G for the odd ones out.",
+          "examPointer": "Assertion-reason and one-mark questions love the exceptions; if a statement says all metals are hard solids, mark it false because of sodium and mercury."
+        },
+        {
+          "heading": "Chemical Properties: Reaction with Oxygen, Water and Acids",
+          "points": [
+            "Metals burn or tarnish in oxygen forming basic oxides: 4Na + O2 -> 2Na2O, 2Mg + O2 -> 2MgO and 2Cu + O2 ->(heat) 2CuO; metal oxides turn red litmus blue.",
+            "Some oxides are amphoteric and react with both acids and bases: Al2O3 + 6HCl -> 2AlCl3 + 3H2O and Al2O3 + 2NaOH -> 2NaAlO2 + H2O; ZnO behaves the same way.",
+            "With water the activity series decides speed: Na and K react violently with cold water (2Na + 2H2O -> 2NaOH + H2), Ca reacts less vigorously and floats (Ca + 2H2O -> Ca(OH)2 + H2), Mg reacts with hot water, and Fe reacts only with steam: 3Fe + 4H2O -> Fe3O4 + 4H2.",
+            "Metals above hydrogen reduce dilute acids: Mg + 2HCl -> MgCl2 + H2 and Fe + 2HCl -> FeCl2 + H2; copper and silver, being below hydrogen, give no hydrogen with dilute acids.",
+            "Dilute nitric acid behaves differently: being a strong oxidising agent it converts the hydrogen produced into water, so H2 is not evolved except with very dilute acid and metals like Mg and Mn.",
+            "Common exam mistake: writing Cu + dilute HCl -> CuCl2 + H2, which is impossible since copper lies below hydrogen in the reactivity series."
+          ],
+          "keyTerms": [
+            {
+              "term": "Basic oxide",
+              "meaning": "Metal oxide that reacts with water to give a base or with an acid to give salt and water."
+            },
+            {
+              "term": "Amphoteric oxide",
+              "meaning": "Oxide like Al2O3 or ZnO that reacts with both acids and bases to form salt and water."
+            },
+            {
+              "term": "Activity series",
+              "meaning": "Arrangement of metals in decreasing order of reactivity, used to predict displacement reactions."
+            }
+          ],
+          "trick": "Water ladder: Cold kills (Na, K), Cold floats (Ca), Hot sizzles (Mg), Steam only (Fe); violence fades as you go down the series.",
+          "examPointer": "The equation 3Fe + 4H2O -> Fe3O4 + 4H2 and the HNO3-oxidising-agent point are frequent 2-mark asks; write Fe3O4, the mixed oxide, for steam and not Fe2O3."
+        },
+        {
+          "heading": "The Reactivity Series and Displacement",
+          "points": [
+            "Reactivity series in decreasing order: K, Na, Ca, Mg, Al, Zn, Fe, Pb, H, Cu, Hg, Ag, Au; metals above H liberate hydrogen from dilute acids, those below do not.",
+            "A metal higher in the series displaces a lower one from its salt solution: Zn + CuSO4 -> ZnSO4 + Cu and Fe + CuSO4 -> FeSO4 + Cu; Cu + ZnSO4 does not react.",
+            "Storage logic follows the series: sodium and potassium are stored in kerosene because they react so fast with moist air that they can catch fire.",
+            "Gold and silver sit at the bottom of the series, so they do not react with air, water or dilute acids and remain bright, which is why jewellery is made from them.",
+            "Aluminium is high in the series yet resists corrosion because a thin protective layer of Al2O3 sticks to its surface and blocks further attack.",
+            "Common exam mistake: predicting displacement without locating both metals in the series; always compare positions before writing the equation."
+          ],
+          "keyTerms": [
+            {
+              "term": "Reactivity series",
+              "meaning": "List of metals arranged in order of decreasing reactivity from potassium down to gold."
+            },
+            {
+              "term": "Displacement reaction",
+              "meaning": "Reaction where a more reactive metal pushes out a less reactive metal from its salt solution."
+            },
+            {
+              "term": "Protective oxide layer",
+              "meaning": "Thin oxide coat such as Al2O3 that prevents further attack of air and moisture on the metal."
+            }
+          ],
+          "trick": "Say the series as a story: Please Stop Calling Me A Zebra In Lovely Hotels Carrying Heavy Silver Gold; each word head gives K, Na, Ca, Mg, Al, Zn, Fe, Pb, H, Cu, Hg, Ag, Au.",
+          "examPointer": "Given any metal pair with a salt, first locate both in the series; the upper one always wins, and the 2-mark answer expects the balanced displacement equation plus the series reason."
+        },
+        {
+          "heading": "Formation of Ionic Compounds",
+          "points": [
+            "Metals have 1 to 3 electrons in the outermost shell and lose them to complete an octet, forming cations; non-metals gain or share electrons, forming anions, so metal-non-metal pairs form ionic bonds by electron transfer.",
+            "In NaCl, sodium (2,8,1) transfers one electron to chlorine (2,8,7), producing Na+ and Cl- held by strong electrostatic attraction; in MgCl2, magnesium loses two electrons, one to each of two chlorine atoms.",
+            "Ionic compounds are hard crystalline solids with high melting and boiling points because a large amount of energy is needed to break the strong inter-ionic attractions in the lattice.",
+            "They are generally soluble in water and insoluble in solvents like kerosene and petrol; they conduct electricity in molten state and in solution because ions become free to move, but not as solids where ions are fixed.",
+            "Common exam mistake: saying solid NaCl conducts electricity; conduction needs mobile ions, which exist only on melting or dissolving."
+          ],
+          "keyTerms": [
+            {
+              "term": "Ionic bond",
+              "meaning": "Electrostatic force of attraction between oppositely charged ions formed by electron transfer."
+            },
+            {
+              "term": "Cation and anion",
+              "meaning": "Positively charged ion formed by loss of electrons is a cation; negatively charged ion formed by gain of electrons is an anion."
+            },
+            {
+              "term": "Crystal lattice",
+              "meaning": "Regular three-dimensional arrangement of ions in an ionic solid."
+            }
+          ],
+          "trick": "Metal Loses, Non-metal Gains: chant MLNG (My Lucky New Gold) to recall who does what in ionic bond formation.",
+          "examPointer": "Explain electron transfer in words for NaCl or MgCl2 formation and list at least three properties of ionic compounds; this 3-mark pattern is a CBSE staple."
+        },
+        {
+          "heading": "Occurrence, Concentration and Extraction of Metals",
+          "points": [
+            "Minerals from which metals can be extracted profitably are ores; ores carry rocky impurities called gangue, removed during concentration or enrichment of the ore.",
+            "Reactivity routes: highly reactive metals (K, Na, Ca, Mg, Al) are separated by electrolytic reduction of molten compounds; middle-reactivity metals (Zn, Fe, Pb, Cu) have their sulphide or carbonate ores converted to oxides and then reduced with carbon; least reactive metals (Hg, Ag, Au) are found free or need simple heating.",
+            "Roasting converts sulphide ores in excess air: 2ZnS + 3O2 ->(heat) 2ZnO + 2SO2; calcination converts carbonate ores in limited air: ZnCO3 ->(heat) ZnO + CO2.",
+            "Reduction of the oxide gives the metal: ZnO + C ->(heat) Zn + CO; cinnabar needs only heating: 2HgS + 3O2 ->(heat) 2HgO + 2SO2 followed by 2HgO ->(heat) 2Hg + O2.",
+            "Thermite reaction for repair work: Fe2O3 + 2Al -> Al2O3 + 2Fe + heat; the enormous heat produces molten iron used to weld cracked railway tracks and machine parts.",
+            "Common exam mistake: mixing up roasting and calcination; roasting is for sulphide ores in surplus air, calcination is for carbonate ores in cut-down air."
+          ],
+          "keyTerms": [
+            {
+              "term": "Gangue",
+              "meaning": "Rocky impurities like sand and mud mixed with the ore."
+            },
+            {
+              "term": "Roasting",
+              "meaning": "Heating a sulphide ore strongly in excess air to convert it into its oxide."
+            },
+            {
+              "term": "Calcination",
+              "meaning": "Heating a carbonate ore strongly in limited air to convert it into oxide with release of CO2."
+            }
+          ],
+          "trick": "S-C pairing: Sulphide goes with Surplus air (Roasting), Carbonate goes with Cut air (Calcination); the letters S and C stay together.",
+          "examPointer": "Extraction questions are usually 3 or 5 marks: state the three reactivity groups, pick the right route for each, and support with the ZnS or ZnCO3 to ZnO to Zn equations."
+        },
+        {
+          "heading": "Electrolytic Refining",
+          "points": [
+            "Impure metal is cast as the anode and a thin strip of the pure metal is the cathode, both dipped in a solution of a soluble salt of the same metal as electrolyte.",
+            "On passing current, metal from the anode dissolves into the solution and the same pure metal deposits on the cathode, so the cathode gains mass while the anode loses it.",
+            "Impurities either stay dissolved in the electrolyte or settle below the anode as anode mud, which in copper refining may contain valuable silver and gold that are recovered.",
+            "In copper refining the electrolyte is acidified copper sulphate solution and the cathode receives almost pure copper.",
+            "Common exam mistake: swapping anode and cathode; the anode is impure and dissolves, the cathode receives the pure metal, and the anode mud collects below the anode."
+          ],
+          "keyTerms": [
+            {
+              "term": "Electrolytic refining",
+              "meaning": "Purification of an impure metal by electrolysis, depositing the pure metal on the cathode."
+            },
+            {
+              "term": "Anode mud",
+              "meaning": "Insoluble impurities that settle below the anode during electrolytic refining."
+            },
+            {
+              "term": "Electrolyte",
+              "meaning": "Solution of a soluble salt of the same metal that carries current between the electrodes."
+            }
+          ],
+          "trick": "Refining ABC: Anode Becomes thinner, Cathode Collects pure metal, Below anode sits Mud; A-B-C order never changes.",
+          "examPointer": "Label-and-explain questions on electrolytic refining of copper appear as 3-mark items; mark anode, cathode, electrolyte and anode mud clearly in words."
+        },
+        {
+          "heading": "Corrosion, Prevention and Alloys",
+          "points": [
+            "Corrosion is the slow eating up of metal surfaces by moist air: iron rusts to hydrated iron(III) oxide Fe2O3.xH2O, copper develops a green basic copper carbonate layer, and silver gets a black silver sulphide coating.",
+            "Rusting requires both air and moisture together, proved by the three-test-tube nail experiment with dry air, air-free boiled water and ordinary water.",
+            "Prevention methods: painting, oiling or greasing, galvanisation (zinc coating on iron), electroplating with tin or chromium, and alloying; the layer blocks contact with moist air.",
+            "Galvanised iron stays protected even if the coat is scratched, because zinc is more reactive than iron and corrodes first, protecting the iron below.",
+            "Alloys are homogeneous mixtures of metals with metals or non-metals: stainless steel (iron with chromium and nickel), brass (copper with zinc), bronze (copper with tin), solder (lead with tin) and amalgam (metal with mercury).",
+            "Common exam mistake: writing galvanisation as chromium coating; galvanisation is specifically zinc coating, tin or chromium coating is electroplating, and solder is valued because it melts at a lower temperature than its metals."
+          ],
+          "keyTerms": [
+            {
+              "term": "Galvanisation",
+              "meaning": "Depositing a thin layer of zinc on iron or steel objects to prevent rusting."
+            },
+            {
+              "term": "Alloy",
+              "meaning": "Homogeneous mixture of a metal with other metals or non-metals, made to improve properties."
+            },
+            {
+              "term": "Amalgam",
+              "meaning": "Alloy of a metal with mercury."
+            }
+          ],
+          "trick": "Corrosion colours: Iron brown, Copper green, Silver black; prevention ladder is Paint-Oil-Galvanise-Plate-Alloy (POGPA).",
+          "examPointer": "Case studies often show a dull green statue or a blackened silver spoon and ask to identify the coating compound and suggest prevention; connect the colour to the compound name."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Which metal is liquid at room temperature?",
+          "options": [
+            "Sodium",
+            "Mercury",
+            "Bromine",
+            "Zinc"
+          ],
+          "answerIndex": 1,
+          "explanation": "Mercury is the only metal that is liquid at room temperature; bromine is also a liquid but it is a non-metal.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which of the following is an amphoteric oxide?",
+          "options": [
+            "Na2O",
+            "Al2O3",
+            "CuO",
+            "MgO"
+          ],
+          "answerIndex": 1,
+          "explanation": "Al2O3 reacts with both acids and bases, giving AlCl3 with HCl and NaAlO2 with NaOH, so it is amphoteric.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Sodium is stored under kerosene because it",
+          "options": [
+            "Is lighter than water",
+            "Reacts vigorously with air and moisture",
+            "Is a poor conductor of electricity",
+            "Has a very low melting point"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sodium and potassium react so vigorously with air and moisture that they can catch fire, so they are stored under kerosene.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The non-metal which conducts electricity is",
+          "options": [
+            "Sulphur",
+            "Iodine",
+            "Graphite",
+            "Phosphorus"
+          ],
+          "answerIndex": 2,
+          "explanation": "Graphite conducts electricity because each carbon is bonded to only three others, leaving one free electron per carbon.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The correct order of reactivity of the three metals Zn, Fe and Cu is",
+          "options": [
+            "Cu > Fe > Zn",
+            "Zn > Fe > Cu",
+            "Fe > Zn > Cu",
+            "Zn > Cu > Fe"
+          ],
+          "answerIndex": 1,
+          "explanation": "In the activity series zinc lies above iron, and iron lies above copper, so the order is Zn > Fe > Cu.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Galvanisation is the coating of iron with",
+          "options": [
+            "Tin",
+            "Chromium",
+            "Zinc",
+            "Lead"
+          ],
+          "answerIndex": 2,
+          "explanation": "Galvanisation means coating iron or steel with a thin layer of zinc to prevent rusting.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The thermite reaction Fe2O3 + 2Al -> Al2O3 + 2Fe + heat is used mainly for",
+          "options": [
+            "Extraction of aluminium",
+            "Welding of railway tracks",
+            "Refining of copper",
+            "Galvanisation of iron"
+          ],
+          "answerIndex": 1,
+          "explanation": "The thermite reaction produces molten iron, so it is used to weld cracked railway tracks and machine parts.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which of the following reactions will NOT occur?",
+          "options": [
+            "Fe + CuSO4 -> FeSO4 + Cu",
+            "Zn + CuSO4 -> ZnSO4 + Cu",
+            "Cu + ZnSO4 -> CuSO4 + Zn",
+            "Cu + 2AgNO3 -> Cu(NO3)2 + 2Ag"
+          ],
+          "answerIndex": 2,
+          "explanation": "Copper lies below zinc in the activity series, so it cannot displace zinc from zinc sulphate solution; the other three are valid displacements.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A metal X does not react with cold or hot water but reacts with steam, and it cannot displace zinc from ZnSO4 solution. X is most likely",
+          "options": [
+            "Sodium",
+            "Magnesium",
+            "Iron",
+            "Copper"
+          ],
+          "answerIndex": 2,
+          "explanation": "Iron does not react with cold or hot water but reacts with steam as 3Fe + 4H2O -> Fe3O4 + 4H2, and being below zinc it cannot displace zinc; copper fails the steam condition too.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "During electrolytic refining of copper, the impure copper strip is connected as the",
+          "options": [
+            "Cathode where pure metal deposits",
+            "Anode which gradually dissolves",
+            "Electrolyte solution",
+            "Anode mud"
+          ],
+          "answerIndex": 1,
+          "explanation": "In electrolytic refining the impure metal is made the anode, which slowly dissolves, while pure metal deposits on the cathode.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why does calcium start floating when it reacts with water? Write the balanced equation for the reaction.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Calcium reacts with water less vigorously than sodium and forms calcium hydroxide with hydrogen gas: Ca + 2H2O -> Ca(OH)2 + H2. 2) As the reaction proceeds, bubbles of hydrogen gas get stuck to the surface of the calcium piece. 3) These attached bubbles make the metal effectively lighter than water, so calcium starts floating on the water surface. 4) Once the reaction slows down and the bubbles stop forming, the floating can stop."
+        },
+        {
+          "question": "Why is hydrogen gas not produced when most metals react with dilute nitric acid? Name the metals that form the exception.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Dilute nitric acid is a strong oxidising agent. 2) When metals react with it, the hydrogen gas initially produced is oxidised by the acid itself into water, while the acid gets reduced to oxides of nitrogen. 3) Only magnesium and manganese react with very dilute nitric acid to evolve hydrogen gas. 4) Hence, for most metals, no hydrogen is seen with dilute nitric acid."
+        },
+        {
+          "question": "Differentiate between roasting and calcination with one chemical equation each. Which process is used for a sulphide ore and which for a carbonate ore?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Roasting is heating of a sulphide ore in excess supply of air to convert it into its oxide, for example 2ZnS + 3O2 ->(heat) 2ZnO + 2SO2, releasing sulphur dioxide gas. 2) Calcination is heating of a carbonate ore in limited or no supply of air to convert it into oxide, for example ZnCO3 ->(heat) ZnO + CO2, releasing carbon dioxide. 3) Sulphide ores are roasted while carbonate ores are calcined; after either step the oxide is reduced to the metal, for example ZnO + C ->(heat) Zn + CO. 4) A quick memory line for the difference: roasting burns the sulphur out using plenty of air, while calcination simply drives off carbon dioxide with the air supply cut down."
+        },
+        {
+          "question": "List four important properties of ionic compounds and explain why ionic compounds have high melting points.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Ionic compounds are hard crystalline solids. 2) They have high melting and boiling points because a large amount of energy is needed to break the strong electrostatic forces of attraction between oppositely charged ions packed in the crystal lattice. 3) They are generally soluble in water and insoluble in solvents like kerosene and petrol. 4) They conduct electricity in molten state and in aqueous solution because the ions become free to move, but not in the solid state where ions are fixed in the lattice. 5) Example: NaCl is formed by the transfer of one electron from sodium to chlorine."
+        },
+        {
+          "question": "Explain the extraction of metals belonging to the three reactivity groups with suitable chemical equations: (i) high reactivity metals like sodium or aluminium, (ii) middle reactivity metals like zinc, (iii) low reactivity metals like mercury from cinnabar. Also state where electrolytic refining fits in.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) First, ores are mined and the gangue is removed by concentration, so that the metal compound is enriched before extraction. 2) Highly reactive metals such as sodium, potassium, calcium and aluminium cannot be reduced by carbon because of their strong affinity for oxygen; they are obtained by electrolytic reduction of their molten oxides or chlorides, for example molten sodium chloride gives sodium metal at the cathode and chlorine at the anode. 3) Metals of middle reactivity like zinc, iron, lead and copper occur as sulphides or carbonates; the sulphide ore is first roasted: 2ZnS + 3O2 ->(heat) 2ZnO + 2SO2, and the carbonate ore is calcined: ZnCO3 ->(heat) ZnO + CO2. 4) The oxide is then reduced to the free metal using coke or a suitable reducing agent: ZnO + C ->(heat) Zn + CO. 5) Metals of low reactivity such as mercury occur mostly free or as sulphides needing only heating; cinnabar is first roasted, 2HgS + 3O2 ->(heat) 2HgO + 2SO2, and the oxide is then simply heated: 2HgO ->(heat) 2Hg + O2. 6) Finally, the metal obtained is purified by electrolytic refining, where the impure metal is the anode, pure metal is the cathode and a solution of the metal salt is the electrolyte; pure metal deposits on the cathode and impurities settle as anode mud."
+        },
+        {
+          "question": "State five physical properties of metals with important exceptions, and write balanced equations for reactions of metals with (i) oxygen, (ii) water (any two metals), (iii) dilute acid (any one metal). Explain why aluminium vessels resist corrosion.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Physical properties of metals: they are lustrous, malleable, ductile, sonorous and good conductors of heat and electricity. 2) Important exceptions: mercury is a liquid metal, sodium and potassium are soft enough to be cut with a knife, gallium and caesium melt on a warm palm, iodine is a lustrous non-metal and graphite conducts electricity despite being a non-metal. 3) Metals with oxygen form basic oxides: 4Na + O2 -> 2Na2O and 2Mg + O2 -> 2MgO. 4) Metals with water follow the activity series: sodium reacts violently with cold water, 2Na + 2H2O -> 2NaOH + H2, while iron reacts only with steam, 3Fe + 4H2O -> Fe3O4 + 4H2. 5) Metals above hydrogen liberate hydrogen from dilute acids: Mg + 2HCl -> MgCl2 + H2. 6) Aluminium vessels resist corrosion because a thin protective layer of aluminium oxide (Al2O3) forms on the surface and stops further reaction of the metal with air and moisture, which is why aluminium utensils stay safe and durable for everyday cooking. 7) While listing properties, pair each rule with its exception in the same line, because pairing the general property and the odd case is exactly how the marking scheme splits these five marks."
+        },
+        {
+          "question": "CASE: A student placed clean iron nails in three separate test tubes. Tube A contained dry air with some anhydrous calcium chloride, tube B contained boiled water with an oil layer floating on top, and tube C contained ordinary water left open to air. After one week, the nails in tube C were covered with a reddish brown layer while the nails in tubes A and B remained shiny. (a) Why did the nail in tube C rust? (b) Why did no rust form in tubes A and B? (c) Write the chemical nature of the rust formed and suggest two methods to prevent rusting.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) The nail in tube C rusted because it was in contact with both oxygen of the air and water at the same time, the two essential conditions for rusting; the coating formed is hydrated iron(III) oxide, written as Fe2O3.xH2O. 2) (b) In tube A the anhydrous calcium chloride absorbed all moisture, so the nail stood in dry air only; in tube B boiling removed the dissolved air from water and the oil layer stopped fresh air from dissolving, so the nail had water only; in each tube one necessary condition was missing, hence no rust formed. 3) (c) Rusting is prevented by cutting contact with moist air: painting or applying grease, galvanisation with zinc, electroplating with tin or chromium, and alloying iron with chromium and nickel to get stainless steel. 4) Extra point: galvanised articles stay protected even if the zinc coat is scratched, because zinc is more reactive than iron and corrodes first; the experiment proves that air and moisture must act together for corrosion, which is why this setup is a favourite case study. 5) Extension asked in follow-ups: the same logic explains why ships and pipelines are painted regularly and why iron articles are greased before storage, since blocking either air or moisture breaks the corrosion chain."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Carbon and its Compounds",
+      "summary": "This chapter explains why carbon forms millions of compounds through tetravalency and catenation, builds the homologous series of hydrocarbons and their functional group derivatives, and covers key reactions including combustion, oxidation, addition, substitution, esterification and saponification. It ends with the micelle-based cleansing action of soaps and the advantage of detergents in hard water.",
+      "weightageMarks": 5,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Tetravalency and catenation of carbon",
+        "Homologous series and isomers",
+        "Functional groups and naming",
+        "Combustion, oxidation, addition, substitution",
+        "Esterification and saponification equations",
+        "Micelle action of soaps and detergents"
+      ],
+      "sections": [
+        {
+          "heading": "The Versatile Nature of Carbon",
+          "points": [
+            "Carbon has four electrons in its outermost shell; losing or gaining four electrons would need enormous energy, so carbon completes its octet by sharing electrons and forms covalent bonds.",
+            "One shared pair makes a single bond (CH4, H2, O2, H2O), two pairs a double bond (CO2, C2H4) and three pairs a triple bond (N2, C2H2).",
+            "Tetravalency means each carbon can bond with four atoms, including H, O, N, Cl, S and other carbons, allowing unlimited structural variety.",
+            "Catenation is the self-linking of carbon into straight chains, branched chains and rings; silicon also catenates but its bonds are weaker, so only a few stable silicon compounds exist.",
+            "Carbon-carbon bonds are strong, so carbon compounds are stable and do not decompose easily; their combustion releases large amounts of heat and light, making them good fuels.",
+            "Common exam mistake: writing that carbon gives away its four electrons to become C4+; carbon neither loses nor gains four electrons, it always shares."
+          ],
+          "keyTerms": [
+            {
+              "term": "Covalent bond",
+              "meaning": "Bond formed by mutual sharing of electron pairs between two atoms."
+            },
+            {
+              "term": "Tetravalency",
+              "meaning": "Ability of carbon to form four covalent bonds because of its four outermost electrons."
+            },
+            {
+              "term": "Catenation",
+              "meaning": "Self-linking property of carbon atoms to form long chains, branched chains and rings."
+            }
+          ],
+          "trick": "Carbon never gives or grabs, it always shares: four hands, four bonds, TETRA; chains, branches and rings come from catenation holding hands with itself.",
+          "examPointer": "The two-line reason for the huge number of carbon compounds is tetravalency plus catenation; CBSE asks it as a 2-mark staple, so mention both words explicitly."
+        },
+        {
+          "heading": "Allotropes of Carbon",
+          "points": [
+            "Allotropes are different structural forms of the same element; the main allotropes of carbon are diamond, graphite and fullerene.",
+            "In diamond every carbon bonds to four other carbons in a rigid three-dimensional network, so diamond is the hardest natural substance with a very high melting point and it does not conduct electricity.",
+            "In graphite each carbon bonds to only three others in flat hexagonal layers held by weak forces, leaving one free electron per carbon, so graphite conducts electricity and is soft, slippery and used in pencil leads and as a lubricant.",
+            "Fullerene C60 has carbon atoms arranged like a football, with hexagonal and pentagonal rings forming a hollow sphere.",
+            "Common exam mistake: assuming a non-metal cannot conduct electricity; graphite is the standard counterexample because of its free electrons."
+          ],
+          "keyTerms": [
+            {
+              "term": "Allotropes",
+              "meaning": "Different structural forms of the same element in the same physical state."
+            },
+            {
+              "term": "Buckminsterfullerene",
+              "meaning": "C60 allotrope of carbon in which carbon atoms are arranged like a football."
+            },
+            {
+              "term": "Lubricant",
+              "meaning": "Substance used to reduce friction; graphite is used because its layers can slide over each other."
+            }
+          ],
+          "trick": "Diamond Denies current (4 bonds, no free electron); Graphite Gives current (3 bonds plus 1 free electron); the bonded-count digit settles every allotrope MCQ.",
+          "examPointer": "Compare diamond and graphite in two lines each; marks are awarded for the number of bonded carbons and the presence or absence of free electrons."
+        },
+        {
+          "heading": "Hydrocarbons, Chains, Rings and Homologous Series",
+          "points": [
+            "Hydrocarbons contain only carbon and hydrogen; saturated hydrocarbons (alkanes, CnH2n+2) have only single bonds, like CH4, C2H6 and C3H8, while unsaturated ones have double bonds (alkenes, CnH2n, like C2H4) or triple bonds (alkynes, CnH2n-2, like C2H2).",
+            "Carbon skeletons can be straight chains (butane), branched chains (isobutane) or rings: cyclohexane C6H12 and benzene C6H6 with alternate single and double bonds.",
+            "A homologous series is a family with the same general formula, same functional group and similar chemical properties; successive members differ by a CH2 unit, adding 14 u to the molecular mass, as in CH3OH, C2H5OH and C3H7OH.",
+            "Structural isomers share a molecular formula but differ in arrangement: butane C4H10 has two isomers (n-butane and isobutane) and pentane C5H12 has three.",
+            "Naming ladder: alkanes end in -ane, alkenes in -ene, alkynes in -yne; alcohols in -ol, aldehydes in -al, ketones in -one and carboxylic acids in -oic acid.",
+            "Common exam mistake: writing the alkene formula as CnH2n+2; keep the ladder straight as alkane 2n+2, alkene 2n, alkyne 2n-2."
+          ],
+          "keyTerms": [
+            {
+              "term": "Homologous series",
+              "meaning": "Series of compounds with the same general formula and functional group, successive members differing by a CH2 unit of 14 u."
+            },
+            {
+              "term": "Structural isomer",
+              "meaning": "Compound with the same molecular formula but a different arrangement of atoms."
+            },
+            {
+              "term": "Saturated compound",
+              "meaning": "Hydrocarbon with only carbon-carbon single bonds, which mainly shows substitution reactions."
+            }
+          ],
+          "trick": "Formula ladder: Alkane +2, Alkene 0, Alkyne -2 on the 2n ladder; and CH2 (14 u) is the family step-stool between homologues.",
+          "examPointer": "Expect questions asking the next homologue, the general formula of a series, or the number of isomers of butane (2) and pentane (3); give the formula and describe the structures in words."
+        },
+        {
+          "heading": "Functional Groups and Electron Dot Structures",
+          "points": [
+            "A functional group is the atom or group attached to the carbon chain that fixes its chemical properties: alcohol (-OH), aldehyde (-CHO), ketone (C=O inside the chain), carboxylic acid (-COOH), alkene (C=C), alkyne (triple bond) and haloalkane (-Cl, -Br).",
+            "Worked names: ethanol CH3CH2OH, ethanal CH3CHO, propanone CH3COCH3, ethanoic acid CH3COOH, chloromethane CH3Cl.",
+            "The aldehyde group always sits at the end of the chain, while the ketone group sits inside the chain between two carbon atoms, which fixes the suffix as -al or -one.",
+            "Electron dot logic in words: in CH4 carbon shares one electron pair with each of four hydrogens; in CO2 carbon shares two pairs with each oxygen giving O=C=O; in ethene C2H4 each carbon shares two pairs with the other carbon and one pair with each of its two hydrogens.",
+            "A carbon compound can carry one functional group or more than one; identifying the group is the first step before naming or predicting reactions.",
+            "Common exam mistake: writing the ketone group as -CHO; -CHO is aldehyde, while ketone is an internal C=O group bonded to two carbon atoms."
+          ],
+          "keyTerms": [
+            {
+              "term": "Functional group",
+              "meaning": "Atom or group of atoms bonded to the carbon chain that determines its chemical properties."
+            },
+            {
+              "term": "Haloalkane",
+              "meaning": "Carbon compound in which one or more hydrogen atoms are replaced by halogen atoms like Cl or Br."
+            },
+            {
+              "term": "Electron dot structure",
+              "meaning": "Diagram showing valence electrons as dots and shared pairs as bonds between atoms."
+            }
+          ],
+          "trick": "Suffix map sung as a ladder: -ane alkane, -ene alkene, -yne alkyne, -ol alcohol, -al aldehyde, -one ketone, -oic acid carboxylic acid.",
+          "examPointer": "One-mark items often ask to identify the functional group in a given formula; first find the carbon chain, then locate -OH, -CHO, COOH or the internal C=O before naming."
+        },
+        {
+          "heading": "Chemical Properties: Combustion, Oxidation, Addition, Substitution",
+          "points": [
+            "Combustion: carbon compounds burn in oxygen to give CO2, water, heat and light: CH4 + 2O2 -> CO2 + 2H2O + heat and C2H5OH + 3O2 -> 2CO2 + 3H2O.",
+            "Flame clue: saturated hydrocarbons burn with a clean blue flame, while unsaturated ones burn with a sooty yellow flame due to unburnt carbon particles, which is why a kerosene lamp flame is yellow while an LPG flame is blue.",
+            "Oxidation: alcohols turn into carboxylic acids with alkaline KMnO4 or acidified K2Cr2O7 on heating: C2H5OH + 2(O) ->(alkaline KMnO4 + heat) CH3COOH + H2O.",
+            "Addition: hydrogen adds across double or triple bonds using a nickel or palladium catalyst: C2H4 + H2 ->(Ni catalyst) C2H6; hydrogenation converts liquid vegetable oils into solid vanaspati ghee.",
+            "Substitution: in saturated hydrocarbons one atom replaces another in sunlight: CH4 + Cl2 ->(sunlight) CH3Cl + HCl, followed by CH3Cl + Cl2 -> CH2Cl2 + HCl and further steps.",
+            "Common exam mistake: forgetting the catalyst above the arrow in hydrogenation and oxidation; Ni or Pd for addition and alkaline KMnO4 or acidified K2Cr2O7 for oxidation earn a mark each."
+          ],
+          "keyTerms": [
+            {
+              "term": "Addition reaction",
+              "meaning": "Reaction in which unsaturated molecules add atoms such as hydrogen across double or triple bonds."
+            },
+            {
+              "term": "Hydrogenation",
+              "meaning": "Addition of hydrogen to vegetable oils using a nickel catalyst to give saturated fats like vanaspati ghee."
+            },
+            {
+              "term": "Substitution reaction",
+              "meaning": "Reaction in which one atom or group of a saturated compound is replaced by another atom or group."
+            }
+          ],
+          "trick": "Key reactions to saturation: SAT-SUB (saturated substitutes, burns clean), UNSAT-ADD (unsaturated adds H2, burns sooty); the pairing answers four MCQ patterns at once.",
+          "examPointer": "The catalyst written above the arrow (Ni or Pd for hydrogenation, alkaline KMnO4 for oxidation) earns a dedicated mark; never drop it from addition and oxidation equations."
+        },
+        {
+          "heading": "Ethanol and Ethanoic Acid",
+          "points": [
+            "Ethanol, C2H5OH, is a water-miscible liquid used in medicines and beverages; with sodium metal it gives hydrogen: 2C2H5OH + 2Na -> 2C2H5ONa + H2.",
+            "Ethanol oxidises to ethanoic acid with alkaline KMnO4 or acidified K2Cr2O7: C2H5OH + 2(O) -> CH3COOH + H2O.",
+            "Ethanoic acid, CH3COOH, is a weak acid (a 5 to 8 percent solution is vinegar); it turns blue litmus red and neutralises bases: CH3COOH + NaOH -> CH3COONa + H2O.",
+            "The bicarbonate test separates the two: CH3COOH + NaHCO3 -> CH3COONa + H2O + CO2 with brisk effervescence, while ethanol gives no effervescence with NaHCO3.",
+            "With magnesium, ethanoic acid gives hydrogen: 2CH3COOH + Mg -> (CH3COO)2Mg + H2, showing it behaves like other acids despite being weak.",
+            "Common exam mistake: using sodium metal instead of sodium bicarbonate to distinguish ethanol from ethanoic acid; both react with Na, but only the acid fizzes with NaHCO3."
+          ],
+          "keyTerms": [
+            {
+              "term": "Sodium ethoxide",
+              "meaning": "C2H5ONa, the compound formed when ethanol reacts with sodium metal."
+            },
+            {
+              "term": "Acetic acid",
+              "meaning": "Common name of ethanoic acid, CH3COOH, the weak carboxylic acid that gives vinegar its sour taste."
+            },
+            {
+              "term": "Carboxylic acid",
+              "meaning": "Weak acid with the -COOH group that reacts with bicarbonates releasing CO2 with brisk effervescence."
+            }
+          ],
+          "trick": "Ethanol checks: Na pops, KMnO4 converts to acid, NaHCO3 stays silent; ethanoic acid alone fizzles with NaHCO3.",
+          "examPointer": "The NaHCO3 distinction between ethanol and ethanoic acid is a favourite 2-mark item; quote the brisk effervescence of CO2 along with the balanced equation."
+        },
+        {
+          "heading": "Esters, Saponification, Soaps and Detergents",
+          "points": [
+            "Esterification: ethanoic acid with ethanol in the presence of concentrated H2SO4 gives a sweet-smelling ester: CH3COOH + C2H5OH ->(conc. H2SO4) CH3COOC2H5 + H2O; the reaction is reversible and slow.",
+            "Saponification is the reverse idea: heating an ester with sodium hydroxide gives the alcohol and the sodium salt of the acid: CH3COOC2H5 + NaOH -> CH3COONa + C2H5OH; industrially, fats and oils are boiled with NaOH to make soap.",
+            "A soap molecule is the sodium salt of a long-chain carboxylic acid with two ends: a hydrophobic hydrocarbon tail that dissolves in oil and grease, and a hydrophilic ionic head that dissolves in water.",
+            "Micelle action: tails dig into oily dirt while heads stay in water; agitation forms spherical micelles with the oil trapped inside, and rinsing water carries the whole micelle away.",
+            "Soap fails in hard water because Ca2+ and Mg2+ ions form insoluble scum with it; detergents, being sulphonate or ammonium salts of long-chain acids, stay effective in hard water.",
+            "Common exam mistake: swapping tail and head roles; the tail hides in dirt, the head faces water, and a micelle forms only around oily dirt."
+          ],
+          "keyTerms": [
+            {
+              "term": "Ester",
+              "meaning": "Sweet-smelling compound formed by reaction of an acid with an alcohol, used in perfumes."
+            },
+            {
+              "term": "Saponification",
+              "meaning": "Reaction of an ester with NaOH to give alcohol and the sodium salt of the acid, the basis of soap making."
+            },
+            {
+              "term": "Micelle",
+              "meaning": "Spherical cluster formed by soap molecules around oily dirt with tails inward and heads outward in water."
+            }
+          ],
+          "trick": "Soap is two-faced: TAIL Toward grime, HEAD Toward H2O; the micelle simply wraps the grease into a rinse-able ball.",
+          "examPointer": "Case studies show the esterification test tube (sweet fruity smell) or soap lather failing in hard water; keep both equations and the scum reason (calcium and magnesium salts) ready."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "The number of covalent bonds present in an ethane molecule (C2H6) is",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "5"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ethane has 6 C-H bonds and 1 C-C bond, making 7 covalent bonds in total.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which of the following is an unsaturated hydrocarbon?",
+          "options": [
+            "C2H6",
+            "C3H8",
+            "C2H4",
+            "CH4"
+          ],
+          "answerIndex": 2,
+          "explanation": "C2H4 contains a carbon-carbon double bond, so it is unsaturated; the others have only single bonds.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The functional group present in CH3COOH is",
+          "options": [
+            "Alcohol",
+            "Aldehyde",
+            "Ketone",
+            "Carboxylic acid"
+          ],
+          "answerIndex": 3,
+          "explanation": "The -COOH ending of CH3COOH is the carboxylic acid functional group.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The next higher homologue of ethanol (C2H5OH) is",
+          "options": [
+            "CH3OH",
+            "C3H7OH",
+            "C4H9OH",
+            "C2H5COOH"
+          ],
+          "answerIndex": 1,
+          "explanation": "Successive homologues differ by CH2, so the next higher alcohol after C2H5OH is C3H7OH (propanol).",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Vegetable oils are converted into vanaspati ghee by",
+          "options": [
+            "Substitution with chlorine",
+            "Addition of hydrogen using a nickel catalyst",
+            "Oxidation with KMnO4",
+            "Dehydration with concentrated H2SO4"
+          ],
+          "answerIndex": 1,
+          "explanation": "Hydrogenation adds hydrogen to unsaturated oils in the presence of a nickel catalyst, giving saturated vanaspati ghee.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The reaction of an ester with sodium hydroxide is called",
+          "options": [
+            "Esterification",
+            "Saponification",
+            "Substitution",
+            "Hydrogenation"
+          ],
+          "answerIndex": 1,
+          "explanation": "Heating an ester with NaOH splits it into alcohol and the sodium salt of the acid; this soap-making reaction is saponification.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which property of graphite makes it suitable as an electrode material in dry cells?",
+          "options": [
+            "Its very high melting point",
+            "Presence of free electrons that conduct electricity",
+            "Its slippery layered structure",
+            "Its brittle nature"
+          ],
+          "answerIndex": 1,
+          "explanation": "Graphite conducts electricity due to free electrons, which makes it useful as electrode material.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "When ethanol reacts with sodium metal, the gas evolved is",
+          "options": [
+            "CO2",
+            "H2",
+            "O2",
+            "CH4"
+          ],
+          "answerIndex": 1,
+          "explanation": "Ethanol reacts with sodium to give sodium ethoxide and hydrogen gas, which burns with a pop sound.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "How many structural isomers are possible for butane (C4H10)?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answerIndex": 1,
+          "explanation": "Butane C4H10 exists as two structural isomers, n-butane and isobutane, due to different chain arrangements.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which compound gives brisk effervescence with sodium bicarbonate solution?",
+          "options": [
+            "Ethanol",
+            "Ethanal",
+            "Ethanoic acid",
+            "Ethene"
+          ],
+          "answerIndex": 2,
+          "explanation": "Ethanoic acid reacts with sodium bicarbonate releasing brisk effervescence of CO2; ethanol, ethanal and ethene do not.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why does carbon form compounds mainly by covalent bonding? State the two key properties of carbon that lead to a very large number of carbon compounds.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Carbon has four electrons in its outermost shell; gaining or losing four electrons would require very large energy, so carbon shares electrons to complete its octet, forming covalent bonds. 2) Tetravalency lets each carbon bond with four other atoms, including hydrogen, oxygen, nitrogen, halogens and other carbons. 3) Catenation allows carbon atoms to link into straight chains, branched chains and rings, and C-C bonds are strong and stable, so millions of compounds become possible."
+        },
+        {
+          "question": "Why is the conversion of ethanol into ethanoic acid called an oxidation reaction? Write the equation involved and name the oxidising agents used.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Ethanol, C2H5OH, on heating with alkaline KMnO4 or acidified K2Cr2O7 changes to ethanoic acid: C2H5OH + 2(O) -> CH3COOH + H2O. 2) In this change oxygen is added to the compound and the hydrogen content decreases, which is exactly the definition of oxidation. 3) Since the oxidising agent supplies the oxygen and gets reduced itself, ethanol is oxidised to ethanoic acid; alkaline KMnO4 and acidified K2Cr2O7 are the two oxidising agents used."
+        },
+        {
+          "question": "Describe the bonding in diamond and graphite and explain why graphite conducts electricity while diamond does not.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) In diamond, each carbon atom is bonded to four other carbon atoms by strong covalent bonds in a rigid three-dimensional network, so diamond is extremely hard and has a very high melting point. 2) Since every outer electron of carbon is used in bonding, diamond has no free electrons and therefore does not conduct electricity. 3) In graphite, each carbon is bonded to only three other carbons forming flat hexagonal layers; the fourth electron of each carbon is free, which lets graphite conduct electricity, while the weak forces between layers allow them to slide, making graphite soft and slippery."
+        },
+        {
+          "question": "What is a homologous series? Write the general formulas of alkanes, alkenes and alkynes and state how successive members differ from each other.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) A homologous series is a family of carbon compounds having the same general formula, the same functional group and similar chemical properties, where each successive member differs from the previous one by a CH2 unit, adding 14 u to the molecular mass. 2) General formulas: alkanes CnH2n+2 (methane CH4, ethane C2H6), alkenes CnH2n (ethene C2H4) and alkynes CnH2n-2 (ethyne C2H2). 3) Example of one series: alcohols CH3OH, C2H5OH and C3H7OH, where properties such as the reaction with sodium repeat across members while melting and boiling points rise gradually. 4) A quick membership check: confirm two things, the repeating CH2 difference and the unchanged functional group; when both hold, the compounds belong to one homologous family."
+        },
+        {
+          "question": "Explain four chemical properties of carbon compounds with balanced equations: (i) combustion, (ii) oxidation of ethanol, (iii) addition reaction (hydrogenation), (iv) substitution reaction (chlorination of methane). Mention one use of each in daily life.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Combustion: carbon compounds burn in oxygen to give carbon dioxide, water, heat and light, for example CH4 + 2O2 -> CO2 + 2H2O + heat; this property makes hydrocarbons like LPG and CNG valuable household fuels. 2) Oxidation: alcohols are oxidised to carboxylic acids by alkaline KMnO4 or acidified K2Cr2O7 on heating: C2H5OH + 2(O) ->(alkaline KMnO4, heat) CH3COOH + H2O; controlled oxidation gives ethanoic acid used in food and industry. 3) Addition reaction: unsaturated hydrocarbons add hydrogen across multiple bonds in the presence of a nickel or palladium catalyst: C2H4 + H2 ->(Ni catalyst) C2H6; hydrogenation converts liquid vegetable oils into saturated vanaspati ghee. 4) Substitution reaction: in saturated hydrocarbons, hydrogen is replaced stepwise by chlorine in sunlight: CH4 + Cl2 ->(sunlight) CH3Cl + HCl, followed by CH3Cl + Cl2 -> CH2Cl2 + HCl; such substituted products serve as solvents and refrigerants in industry. 5) Key contrast: saturated compounds mainly undergo substitution and give a clean flame, while unsaturated compounds mainly undergo addition and give a sooty yellow flame. 6) Writing tip: for each reaction, put the reagent or catalyst above the arrow, name the organic product, and end with one daily-life line, because these three tags carry the structure marks in the scheme."
+        },
+        {
+          "question": "Describe the structure of a soap molecule and explain the cleansing action of soap through micelle formation. Why does soap fail in hard water, and what alternative is used?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) A soap molecule is the sodium salt of a long-chain carboxylic acid and has two ends: a long hydrocarbon chain called the tail, which is hydrophobic and mixes only with oil and grease, and an ionic carboxylate head, which is hydrophilic and dissolves in water. 2) Cleansing action: when soap is rubbed on an oily cloth, the hydrophobic tails of many molecules dig into the oily dirt while the hydrophilic heads remain in water; on agitation, the dirt gets wrapped inside spherical micelles with tails inward and heads outward. 3) Because the outside of each micelle is water-loving, rinsing with water carries the entire oil-filled micelle away, leaving the cloth clean; the lather helps spread the soap and lift the dirt. 4) Failure in hard water: calcium and magnesium ions of hard water react with soap to form an insoluble scum (calcium and magnesium salts of the fatty acid), so lather does not form and soap is wasted. 5) Remedy: detergents, which are sulphonate or ammonium salts of long-chain acids; their charged heads do not precipitate with hard-water ions, so they work in hard water, though some detergents are not easily biodegradable and can pollute water. 6) One-line revision summary: soap wraps grease in water-friendly packages, hard water steals the soap into scum, and detergents dodge that theft."
+        },
+        {
+          "question": "CASE: A student mixed 2 mL of ethanol with 2 mL of ethanoic acid in a test tube and added a few drops of concentrated sulphuric acid. The tube was kept in a beaker of warm water (a water bath) for about five minutes, and a pleasant fruity smell came from the tube. (a) Name the reaction and write the balanced chemical equation for it. (b) What is the role of concentrated sulphuric acid, and why was a water bath used instead of a direct flame? (c) What would happen if the product is heated with sodium hydroxide solution? Write the equation and name the reaction.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) The reaction is esterification: CH3COOH + C2H5OH ->(conc. H2SO4) CH3COOC2H5 + H2O; the pleasant fruity smell is that of the ester ethyl ethanoate formed when ethanoic acid reacts with ethanol. 2) (b) Concentrated sulphuric acid acts as a catalyst and also as a dehydrating agent, absorbing the water formed so that the reversible reaction moves forward and more ester is produced. 3) (b) A water bath is used because the mixture contains ethanol, which is highly inflammable, so gentle and uniform heating is safer than a direct burner flame. 4) (c) On heating the ester with sodium hydroxide solution, it splits back into the alcohol and the sodium salt of the acid: CH3COOC2H5 + NaOH -> CH3COONa + C2H5OH; this reaction is saponification, the same process used industrially when fats and oils are boiled with NaOH to produce soap. 5) Conclusion: the pair of reactions shows that ester formation and ester breaking are reversible chemical partners, and quoting both equations with the catalyst and conditions noted fetches full marks. 6) Observation note: the fruity smell appears only after gentle warming, because at room temperature the reversible reaction is too slow to make enough ester for the smell to be noticed."
+        }
+      ]
+    }
+  ]
+}

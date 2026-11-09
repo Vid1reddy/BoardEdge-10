@@ -1,0 +1,1364 @@
+export default {
+  "code": "english",
+  "name": "English",
+  "bookName": "First Flight",
+  "weightageMarks": 80,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "A Letter to God",
+      "summary": "Lencho, a hardworking farmer, watches his ripe cornfield with joy and prays for a timely downpour. A sudden hailstorm destroys the entire crop, leaving his family facing hunger, so he writes a letter to God asking for a hundred pesos. The postmaster, moved by the deep faith in the letter, collects seventy pesos and sends them signed as God. Lencho, suspecting the post office employees of stealing the rest, writes a second letter asking for the remaining thirty pesos but not through the mail.",
+      "weightageMarks": 16,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Lencho's unshakable faith in God",
+        "The hailstorm and destruction of the crop",
+        "The postmaster's act of kindness",
+        "Irony: helpers called a bunch of crooks",
+        "Raindrops compared to new coins",
+        "Character sketches of Lencho and the postmaster"
+      ],
+      "sections": [
+        {
+          "heading": "About the Author",
+          "points": [
+            "The story 'A Letter to God' is written by Gregorio Lopez y Fuentes (1897-1966), one of the foremost Mexican novelists and short story writers.",
+            "He wrote mainly about the lives, struggles and simple faith of the peasants and farmers of rural Mexico.",
+            "His famous novel 'El Indio' received Mexico's National Prize of Arts and Sciences in 1935.",
+            "Having seen the Mexican Revolution and its effect on the countryside, he wrote with realism and sympathy for the poor.",
+            "His style is simple and direct, letting ordinary people reveal themselves through actions rather than long speeches.",
+            "In this story he blends humour with pathos to show how faith sustains a simple man in disaster."
+          ],
+          "keyTerms": [
+            { "term": "Faith", "meaning": "Complete trust and belief, here Lencho's total trust in God's help." },
+            { "term": "Irony", "meaning": "A contrast between what is expected and what actually happens; the helped man calls his helpers thieves." },
+            { "term": "Pathos", "meaning": "A quality that arouses feelings of pity and sadness." },
+            { "term": "Pesos", "meaning": "The currency of Mexico and other Latin American countries." }
+          ],
+          "trick": "Fuentes Fixes Faith: a Mexican writer who wrote about farmers, fields and firm faith, with 'El Indio' winning the national prize.",
+          "examPointer": "Questions on the author's purpose and the irony of the ending are common; remember the story is set in rural Mexico and money is counted in pesos."
+        },
+        {
+          "heading": "Plot Overview",
+          "points": [
+            "Lencho, a farmer, lived on the crest of a low hill with his family; his was the only house in the entire valley.",
+            "His field of ripe corn dotted with bean flowers promised a good harvest and needed only a timely downpour.",
+            "When the rain came, Lencho was delighted and compared the falling drops to new coins: the big drops as ten-cent pieces and the little ones as fives.",
+            "A sudden strong wind brought huge hailstones that fell for an hour, covering the field as with salt and destroying the entire crop.",
+            "With nothing left, Lencho's only hope was the help of God, so he wrote a letter to God asking for a hundred pesos to sow the field again and to live until the new crop came.",
+            "The postman took the funny letter to the postmaster, who first laughed but then decided to reply so that Lencho's faith in God would not be shaken.",
+            "The postmaster collected seventy pesos from his own salary and from his employees, put the money in an envelope signed 'God', and Lencho received it.",
+            "Lencho was not surprised but angry that only seventy arrived, blamed the post office employees, and wrote a second letter asking God to send the remaining thirty pesos but not through the mail."
+          ],
+          "keyTerms": [
+            { "term": "Downpour", "meaning": "A heavy fall of rain that Lencho's crop needed badly." },
+            { "term": "Hailstorm", "meaning": "A storm in which pellets of frozen rain fall and destroy standing crops." },
+            { "term": "Crest", "meaning": "The top of a hill, where Lencho's house stood." },
+            { "term": "Valley", "meaning": "Low land between hills; Lencho's house was the only one in the entire valley." }
+          ],
+          "trick": "RAIN, HAIL, LETTER, HELP, ANGER: rain brings joy, hail brings ruin, a letter brings help, counting brings anger and a second letter brings irony.",
+          "examPointer": "Learn the order of events and the exact amounts asked, sent and suspected (100 asked, 70 sent, 30 suspected stolen), as MCQs and extracts are drawn from these details."
+        },
+        {
+          "heading": "Character Sketches",
+          "points": [
+            "Lencho: a hardworking, industrious farmer, an 'ox of a man', who ploughed, sowed and watered his field with care.",
+            "He is simple and innocent, with unquestioning faith in God, addressing Him directly and expecting a reply by post.",
+            "After the hailstorm he is despairing, yet he never doubts God; instead he doubts the post office employees, calling them 'a bunch of crooks'.",
+            "His faith is naive: he believes God sees everything, even what is in one's conscience, and can send money through the post office.",
+            "The postmaster: a fat, amiable fellow, practical yet kind-hearted; he laughs at the letter at first but is then moved by Lencho's faith.",
+            "To keep that faith alive he gives part of his salary, collects money from employees and signs the envelope simply 'God'.",
+            "The postman: playful and light-hearted, carries the letter to the postmaster laughing heartily, but he too contributes to the collection.",
+            "Both Lencho and the postmaster are ordinary people whose actions turn the story into a comment on faith, kindness and irony."
+          ],
+          "keyTerms": [
+            { "term": "Industrious", "meaning": "Hardworking; Lencho works in his field like an ox." },
+            { "term": "Amiable", "meaning": "Friendly and pleasant in nature, like the postmaster." },
+            { "term": "Naive", "meaning": "Innocent and unsophisticated; Lencho's simple belief that God mails money." },
+            { "term": "Charity", "meaning": "Help given to the needy without expecting anything in return." }
+          ],
+          "trick": "Lencho LOVES, postmaster LIFTS: Lencho loves God blindly, while the postmaster lifts that faith with seventy pesos of his own.",
+          "examPointer": "Character sketches of Lencho and the postmaster are favourite 5 markers; support every quality with one incident from the story."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Faith in God: the story celebrates the deep, childlike faith of a poor farmer who believes God will answer his letter.",
+            "Human kindness: the postmaster's quiet generosity shows that God often works through compassionate human beings.",
+            "Irony and humour: the very man helped by the post office calls its employees crooks, which is the central irony of the story.",
+            "The contrast between spiritual faith and worldly suspicion brings out the innocence of simple village people.",
+            "The story shows the helplessness of farmers whose entire life depends on the mercy of the weather.",
+            "The message: never shake anyone's faith, because faith gives hope and strength to face disaster.",
+            "Charity done selflessly, without seeking credit, is presented as the noblest of human virtues."
+          ],
+          "keyTerms": [
+            { "term": "Suspicion", "meaning": "A feeling of doubting someone; Lencho's baseless doubt about his helpers." },
+            { "term": "Compassion", "meaning": "Sympathy for the suffering of others, shown by the postmaster." },
+            { "term": "Hope", "meaning": "The confident expectation of good, which keeps Lencho planning a new sowing." },
+            { "term": "Innocence", "meaning": "Simple purity of mind, free from cunning or worldly wisdom." }
+          ],
+          "trick": "FAITH up, HAIL down, POSTMASTER kind, LENCHO blind: faith rises, the crop falls, kindness acts and innocence misjudges.",
+          "examPointer": "Questions such as 'What is the message of the story?' or 'Bring out the irony' are asked as 2-3 markers; quote the 'bunch of crooks' line for effect."
+        },
+        {
+          "heading": "Important Incidents",
+          "points": [
+            "Lencho looking at the north-east sky and exclaiming, 'Now we're really going to get some water, woman.'",
+            "The simile of the raindrops as coins: big drops as ten-cent pieces and small ones as fives, showing his dream of a rich harvest.",
+            "The hailstorm lasting a full hour and leaving the field white as if covered with salt, destroying corn, bean flowers and everything.",
+            "Lencho's bitter remark that a plague of locusts would have left more than this hailstorm did.",
+            "The writing of the first letter addressed simply to God and its journey through the village post office.",
+            "The postmaster's decision to answer the letter, his collection of seventy pesos and the single signature 'God' on the envelope.",
+            "Lencho counting the money, growing angry, demanding the remaining thirty pesos and accusing the employees in his second letter."
+          ],
+          "keyTerms": [
+            { "term": "Simile", "meaning": "A comparison using 'as' or 'like'; raindrops like new coins, hailstones like new silver coins." },
+            { "term": "Hailstones", "meaning": "Pellets of frozen rain that ruined Lencho's field in an hour." },
+            { "term": "Locusts", "meaning": "Insects that fly in swarms and destroy crops; Lencho says they would have left more." },
+            { "term": "Envelope", "meaning": "The paper cover in which the postmaster placed the money signed 'God'." }
+          ],
+          "trick": "Two letters, one faith: letter one asks for 100, the gift is 70, letter two asks for 30 and blames the helpers.",
+          "examPointer": "Extract-based questions usually come from the coin simile, the hailstorm paragraph or the second letter; practise these three passages thoroughly."
+        },
+        {
+          "heading": "Value Points and Vocabulary",
+          "points": [
+            "True faith is total: Lencho never doubts God, only the human post office, and this faith keeps him hopeful.",
+            "Helping hands: the postmaster proves that goodness often travels unseen, like a letter signed 'God'.",
+            "Value of hope: after total loss, hope alone keeps the family alive and planning the next sowing.",
+            "Vocabulary: crest (top of a hill), downpour (heavy rain), hailstone (pellet of frozen rain), locusts (crop-destroying insects).",
+            "Vocabulary: pesos (Latin American money), ox of a man (very hardworking man), amiable (friendly), a bunch of crooks (a gang of thieves).",
+            "Vocabulary: conscience (inner sense of right and wrong), resolved (decided firmly), charity (help given to the needy).",
+            "Useful phrases for answers: 'soul filled with sadness', 'the favour of God', 'new coins', 'faith shaken'."
+          ],
+          "keyTerms": [
+            { "term": "Conscience", "meaning": "The inner awareness of right and wrong; Lencho believes God sees all consciences." },
+            { "term": "Resolved", "meaning": "Having firmly decided; Lencho resolved to write a letter to God." },
+            { "term": "Charity", "meaning": "Voluntary help to the needy, as practised by the postmaster and his staff." },
+            { "term": "Plague", "meaning": "A disastrous swarm or outbreak; here, a plague of locusts." }
+          ],
+          "trick": "Money maths for MCQs: asked 100, sent 70, suspected 30; and Lencho is an 'ox of a man' living on the 'crest' of a low hill.",
+          "examPointer": "Use exact expressions like 'crest of a low hill' and 'a bunch of crooks' in answers; examiners reward precise quotation from the text."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Where was Lencho's house situated?",
+          "options": ["On the crest of a low hill", "In a crowded city", "Beside the post office", "Deep inside a forest"],
+          "answerIndex": 0,
+          "explanation": "Lencho's house stood on the crest of a low hill, and it was the only house in the entire valley.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "While the rain was falling, Lencho compared the drops of rain to",
+          "options": ["pearls", "new coins", "silver fishes", "diamonds"],
+          "answerIndex": 1,
+          "explanation": "Lencho felt the falling rain was like new coins: the big drops were ten-cent pieces and the little ones were fives.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2015"
+        },
+        {
+          "question": "The large hailstones that destroyed Lencho's field truly resembled",
+          "options": ["white salt grains", "frozen pearls", "new silver coins", "broken glass"],
+          "answerIndex": 2,
+          "explanation": "The text says the hailstones 'truly did resemble new silver coins', falling as if someone were throwing them from the sky.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How much money did Lencho ask God to send him?",
+          "options": ["50 pesos", "70 pesos", "100 pesos", "200 pesos"],
+          "answerIndex": 2,
+          "explanation": "Lencho asked for a hundred pesos to resow the field and live until the new crop came; he received only seventy.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2020"
+        },
+        {
+          "question": "Who took Lencho's letter addressed to God to the postmaster, laughing heartily?",
+          "options": ["Lencho's son", "The postman", "The priest", "A village elder"],
+          "answerIndex": 1,
+          "explanation": "The postman picked up the letter, laughed heartily at the address 'God' and carried it to the postmaster.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "After the hailstorm, Lencho's only hope was",
+          "options": ["help from the government", "the help of God", "a loan from the bank", "selling his house"],
+          "answerIndex": 1,
+          "explanation": "Lencho's soul was filled with sadness, but his single hope was the help of God, whom he believed sees everything.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How much money did the postmaster manage to collect and send to Lencho?",
+          "options": ["100 pesos", "70 pesos", "30 pesos", "50 pesos"],
+          "answerIndex": 1,
+          "explanation": "The postmaster gave part of his salary and collected the rest from employees, signing the envelope with the single word 'God'.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2019"
+        },
+        {
+          "question": "When Lencho counted the money in the envelope, he",
+          "options": ["thanked God and wept with joy", "was not surprised but became angry at the count", "returned the money to the post office", "shared it with his neighbours"],
+          "answerIndex": 1,
+          "explanation": "Lencho had asked for a hundred pesos, so seventy did not surprise him as a gift; he was angry that thirty were missing.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Why did Lencho call the post office employees 'a bunch of crooks'?",
+          "options": ["They laughed at his letter", "They refused to deliver his letter", "He believed they had stolen thirty of the hundred pesos", "They charged him extra postage"],
+          "answerIndex": 2,
+          "explanation": "Since God could not make a mistake or deny his request, Lencho concluded that the employees had taken the missing thirty pesos.",
+          "difficulty": "medium",
+          "pyq": "CBSE 2023"
+        },
+        {
+          "question": "In his second letter, Lencho requested God to",
+          "options": ["punish the employees", "send the remaining thirty pesos but not through the mail", "send another hundred pesos", "bless the postmaster"],
+          "answerIndex": 1,
+          "explanation": "Lencho asked God to send the rest of the money but said he would not accept it through the mail, calling the employees a bunch of crooks.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which word best describes Lencho's character as shown in the story?",
+          "options": ["Lazy and careless", "Hardworking with firm faith in God", "Rich and generous", "Fearful and cunning"],
+          "answerIndex": 1,
+          "explanation": "Lencho worked like an ox in his fields and retained complete, innocent faith in God even in total disaster.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Why did the postmaster decide to answer Lencho's letter?",
+          "options": ["He wanted to make a new friend", "He did not want to shake Lencho's faith in God", "The postal law required a reply", "He had known Lencho for years"],
+          "answerIndex": 1,
+          "explanation": "The postmaster turned serious after laughing, and decided to reply and send money so that Lencho's faith in God would not be shaken.",
+          "difficulty": "easy"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why did Lencho write a letter to God? What did he ask for in the letter?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) After the hailstorm had destroyed his entire crop of ripe corn, Lencho's family was left without food or money for the year. 2) His only hope was the help of God, in whom he had complete and innocent faith, so he decided to write a letter to God. 3) In the letter he requested God to send him a hundred pesos, because that was the amount needed to sow his field again and to feed his family until the new crop came. 4) This shows both his deep faith and his naive belief that God would answer a letter by post."
+        },
+        {
+          "question": "How did the rain change into a disaster for Lencho? Describe the destruction caused by the hailstorm and his reaction to it.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) At first the rain was a blessing: Lencho compared the drops to new coins and dreamt of a good harvest. 2) Suddenly a strong wind began to blow and huge hailstones started falling along with the rain; they looked like new silver coins and covered the field completely as if with salt. 3) The hail rained for an hour, battering the house, garden, hillside and cornfield, until corn, beans and every flower were destroyed and the trees stood bare. 4) Lencho's soul was filled with sadness, and he remarked that even a plague of locusts would have left more than the hail had. 5) Yet he did not lose hope, because his faith in God remained firm and he resolved to seek divine help."
+        },
+        {
+          "question": "Draw a character sketch of the postmaster in 'A Letter to God', highlighting his sense of humour and his kindness.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) The postmaster is first presented as a fat, amiable fellow with a keen sense of humour, who breaks out laughing when he reads a letter addressed simply to God. 2) His laughter, however, quickly gives way to seriousness: he is struck by the depth of Lencho's faith and realises that to answer such a letter with mere paper would not only be funny but would also shake the farmer's trust in God. 3) This shows his practical wisdom and his sensitivity to the feelings of a poor man. 4) His generosity is remarkable: he digs into his own salary and persuades every employee of the post office to contribute something, collecting seventy pesos for a stranger. 5) He signs the envelope with the single word 'God' so that the act of kindness remains anonymous and Lencho's faith stays intact. 6) The irony is that this kind man is later called a crook by the very person he helped, yet he never complains, which makes him a symbol of selfless charity and quiet goodness."
+        },
+        {
+          "question": "'Faith can move mountains.' Discuss this statement with reference to Lencho's faith in God in 'A Letter to God'.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Lencho's faith in God is absolute: he believes that God sees everything, even what is deep in one's conscience. 2) When the hailstorm destroys his only source of livelihood, he does not curse his fate but writes a letter to God, addressing Him as naturally as one writes to a near and dear relative. 3) This childlike faith actually works a wonder: the postmaster, moved by the letter, takes it upon himself to keep that faith alive and arranges seventy pesos for Lencho. 4) In this way, faith does move the hearts of strangers and brings real help, proving that faith inspires hope and action even in utter despair. 5) However, the story also shows the limits of blind faith: Lencho never doubts God, but he blindly suspects the very people who helped him, calling them a bunch of crooks. 6) Thus the lesson is that faith is precious when it gives hope, but it should be joined to gratitude and trust in fellow human beings."
+        },
+        {
+          "question": "Read the extract and answer the questions: God: Of the money that I asked for, only seventy pesos reached me. Send me the rest, since I need it very much. But don't send it to me through the mail, because the post office employees are a bunch of crooks. (a) Why did only seventy pesos reach Lencho instead of a hundred? (b) What does this letter reveal about Lencho's character? (c) What is ironic about the situation?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) Only seventy pesos reached Lencho because that was all the postmaster could collect from his own salary and from the post office employees; being an honest well-wisher, he sent what he could manage and signed the envelope 'God'. 2) (b) The letter reveals Lencho's complete and innocent faith in God: he is certain that God cannot make a mistake and cannot deny what he has asked for, and he does not even wonder how God sends money by post. 3) It also shows his boldness and his simplicity, as he complains to God and gives Him instructions about how the money must be delivered. 4) (c) The irony is sharp: the postmaster and the employees, who sacrificed their own money to preserve a stranger's faith, are accused by that same man of being a bunch of crooks. 5) The helpers become suspects, while the innocent-looking man shows unjust suspicion; the kindness done secretly is repaid with insult, and this contrast between human goodness and human ingratitude is the heart of the story."
+        },
+        {
+          "question": "Read the extract and answer the questions: Lencho, an ox of a man, was working in his field of ripe corn dotted with bean flowers. Looking at the north-east, he saw huge mountains of clouds and exclaimed, 'Now we're really going to get some water, woman.' When the rain began, to him the big drops were ten-cent pieces and the little ones were fives. (a) Why were the raindrops compared to new coins? (b) What happened immediately after this happy moment? (c) What does the comparison tell us about a farmer's relationship with his land?",
+          "marks": 4,
+          "type": "CASE",
+          "probability": "medium",
+          "answer": "1) (a) Lencho compared the raindrops to new coins because rain at that moment meant money: the promised downpour would ripen the corn and beans and turn into a rich harvest, which is the farmer's cash. 2) The big drops stood for ten-cent pieces and the small ones for fives, showing that even a little rain was precious to him. 3) (b) Immediately after this happy moment, a strong wind began to blow and large hailstones fell along with the rain for a whole hour, covering the field as with salt and destroying the entire crop of corn and beans. 4) (c) The comparison shows that a farmer's whole existence depends on nature: rain is his wealth and hail is his ruin. 5) It also reveals Lencho's optimism and his closeness to the land, as he counts raindrops like coins and already dreams of the harvest they will bring."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Nelson Mandela: Long Walk to Freedom",
+      "summary": "This autobiographical piece from Nelson Mandela's book 'Long Walk to Freedom' describes his inauguration as the first black President of South Africa on 10 May 1994. It paints the grand ceremony at the Union Buildings in Pretoria, where world leaders gathered to honour a new democracy born out of apartheid. Mandela also reflects on the meaning of freedom, the nature of courage and the duty of every person to love rather than hate.",
+      "weightageMarks": 16,
+      "difficulty": "medium",
+      "hotTopics": [
+        "The inauguration ceremony of 10 May 1994",
+        "Apartheid and its meaning",
+        "Mandela's idea of courage",
+        "Transitory freedoms and basic honourable freedoms",
+        "No one is born hating another person",
+        "Oppressor and oppressed alike robbed of humanity"
+      ],
+      "sections": [
+        {
+          "heading": "About the Author",
+          "points": [
+            "Nelson Rolihlahla Mandela (1918-2013) was a South African freedom fighter who spent thirty years in prison for opposing apartheid.",
+            "He became the first black President of South Africa in 1994 after the country's first democratic, non-racial elections.",
+            "The lesson is an extract from his autobiography 'Long Walk to Freedom', which traces his journey from a village boy to the President of his nation.",
+            "He shared the Nobel Peace Prize of 1993 with F. W. de Klerk for peacefully ending apartheid and building a new South Africa.",
+            "His birthday, 18 July, is observed across the world as Nelson Mandela International Day, encouraging people to serve others.",
+            "His writing is dignified and reflective, mixing personal memory with lessons on courage, forgiveness and equality."
+          ],
+          "keyTerms": [
+            { "term": "Apartheid", "meaning": "A system of racial segregation and discrimination against non-whites in South Africa." },
+            { "term": "Autobiography", "meaning": "The story of a person's life written by that person, here 'Long Walk to Freedom'." },
+            { "term": "Inauguration", "meaning": "The formal ceremony of taking office, held here on 10 May 1994." },
+            { "term": "Nobel Peace Prize", "meaning": "An international award for work towards peace, shared by Mandela with de Klerk in 1993." }
+          ],
+          "trick": "Mandela's numbers: 30 years in prison, 1994 first black President, 1993 Nobel Peace Prize, 18 July Mandela Day.",
+          "examPointer": "Remember that the chapter is an extract from an autobiography; questions on apartheid, the date 10 May 1994 and the idea of courage are regulars in boards."
+        },
+        {
+          "heading": "Plot Overview",
+          "points": [
+            "On 10 May 1994 the inauguration of the first democratic, non-racial government of South Africa was held in the amphitheatre of the Union Buildings in Pretoria.",
+            "It was the largest gathering ever of international leaders on South African soil; Mr de Klerk was sworn in as second deputy president and Thabo Mbeki as first.",
+            "Mandela, escorted by his daughter Zenani, took the oath as the first black President and pledged to obey and uphold the Constitution.",
+            "The military generals who would once have arrested him saluted him; two national anthems were sung, and jets trailed smoke in the colours of the new flag.",
+            "In his speech Mandela declared that no one is born hating another person, and that love comes more naturally to the human heart than its opposite.",
+            "He remembered the sacrifice of countless patriots and said that both the oppressor and the oppressed are robbed of their humanity.",
+            "He recalled the freedoms of boyhood, the transitory freedoms of youth and the basic honourable freedoms of adulthood, such as earning a living and keeping a family.",
+            "Realising that his own freedom was incomplete without the freedom of his people, he joined the African National Congress and devoted himself fully to their cause."
+          ],
+          "keyTerms": [
+            { "term": "Amphitheatre", "meaning": "A round building with seats rising in curves; the inauguration was held in one at the Union Buildings." },
+            { "term": "Constitution", "meaning": "The body of fundamental laws of a country, which Mandela pledged to uphold." },
+            { "term": "Oppression", "meaning": "Cruel and unjust exercise of power over others." },
+            { "term": "Discrimination", "meaning": "Unfair treatment of people based on race, colour or background." }
+          ],
+          "trick": "10-5-1994, Pretoria, Zenani beside him; de Klerk second, Mbeki first; two anthems, one new nation.",
+          "examPointer": "The sequence and details of the inauguration day are a favourite source of MCQs and extract questions; memorise names, dates and the two anthems."
+        },
+        {
+          "heading": "Character Sketches",
+          "points": [
+            "Mandela: humble yet dignified, grateful to the international guests and conscious that he is the sum of all African patriots who came before him.",
+            "He defines courage for us: not the absence of fear, but the triumph over it; the brave man is not he who does not feel afraid, but he who conquers fear.",
+            "He is forgiving and inclusive: he honours the military generals who once would have arrested him and shares power with leaders of the old regime.",
+            "He is a visionary who dreams of liberty for both blacks and whites, and who regards love as more natural to the heart than hate.",
+            "Zenani: his young daughter, who accompanied him on inauguration day and stood by him as family support on a historic occasion.",
+            "Thabo Mbeki and F. W. de Klerk: the first and second deputy presidents, symbols of the peaceful transfer and sharing of power.",
+            "Oliver Tambo and Walter Sisulu: the patriotic comrades whom Mandela calls geniuses and giants for nurturing the movement in hard times.",
+            "The people of South Africa: brave and resilient citizens whose courage, said Mandela, was the greatest wealth of the country."
+          ],
+          "keyTerms": [
+            { "term": "Resilience", "meaning": "The power to recover from hardship, shown by the people of South Africa." },
+            { "term": "Patriot", "meaning": "One who loves and serves his country, like Tambo and Sisulu." },
+            { "term": "Loyalty", "meaning": "Faithfulness and allegiance, pledged by the military generals to the new President." },
+            { "term": "Visionary", "meaning": "A person with far-sighted ideals, like Mandela's dream of a united nation." }
+          ],
+          "trick": "Mandela = COURAGE + FORGIVENESS: fear conquered is courage; enemies embraced is forgiveness.",
+          "examPointer": "Character sketches of Mandela and his definition of courage are frequent 5 markers; quote his line that the brave man is not he who does not feel afraid."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "True freedom is indivisible: the chains on any one of his people were, for Mandela, chains on all of them, and chains on him as well.",
+            "Both the oppressor and the oppressed are robbed of their humanity; the oppressor is not truly free because he takes away another's freedom.",
+            "Courage is not the absence of fear but the triumph over it; every man has his moments of fear, but the brave stand firm.",
+            "No one is born hating another person; hate is learned, and if people can learn to hate, they can be taught to love.",
+            "A new nation is born when people rise above revenge, as shown by the shared anthems, the new flag and the pledge of never-ending freedom.",
+            "The message: forgive, include and serve; liberty and dignity must belong to every citizen, black or white."
+          ],
+          "keyTerms": [
+            { "term": "Emancipation", "meaning": "Freedom from bondage or restriction; the emancipation of the oppressed people." },
+            { "term": "Deprivation", "meaning": "Lack of the basic necessities and rights of life, which Mandela pledged to end." },
+            { "term": "Reconciliation", "meaning": "Restoring friendly relations after conflict, shown by whites and blacks singing each other's anthems." },
+            { "term": "Dignity", "meaning": "The sense of self-respect that apartheid denied and freedom restores." }
+          ],
+          "trick": "TWO ROBBED, ONE FREED: in oppression both the oppressor and the oppressed lose humanity; only freedom for all restores both.",
+          "examPointer": "Questions like 'What is the twin obligation?' or 'Explain: the oppressor is not free' come as 2-3 markers; the definition of courage is a repeated MCQ."
+        },
+        {
+          "heading": "Important Incidents",
+          "points": [
+            "The morning of 10 May 1994: dignitaries and world leaders arriving in Pretoria for the inauguration of the first non-racial government.",
+            "Mandela's autocracy of honour: the highest generals of the defence force and police saluting him with hats under their arms and pledging loyalty.",
+            "The chevron of Impala jets trailing smoke in the black, red, green, blue and gold of the new South African flag.",
+            "The two national anthems: 'Nkosi Sikelel iAfrika' sung by the blacks and 'Die Stem' sung by the whites, both now belonging to one nation.",
+            "Mandela's pledge to liberate all his people from the continuing bondage of poverty, deprivation, suffering, gender and other discrimination.",
+            "His memory of boyhood freedoms in the fields and his realisation that as a young man his desire to live freely had been curtailed.",
+            "His decision that he could not enjoy limited freedom when he knew his people were not free, leading him to join the African National Congress."
+          ],
+          "keyTerms": [
+            { "term": "Chevron", "meaning": "A V-shaped arrangement; here the pattern made by the jets in the sky." },
+            { "term": "Impala jets", "meaning": "The aeroplanes that flew in formation trailing the colours of the new flag." },
+            { "term": "Bondage", "meaning": "The state of being enslaved or restricted; Mandela vowed to end the bondage of poverty and discrimination." },
+            { "term": "Pledge", "meaning": "A solemn promise, such as Mandela's oath to obey and uphold the Constitution." }
+          ],
+          "trick": "SKY, SONG, SALUTE: jets paint the new flag, two anthems sing unity, generals salute the prisoner turned President.",
+          "examPointer": "Extract questions usually come from the inauguration scene or the reflections on freedom; note the exact colours of the flag and the names of the anthems."
+        },
+        {
+          "heading": "Value Points and Vocabulary",
+          "points": [
+            "Gratitude: Mandela calls himself simply the sum of all those African patriots who had gone before him.",
+            "Service over self: he delayed the obligations to his own family for the greater duty to his people.",
+            "Vocabulary: apartheid (racial segregation), inauguration (swearing-in ceremony), oath (solemn promise of office).",
+            "Vocabulary: oppression (cruel and unjust use of power), deprivation (lack of basic needs), emancipation (freedom from bondage), curtailed (reduced).",
+            "Vocabulary: transitory (temporary), amphitheatre (curved tiered hall), chevron (V-shaped pattern), auto-cade (procession of cars).",
+            "Quote bank: 'No one is born hating another person', 'Courage is not the absence of fear', 'The oppressor and the oppressed are alike robbed of their humanity'.",
+            "Dates and names for MCQs: 10 May 1994, Union Buildings, Pretoria, Zenani, Thabo Mbeki, F. W. de Klerk, two anthems, Impala jets."
+          ],
+          "keyTerms": [
+            { "term": "Transitory", "meaning": "Lasting only for a short time; the temporary freedoms of youth such as staying out at night." },
+            { "term": "Oath", "meaning": "A formal promise, taken by office holders to obey and uphold the Constitution." },
+            { "term": "Curtailed", "meaning": "Cut short or reduced; Mandela's desire for freedom was curtailed as a young man." },
+            { "term": "Humanity", "meaning": "The quality of being human; stolen from both the oppressor and the oppressed." }
+          ],
+          "trick": "Freedom ladder: BOYHOOD (run and swim) - YOUTH (transitory) - ADULT (basic honourable freedoms: earn, marry, keep family).",
+          "examPointer": "Use exact quotations in long answers and remember the difference between transitory freedoms and basic honourable freedoms, a common short-answer question."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "When was the inauguration ceremony of the first democratic, non-racial government of South Africa held?",
+          "options": ["10 May 1994", "10 March 1990", "10 May 1990", "18 July 1994"],
+          "answerIndex": 0,
+          "explanation": "The historic inauguration took place on 10 May 1994 in the amphitheatre of the Union Buildings in Pretoria.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2020"
+        },
+        {
+          "question": "Who accompanied Nelson Mandela on the day of the inauguration?",
+          "options": ["His wife", "His son", "His daughter Zenani", "Walter Sisulu"],
+          "answerIndex": 2,
+          "explanation": "Mandela was escorted to the podium by his daughter Zenani on the day of the inauguration.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2019"
+        },
+        {
+          "question": "Mandela became the first ______ President of South Africa.",
+          "options": ["elected", "black", "military", "senior"],
+          "answerIndex": 1,
+          "explanation": "On 10 May 1994 Mandela became the first black President of South Africa after the first democratic elections.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Who was sworn in as the first deputy president on the day of the inauguration?",
+          "options": ["F. W. de Klerk", "Thabo Mbeki", "Oliver Tambo", "Walter Sisulu"],
+          "answerIndex": 1,
+          "explanation": "Thabo Mbeki was sworn in as first deputy president and Mr de Klerk as second deputy president.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The military generals who saluted Mandela had, not long before, been likely to",
+          "options": ["promote him", "arrest him", "elect him", "award him"],
+          "answerIndex": 1,
+          "explanation": "Mandela notes that the generals of the defence force and police, who saluted him, would not long before have arrested rather than saluted him.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A chevron of Impala jets trailed smoke in the colours of",
+          "options": ["the African National Congress", "the old South African flag", "the new South African flag", "the Olympic rings"],
+          "answerIndex": 2,
+          "explanation": "The jets trailed smoke in the colours of the new South African flag, black, red, green, blue and gold.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "According to Mandela, no one is born",
+          "options": ["free", "brave", "hating another person", "equal"],
+          "answerIndex": 2,
+          "explanation": "Mandela says that no one is born hating another person because of the colour of his skin, his background or his religion; hate is learned.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2022"
+        },
+        {
+          "question": "For Mandela, courage is not",
+          "options": ["the absence of fear, but the triumph over it", "the presence of weapons", "physical strength alone", "obedience to authority"],
+          "answerIndex": 0,
+          "explanation": "Mandela learned that courage is not the absence of fear but the triumph over it; the brave man is he who conquers fear.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2023"
+        },
+        {
+          "question": "Mandela joined the African National Congress because",
+          "options": ["his family wanted him to", "he realised his freedom was incomplete without the freedom of his people", "he wanted a political career", "his friends forced him to"],
+          "answerIndex": 1,
+          "explanation": "When he knew that his brothers and sisters were not free, he felt his own freedom was incomplete and joined the ANC.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which two national anthems were sung on the inauguration day?",
+          "options": ["'Die Stem' and 'Nkosi Sikelel iAfrika'", "'God Save the Queen' and 'Die Stem'", "'Nkosi Sikelel iAfrika' and 'Jana Gana Mana'", "'The Star-Spangled Banner' and 'Die Stem'"],
+          "answerIndex": 0,
+          "explanation": "The blacks sang 'Nkosi Sikelel iAfrika' and the whites sang 'Die Stem'; by the end of the day both belonged to all.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Mandela says that in oppression both the oppressor and the oppressed are alike robbed of",
+          "options": ["their wealth", "their land", "their humanity", "their religion"],
+          "answerIndex": 2,
+          "explanation": "According to Mandela, the oppressor is also not free, because he takes away another's freedom and is thus robbed of his own humanity.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "How many years did Nelson Mandela spend in prison?",
+          "options": ["Ten years", "Twenty years", "Twenty-five years", "Thirty years"],
+          "answerIndex": 3,
+          "explanation": "Mandela spent thirty years in prison for his opposition to apartheid before becoming President.",
+          "difficulty": "easy"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why is 10 May 1994 an important date in the history of South Africa?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) On 10 May 1994 the first democratic, non-racial elections of South Africa gave the country its first democratic government, and the inauguration of Nelson Mandela as the first black President was held on this day. 2) The ceremony at the Union Buildings in Pretoria witnessed the largest gathering of world leaders ever on South African soil, marking the official end of apartheid and the birth of a free nation where blacks and whites became equal citizens."
+        },
+        {
+          "question": "What does Mandela mean when he says that the oppressor and the oppressed are alike robbed of their humanity?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Mandela believes that oppression dehumanises both sides. 2) The oppressed is obviously robbed of humanity because his freedom, dignity and rights are snatched away, and he is forced to live in bondage and poverty. 3) The oppressor, too, is not free: by imprisoning another person, he locks behind bars his own humanity, becomes a prisoner of hatred and prejudice, and loses the natural goodness of the heart. 4) Hence true freedom, for Mandela, is freedom for both, and the oppressor must be liberated from his own narrowness just as the oppressed must be liberated from his chains."
+        },
+        {
+          "question": "Describe the inauguration ceremony of Nelson Mandela held on 10 May 1994.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) The inauguration of the first democratic, non-racial government of South Africa took place on 10 May 1994 in the lovely sandstone amphitheatre formed by the Union Buildings in Pretoria. 2) It was the largest gathering of international leaders ever to assemble on South African soil, and Mr de Klerk was first sworn in as second deputy president, with Thabo Mbeki as first deputy president. 3) Nelson Mandela, escorted by his daughter Zenani, took the oath as the first black President and pledged to obey and uphold the Constitution. 4) The highest generals of the defence force and police, who would once have arrested him, saluted him with hats under their arms and pledged their loyalty. 5) A chevron of Impala jets trailed smoke in the colours of the new flag, and on the day two national anthems were sung: 'Nkosi Sikelel iAfrika' by the blacks and 'Die Stem' by the whites. 6) In his speech Mandela promised to liberate his people from the bondage of poverty, deprivation, suffering and discrimination, and declared that never again would this beautiful land experience the oppression of one by another."
+        },
+        {
+          "question": "How did Mandela's understanding of freedom change with age? What freedoms did he enjoy as a boy and a young man, and what did he ultimately realise?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) As a boy Mandela thought he was born free: he could run in the fields, swim in the clear stream of his village, roast mealies and ride the broad backs of slow-moving bulls, so long as he obeyed his father and the customs of his tribe. 2) As a young man he longed for the transitory freedoms of being able to stay out at night, read what he pleased and go where he chose, and he did not yet know that these freedoms were only temporary. 3) As an adult he began to hunger for the basic honourable freedoms of achieving his potential, earning his keep, marrying and having a family, and living without obstruction in a lawful life. 4) Slowly he realised that his boyhood freedom was an illusion and that his desire for personal freedom had been curtailed by the colour of his skin and the system of apartheid. 5) Finally he understood that he could not enjoy even his limited freedom when he knew that his brothers and sisters were not free, so he placed his own family obligations second and joined the African National Congress to win freedom for all."
+        },
+        {
+          "question": "Read the extract and answer the questions: No one is born hating another person because of the colour of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite. (a) What, according to Mandela, is not natural to the human heart? (b) Why does he believe hate can be unlearned? (c) What do these lines reveal about Mandela's outlook towards the former oppressors?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) According to Mandela, hating another person is not natural: a child is not born with hatred for anyone because of colour, background or religion; hate is a behaviour that people are taught by circumstances and by unjust systems like apartheid. 2) (b) He argues that if people can learn to hate, they can equally be taught to love, because love comes more naturally to the human heart than its opposite; goodness is the default of the heart, and even in hostile surroundings it can be reawakened. 3) (c) These lines reveal Mandela's spirit of forgiveness and reconciliation: after thirty years of imprisonment he bears no personal hatred, believes even the oppressors can be transformed, and wants to build a nation in which blacks and whites live together as free and equal citizens. 4) The passage shows that his struggle was never against whites as a race but against the unjust system, and his faith in human goodness made the peaceful birth of the new South Africa possible."
+        },
+        {
+          "question": "Read the extract and answer the questions: The highest generals of the South African defence force and police, all of them with their hats under their arms, saluted me and pledged their loyalty. Not so many years before, they would not have saluted but arrested me. A chevron of Impala jets trailed a smoke in the colours of the new South African flag. (a) What was the significance of the generals saluting Mandela? (b) What did the smoke of the jets represent? (c) What change does this scene mark in South African history?",
+          "marks": 4,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) The salute of the generals was significant because these were the very men of the apartheid regime who, not long before, would have arrested Mandela instead of honouring him; their salute showed that the armed forces of the state now accepted a black man as their supreme commander and pledged loyalty to the new democracy. 2) (b) The smoke trailed by the Impala jets was in the colours of the new South African flag, black, red, green, blue and gold, representing the birth of a new nation and the union of all its people. 3) (c) The scene marks the peaceful end of apartheid and white minority rule and the arrival of a democratic, non-racial South Africa in which former enemies now work together. 4) It also shows Mandela's greatness, as he notes the moment without bitterness, treating the salute as a tribute to the courage of all his people rather than a personal honour."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Two Stories about Flying",
+      "summary": "Part I, 'His First Flight' by Liam O'Flaherty, tells how a timid young seagull, left alone and starving on his ledge, overcame his fear of flying when his mother's trick with a piece of fish made him plunge and discover his wings. Part II, 'The Black Aeroplane' by Frederick Forsyth, is the mysterious tale of a pilot whose compass and radio fail inside a storm, yet an unknown aeroplane guides him safely to land. Both stories show fear giving way to courage, aided by instinct and an unseen helper.",
+      "weightageMarks": 16,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Fear of the young seagull and hunger as motivation",
+        "The mother seagull's trick with the fish",
+        "The first flight and landing on the green sea",
+        "The Dakota flight through the storm clouds",
+        "Compass, radio and fuel failure",
+        "The mystery of the black aeroplane"
+      ],
+      "sections": [
+        {
+          "heading": "About the Author",
+          "points": [
+            "'His First Flight' is by Liam O'Flaherty (1896-1984), a famous Irish novelist and short story writer.",
+            "O'Flaherty loved nature and wrote powerfully about birds and animals, giving them human feelings, fears and instincts.",
+            "His stories combine realism with compassion, showing the struggle of every young creature to survive and grow.",
+            "'The Black Aeroplane' is by Frederick Forsyth (born 1938), a British author and former Royal Air Force pilot.",
+            "Forsyth is known for best-selling thrillers such as 'The Day of the Jackal', and his flying experience makes the story technically convincing.",
+            "Both writers build suspense: O'Flaherty in the physical fear of a young bird and Forsyth in the unexplained mystery of a helping aeroplane."
+          ],
+          "keyTerms": [
+            { "term": "Instinct", "meaning": "Natural inborn behaviour, such as a bird's ability to fly once it dares to try." },
+            { "term": "Suspense", "meaning": "A state of excitement or anxiety about what will happen next." },
+            { "term": "Realism", "meaning": "Truthful representation of life; both writers describe flying and fear realistically." },
+            { "term": "Thriller", "meaning": "An exciting story full of tension, the genre for which Forsyth is famous." }
+          ],
+          "trick": "O'Flaherty = Irish nature writer (bird's tale); Forsyth = British pilot turned thriller writer (plane's tale).",
+          "examPointer": "Match each author to his story correctly; questions on authorial background and the contrast between the two parts are common."
+        },
+        {
+          "heading": "Plot Overview",
+          "points": [
+            "The young seagull was alone on his ledge; his two brothers and his sister had already flown away the day before, though their wings were shorter than his.",
+            "He was afraid to fly because he felt certain his wings would never support him, so all his attempts to edge forward ended in failure.",
+            "His parents had come around calling to him shrilly, upbraiding him and threatening to let him starve on his ledge unless he flew away.",
+            "For about twenty-four hours he ate nothing; his mother, carrying a piece of fish, flew close to the opposite ledge and then stopped just out of his reach.",
+            "Maddened by hunger, the young seagull dived at the fish; his wings spread out and, instead of falling, he found himself flying.",
+            "In Part II the narrator flew his old Dakota aeroplane from Paris to England, dreaming of his holiday and looking forward to breakfast with his family.",
+            "He flew into huge storm clouds; the compass and other instruments went dead, the radio failed and only a little fuel remained.",
+            "A strange black aeroplane without lights appeared and guided him through the storm; after landing, the woman in the control centre said no other aeroplane was seen on the radar."
+          ],
+          "keyTerms": [
+            { "term": "Ledge", "meaning": "A narrow horizontal shelf of rock, where the young seagull stood alone." },
+            { "term": "Upbraided", "meaning": "Scolded or rebuked severely; his parents upbraided him for not flying." },
+            { "term": "Maddened by hunger", "meaning": "Driven nearly crazy with hunger, the state that forced the seagull to dive." },
+            { "term": "Compass", "meaning": "The instrument that shows direction; it stopped working inside the storm clouds." }
+          ],
+          "trick": "Part I: FISH makes FLIGHT; Part II: FOG finds FRIEND. Hunger lifts the gull, mystery lands the pilot.",
+          "examPointer": "Be ready to summarise either part separately; MCQs often test who helped whom, the fish trick, the dead instruments and the radar revelation."
+        },
+        {
+          "heading": "Character Sketches",
+          "points": [
+            "The young seagull: timid, hesitant and convinced that his wings would never support him, yet hungry, eager and finally brave enough to attempt flight.",
+            "Once he acts, instinct takes over, terror turns to joy and he begins to soar confidently with his family.",
+            "The mother seagull: wise and loving in a hard way; she knows hunger will teach what lessons cannot, and tempts him with fish just out of reach.",
+            "The father seagull: stern and impatient, circling with the family and taunting the young one to force him to grow.",
+            "The brothers and sister: confident young birds with shorter wings, who had already made successful flights and become examples for the hero.",
+            "The narrator in Part II: a competent and calm pilot who keeps his presence of mind inside the storm and follows the unknown plane to safety.",
+            "The mysterious pilot of the black aeroplane: silent, helpful and never identified, appearing like a guardian angel and vanishing without explanation.",
+            "The woman in the control centre: matter-of-fact and puzzled, whose calm statement that no other aeroplane was on the radar deepens the mystery."
+          ],
+          "keyTerms": [
+            { "term": "Timid", "meaning": "Shy and easily frightened, like the young seagull before his first flight." },
+            { "term": "Temptation", "meaning": "The desire to have something attractive; the fish tempted the seagull to dive." },
+            { "term": "Presence of mind", "meaning": "Calm, quick thinking in danger, shown by the pilot of the Dakota." },
+            { "term": "Guardian", "meaning": "A protector or helper, like the unseen pilot who saved the narrator." }
+          ],
+          "trick": "Mother gull: TOUGH LOVE TEACHES; black aeroplane: SILENT SAVIOUR SAVES.",
+          "examPointer": "Character sketches of the mother seagull and the mysterious pilot make good 5 markers; support each trait with a specific moment from the story."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Fear is the greatest barrier to growth; the moment the seagull acts out of need, his fear vanishes and his wings work perfectly.",
+            "Necessity and hunger are powerful motivators; the body learns what the mind is afraid to try.",
+            "Parental wisdom: real love sometimes withholds and tempts instead of pampering, so that the child learns to stand on its own.",
+            "Trust and presence of mind in danger, shown by the pilot who calmly follows the black aeroplane instead of panicking.",
+            "Help can arrive in strange, unexplained forms, and some mysteries in life have no answers at all.",
+            "Message: take the first step bravely; wings, whether of a bird or of human courage, are meant for flying."
+          ],
+          "keyTerms": [
+            { "term": "Phobia", "meaning": "An extreme fear; the young seagull's fear of falling." },
+            { "term": "Motivation", "meaning": "The inner force that drives action; hunger drives the gull, hope drives the pilot." },
+            { "term": "Mystery", "meaning": "Something unexplained; the identity of the black aeroplane remains a mystery." },
+            { "term": "Courage", "meaning": "The willingness to act in spite of fear, the central quality both stories celebrate." }
+          ],
+          "trick": "NEED breaks FEAR: no food, no choice; the gull flies, the pilot lands, both stories shout 'just jump'.",
+          "examPointer": "Comparative questions like 'What is common to the two stories?' are expected as 2-3 markers; highlight fear, courage and unexpected help."
+        },
+        {
+          "heading": "Important Incidents",
+          "points": [
+            "The young seagull running back to the little hole under the ledge where he slept at night, too afraid even to walk to the edge.",
+            "The family flying away for the day and the parents threatening to let him starve on his ledge unless he flew away.",
+            "The mother seagull picking up a piece of fish and flying across to him, only to stop within reach but not give it to him.",
+            "The dive for the fish, the outward fall into space, the sudden spread and flap of his wings, and terror turning to delight as he began to fly.",
+            "His first landing on the green sea, the momentary sinking that made him think he would drown, and then his happy floating on the water.",
+            "The Dakota turning twelve degrees west, entering the storm clouds, and the compass and radio going dead with only five to ten minutes of fuel left.",
+            "The appearance of the black aeroplane, its pilot waving to follow, the safe landing, and the control centre woman's statement that no other aeroplane was flying that night."
+          ],
+          "keyTerms": [
+            { "term": "Plateau", "meaning": "A flat raised area of rock, the opposite ledge where the mother stopped with the fish." },
+            { "term": "Flap", "meaning": "To move the wings quickly up and down, the act that kept the gull in the air." },
+            { "term": "Dakota", "meaning": "The type of old aeroplane the narrator was flying from Paris to England." },
+            { "term": "Radar", "meaning": "The device that tracks aircraft; it showed no other plane on the night of the mystery." }
+          ],
+          "trick": "Gull timeline: LEDGE - TAUNT - FISH - DIVE - WINGS - SEA - FAMILY JOY. Pilot timeline: STORM - DEAD COMPASS - BLACK PLANE - SAFE LANDING - NO RADAR.",
+          "examPointer": "Extract questions usually come from the fish trick, the moment of first flight, the storm scene or the final dialogue with the control centre."
+        },
+        {
+          "heading": "Value Points and Vocabulary",
+          "points": [
+            "Courage is learned by doing; confidence follows the first attempt, never precedes it.",
+            "Parents know when to push; discipline today can save tomorrow, as the mother seagull proves.",
+            "Stay calm in crisis; panic wastes fuel, while composure finds solutions, as the Dakota pilot shows.",
+            "Vocabulary: ledge (rock shelf), skimming (flying close to a surface), plummet (fall straight down), scraps (leftover bits of food).",
+            "Vocabulary: upbraided (scolded), maddened by hunger (made frantic with need), plateau (flat raised area), flap (beat the wings).",
+            "Vocabulary: Dakota (aeroplane type), compass (direction instrument), control centre (place that guides flights), storm clouds.",
+            "Quotes to remember: 'He felt certain that his wings would never support him', 'maddened by hunger', 'Who helped you?'"
+          ],
+          "keyTerms": [
+            { "term": "Skimming", "meaning": "Moving quickly just above a surface, like the seagulls skimming over the green sea." },
+            { "term": "Plummet", "meaning": "To fall straight and fast downwards, what the gull feared before his wings spread." },
+            { "term": "Herring", "meaning": "A sea fish; the gull's family brought pieces of dog-fish and herring as food." },
+            { "term": "Storm clouds", "meaning": "Huge black clouds full of danger, which the Dakota entered despite the risk." }
+          ],
+          "trick": "Gull words: LEDGE, PLUMMET, FLAP; plane words: DAKOTA, COMPASS, RADAR. Two skies, one courage.",
+          "examPointer": "Use exact vocabulary like 'upbraided' and 'maddened by hunger' in answers; the phrase 'the only one I could see on the radar' is often quoted in extracts."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Where was the young seagull left alone when his family flew away?",
+          "options": ["On a tree branch", "On his ledge", "On the beach", "In a nest of straw"],
+          "answerIndex": 1,
+          "explanation": "The young seagull was alone on his ledge, while his two brothers and his sister had already flown away the day before.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Why was the young seagull afraid to fly?",
+          "options": ["His wings were broken", "He felt certain his wings would never support him", "His parents forbade him to fly", "The sea was too rough"],
+          "answerIndex": 1,
+          "explanation": "The seagull believed that if he tried to fly his wings would not support him, so he ran back to his hole under the ledge.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2020"
+        },
+        {
+          "question": "For about how long had the young seagull eaten nothing when the story begins?",
+          "options": ["Two days", "Twenty-four hours", "Three hours", "A week"],
+          "answerIndex": 1,
+          "explanation": "He had not eaten for about twenty-four hours, and his hunger became the force that finally drove him to fly.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What did the mother seagull carry to tempt the young seagull?",
+          "options": ["A piece of meat", "A piece of fish", "A crust of bread", "A sea shell"],
+          "answerIndex": 1,
+          "explanation": "His mother flew across with a piece of fish in her beak and stopped just out of his reach, maddening him with hunger.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2019"
+        },
+        {
+          "question": "When the young seagull landed on the sea for the first time, he was frightened because",
+          "options": ["the water was icy cold", "he thought he would sink and drown", "a shark appeared", "the waves threw him back"],
+          "answerIndex": 1,
+          "explanation": "He dropped his legs to stand on the green sea and cried with fright, sure that he would sink; but his beak did not hit the hard surface and he floated.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Who is the author of 'The Black Aeroplane'?",
+          "options": ["Liam O'Flaherty", "Frederick Forsyth", "Roald Dahl", "Ruskin Bond"],
+          "answerIndex": 1,
+          "explanation": "'The Black Aeroplane' is written by Frederick Forsyth, a British author and former pilot, famous for his thrillers.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In 'The Black Aeroplane', the narrator was flying from",
+          "options": ["England to Paris", "Paris to England", "England to Assam", "Paris to New York"],
+          "answerIndex": 1,
+          "explanation": "The narrator was flying his old Dakota aeroplane over France back to England, dreaming of his holiday and his family.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which instruments stopped working inside the storm clouds?",
+          "options": ["The engine and the wheels", "The compass and the radio", "The clock and the altimeter", "The fuel gauge and the lights"],
+          "answerIndex": 1,
+          "explanation": "Inside the black clouds the compass began turning round and round and was dead, and the radio, too, went dead.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2023"
+        },
+        {
+          "question": "How much fuel was left when the narrator saw the black aeroplane?",
+          "options": ["Enough for an hour", "Enough for thirty minutes", "Enough for five to ten minutes", "The tanks were full"],
+          "answerIndex": 2,
+          "explanation": "With the radio dead and only enough fuel for five to ten minutes, the narrator suddenly saw the other aeroplane.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What was strange about the black aeroplane that guided the narrator?",
+          "options": ["It had no wings", "It had no lights on its wings", "It was on fire", "It flew backwards"],
+          "answerIndex": 1,
+          "explanation": "The other aeroplane had no lights on its wings, yet the narrator could see its pilot waving to him to follow.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What did the woman in the control centre tell the narrator after he landed?",
+          "options": ["That the black aeroplane had crashed", "That no other aeroplane was seen on the radar that night", "That he had flown to the wrong airport", "That his fuel tank was empty"],
+          "answerIndex": 1,
+          "explanation": "She looked at him strangely, laughed and said that no other aeroplanes were flying that stormy night; his was the only one on the radar.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2022"
+        },
+        {
+          "question": "What is the common message of the two stories?",
+          "options": ["Flying is dangerous and should be avoided", "Courage overcomes fear and help can come unexpectedly", "Parents should never pressurise children", "Machines always fail in storms"],
+          "answerIndex": 1,
+          "explanation": "Both stories show that fear is conquered by action and that timely help, natural or mysterious, arrives for those who dare.",
+          "difficulty": "easy"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why was the young seagull afraid to fly? How did his parents treat him for this fear?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) The young seagull was afraid to fly because he felt certain that his wings would never support him; every time he bent forward to the brink of the ledge and tried to flap them, fear seized him and he ran back to the little hole under the ledge. 2) His parents came around calling to him shrilly, upbraiding him, threatening and even taunting him, and at last they threatened to let him starve on his ledge unless he flew away by himself."
+        },
+        {
+          "question": "What trick did the mother seagull play on the young seagull? Why did she do so, and what was its result?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) The mother seagull picked up a piece of fish and flew across to the young seagull's ledge, but stopped just within his reach without giving it to him. 2) She did this deliberately: knowing that her son was starving and yet too frightened to fly, she used hunger as a teacher and the fish as a temptation. 3) Maddened by hunger, the young seagull dived at the fish without thinking; his wings spread out, and instead of falling he began to fly. 4) Thus her clever trick converted his fear into instinctive action, and he discovered that he could fly, soon joining his family in joy."
+        },
+        {
+          "question": "Describe the young seagull's first flight, from his dive at the fish to his landing on the sea.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) After twenty-four hours of hunger, the young seagull saw his mother approaching with a piece of fish and, maddened by hunger, stepped forward and dived at it. 2) At that moment his wings spread outwards, and instead of the fish he felt himself falling outwards and downwards into space; terror seized him and his heart stood still. 3) But the next instant he felt his wings crack and spread, and the wind rushed against his breast feathers, under his stomach and along his wings; he was flying. 4) His fear vanished and he began to curve and swoop, soaring gradually till he was flying with his brothers and sister, perfection made joyous by the thrill of his first swoop. 5) When he landed on the green sea he was frightened again, thinking he would sink; but he floated, and his family landed beside him, praised him and offered him scraps of dog-fish, celebrating his first flight."
+        },
+        {
+          "question": "Narrate the mysterious experience of the pilot in 'The Black Aeroplane'. Why does the ending of the story remain a mystery?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) The narrator was flying his old Dakota from Paris to England, dreaming of his holiday, when he flew into huge storm clouds that no sane pilot would dare. 2) Inside the black clouds his aeroplane jumped and twisted, the compass turned round and round and died, the radio went dead, and only five to ten minutes of fuel remained. 3) Suddenly he saw another aeroplane flying beside him without lights, and its pilot waved, asking him to follow; the narrator turned, followed the strange plane and was guided safely out of the storm. 4) He landed safely, but when he went to the control centre to thank the mysterious pilot, the woman there looked at him strangely and laughed, saying that no other aeroplanes were flying that night and that his was the only one seen on the radar. 5) The story thus ends in an unsolved mystery: who was the pilot, and how did a plane fly unseen by radar? Perhaps it was a supernatural helper or a trick of imagination, and the unanswered question makes the tale unforgettable."
+        },
+        {
+          "question": "Read the extract and answer the questions: The young seagull was alone on his ledge. His two brothers and his sister had already flown away the day before. He had been afraid to fly with them. He felt certain that his wings would never support him. His parents had come around calling to him shrilly, upbraiding him, threatening to let him starve on his ledge unless he flew away. (a) What was the young seagull afraid of? (b) How did his family react to his fear? (c) Was the fear justified? Give a reason for your answer.",
+          "marks": 4,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) The young seagull was afraid that his wings would never support him in the air; he believed that if he stepped off the ledge he would fall down and die, so he dared not even walk to the edge. 2) (b) His family reacted with impatience: his parents flew around calling to him shrilly, upbraiding him and threatening to let him starve on his ledge, while his brothers and sister flew away leaving him alone. 3) (c) The fear was not justified, because the very wings he distrusted supported him the moment he dived at the fish; birds are born to fly, and instinct carried him safely. 4) The lesson is that fear of failure is often greater than the actual danger, and the first attempt itself destroys it."
+        },
+        {
+          "question": "Read the extract and answer the questions: Inside the clouds, everything was suddenly black. The old aeroplane jumped and twisted in the air. The compass was turning round and round and round. It was dead. The radio was dead too. Suddenly I saw two straight lines of white light in front of me. Another aeroplane! And without lights on its wings! Its pilot waved to me and said, 'Follow me!' After landing safely, the woman in the control centre said, 'No other aeroplanes were flying tonight. Yours was the only one I could see on the radar.' (a) Why did the narrator risk flying into the storm clouds? (b) What failures did he face inside the clouds? (c) How does the control centre's reply deepen the mystery?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) The narrator took the risk because he was dreaming of his holiday and was eager to reach home in England to be with his family and have a big breakfast; he had only enough fuel for five to ten minutes, so he decided to fly through the clouds rather than turn back. 2) (b) Inside the clouds his aeroplane jumped and twisted dangerously, the compass went dead, the radio stopped working, and he could neither fly up and over the storm nor see anything ahead. 3) (c) The reply deepens the mystery because it proves that no other aeroplane was in the sky that night; the plane that guided him was never seen on the radar, so his saviour had no normal identity. 4) The unseen helper remains unexplained, suggesting a supernatural or guardian presence, and this unexplained rescue gives the story its haunting charm."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "From the Diary of Anne Frank",
+      "summary": "In this extract from her famous diary, thirteen-year-old Anne Frank explains why she began writing to Kitty, her diary, on 20 June 1942. Surrounded by a loving family and many classmates, she still feels lonely because she has no true friend with whom she can open her heart. She also recalls how her old-fashioned maths teacher, Mr Keesing, punished her for talking in class with essays on being a chatterbox, which she answered with wit and finally won his good humour.",
+      "weightageMarks": 16,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Paper has more patience than people",
+        "Anne's loneliness despite family and friends",
+        "Kitty: the diary as a confidante",
+        "Mr Keesing and the extra homework",
+        "The essays: A Chatterbox and Quack, Quack, Quack, Said Mistress Quackenbush",
+        "Anne's humour, courage and creativity"
+      ],
+      "sections": [
+        {
+          "heading": "About the Author",
+          "points": [
+            "Anne Frank (1929-1945) was born on 12 June 1929 in Frankfurt, Germany, into a Jewish family.",
+            "When the Nazis came to power in Germany and began persecuting the Jews, the family emigrated to Holland in 1933.",
+            "Anne went first to a Montessori kindergarten and later to the Jewish Lyceum in Amsterdam.",
+            "She began keeping the diary, her thirteenth birthday gift, on 12 June 1942, and wrote the entry presented in this lesson on 20 June 1942.",
+            "In July 1942 the family went into hiding in Amsterdam, and Anne continued writing until 1944; the diary was later published as 'The Diary of a Young Girl'.",
+            "She died in the Bergen-Belsen concentration camp in early 1945, but her diary became one of the most widely read books in the world."
+          ],
+          "keyTerms": [
+            { "term": "Diary", "meaning": "A daily personal record of thoughts and events; Anne's diary became world famous." },
+            { "term": "Emigrated", "meaning": "Left one's own country to settle in another; the Franks emigrated to Holland." },
+            { "term": "Persecution", "meaning": "Cruel and unfair treatment, especially because of race or religion, suffered by the Jews under the Nazis." },
+            { "term": "Holocaust", "meaning": "The mass murder of Jews by the Nazis, in which Anne lost her life." }
+          ],
+          "trick": "Anne: born 12 June 1929, diary on 13th birthday 1942, hiding 1942-44, died 1945; book: 'The Diary of a Young Girl'.",
+          "examPointer": "Questions often ask for the historical background of the diary; remember the dates 12 June 1929, 20 June 1942 and the fate of the author."
+        },
+        {
+          "heading": "Plot Overview",
+          "points": [
+            "Anne states that paper has more patience than people, which is why she wants to write down her thoughts and feelings in a diary.",
+            "Though she has loving parents, a sixteen-year-old sister Margot and about thirty people who could call her a darling, she has no true friend.",
+            "She decides to make the diary her friend, names it Kitty and writes to it as to a person.",
+            "She describes her class and the light-hearted discussion about who would pass, who was most timid, who cried and who was the biggest flirt.",
+            "She tells the story of Mr Keesing, the maths teacher, who punished her for talking in class by assigning an essay on 'A Chatterbox'.",
+            "In the essay she argued that talking is a student's trait, that she inherited it from her mother, and that she would try to keep it under control.",
+            "Mr Keesing laughed but gave a second essay, 'An Incorrigible Chatterbox', and then a third, 'Quack, Quack, Quack, Said Mistress Quackenbush'.",
+            "With her friend Sanne's help she turned the third essay into a poem about a duck family, after which Mr Keesing accepted the joke and allowed her to talk in class."
+          ],
+          "keyTerms": [
+            { "term": "Confide", "meaning": "To share one's secrets and private thoughts with someone one trusts." },
+            { "term": "Patience", "meaning": "The quality of listening calmly without interruption; paper has it, people often do not." },
+            { "term": "Incorrigible", "meaning": "Impossible to correct or reform; here Anne's habit of talking too much." },
+            { "term": "Chatterbox", "meaning": "A person who talks a great deal, the title of Anne's first punishment essay." }
+          ],
+          "trick": "Three ESSAYS save a chatterbox: Chatterbox, Incorrigible Chatterbox, Quack Quack Quack; the third turned punishment into poetry.",
+          "examPointer": "The sequence of the three essays and Anne's arguments are the most tested content of this chapter; learn the titles in order."
+        },
+        {
+          "heading": "Character Sketches",
+          "points": [
+            "Anne Frank: lively, talkative, intelligent and witty, with the sensitivity of a girl who can feel alone in a crowd.",
+            "She is honest with herself and observant about others, recording her feelings and her classmates' behaviour with mature humour.",
+            "She is creative and gently defiant, using her essays to defend herself cleverly rather than to insult anyone.",
+            "Mr Keesing: an old-fashioned, strict disciplinarian who believes in keeping order and punishes talking with extra homework.",
+            "Yet he is fair and good-humoured: he laughs at her argument, takes her poem as a joke and thereafter allows her to talk in class.",
+            "Margot: Anne's sixteen-year-old sister, sensible and loved by all, though Anne cannot confide in even her.",
+            "Sanne: Anne's friend, good at poetry, who helps her convert the third essay into verse.",
+            "Grandmother: remembered lovingly by Anne; she died in January 1942, and no one knows how much Anne misses her."
+          ],
+          "keyTerms": [
+            { "term": "Disciplinarian", "meaning": "One who insists on strict discipline, like Mr Keesing in the maths class." },
+            { "term": "Wit", "meaning": "Intelligent humour; Anne's essays are full of wit." },
+            { "term": "Confidante", "meaning": "A trusted friend to whom one tells secrets; Kitty becomes Anne's confidante." },
+            { "term": "Good-humoured", "meaning": "Cheerful and ready to laugh, as Mr Keesing proves himself to be." }
+          ],
+          "trick": "Anne = WIT + LONELINESS; Keesing = STRICTNESS + GOOD HUMOUR; Sanne = POETRY HELPER.",
+          "examPointer": "Character sketches of Anne and Mr Keesing are frequent 5 markers; show both sides of Keesing, the strict teacher and the laughing reader."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Loneliness in a crowd: even a girl surrounded by family and dozens of well-wishers may long for one true confidante.",
+            "The diary as a friend: writing gives privacy, patience and freedom of expression that people may not always give.",
+            "Self-expression through humour: Anne answers punishment with creativity and wit rather than anger or tears.",
+            "Education with understanding: a teacher who can laugh at himself wins his students' hearts and reforms them more gently than punishment.",
+            "Adolescence: the growing child's need to be understood as an individual with secrets, moods and a world of her own.",
+            "Message: respect children's feelings, give them space to express themselves, and let discipline be laced with kindness."
+          ],
+          "keyTerms": [
+            { "term": "Adolescence", "meaning": "The period of growing from child to adult, with its loneliness and self-discovery." },
+            { "term": "Expression", "meaning": "The act of putting thoughts and feelings into words, which the diary makes possible." },
+            { "term": "Understanding", "meaning": "Sympathetic awareness of another's feelings, which Mr Keesing finally shows." },
+            { "term": "Freedom", "meaning": "The liberty to speak and be oneself, which Anne claims through her witty essays." }
+          ],
+          "trick": "WRITE to SURVIVE: paper is patient, Kitty is kind, wit is a weapon, laughter is the lesson.",
+          "examPointer": "Questions on why Anne kept a diary and on the changing attitude of Mr Keesing come as 2-3 markers; connect them to the theme of loneliness."
+        },
+        {
+          "heading": "Important Incidents",
+          "points": [
+            "Anne receiving the diary on 12 June 1942, perhaps the nicest of all her presents, and beginning it with an entry on 20 June 1942.",
+            "Her reflection that paper has more patience than people and that no one believes a girl of thirteen can be quite alone in the world.",
+            "Her statement that she will call the diary Kitty and address it like a friend, so that her heart finds relief on paper.",
+            "The class discussion about who would pass and the playful gossip about the most timid classmate, who cried, and the biggest flirt.",
+            "Mr Keesing assigning the essay 'A Chatterbox' as punishment for talking in class.",
+            "Anne's argument in the essay: talking is a student's trait, inherited from her mother, and she would try to control but not destroy it.",
+            "The poem about a family of ducks, written with Sanne's help, which Mr Keesing read aloud with his own comment, after which Anne was free to talk."
+          ],
+          "keyTerms": [
+            { "term": "Entry", "meaning": "A piece of writing made in a diary on a particular date." },
+            { "term": "Punishment", "meaning": "A penalty for wrongdoing; here, extra essays for talking in class." },
+            { "term": "Verse", "meaning": "Writing arranged in lines of poetry, the form Sanne helped Anne give her third essay." },
+            { "term": "Mistress Quackenbush", "meaning": "The duck-mother in Anne's poem, whose ducklings quacked too much and were bitten by the father swan." }
+          ],
+          "trick": "PUNISHMENT LADDER: essay 1 argues, essay 2 repeats, essay 3 makes the teacher laugh; humour ends the homework.",
+          "examPointer": "Extracts are usually taken from the opening reflections on paper and patience, or from the Mr Keesing episode; revise both passages."
+        },
+        {
+          "heading": "Value Points and Vocabulary",
+          "points": [
+            "Writing heals: a diary is a friend that never interrupts, argues or betrays, and helps one understand oneself.",
+            "True friendship is rare; being liked by thirty people is not the same as having one person to confide in.",
+            "Wit with respect can turn an enemy into an admirer, as Anne turned her strict teacher into a friend.",
+            "Vocabulary: confide (share secrets), patience (calm endurance), incorrigible (cannot be corrected), quack (sound of a duck).",
+            "Vocabulary: chatterbox (one who talks too much), emigrated (shifted to another country), old-fashioned (not modern), verse (poetry lines).",
+            "Vocabulary: disciplinarian (strict enforcer of rules), argument (reasoned claim), inherited (received from parents), good-humoured (ready to laugh).",
+            "Quotes to remember: 'Paper has more patience than people', 'I hope I will be able to confide everything to you', 'Mr Keesing had a good laugh'."
+          ],
+          "keyTerms": [
+            { "term": "Inherited", "meaning": "Passed on from parents; Anne says her talkative nature is inherited from her mother." },
+            { "term": "Argument", "meaning": "A reasoned statement to support a view; Anne's essay is built on clever arguments." },
+            { "term": "Betray", "meaning": "To break someone's trust; a diary, unlike people, never betrays." },
+            { "term": "Relief", "meaning": "A feeling of ease after expressing what burdens the heart." }
+          ],
+          "trick": "K.K.K. = Kitty, Keesing, Quack: the diary friend, the strict teacher and the quacking duck that saved the day.",
+          "examPointer": "Use the exact essay titles and the phrase 'paper has more patience than people' in answers; examiners reward precise textual recall."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "When was Anne Frank born?",
+          "options": ["12 June 1929", "12 June 1942", "20 June 1929", "12 July 1933"],
+          "answerIndex": 0,
+          "explanation": "Anne Frank was born on 12 June 1929 in Frankfurt, Germany, and received her diary on her thirteenth birthday in 1942.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2020"
+        },
+        {
+          "question": "To which country did Anne's family emigrate when the Nazis came to power in Germany?",
+          "options": ["England", "France", "Holland", "Switzerland"],
+          "answerIndex": 2,
+          "explanation": "The Frank family emigrated to Holland in 1933; Anne was later sent to Aachen to stay with her grandmother before joining them.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2019"
+        },
+        {
+          "question": "What was the name Anne gave to her diary?",
+          "options": ["Margot", "Kitty", "Sanne", "Quackenbush"],
+          "answerIndex": 1,
+          "explanation": "Anne wanted the diary to be her friend and named it Kitty, writing to it as if it were a person.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "According to Anne, paper has more ______ than people.",
+          "options": ["space", "patience", "beauty", "wisdom"],
+          "answerIndex": 1,
+          "explanation": "Anne feels that paper has more patience than people, since people are rarely interested enough to listen to a young girl's feelings.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2023"
+        },
+        {
+          "question": "Who was Mr Keesing?",
+          "options": ["The science teacher", "The old-fashioned maths teacher", "The headmaster", "The class music teacher"],
+          "answerIndex": 1,
+          "explanation": "Mr Keesing was Anne's old-fashioned maths teacher and a strict disciplinarian who punished her for talking in class.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What was the title of the first essay assigned to Anne as punishment?",
+          "options": ["'An Incorrigible Chatterbox'", "'A Chatterbox'", "'Quack, Quack, Quack, Said Mistress Quackenbush'", "'The Duck Family'"],
+          "answerIndex": 1,
+          "explanation": "For talking in class, Mr Keesing first asked Anne to write an essay entitled 'A Chatterbox'.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How did Anne justify her being a chatterbox in her essay?",
+          "options": ["She said the class was boring", "She argued that talking is a student's trait inherited from her mother", "She promised never to talk again", "She blamed her friends"],
+          "answerIndex": 1,
+          "explanation": "Anne argued that talking is a student's trait, that she inherited it from her mother who was also talkative, and that she would try to control it.",
+          "difficulty": "medium",
+          "pyq": "CBSE 2022"
+        },
+        {
+          "question": "Who helped Anne write the third essay in the form of a poem?",
+          "options": ["Margot", "Her father", "Sanne", "Mr Keesing"],
+          "answerIndex": 2,
+          "explanation": "Her friend Sanne, who was good at poetry, helped Anne convert the essay into beautiful verse.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What was the subject of the third essay assigned by Mr Keesing?",
+          "options": ["'A Chatterbox'", "'Silence is Golden'", "'Quack, Quack, Quack, Said Mistress Quackenbush'", "'My Mother'"],
+          "answerIndex": 2,
+          "explanation": "The third essay was 'Quack, Quack, Quack, Said Mistress Quackenbush', which Anne turned into a poem about a duck family.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What happened to the duck family in Anne's poem?",
+          "options": ["They flew away happily", "The father swan bit the three ducklings to death because they quacked too much", "The mother duck taught them to sing", "They were adopted by a swan"],
+          "answerIndex": 1,
+          "explanation": "In the poem, a father swan bit the three ducklings to death because they quacked too much, a sharp joke on Mr Keesing himself.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "How did Mr Keesing react to Anne's poem?",
+          "options": ["He punished her again", "He tore it up in anger", "He took it as a joke, read it aloud and allowed her to talk", "He sent it to the headmaster"],
+          "answerIndex": 2,
+          "explanation": "Mr Keesing took the intended joke well, read the poem aloud with his own comment and thereafter did not assign extra homework; Anne was allowed to talk.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Why did Anne begin to maintain a diary?",
+          "options": ["Her school ordered her to", "She wanted to become a writer", "She had no true friend to confide in", "Her father suggested it"],
+          "answerIndex": 2,
+          "explanation": "Despite family and many well-wishers, Anne felt she had no true friend, so she began a diary to confide all her feelings to Kitty.",
+          "difficulty": "easy"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why does Anne say that paper has more patience than people? What kind of friend did she want her diary to be?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Anne feels that people are rarely patient: they show little interest in a young girl's endless thoughts and are often bored or distracted, while paper never interrupts, never argues and never grows tired of listening. 2) Though she had loving parents, a sixteen-year-old sister and about thirty people who could call her a darling, she had no true friend to whom she could open her heart, so she felt alone in the world. 3) Hence she wanted her diary to be a real friend, someone in whom she could confide everything, and she even gave it a name, Kitty, addressing her entries to it like letters to a beloved companion."
+        },
+        {
+          "question": "Describe Anne's feelings about her family and her classmates.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Anne loved her parents and her sixteen-year-old sister Margot, and she knew that about thirty people could call her a darling, yet none of them understood her inner world. 2) At school she had many classmates who joked and gossiped about who would pass, who was most timid and who was the biggest flirt, but this popularity could not remove her loneliness, because true companionship was missing and she longed for one friend to confide in."
+        },
+        {
+          "question": "Describe how Anne Frank changed Mr Keesing's attitude towards her through her essays.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Mr Keesing, the old-fashioned maths teacher, kept punishing Anne for talking in class by assigning her extra homework in the form of essays. 2) The first essay, 'A Chatterbox', she answered with a clever argument: talking is a student's trait, she had inherited it from her talkative mother, and although she would try to keep it under control, she could not entirely get rid of it. 3) Mr Keesing laughed at her argument but assigned a second essay, 'An Incorrigible Chatterbox', which she wrote well, and then a third, 'Quack, Quack, Quack, Said Mistress Quackenbush'. 4) This time, with her friend Sanne's help, Anne turned the essay into a poem about a family of ducks whose three ducklings were bitten to death by the father swan because they quacked too much, a witty hint that the teacher was himself being tyrannical. 5) Mr Keesing took the intended joke well, read the poem aloud to the class with his own comment, and from then on allowed Anne to talk in class without assigning extra homework; humour, used intelligently, had converted a strict disciplinarian into an appreciative teacher."
+        },
+        {
+          "question": "Draw a character sketch of Anne Frank, highlighting her wit, courage and creativity.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Anne Frank is a lively, talkative and observant thirteen-year-old, gifted with unusual intelligence and a sharp sense of humour. 2) Her wit appears in the way she defends herself: instead of weeping over punishment, she writes essays that argue logically that talking is a student's trait inherited from her mother, turning a rebuke into an intelligent debate. 3) Her courage lies in facing a strict disciplinarian like Mr Keesing with confidence, meeting repeated punishment with cleverness rather than fear or anger. 4) Her creativity shines in the third essay, which she converts, with Sanne's help, into a poem about ducks that makes her stern teacher laugh. 5) Beneath the fun, she is sensitive and mature beyond her years: she confesses that paper has more patience than people, feels lonely even in a loving family, and seeks a true friend in her diary, Kitty. 6) These qualities of self-awareness, honesty and expression make her diary one of the most moving records of adolescence ever written."
+        },
+        {
+          "question": "Read the extract and answer the questions: Writing in a diary is a really strange experience for someone like me. Not only because I've never written anything before, but also because it seems to me that later on neither I nor anyone else will be interested in the musings of a thirteen-year-old schoolgirl. Oh well, it doesn't matter. I feel like writing, and I have an even greater need to get all kinds of things off my chest. (a) Why does Anne feel strange about writing a diary? (b) What need does she want to satisfy through the diary? (c) What does this passage reveal about her character?",
+          "marks": 4,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) Anne feels strange because she has never written anything before, and she doubts that later she or anyone else will be interested in the musings of a thirteen-year-old schoolgirl; writing to an invisible friend is a new and unusual experience for her. 2) (b) She wants to get all kinds of things off her chest: the burden of feelings that she cannot share with anyone, because despite family and many acquaintances she has no true friend in whom she can confide. 3) (c) The passage reveals her honesty and self-awareness, as she measures her own writing with mature doubt, as well as her deep need for emotional expression. 4) It also shows her determination: even if no one is interested, she feels like writing, and this inner urge makes Kitty her most trusted companion."
+        },
+        {
+          "question": "Read the extract and answer the questions: Anne talked too much in Mr Keesing's maths class, so as punishment he assigned her extra homework: to write an essay entitled 'A Chatterbox'. Anne argued that talking is a student's trait and that she had inherited it from her mother, so she would try to keep it under control but could not get rid of it entirely. Mr Keesing had a good laugh, but gave a second essay, and then a third, 'Quack, Quack, Quack, Said Mistress Quackenbush', which Anne wrote as a poem with her friend Sanne's help. (a) Why did Mr Keesing assign the essays? (b) What arguments did Anne use in her first essay? (c) What was the effect of the third essay on Mr Keesing?",
+          "marks": 4,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) Mr Keesing, an old-fashioned and strict disciplinarian, assigned the essays as punishment because Anne talked too much in his maths class; he believed extra homework would make her silent and obedient. 2) (b) In 'A Chatterbox' Anne argued that talking is a student's trait, something natural to pupils, and that she had inherited her talkative nature from her mother, so it could not be entirely her fault; she promised to try to keep it under control while defending her right to speak. 3) (c) The third essay, written as a witty poem about a duck family whose chattering ducklings were punished by the father swan, made Mr Keesing take the joke in the right spirit: he read the poem aloud with his own comment, stopped assigning extra homework and allowed Anne to talk in class. 4) The episode shows that gentle wit can reform even the strictest teacher more effectively than fear or defiance."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Glimpses of India",
+      "summary": "This lesson offers three glimpses of Indian life. 'A Baker from Goa' by Lucio Rodrigues recalls the Portuguese-era bakers, called paders, whose jingling bamboo announced fresh bread, bolinhas and bread-bangles. 'Coorg' by Lokesh Abrol describes the coffee country of Karnataka, its brave and hospitable people and its season of joy from September to March. 'Tea from Assam' by Arup Kumar Datta follows school friends Pranjol and Rajvir to the Dhekiabari tea garden, weaving in the legends of tea along the way.",
+      "weightageMarks": 16,
+      "difficulty": "easy",
+      "hotTopics": [
+        "The Goan baker (pader) and Portuguese influence",
+        "Kabai, bolinhas and bread-bangles",
+        "Coorg: coffee, spices and the Kaveri",
+        "Coorgi valour: the Coorg Regiment and Field Marshal Cariappa",
+        "Legends of tea: Bodhidharma and the Chinese emperor",
+        "Pranjol and Rajvir at the Dhekiabari tea garden"
+      ],
+      "sections": [
+        {
+          "heading": "About the Author",
+          "points": [
+            "'A Baker from Goa' is by Lucio Rodrigues, a Goan writer and professor who collected and retold the folk traditions of his land.",
+            "Goa was ruled by the Portuguese for over three hundred years, and the essay shows how baking became a permanent part of Goan life.",
+            "'Coorg' is by Lokesh Abrol, a doctor and writer known for his vivid travel writing about places, people and culture.",
+            "Coorg, or Kodagu, is the smallest district of Karnataka, and the essay celebrates its beauty, valour and hospitality.",
+            "'Tea from Assam' is by Arup Kumar Datta, an Assamese author famous for his stories and books set around Assam and its tea gardens.",
+            "All three pieces are travel and culture sketches: they capture the sights, sounds, tastes and histories of different regions of India."
+          ],
+          "keyTerms": [
+            { "term": "Folk tradition", "meaning": "Customs and stories passed down through generations, such as Goan baking." },
+            { "term": "Travelogue", "meaning": "A piece of writing about travel, like the essays on Coorg and Assam." },
+            { "term": "Heritage", "meaning": "The culture and traditions inherited from the past." },
+            { "term": "Plantation", "meaning": "A large estate where crops like coffee or tea are grown." }
+          ],
+          "trick": "Three authors, three flavours: Rodrigues = bread of Goa, Abrol = coffee of Coorg, Datta = tea of Assam.",
+          "examPointer": "Be able to match each part with its author and region; MCQs frequently test authors, places and products together."
+        },
+        {
+          "heading": "Plot Overview",
+          "points": [
+            "In Goa the pader, the traditional baker, still arrives with his bamboo staff, whose thud and jingle announce his arrival and wake the baker's furnace.",
+            "Children run to meet him for bread-bangles, while maids and ladies buy loaves; his kabai, a single-piece long frock reaching below the knees, marks his identity.",
+            "Baking was introduced by the Portuguese; marriage gifts in Goa are meaningless without bolinhas, and cakes and bolinhas are essential at Christmas and other festivals.",
+            "In Coorg the writer takes us midway between Mysore and the coastal town of Mangalore, to coffee country with spice gardens and orange groves.",
+            "The best season is September to March; visitors enjoy river rafting, canoeing, rappelling, rock climbing, mountain biking and trekking amid evergreen rainforests.",
+            "The people are brave and hospitable: the Coorg Regiment is one of the most decorated in the Indian Army, and Coorg gave India its first Commander-in-Chief, Field Marshal C. M. Cariappa.",
+            "In Assam, Pranjol and Rajvir, classmates from Delhi, travel to Dhekiabari, the tea garden managed by Pranjol's father, while Rajvir shares what he has read about tea.",
+            "At the garden they see acres of tea bushes and women plucking newly sprouted leaves into bamboo baskets during the second flush, the period that yields the best tea."
+          ],
+          "keyTerms": [
+            { "term": "Pader", "meaning": "The Goan word for baker, derived from the Portuguese 'padeiro'." },
+            { "term": "Kabai", "meaning": "The single-piece long frock worn by the traditional Goan baker." },
+            { "term": "Second flush", "meaning": "The period from May to July when the best tea leaves sprout in Assam." },
+            { "term": "Season of joy", "meaning": "The tourist season of Coorg, from September to March." }
+          ],
+          "trick": "Goa = BREAD, Coorg = COFFEE, Assam = TEA; three drinks and foods, three proud cultures.",
+          "examPointer": "Learn the signature items of each region: bolinhas and kabai for Goa, Cariappa and kuppia for Coorg, Dhekiabari and second flush for Assam."
+        },
+        {
+          "heading": "Character Sketches",
+          "points": [
+            "The Goan baker (pader): plump, jolly and musical, a friend, benefactor and well-wisher whose arrival is announced by the jingle of his bamboo staff.",
+            "He wears the kabai, carries a staff, collects his bills at the end of the month, and his plumpness is proof that baking brings prosperity.",
+            "Goan children: eager and mischievous, they run to the baker for bread-bangles even before brushing their teeth.",
+            "Goan housewives and maids: they buy loaves faithfully and consider the baker's products essential for festivals, marriages and Christmas.",
+            "Rajvir: an eager, well-read traveller who has done his homework on tea, quoting legends and the figure of over eighty crore cups of tea a day.",
+            "Pranjol: a boy born and brought up in Assam, practical rather than excited; he prefers detective books and yawns at the familiar tea country.",
+            "Pranjol's father: the manager of the Dhekiabari tea garden, punctual and welcoming, receiving the boys at Mariani junction in his car.",
+            "The Coorgis: a proud race of martial men and beautiful women, hospitable by tradition, with tales of valour woven into their family histories."
+          ],
+          "keyTerms": [
+            { "term": "Benefactor", "meaning": "One who does good to others; the baker is a friend and benefactor of the village." },
+            { "term": "Hospitality", "meaning": "Warm and generous welcome to guests, a famous Coorgi tradition." },
+            { "term": "Valour", "meaning": "Great courage, especially in battle, shown by Coorgi soldiers." },
+            { "term": "Well-read", "meaning": "Having read widely; Rajvir is well-read about tea and its legends." }
+          ],
+          "trick": "Rajvir READS, Pranjol YAWNS: the visitor is excited, the native is used to the tea.",
+          "examPointer": "Contrast-based questions on Pranjol and Rajvir, and sketches of the traditional baker, are common short and long answer topics."
+        },
+        {
+          "heading": "Themes and Message",
+          "points": [
+            "Unity in diversity: three regions, three flavours and three cultures together present one rich Indian heritage.",
+            "Living traditions: old customs like Goan baking survive even in modern times, as the pader with his staff still exists.",
+            "Nature's bounty: Coorg's coffee and spices and Assam's tea show how geography shapes livelihood, economy and culture.",
+            "Heritage of valour: the Coorg Regiment and Field Marshal Cariappa remind us of regional pride in national service.",
+            "Curiosity and knowledge: Rajvir's excitement shows that even an everyday drink like tea has history, legends and geography worth learning.",
+            "Message: travel broadens the mind; know your land's people, produce and stories, and cherish its traditions."
+          ],
+          "keyTerms": [
+            { "term": "Tradition", "meaning": "A custom passed down through generations, like the Goan baking profession." },
+            { "term": "Diversity", "meaning": "Variety in people, food, dress and landscape, the essence of India." },
+            { "term": "Legacy", "meaning": "What the past hands down, such as Portuguese baking or Coorgi valour." },
+            { "term": "Curiosity", "meaning": "The desire to learn, which makes Rajvir observe and question everything." }
+          ],
+          "trick": "B-C-T chain: Bread of Goa keeps tradition, Coffee of Coorg keeps courage, Tea of Assam keeps tales.",
+          "examPointer": "The central theme of the composite lesson, India's regional variety, is a likely long-answer question; link all three parts in your conclusion."
+        },
+        {
+          "heading": "Important Incidents",
+          "points": [
+            "The thud and jingle of the baker's bamboo staff announcing his arrival and waking up the echoing furnace of the baker.",
+            "Children racing to meet the baker, hoping for bread-bangles, before they have even brushed their teeth.",
+            "The memory that marriage gifts are meaningless without bolinhas, and that Christmas and festivals need cakes and bolinhas.",
+            "The description of Coorg, midway between Mysore and Mangalore, as a piece of heaven with air that breathes of coffee.",
+            "The theories of Greek or Arabic descent of the Coorgis, based on the kuppia worn by Kodavus and the kuffia worn by Arabs and Kurds.",
+            "Rajvir quoting that over eighty crore cups of tea are drunk daily, and narrating the legends of the Chinese emperor and the monk Bodhidharma.",
+            "The arrival at Dhekiabari: a sea of tea bushes, women with bamboo baskets plucking leaves, and Pranjol's father announcing the second flush of May-July."
+          ],
+          "keyTerms": [
+            { "term": "Bolinhas", "meaning": "Round sweet bread rolls that are an essential part of Goan marriages and festivals." },
+            { "term": "Bread-bangle", "meaning": "A bracelet-shaped bread that Goan children love." },
+            { "term": "Kuppia and kuffia", "meaning": "The long black coat worn by Kodavus and the similar kuffia worn by Arabs and Kurds, evidence cited for Coorgi descent." },
+            { "term": "Bodhidharma", "meaning": "The ancient Buddhist ascetic whose cut-off eyelids, thrown to the ground, grew into ten tea plants." }
+          ],
+          "trick": "Tea legends x2: China = emperor's boiling water with burnt leaves; India = Bodhidharma's eyelids became ten plants.",
+          "examPointer": "Extracts usually come from the baker's arrival, the Coorg description or the tea legends; remember the exact comparisons and figures."
+        },
+        {
+          "heading": "Value Points and Vocabulary",
+          "points": [
+            "The baker was a friend, benefactor and well-wisher of the family; some traditions deserve to be cherished even today.",
+            "Hospitality and courage are quiet virtues of small places like Coorg, whose homes have a tradition of welcoming guests.",
+            "Knowledge makes travel meaningful; Rajvir's homework on tea turns a simple journey into a lesson in history.",
+            "Vocabulary: pader or podder (baker), kabai (single-piece long frock), bolinhas (round rolls), bread-bangle (bracelet-shaped bread).",
+            "Vocabulary: jingle (light ringing sound), furnace (baking oven), plump (pleasantly fat), loaves (shapes of bread).",
+            "Vocabulary: kuppia (Coorgi coat), kuffia (the Arab head-covering similar to the kuppia), mahaseer (largest freshwater fish), flush (period of leaf growth).",
+            "Vocabulary: Mariani (junction in Assam), Dhekiabari (tea garden), beverage (a drink), ascetic (one who leads a severe self-disciplined life)."
+          ],
+          "keyTerms": [
+            { "term": "Mahaseer", "meaning": "The largest freshwater fish, found in the river Kaveri in Coorg." },
+            { "term": "Ascetic", "meaning": "A person who practises severe self-discipline, like Bodhidharma in the tea legend." },
+            { "term": "Beverage", "meaning": "A drink other than water, such as tea or coffee." },
+            { "term": "Cardamom, pepper and nutmeg", "meaning": "The spices grown in Coorg's gardens along with coffee." }
+          ],
+          "trick": "Coorg kit: Kaveri, Mahaseer, Kingfisher, Kuppia, Cariappa, Cardamom - six K-words to remember.",
+          "examPointer": "Use precise words like kabai, bolinhas, kuppia and second flush in answers; exact vocabulary earns full marks in value-point questions."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Who wrote 'A Baker from Goa'?",
+          "options": ["Lokesh Abrol", "Arup Kumar Datta", "Lucio Rodrigues", "Nelson Mandela"],
+          "answerIndex": 2,
+          "explanation": "'A Baker from Goa' is written by Lucio Rodrigues, who retells the folk traditions of Goa.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "For how long did the Portuguese rule over Goa, leaving their influence on Goan culture?",
+          "options": ["About one hundred years", "About two hundred years", "More than three hundred years", "More than five hundred years"],
+          "answerIndex": 2,
+          "explanation": "The Portuguese ruled Goa for more than three hundred years, and their influence is still seen in the baker's trade and other traditions.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The traditional dress of the Goan baker was known as the",
+          "options": ["kuppia", "kabai", "kuffia", "kurta"],
+          "answerIndex": 1,
+          "explanation": "The baker wore the kabai, a single-piece long frock reaching down to below the knees.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2019"
+        },
+        {
+          "question": "What did Goan children most love about the baker's visits?",
+          "options": ["The songs he sang", "The bread-bangles he gave", "The coins he distributed", "The stories he told"],
+          "answerIndex": 1,
+          "explanation": "Children ran to meet the baker hoping to be handed a bread-bangle, a bracelet-shaped piece of bread.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which items are considered essential in Goan marriages and at Christmas?",
+          "options": ["Wine and cakes", "Bolinhas and cakes", "Loaves and biscuits", "Sandwiches and pastries"],
+          "answerIndex": 1,
+          "explanation": "Marriage gifts are meaningless without bolinhas, and cakes and bolinhas are a must for Christmas and other festivals.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Coorg, or Kodagu, lies midway between",
+          "options": ["Bangalore and Mysore", "Mysore and Mangalore", "Mangalore and Goa", "Mysore and Assam"],
+          "answerIndex": 1,
+          "explanation": "Coorg is situated midway between Mysore and the coastal town of Mangalore in Karnataka.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2022"
+        },
+        {
+          "question": "Coorg gave India its first Commander-in-Chief of the Indian Army,",
+          "options": ["General Manekshaw", "Field Marshal K. M. Cariappa", "General Rajendrasinhji", "Field Marshal Thimayya"],
+          "answerIndex": 1,
+          "explanation": "General K. M. Cariappa of Coorg became the first Commander-in-Chief of free India and was later honoured with the title of Field Marshal.",
+          "difficulty": "medium",
+          "pyq": "CBSE 2023"
+        },
+        {
+          "question": "The best season to visit Coorg is",
+          "options": ["April to June", "June to August", "September to March", "November to December only"],
+          "answerIndex": 2,
+          "explanation": "The monsoon pours enough to keep visitors away, and the season of joy commences from September and continues till March.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In 'Tea from Assam', Pranjol's father is the manager of the",
+          "options": ["Mariani tea estate", "Dhekiabari tea garden", "Silchar tea garden", "Jorhat tea garden"],
+          "answerIndex": 1,
+          "explanation": "Pranjol's father is the manager of the Dhekiabari tea garden in Assam, and he receives the boys at Mariani junction.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "According to Rajvir, how many cups of tea are drunk every day throughout the world?",
+          "options": ["Over eighty lakh", "Over eighty crore", "Over eight crore", "Over eighty thousand"],
+          "answerIndex": 1,
+          "explanation": "Rajvir quotes that over eighty crore cups of tea are drunk every day throughout the world.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "In the Indian legend of tea, the tea plants grew out of",
+          "options": ["the Chinese emperor's cup", "the eyelids of Bodhidharma", "the ashes of a fire", "the tears of a queen"],
+          "answerIndex": 1,
+          "explanation": "The Buddhist ascetic Bodhidharma cut off his eyelids to avoid sleep, and ten tea plants grew out of them when he threw them to the ground.",
+          "difficulty": "medium",
+          "pyq": "CBSE 2020"
+        },
+        {
+          "question": "During which period does tea yield the best crop in Assam?",
+          "options": ["The first flush of March", "The second flush from May to July", "The winter flush of December", "The monsoon of August"],
+          "answerIndex": 1,
+          "explanation": "Pranjol's father says that the second flush, the sprouting period from May to July, yields the best tea.",
+          "difficulty": "medium"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "How did the traditional Goan baker announce his arrival every morning? How did the children react to his arrival?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) The baker announced his arrival with the thud and jingle of his traditional bamboo staff, which he thumped on the ground; the sound woke the sleeping village and set the baker's furnace going. 2) The children ran to meet and greet him in excitement, hoping for bread-bangles; they reached the scene even before brushing their teeth, and the maids purchased loaves while the children clung to the baker for their favourite bangles."
+        },
+        {
+          "question": "What legends about the origin and journey of tea did Rajvir narrate to Pranjol on the train?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Rajvir said that no one really knows who discovered tea, but there are many legends. 2) The Chinese legend says that an ancient emperor always boiled water before drinking it, and one day a few leaves of a twig burning under the pot fell into the water, giving it a delicious flavour; thus tea was born. 3) The Indian legend tells of the ancient Buddhist ascetic Bodhidharma, who cut off his eyelids because he felt sleepy during meditation, and ten tea plants grew out of the eyelids he threw to the ground. 4) He also added that tea came to Europe only in the sixteenth century and was drunk there more as medicine than as a beverage."
+        },
+        {
+          "question": "Describe Coorg as 'a piece of heaven', bringing out its location, season, natural beauty, people and adventure sports.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Coorg, or Kodagu, the smallest district of Karnataka, is situated midway between Mysore and the coastal town of Mangalore, and the writer calls it a piece of heaven that must have drifted from the kingdom of God. 2) It is a land of rolling hills inhabited by a proud race of martial men, beautiful women and wild creatures, with evergreen rainforests, coffee bushes and spice gardens of cardamom, pepper and nutmeg, beside orange groves; the air breathes of coffee. 3) The monsoon pours heavily, so the season of joy commences from September and continues till March, the ideal time to visit. 4) The river Kaveri abounds with mahaseer, the largest freshwater fish, while kingfishers, squirrels, langurs and elephants delight visitors; monks in exile with red and ochre robes are also seen there. 5) The Coorgis are brave and hospitable: the Coorg Regiment is one of the most decorated in the Indian Army, and General Cariappa of Coorg became the first Commander-in-Chief of free India; their kuppia resembles the kuffia of the Arabs, suggesting Greek or Arab descent. 6) High-energy adventures such as river rafting, canoeing, rappelling, rock climbing, mountain biking and trekking make Coorg a perfect tourist destination."
+        },
+        {
+          "question": "Describe the importance of the traditional baker in the social life of Goa, as presented in 'A Baker from Goa'.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Baking, introduced to Goa by the Portuguese more than three hundred years ago, became an essential part of Goan life, and the pader, the baker, remains a living tradition even today. 2) Every morning his bamboo staff announced his arrival; maids came running for loaves, and children ran to him for bread-bangles, so he was a friend, benefactor and well-wisher of every family. 3) In Goan society, marriage gifts are meaningless without bolinhas, and cakes and bolinhas are a must for Christmas and other festivals, so no celebration was complete without the baker. 4) The baker wore the traditional kabai, a single-piece long frock, carried his staff, collected his bills at the end of the month and led a prosperous life, as shown by his plump figure. 5) Even today the mixers, moulders and burners of the old furnaces survive, and the musical notes of the baker's bamboo can still be heard, proving that a simple profession can bind a community together for generations."
+        },
+        {
+          "question": "Read the extract and answer the questions: 'We get over eighty crore cups of tea drunk every day throughout the world,' said Rajvir. 'Whew!' exclaimed Pranjol. 'Tea really is very popular.' 'Tea came to Europe only in the sixteenth century and was drunk more as medicine than as a beverage.' (a) What does the figure of eighty crore cups show? (b) How was tea used in Europe when it first arrived? (c) What legends does Rajvir know about the discovery of tea?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) The figure shows the enormous global popularity of tea: it is one of the most widely consumed drinks on earth, drunk daily in countless homes across the world, which makes its history and legends worth knowing. 2) (b) When tea reached Europe in the sixteenth century, it was drunk more as a medicine than as a beverage; people valued it for its healing properties before it became an everyday drink of pleasure. 3) (c) Rajvir narrates two legends: the Chinese one about an emperor who always boiled water before drinking, into which a few leaves from a burning twig accidentally fell and flavoured the water; and the Indian legend of Bodhidharma, the Buddhist ascetic who cut off his sleepy eyelids and threw them down, where ten tea plants grew. 4) The extract shows Rajvir's curiosity and preparation as a traveller, in contrast with Pranjol, who belongs to a tea garden family and takes the sight of tea for granted."
+        },
+        {
+          "question": "Read the extract and answer the questions: Midway between Mysore and the coastal town of Mangalore sits a piece of heaven that must have drifted from the kingdom of God. This land of rolling hills is inhabited by a proud race of martial men, beautiful women and wild creatures. (a) Which place is described here and why is it called a piece of heaven? (b) What are the people of this place famous for? (c) Name two adventures a visitor can enjoy there.",
+          "marks": 4,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) The place described is Coorg, or Kodagu, the smallest district of Karnataka, midway between Mysore and Mangalore; it is called a piece of heaven because of its rolling hills, evergreen rainforests, coffee and spice gardens, and its air that breathes of coffee, making it nature's paradise. 2) (b) The people are famous for their valour and hospitality: the Coorg Regiment is one of the most decorated in the Indian Army, General Cariappa of Coorg became the first Commander-in-Chief of free India, and Coorgi homes have a tradition of warmly welcoming guests with tales of valour. 3) (c) A visitor can enjoy river rafting and canoeing in the Kaveri, and trekking, rappelling, rock climbing and mountain biking in the hills. 4) The description also credits the region with wild creatures such as mahaseer fish, kingfishers, langurs and elephants, which add to its heavenly charm."
+        }
+      ]
+    }
+  ]
+}

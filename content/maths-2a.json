@@ -1,0 +1,975 @@
+{
+  "code": "maths",
+  "name": "Mathematics",
+  "bookName": "Mathematics (NCERT Class 10)",
+  "weightageMarks": 80,
+  "chapters": [
+    {
+      "number": 8,
+      "title": "Introduction to Trigonometry",
+      "summary": "Trigonometry connects the sides and angles of a right triangle through six ratios: sin, cos, tan and their reciprocals. This chapter builds the standard-angle table for 0, 30, 45, 60 and 90 degrees, the complementary-angle relations and the three fundamental identities used throughout higher mathematics. Board papers repeatedly ask for identity proofs and exact-value evaluations, so both skills must become automatic.",
+      "weightageMarks": 5,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Trigonometric ratios of a right triangle",
+        "Values at 0, 30, 45, 60, 90 degrees",
+        "Complementary angle relations",
+        "Trigonometric identities and proofs",
+        "Evaluation of expressions with standard angles",
+        "Not defined ratios trap"
+      ],
+      "sections": [
+        {
+          "heading": "Trigonometric Ratios: The Six Building Blocks",
+          "points": [
+            "For an acute angle A in a right triangle, sin A = side opposite to angle A / hypotenuse.",
+            "cos A = side adjacent to angle A / hypotenuse.",
+            "tan A = side opposite to angle A / side adjacent to angle A = sin A / cos A.",
+            "The reciprocal ratios: cosec A = 1/sin A, sec A = 1/cos A, cot A = 1/tan A = cos A/sin A.",
+            "Ratios depend only on the angle, not on the size of the triangle, because right triangles sharing an acute angle are similar.",
+            "Only three sides matter: hypotenuse (longest, opposite the right angle), side opposite to A and side adjacent to A."
+          ],
+          "keyTerms": [
+            {"term": "hypotenuse", "meaning": "The longest side of a right triangle, lying opposite the 90 degree angle."},
+            {"term": "opposite side", "meaning": "The side facing the given acute angle; also called the perpendicular."},
+            {"term": "adjacent side", "meaning": "The side next to the given acute angle that is not the hypotenuse; also called the base."}
+          ],
+          "trick": "SOH-CAH-TOA: Sin = Opposite/Hypotenuse, Cos = Adjacent/Hypotenuse, Tan = Opposite/Adjacent; reciprocals simply flip each ratio.",
+          "examPointer": "If two sides are given, find the third by Pythagoras before writing ratios; for AB = 5, BC = 12 with the right angle at B, AC = sqrt(5^2 + 12^2) = 13, so sin A = 12/13, cos A = 5/13 and tan C = 5/12."
+        },
+        {
+          "heading": "Values of Ratios at Standard Angles",
+          "points": [
+            "sin 0 = 0, sin 30 = 1/2, sin 45 = 1/sqrt2 = sqrt2/2, sin 60 = sqrt3/2, sin 90 = 1.",
+            "cos 0 = 1, cos 30 = sqrt3/2, cos 45 = sqrt2/2, cos 60 = 1/2, cos 90 = 0.",
+            "tan 0 = 0, tan 30 = 1/sqrt3, tan 45 = 1, tan 60 = sqrt3, tan 90 is not defined.",
+            "cosec 30 = 2, cosec 45 = sqrt2, cosec 60 = 2/sqrt3, cosec 90 = 1, while cosec 0 is not defined.",
+            "sec 0 = 1, sec 30 = 2/sqrt3, sec 45 = sqrt2, sec 60 = 2, while sec 90 is not defined.",
+            "cot 30 = sqrt3, cot 45 = 1, cot 60 = 1/sqrt3, cot 90 = 0, while cot 0 is not defined."
+          ],
+          "keyTerms": [
+            {"term": "standard angles", "meaning": "The angles 0, 30, 45, 60 and 90 degrees whose ratio values are memorised."},
+            {"term": "not defined", "meaning": "A ratio whose denominator is 0, such as tan 90 or cot 0; it has no numerical value."}
+          ],
+          "trick": "Table trick: write 0, 1, 2, 3, 4, divide each by 4 and take the square root to get the sin row: 0, 1/2, 1/sqrt2, sqrt3/2, 1. Reverse the row for cos and divide sin by cos for tan.",
+          "examPointer": "tan 90, sec 90, cosec 0 and cot 0 are not defined because their denominators become 0; MCQs love this trap."
+        },
+        {
+          "heading": "Complementary Angle Relations",
+          "points": [
+            "Two angles are complementary when their sum is 90 degrees.",
+            "sin(90 - A) = cos A and cos(90 - A) = sin A.",
+            "tan(90 - A) = cot A and cot(90 - A) = tan A.",
+            "sec(90 - A) = cosec A and cosec(90 - A) = sec A.",
+            "Consequence: tan A × tan(90 - A) = 1, since tan(90 - A) = cot A = 1/tan A.",
+            "To evaluate any expression containing (90 - A), convert it to the partner ratio of A before substituting values."
+          ],
+          "keyTerms": [
+            {"term": "complementary angles", "meaning": "A pair of angles whose sum is 90 degrees."},
+            {"term": "partner ratio", "meaning": "The ratio obtained by swapping sin-cos, tan-cot or sec-cosec when the angle becomes 90 minus A."}
+          ],
+          "trick": "Married pairs: sin weds cos, tan weds cot, sec weds cosec; whenever you see 90 minus an angle, switch to the partner.",
+          "examPointer": "If sin(A + 20) = cos(A - 10), the two angles must be complementary: A + 20 + A - 10 = 90 gives A = 40; this pattern appears as a 2-mark question."
+        },
+        {
+          "heading": "The Three Fundamental Identities",
+          "points": [
+            "Identity 1: sin^2 A + cos^2 A = 1.",
+            "Identity 2: 1 + tan^2 A = sec^2 A.",
+            "Identity 3: 1 + cot^2 A = cosec^2 A.",
+            "Rearrangements to memorise: sin^2 A = 1 - cos^2 A, tan^2 A = sec^2 A - 1, cot^2 A = cosec^2 A - 1.",
+            "Strategy for proofs: convert every ratio into sin and cos first, then simplify like algebra.",
+            "Helpers from algebra: (a + b)(a - b) = a^2 - b^2 and a^3 + b^3 = (a + b)(a^2 - ab + b^2)."
+          ],
+          "keyTerms": [
+            {"term": "identity", "meaning": "An equation that is true for every allowed value of the angle, not just special ones."},
+            {"term": "LHS and RHS", "meaning": "The left hand side and right hand side of the identity being proved."}
+          ],
+          "trick": "Pairing memory: tan pairs with sec (1 + tan^2 = sec^2) and cot pairs with cosec (1 + cot^2 = cosec^2), while sin stands alone with cos (sin^2 + cos^2 = 1).",
+          "examPointer": "Identity proofs carry step-wise marks; show the line where sin^2 A + cos^2 A is replaced by 1 explicitly instead of jumping ahead."
+        },
+        {
+          "heading": "Worked Mini-Example: An Identity Proof with Steps",
+          "points": [
+            "Question: prove that (sin A + cos A)(1 - sin A cos A) = sin^3 A + cos^3 A.",
+            "Step 1: start from the RHS and apply the cube formula x^3 + y^3 = (x + y)(x^2 - xy + y^2) with x = sin A and y = cos A.",
+            "Step 2: RHS = (sin A + cos A)(sin^2 A - sin A cos A + cos^2 A).",
+            "Step 3: replace sin^2 A + cos^2 A by 1, so RHS = (sin A + cos A)(1 - sin A cos A), which equals the LHS.",
+            "Step 4: hence the identity is true for every value of angle A and the proof is complete."
+          ],
+          "keyTerms": [
+            {"term": "cube formula", "meaning": "The algebraic identity x^3 + y^3 = (x + y)(x^2 - xy + y^2) used inside trigonometric proofs."},
+            {"term": "proof strategy", "meaning": "Begin from one side, usually the more complicated one, and transform it into the other side."}
+          ],
+          "trick": "Readymade forms worth memorising: sin^3 A + cos^3 A = (sin A + cos A)(1 - sin A cos A) and sin^3 A - cos^3 A = (sin A - cos A)(1 + sin A cos A).",
+          "examPointer": "Never manipulate both sides simultaneously; transform one side into the other to earn clean step marks."
+        },
+        {
+          "heading": "Common Mistakes and Evaluation Strategy",
+          "points": [
+            "Mistake 1: reading sin A as sin multiplied by A; sin A is a single symbol meaning sine of angle A.",
+            "Mistake 2: assuming sin(A + B) = sin A + sin B; splitting angles like this is not allowed in Class 10.",
+            "Mistake 3: treating tan 90, sec 90, cosec 0 or cot 0 as numbers; they are not defined.",
+            "Mistake 4: leaving answers as 1/sqrt2 instead of writing sqrt2/2 when the question asks to simplify or rationalise.",
+            "Mistake 5: forgetting that sin^2 A means (sin A)^2, the square of the whole ratio.",
+            "Strategy for evaluation questions: substitute all standard values at once, combine into a single fraction, then simplify."
+          ],
+          "keyTerms": [
+            {"term": "evaluation", "meaning": "Finding the numerical value of an expression by substituting known angle values."},
+            {"term": "rationalise", "meaning": "Removing a surd like sqrt2 or sqrt3 from the denominator of a fraction."}
+          ],
+          "trick": "Evaluate in a fixed order: substitute, common denominator, cancel, rationalise; a fixed routine prevents silly slips.",
+          "examPointer": "Example to master: 2 tan^2 45 + cos^2 30 - sin^2 60 = 2 + 3/4 - 3/4 = 2; notice how cos^2 30 and sin^2 60 cancel."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "The value of sin 30 + cos 60 is",
+          "options": ["1", "1/2", "sqrt3/2", "0"],
+          "answerIndex": 0,
+          "explanation": "sin 30 = 1/2 and cos 60 = 1/2, so the sum is 1/2 + 1/2 = 1.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "If sin A = 3/5, then cos A equals",
+          "options": ["3/4", "4/5", "5/3", "5/4"],
+          "answerIndex": 1,
+          "explanation": "cos^2 A = 1 - sin^2 A = 1 - 9/25 = 16/25, so cos A = 4/5 for acute angle A.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The value of cosec 30 is",
+          "options": ["1/2", "sqrt3", "2", "2/sqrt3"],
+          "answerIndex": 2,
+          "explanation": "cosec 30 = 1/sin 30 = 1/(1/2) = 2.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "sin(90 - A) is equal to",
+          "options": ["sin A", "tan A", "cot A", "cos A"],
+          "answerIndex": 3,
+          "explanation": "Complementary relation: sin(90 - A) = cos A for every angle A.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "(1 + tan^2 A)(1 - sin^2 A) equals",
+          "options": ["1", "sec^2 A", "tan^2 A", "cos^2 A"],
+          "answerIndex": 0,
+          "explanation": "1 + tan^2 A = sec^2 A and 1 - sin^2 A = cos^2 A; their product is sec^2 A × cos^2 A = 1.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The value of tan 1 × tan 2 × tan 3 × ... × tan 89 (all angles in degrees) is",
+          "options": ["0", "1", "89", "not defined"],
+          "answerIndex": 1,
+          "explanation": "Pair tan A with tan(90 - A); each pair multiplies to 1 and tan 45 = 1, so the whole product is 1.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "If tan(A + B) = sqrt3 and tan(A - B) = 1/sqrt3, where 0 < A + B <= 90 degrees and A > B, then angle A is",
+          "options": ["30 degrees", "60 degrees", "15 degrees", "45 degrees"],
+          "answerIndex": 3,
+          "explanation": "tan 60 = sqrt3 gives A + B = 60 and tan 30 = 1/sqrt3 gives A - B = 30; adding, 2A = 90, so A = 45 and B = 15.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "If sec A = 13/12, then sin A equals",
+          "options": ["12/13", "5/12", "13/5", "12/5"],
+          "answerIndex": 1,
+          "explanation": "cos A = 12/13, so sin A = sqrt(1 - 144/169) = sqrt(25/169) = 5/12 using the 5-12-13 triple.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "If sin A + cos A = 1, then sin A cos A equals",
+          "options": ["1", "1/2", "0", "-1"],
+          "answerIndex": 2,
+          "explanation": "Squaring gives sin^2 A + cos^2 A + 2 sin A cos A = 1, so 1 + 2 sin A cos A = 1 and hence sin A cos A = 0.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "If cosec A - cot A = 1/2, then cot A equals",
+          "options": ["1/2", "3/4", "2/3", "3/2"],
+          "answerIndex": 1,
+          "explanation": "cosec^2 A - cot^2 A = 1 gives (cosec A - cot A)(cosec A + cot A) = 1, so cosec A + cot A = 2; subtracting, 2 cot A = 2 - 1/2 = 3/2 and cot A = 3/4.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "If sin A = 3/4, find the values of cosec A and cot A.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: cosec A = 1/sin A = 4/3. Step 2: cos A = sqrt(1 - sin^2 A) = sqrt(1 - 9/16) = sqrt(7/16) = sqrt7/4 for acute angle A. Step 3: cot A = cos A/sin A = (sqrt7/4)/(3/4) = sqrt7/3. Answer: cosec A = 4/3 and cot A = sqrt7/3."
+        },
+        {
+          "question": "Evaluate: sin 60 cos 30 + sin 30 cos 60.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: substitute sin 60 = sqrt3/2, cos 30 = sqrt3/2, sin 30 = 1/2 and cos 60 = 1/2. Step 2: the expression = (sqrt3/2)(sqrt3/2) + (1/2)(1/2) = 3/4 + 1/4. Step 3: 3/4 + 1/4 = 1. Answer: 1."
+        },
+        {
+          "question": "Prove that (sin A + cosec A)^2 + (cos A + sec A)^2 = 7 + tan^2 A + cot^2 A.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Step 1: expand LHS = sin^2 A + cosec^2 A + 2 sin A cosec A + cos^2 A + sec^2 A + 2 cos A sec A. Step 2: since sin A cosec A = 1 and cos A sec A = 1, LHS = sin^2 A + cos^2 A + cosec^2 A + sec^2 A + 4. Step 3: replace sin^2 A + cos^2 A by 1, so LHS = 5 + cosec^2 A + sec^2 A. Step 4: use cosec^2 A = 1 + cot^2 A and sec^2 A = 1 + tan^2 A, giving LHS = 5 + 1 + cot^2 A + 1 + tan^2 A = 7 + tan^2 A + cot^2 A = RHS. Answer: proved."
+        },
+        {
+          "question": "If tan(A + B) = sqrt3 and tan(A - B) = 1/sqrt3, with 0 < A + B <= 90 degrees and A > B, find angles A and B.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: tan 60 = sqrt3 and A + B is at most 90 degrees, so A + B = 60 degrees. Step 2: tan 30 = 1/sqrt3, so A - B = 30 degrees. Step 3: adding the two equations gives 2A = 90, hence A = 45 degrees. Step 4: then B = 60 - 45 = 15 degrees. Answer: A = 45 degrees and B = 15 degrees."
+        },
+        {
+          "question": "If tan A + sin A = m and tan A - sin A = n, show that m^2 - n^2 = 4 sqrt(mn).",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "Step 1: m^2 - n^2 = (m + n)(m - n) = (tan A + sin A + tan A - sin A)(tan A + sin A - tan A + sin A) = (2 tan A)(2 sin A) = 4 tan A sin A. Step 2: mn = (tan A + sin A)(tan A - sin A) = tan^2 A - sin^2 A = sin^2 A(1/cos^2 A - 1) = sin^2 A tan^2 A. Step 3: sqrt(mn) = sqrt(sin^2 A tan^2 A) = sin A tan A for acute angle A. Step 4: therefore 4 sqrt(mn) = 4 sin A tan A = m^2 - n^2. Answer: m^2 - n^2 = 4 sqrt(mn), proved."
+        },
+        {
+          "question": "Prove that (cosec A - sin A)(sec A - cos A)(tan A + cot A) = 1.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Step 1: cosec A - sin A = 1/sin A - sin A = (1 - sin^2 A)/sin A = cos^2 A/sin A. Step 2: sec A - cos A = 1/cos A - cos A = (1 - cos^2 A)/cos A = sin^2 A/cos A. Step 3: tan A + cot A = sin A/cos A + cos A/sin A = (sin^2 A + cos^2 A)/(sin A cos A) = 1/(sin A cos A). Step 4: the product = (cos^2 A/sin A) × (sin^2 A/cos A) × 1/(sin A cos A) = (sin A cos A) × 1/(sin A cos A) = 1. Answer: the expression equals 1, proved."
+        },
+        {
+          "question": "A public library is building a wheelchair ramp that rises to a height of 1.5 m at the entrance. Safety rules require the ramp to make an angle of elevation of 30 degrees with the ground. Use sqrt3 = 1.732 and sqrt2 = 1.414. (a) Find the length of the ramp along its sloping surface. (b) Find the horizontal distance the ramp covers on the ground. (c) If the rule had allowed 45 degrees instead, what would the ramp length be?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "Step 1 (a): sin 30 = height/ramp length = 1.5/L, so L = 1.5/(1/2) = 3 m. Step 2 (b): tan 30 = 1.5/d, so d = 1.5 × sqrt3 = 1.5 × 1.732 = 2.598, that is about 2.60 m. Step 3 (c): with 45 degrees, L = 1.5/sin 45 = 1.5 × sqrt2 = 1.5 × 1.414 = 2.121, that is about 2.12 m. Answer: (a) ramp length = 3 m, (b) horizontal distance = 2.60 m approximately, (c) ramp length at 45 degrees = 2.12 m approximately."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Some Applications of Trigonometry",
+      "summary": "Heights and distances apply trigonometric ratios to real situations such as towers, ladders, kites, cliffs and boats. The two key ideas are the angle of elevation (looking up) and the angle of depression (looking down), both measured from the horizontal line of the observer. Almost every board question is solved by drawing a right triangle and using tan theta = height / distance, with sqrt3 = 1.732 for the final rounding.",
+      "weightageMarks": 4,
+      "difficulty": "hard",
+      "hotTopics": [
+        "Angle of elevation and depression",
+        "Tower height from tan theta",
+        "Moving observer two-position problems",
+        "Ladder and kite applications",
+        "Angle of depression from a lighthouse",
+        "Rounding with sqrt3 = 1.732"
+      ],
+      "sections": [
+        {
+          "heading": "Line of Sight: Elevation and Depression",
+          "points": [
+            "The line of sight is the straight ray from the eye of the observer to the object being viewed.",
+            "Angle of elevation: when the object is above the horizontal level of the eye, the angle between the horizontal line and the line of sight.",
+            "Angle of depression: when the object is below the horizontal level of the eye, the angle between the horizontal line and the line of sight.",
+            "The angle of elevation from A to B always equals the angle of depression from B to A, since the two horizontal lines are parallel and the angles are alternate interior angles.",
+            "Both angles are always measured from the horizontal, never from the vertical.",
+            "The horizontal line, the vertical object and the line of sight form a right triangle, so all six trigonometric ratios are available."
+          ],
+          "keyTerms": [
+            {"term": "line of sight", "meaning": "The straight line joining the eye of the observer to the point being observed."},
+            {"term": "angle of elevation", "meaning": "The angle between the horizontal and the line of sight when the object is above eye level."},
+            {"term": "angle of depression", "meaning": "The angle between the horizontal and the line of sight when the object is below eye level."}
+          ],
+          "trick": "Elevation = eyes up (object above), depression = eyes down (object below); both angles sit at the eye of the observer on the horizontal line.",
+          "examPointer": "Begin every question with a labelled rough figure; without the right triangle of ground, height and line of sight, the correct ratio cannot be chosen."
+        },
+        {
+          "heading": "Core Formulas for Heights and Distances",
+          "points": [
+            "tan theta = vertical height / horizontal distance, so h = d tan theta and d = h/tan theta.",
+            "If theta = 45 degrees, then h = d: the height equals the horizontal distance from the foot.",
+            "If theta = 30 degrees, then d = h sqrt3 = 1.732 h.",
+            "If theta = 60 degrees, then h = d sqrt3.",
+            "The angle of elevation increases as the observer moves closer to the object along the same horizontal line.",
+            "If the eye of the observer is e metres above the ground, the total height of the object = e + d tan theta."
+          ],
+          "keyTerms": [
+            {"term": "theta", "meaning": "The angle of elevation or depression used in the right triangle model."},
+            {"term": "horizontal distance", "meaning": "The ground distance between the observer and the foot of the vertical object."}
+          ],
+          "trick": "30-45-60 ladder of tan: tan 30 = 1/sqrt3 (object appears low), tan 45 = 1 (height = distance), tan 60 = sqrt3 (object appears high).",
+          "examPointer": "Whenever the height of the observer (commonly 1.5 m) is given, add it at the end; missing this step is the single biggest mark loser in this chapter."
+        },
+        {
+          "heading": "Two-Position Problems: The Moving Observer",
+          "points": [
+            "If the angles of elevation from a far point and a near point on the same side are a and b, and the points are D apart, then h(cot a - cot b) = D.",
+            "Hence h = D/(cot a - cot b); for the common pair 30 and 60 degrees, h = D sqrt3/2.",
+            "With angles 30 and 60: distance of the far point from the base = h sqrt3, distance of the near point = h/sqrt3, and their difference = 2h/sqrt3.",
+            "From the top of a tower of height h, if the angles of depression to two objects are b (far) and a (near) with b < a, the distance between the objects is h(cot b - cot a).",
+            "Always verify the answer by checking that far distance minus near distance equals the given separation D.",
+            "The two observation points lie on the same straight horizontal line through the foot of the object unless the question states otherwise."
+          ],
+          "keyTerms": [
+            {"term": "separation", "meaning": "The given distance between the two observation points on the same side of the object."},
+            {"term": "moving observer", "meaning": "A setup where the angle of elevation changes as the observer walks towards or away from the object."}
+          ],
+          "trick": "For the 30-60 pair, jump straight to h = D sqrt3/2 and D = 2h/sqrt3; with sqrt3 = 1.732, h = 0.866 D approximately.",
+          "examPointer": "A 5-mark two-position question expects: figure, two tan equations, subtraction of the cotangents, value of h and the check with D."
+        },
+        {
+          "heading": "Ladders, Kites, Strings and Shadows",
+          "points": [
+            "A ladder against a wall is the hypotenuse: height reached = L sin theta and foot distance from wall = L cos theta, where L is the ladder length and theta its angle with the ground.",
+            "When a ladder slips, its length L stays constant; only the height and the base distance change.",
+            "Kite problems: the string is the hypotenuse, height of kite = string length × sin theta, horizontal distance = string length × cos theta.",
+            "Shadow problems: tan theta = height/shadow; shadow = height gives theta = 45 degrees, shadow = sqrt3 × height gives theta = 30 degrees, shadow = height/sqrt3 gives theta = 60 degrees.",
+            "Broken tree problems: the broken upper part acts as the hypotenuse; original height = standing part + height reached by the broken part.",
+            "At a given moment the angle of elevation of the Sun is the same for all objects, so a tall pole and a short stick share one angle."
+          ],
+          "keyTerms": [
+            {"term": "hypotenuse", "meaning": "The slanting member in ladder, kite and broken-tree models; its length is usually given directly."},
+            {"term": "shadow length", "meaning": "The horizontal distance from the foot of the object to the tip of its shadow."}
+          ],
+          "trick": "Hypotenuse known: multiply by sin for the vertical rise and by cos for the horizontal reach; sin looks up, cos lies flat.",
+          "examPointer": "Example worth memorising: a 10 m ladder at 60 degrees reaches 10 sin 60 = 5 sqrt3 = 8.66 m up the wall and its foot is 10 cos 60 = 5 m from the wall."
+        },
+        {
+          "heading": "Worked Mini-Example: Tower with a Moving Observer",
+          "points": [
+            "Question: from a point A on the ground the angle of elevation of the top of a tower is 30 degrees. On walking 20 m towards the tower to point B the angle becomes 60 degrees. Find the height of the tower (sqrt3 = 1.732).",
+            "Step 1: h(cot 30 - cot 60) = AB = 20, so h(sqrt3 - 1/sqrt3) = 20.",
+            "Step 2: h(2/sqrt3) = 20, hence h = 20 sqrt3/2 = 10 sqrt3.",
+            "Step 3: h = 10 × 1.732 = 17.32 m.",
+            "Check: distance of A from the tower = h sqrt3 = 30 m and of B = h/sqrt3 = 10 m; the difference is 20 m, matching the walk."
+          ],
+          "keyTerms": [
+            {"term": "cross-check", "meaning": "Verifying that far distance minus near distance reproduces the given separation."},
+            {"term": "tower height", "meaning": "The vertical distance from the ground to the top of the tower, usually denoted h."}
+          ],
+          "trick": "Whenever the angles are 30 and 60, quote h = (D sqrt3)/2 immediately; here D = 20 m gives h = 10 sqrt3 = 17.32 m in one line.",
+          "examPointer": "Write the final answer as 17.32 m (two decimals), not 17.3, unless the question specifically asks for one decimal place."
+        },
+        {
+          "heading": "Common Mistakes and Exam Strategy",
+          "points": [
+            "Mistake 1: interchanging elevation and depression; depression is measured downwards from the horizontal at the top of a tall object like a lighthouse.",
+            "Mistake 2: using sin or cos where tan is needed; with ground distance and vertical height, tan is the correct ratio.",
+            "Mistake 3: forgetting to add the height of the observer, such as 1.5 m, to the height computed above eye level.",
+            "Mistake 4: rounding sqrt3 too early; keep 1.732 till the last step, then round to two decimals as instructed.",
+            "Mistake 5: placing the two observation points on opposite sides of the tower unless the question clearly says so.",
+            "Strategy: figure, equation, simplification, answer with units; this four-part structure earns full marks in every height-and-distance question."
+          ],
+          "keyTerms": [
+            {"term": "eye level", "meaning": "The horizontal line through the eyes of the observer from which elevation and depression are measured."},
+            {"term": "rounding", "meaning": "Writing the final value to the number of decimal places the question demands."}
+          ],
+          "trick": "Sketch first, formula second, arithmetic last; almost every wrong answer in this chapter traces back to a skipped or mislabelled sketch.",
+          "examPointer": "Lighthouse and cliff questions use depression from the top; convert each depression angle into the matching elevation angle at the object before writing the tan equation."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "A vertical pole of height h casts a shadow of length h on level ground. The angle of elevation of the Sun is",
+          "options": ["30 degrees", "45 degrees", "60 degrees", "90 degrees"],
+          "answerIndex": 1,
+          "explanation": "tan theta = h/h = 1, so theta = 45 degrees.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "As an observer walks towards a tower along level ground, the angle of elevation of the top of the tower",
+          "options": ["decreases", "stays the same", "increases", "becomes 0"],
+          "answerIndex": 2,
+          "explanation": "Moving closer reduces the horizontal distance while the height stays fixed, so tan theta = h/d increases and theta increases.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The angle between the horizontal line and the line of sight when the object is above eye level is called the",
+          "options": ["angle of depression", "angle of elevation", "angle of reflection", "angle of deviation"],
+          "answerIndex": 1,
+          "explanation": "Looking up to an object above eye level gives the angle of elevation by definition.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "From a point on level ground at a distance equal to the height of a tower, the angle of elevation of the top of the tower is",
+          "options": ["45 degrees", "30 degrees", "60 degrees", "75 degrees"],
+          "answerIndex": 0,
+          "explanation": "tan theta = h/h = 1, so theta = 45 degrees.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The shadow of a vertical pole is sqrt3 times the height of the pole. The angle of elevation of the Sun is",
+          "options": ["45 degrees", "60 degrees", "30 degrees", "15 degrees"],
+          "answerIndex": 2,
+          "explanation": "tan theta = h/(sqrt3 h) = 1/sqrt3, so theta = 30 degrees.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A ladder 10 m long leans against a wall making 60 degrees with the ground. The height reached on the wall is",
+          "options": ["5 m", "5/sqrt3 m", "5 sqrt3 m", "10 sqrt3 m"],
+          "answerIndex": 2,
+          "explanation": "Height = 10 sin 60 = 10 × sqrt3/2 = 5 sqrt3 = 8.66 m approximately.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "From the top of a 20 m high tower the angle of depression of a car on the ground is 30 degrees. The distance of the car from the foot of the tower is",
+          "options": ["20 sqrt3 m", "20/sqrt3 m", "20 m", "40 m"],
+          "answerIndex": 0,
+          "explanation": "tan 30 = 20/d, so d = 20/tan 30 = 20 sqrt3 = 34.64 m approximately.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A kite is flying with 100 m of string out, making 60 degrees with the ground. The height of the kite above the ground is",
+          "options": ["50 sqrt3 m", "50 m", "100 sqrt3 m", "50/sqrt3 m"],
+          "answerIndex": 0,
+          "explanation": "Height = 100 sin 60 = 50 sqrt3 = 86.6 m approximately.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "From two points at distances 30 m and 10 m from the base of a tower on the same side, the angles of elevation of the top are 30 degrees and 60 degrees respectively. The height of the tower is",
+          "options": ["20 sqrt3 m", "10 sqrt3 m", "30 m", "10 m"],
+          "answerIndex": 1,
+          "explanation": "h(cot 30 - cot 60) = 30 - 10 = 20 gives h(2/sqrt3) = 20, so h = 10 sqrt3 = 17.32 m; check h sqrt3 = 30 and h/sqrt3 = 10.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "From the top of a cliff 150 m high, the angles of depression of two boats in the same straight line with the base, on the same side, are 30 degrees and 60 degrees. The distance between the boats is",
+          "options": ["150 sqrt3 m", "50 sqrt3 m", "100 m", "100 sqrt3 m"],
+          "answerIndex": 3,
+          "explanation": "Distances are 150/tan 30 = 150 sqrt3 and 150/tan 60 = 150/sqrt3; difference = 150(2/sqrt3) = 100 sqrt3 = 173.2 m approximately.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "A vertical tower stands on level ground. From a point on the ground, the angle of elevation of the top of the 50 m high tower is 60 degrees. Find the distance of the point from the foot of the tower. Use sqrt3 = 1.732.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: tan 60 = height/distance = 50/d. Step 2: d = 50/tan 60 = 50/sqrt3 = 50 × 1.732/3 = 28.87 m approximately. Answer: the point is about 28.87 m from the foot of the tower."
+        },
+        {
+          "question": "From the top of a 30 m high lighthouse, the angle of depression of a ship is 30 degrees. Find the distance of the ship from the lighthouse. Use sqrt3 = 1.732.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: the angle of depression of 30 degrees equals the angle of elevation from the ship, so tan 30 = 30/d. Step 2: d = 30/tan 30 = 30 sqrt3 = 30 × 1.732 = 51.96 m. Answer: the ship is about 51.96 m from the lighthouse."
+        },
+        {
+          "question": "A ladder 15 m long leans against a vertical wall making an angle of 60 degrees with the ground. Find the height of the top of the ladder above the ground and the distance of the foot of the ladder from the wall. Use sqrt3 = 1.732.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: height = L sin 60 = 15 × sqrt3/2 = 7.5 sqrt3 = 7.5 × 1.732 = 12.99 m. Step 2: distance of the foot from the wall = L cos 60 = 15 × 1/2 = 7.5 m. Step 3: check 12.99^2 + 7.5^2 is approximately 168.74 + 56.25 = 225 = 15^2, consistent. Answer: height = 12.99 m approximately and foot distance = 7.5 m."
+        },
+        {
+          "question": "An observer 1.5 m tall is 28.5 m away from a tower. The angle of elevation of the top of the tower from her eyes is 45 degrees. Find the height of the tower.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: height of the tower above eye level = distance × tan 45 = 28.5 × 1 = 28.5 m. Step 2: total height of the tower = eye height + height above eye level = 1.5 + 28.5. Step 3: total = 30 m. Answer: the tower is 30 m high."
+        },
+        {
+          "question": "The angles of elevation of a hot air balloon from two stations A and B on level ground, in line with the balloon and 400 m apart, are 30 degrees from A and 60 degrees from B, where B is closer to the balloon. Find the height of the balloon above the ground. Use sqrt3 = 1.732.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "Step 1: let h be the height; then h(cot 30 - cot 60) = AB = 400. Step 2: cot 30 - cot 60 = sqrt3 - 1/sqrt3 = 2/sqrt3, so h × 2/sqrt3 = 400. Step 3: h = 400 × sqrt3/2 = 200 sqrt3. Step 4: h = 200 × 1.732 = 346.4 m. Answer: the balloon is about 346.4 m above the ground."
+        },
+        {
+          "question": "From a point on the ground, the angle of elevation of the bottom of a statue on a pedestal is 45 degrees and of the top of the statue is 60 degrees. The pedestal is 1.6 m high. Find the height of the statue. Use sqrt3 = 1.732.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Step 1: for the top of the pedestal at 45 degrees, the distance d of the point from the pedestal satisfies tan 45 = 1.6/d, so d = 1.6 m. Step 2: total height of pedestal plus statue = d tan 60 = 1.6 sqrt3 = 1.6 × 1.732 = 2.7712 m. Step 3: height of the statue = 2.7712 - 1.6 = 1.1712 m. Answer: the statue is about 1.17 m tall."
+        },
+        {
+          "question": "A drone is hovering above a straight walking path in a park. Two friends stand at points A and B on the path, 40 m apart, with B closer to the point C on the ground vertically below the drone. The angles of elevation of the drone from A and B are 30 degrees and 60 degrees respectively. Use sqrt3 = 1.732. (a) Find the height of the drone above the ground. (b) Find the distance BC. (c) If the drone descends to a height of 20 m, what will be the angle of elevation of the drone from B?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "Step 1 (a): h(cot 30 - cot 60) = AB = 40, so h(2/sqrt3) = 40 and h = 20 sqrt3 = 34.64 m approximately. Step 2 (b): BC = h/tan 60 = 20 sqrt3/sqrt3 = 20 m, and AC = h/tan 30 = 20 sqrt3 × sqrt3 = 60 m, confirming AC - BC = 40 m. Step 3 (c): at height 20 m, tan theta = 20/BC = 20/20 = 1, so theta = 45 degrees. Answer: (a) height = 34.64 m approximately, (b) BC = 20 m, (c) angle of elevation from B = 45 degrees."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Circles",
+      "summary": "A tangent touches a circle at exactly one point and is perpendicular to the radius through the point of contact. The chapter proves two core theorems: the perpendicularity of tangent and radius, and the equality of tangent lengths drawn from an external point. Tangent-length calculations via Pythagoras and concentric-circle chord problems complete the chapter.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Tangent perpendicular to radius theorem",
+        "Equal tangents from an external point",
+        "Tangent length by Pythagoras",
+        "Chord of concentric circles",
+        "Number of tangents from a point",
+        "Proof format with RHS congruence"
+      ],
+      "sections": [
+        {
+          "heading": "Tangents, Secants and the Number of Tangents",
+          "points": [
+            "A tangent to a circle is a line that touches the circle at exactly one point, called the point of contact.",
+            "A secant is a line that cuts the circle at two points; a tangent is the limiting case of a secant when the two intersection points move together.",
+            "From a point inside the circle, 0 tangents can be drawn; from a point on the circle, exactly 1; from an external point, exactly 2.",
+            "The tangent at the point of contact is perpendicular to the radius through that point.",
+            "There is exactly one tangent at each point of the circle, and it cannot cut the circle a second time anywhere."
+          ],
+          "keyTerms": [
+            {"term": "tangent", "meaning": "A line touching a circle at exactly one point."},
+            {"term": "point of contact", "meaning": "The single common point of the tangent and the circle."},
+            {"term": "secant", "meaning": "A line that intersects a circle at two distinct points."}
+          ],
+          "trick": "0-1-2 rule: inside zero tangents, on the circle one, outside two; it answers most definition MCQs instantly.",
+          "examPointer": "The sentence a tangent is a special case of a secant when the two points of intersection coincide is a ready-made 1-mark definition answer."
+        },
+        {
+          "heading": "Theorem: Tangent is Perpendicular to Radius",
+          "points": [
+            "Statement: the tangent at any point of a circle is perpendicular to the radius through the point of contact.",
+            "Given: a circle with centre O and a tangent XY touching the circle at P; to prove OP is perpendicular to XY.",
+            "Proof idea: take any point Q on XY other than P; Q lies outside the circle, so OQ is greater than the radius OP.",
+            "Thus OP is the shortest distance from O to the line XY, and the shortest distance from a point to a line is along the perpendicular; hence OP is perpendicular to XY.",
+            "Converse: a line through the point of contact drawn perpendicular to the radius is a tangent to the circle; this is used to test whether a given line touches a circle."
+          ],
+          "keyTerms": [
+            {"term": "perpendicular", "meaning": "Making an angle of 90 degrees with a given line."},
+            {"term": "converse", "meaning": "The reversed statement: a radius perpendicular to a line at its end point on the circle makes that line a tangent."}
+          ],
+          "trick": "One-line reason to memorise: the radius is the shortest distance from the centre to the tangent, and the shortest distance is always perpendicular.",
+          "examPointer": "Write the proof as Given, To Prove, Construction, Proof; the sentence every other point Q on the tangent lies outside the circle so OQ > OP carries the main mark."
+        },
+        {
+          "heading": "Theorem: Tangents from an External Point are Equal",
+          "points": [
+            "Statement: the lengths of the two tangents drawn from an external point to a circle are equal.",
+            "Given: tangents PA and PB from an external point P touching the circle at A and B; to prove PA = PB.",
+            "Proof: join OA, OB and OP; triangles OAP and OBP are right angled at A and B because tangents are perpendicular to radii.",
+            "OA = OB (radii), OP = OP (common side) and angle OAP = angle OBP = 90 degrees, so the triangles are congruent by RHS; hence PA = PB.",
+            "Bonus results: OP bisects the angle APB between the tangents and also the angle AOB between the radii."
+          ],
+          "keyTerms": [
+            {"term": "RHS congruence", "meaning": "Right angle, Hypotenuse, Side: the congruence rule used for right triangles."},
+            {"term": "chord of contact", "meaning": "The chord AB joining the two points of contact from an external point; OP is its perpendicular bisector."}
+          ],
+          "trick": "The external point picture is a kite: PA = PB and OP is the axis of symmetry, cutting both the tangent angle and the radius angle in half.",
+          "examPointer": "After proving PA = PB, add one line: also, OP bisects angle APB; examiners reward this observation in 3-mark and 5-mark proofs."
+        },
+        {
+          "heading": "Tangent Length by Pythagoras",
+          "points": [
+            "In right triangle OPA, OA = r (radius) and OP = d (distance of the external point from the centre), with the right angle at the contact point A.",
+            "Length of tangent from P: PA = sqrt(d^2 - r^2).",
+            "Reverse use: d = sqrt(r^2 + PA^2) and r = sqrt(d^2 - PA^2).",
+            "Example: r = 5 cm and d = 13 cm gives PA = sqrt(169 - 25) = sqrt144 = 12 cm.",
+            "The angle between the two tangents from P and the angle between the two radii to the contact points add to 180 degrees, because the quadrilateral has two right angles.",
+            "OP bisects both those angles, so half of the tangent angle appears inside right triangle OPA."
+          ],
+          "keyTerms": [
+            {"term": "tangent length", "meaning": "The distance from the external point to the point of contact."},
+            {"term": "Pythagoras theorem", "meaning": "In a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides."}
+          ],
+          "trick": "Memorise the triples 3-4-5, 5-12-13, 6-8-10, 8-15-17, 7-24-25; MCQs are built on them and each saves half a minute.",
+          "examPointer": "Angle chain for MCQs: if the angle between tangents is 80 degrees, the angle between radii is 100 degrees and angle POA (O centre, A contact point) is 50 degrees."
+        },
+        {
+          "heading": "Worked Mini-Example: Chord Touching an Inner Circle",
+          "points": [
+            "Question: two concentric circles have radii 5 cm and 3 cm; find the length of the chord of the larger circle that touches the smaller circle.",
+            "Step 1: let chord AB of the larger circle touch the smaller circle at M; join OM and OB, so OM = 3 cm and OB = 5 cm.",
+            "Step 2: OM is perpendicular to AB because AB is a tangent to the smaller circle at M.",
+            "Step 3: the perpendicular from the centre to a chord bisects it, so AM = MB = half of AB.",
+            "Step 4: in right triangle OMB, BM = sqrt(OB^2 - OM^2) = sqrt(25 - 9) = 4 cm, hence AB = 8 cm."
+          ],
+          "keyTerms": [
+            {"term": "concentric circles", "meaning": "Circles with the same centre but different radii."},
+            {"term": "perpendicular from centre to chord", "meaning": "The line from the centre at right angles to a chord; it always bisects the chord."}
+          ],
+          "trick": "Concentric chord formula: chord of the outer circle touching the inner circle = 2 × sqrt(R^2 - r^2); here 2 × sqrt(25 - 9) = 8 cm.",
+          "examPointer": "This template repeats in boards every few years in 3-mark form; learn the steps, not just the answer."
+        },
+        {
+          "heading": "Common Mistakes and Exam Strategy",
+          "points": [
+            "Mistake 1: drawing the tangent crossing the circle; a tangent touches at exactly one point and must never cut the circle.",
+            "Mistake 2: forgetting the right angle between tangent and radius when applying Pythagoras.",
+            "Mistake 3: quoting the full chord when only the half chord has been computed; AB = 2 × BM always.",
+            "Mistake 4: applying the equal-tangents theorem to a point on the circle; it holds only for an external point with two tangents.",
+            "Mistake 5: writing SAS instead of RHS in the equal-tangents proof; the 90 degree angle must be quoted to justify RHS.",
+            "Strategy: separate lines for Given, To Prove, Construction and Proof keep the examiner on your side in every theorem question."
+          ],
+          "keyTerms": [
+            {"term": "half chord", "meaning": "The segment from the midpoint of a chord to an end point; equal to sqrt(R^2 - d^2) where d is the distance of the chord from the centre."},
+            {"term": "proof format", "meaning": "The four-part layout: Given, To Prove, Construction, Proof."}
+          ],
+          "trick": "Proof skeleton in six lines: statement, given, to prove, construction (join the radii and the external point), congruence or shortest-distance argument, hence proved.",
+          "examPointer": "Both tangent theorems are standard 3 or 5 mark proofs; practise writing each in under five minutes with all four labelled parts."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "The number of tangents that can be drawn to a circle from a point inside it is",
+          "options": ["0", "1", "2", "infinitely many"],
+          "answerIndex": 0,
+          "explanation": "Every line through an interior point cuts the circle at two points, so no tangent exists from an inside point.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The tangent at any point of a circle is ___ to the radius through the point of contact.",
+          "options": ["parallel", "perpendicular", "equal in length", "inclined at 45 degrees"],
+          "answerIndex": 1,
+          "explanation": "This is the fundamental tangent theorem: tangent and radius are perpendicular at the point of contact.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The number of tangents drawn from an external point to a circle is",
+          "options": ["0", "1", "2", "3"],
+          "answerIndex": 2,
+          "explanation": "An external point has exactly two tangents to the circle, and their lengths are equal.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "TP and TQ are tangents to a circle with centre O. If angle PTQ = 50 degrees, then angle POQ equals",
+          "options": ["50 degrees", "130 degrees", "100 degrees", "80 degrees"],
+          "answerIndex": 1,
+          "explanation": "Quadrilateral OPTQ has right angles at P and Q, so angle POQ = 360 - 90 - 90 - 50 = 130 degrees; the two angles are supplementary.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The length of the tangent from a point 13 cm from the centre of a circle of radius 5 cm is",
+          "options": ["8 cm", "13 cm", "12 cm", "sqrt13 cm"],
+          "answerIndex": 2,
+          "explanation": "Tangent length = sqrt(13^2 - 5^2) = sqrt(169 - 25) = sqrt144 = 12 cm.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Two concentric circles have radii 10 cm and 6 cm. The length of the chord of the larger circle that touches the smaller circle is",
+          "options": ["8 cm", "16 cm", "12 cm", "64 cm"],
+          "answerIndex": 1,
+          "explanation": "Chord = 2 × sqrt(10^2 - 6^2) = 2 × sqrt64 = 16 cm.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A tangent from an external point to a circle of radius 6 cm is 8 cm long. The distance of the point from the centre is",
+          "options": ["10 cm", "14 cm", "2 cm", "100 cm"],
+          "answerIndex": 0,
+          "explanation": "d^2 = r^2 + tangent^2 = 36 + 64 = 100, so d = 10 cm.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A circle is inscribed in quadrilateral PQRS with PQ = 6 cm, QR = 7 cm and RS = 4 cm. Then SP equals",
+          "options": ["3 cm", "4 cm", "5 cm", "9 cm"],
+          "answerIndex": 0,
+          "explanation": "Tangent segments from each vertex are equal, giving PQ + RS = QR + SP; so 6 + 4 = 7 + SP and SP = 3 cm.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "PA and PB are tangents from P to a circle with centre O and angle APB = 80 degrees. Then angle POA equals",
+          "options": ["40 degrees", "50 degrees", "100 degrees", "60 degrees"],
+          "answerIndex": 1,
+          "explanation": "OP bisects angle APB, so angle APO = 40 degrees; in right triangle OAP, angle AOP = 90 - 40 = 50 degrees, which is angle POA.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Tangents drawn from a point P to a circle of radius 7 cm make an angle of 60 degrees between them. The length of each tangent is",
+          "options": ["7 sqrt3 cm", "14 cm", "7 sqrt2 cm", "14 sqrt3 cm"],
+          "answerIndex": 0,
+          "explanation": "Half the tangent angle is 30 degrees; in right triangle OAP, tan 30 = r/PA, so PA = 7/tan 30 = 7 sqrt3 = 12.12 cm approximately.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Find the length of a tangent drawn from a point 17 cm away from the centre of a circle of radius 8 cm.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: the radius to the point of contact is perpendicular to the tangent, so the triangle with sides r = 8, tangent t and d = 17 is right angled. Step 2: t^2 = d^2 - r^2 = 289 - 64 = 225. Step 3: t = 15 cm. Answer: the tangent length is 15 cm."
+        },
+        {
+          "question": "From an external point Q, the length of the tangent to a circle is 24 cm and the distance of Q from the centre is 25 cm. Find the radius of the circle.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: the radius r, the tangent 24 and the centre distance 25 form a right triangle, so r^2 + 24^2 = 25^2. Step 2: r^2 = 625 - 576 = 49. Step 3: r = 7 cm. Answer: the radius is 7 cm."
+        },
+        {
+          "question": "Prove that the lengths of tangents drawn from an external point to a circle are equal.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Step 1 (Given): a circle with centre O and two tangents PA, PB drawn from an external point P touching the circle at A and B; to prove PA = PB. Step 2 (Construction): join OA, OB and OP. Step 3 (Proof): angle OAP = angle OBP = 90 degrees because a tangent is perpendicular to the radius at the point of contact. Step 4: in triangles OAP and OBP, OA = OB (radii), OP = OP (common) and the included right angles are equal, so the triangles are congruent by RHS. Step 5: hence PA = PB, since corresponding parts of congruent triangles are equal. Answer: proved, PA = PB, and OP also bisects angle APB."
+        },
+        {
+          "question": "Two concentric circles are of radii 13 cm and 5 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Step 1: let AB be the chord of the larger circle touching the smaller circle at M; join OM and OB. Step 2: OM is perpendicular to AB since AB is tangent to the smaller circle at M, and OM = 5 cm, OB = 13 cm. Step 3: the perpendicular from the centre bisects the chord, so BM = AB/2. Step 4: BM = sqrt(OB^2 - OM^2) = sqrt(169 - 25) = sqrt144 = 12 cm. Step 5: AB = 2 × 12 = 24 cm. Answer: the chord is 24 cm long."
+        },
+        {
+          "question": "Prove that the tangent at any point of a circle is perpendicular to the radius through the point of contact.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Step 1 (Given): a circle with centre O and a tangent XY touching it at P; to prove OP is perpendicular to XY. Step 2: take any point Q on XY other than P and join OQ. Step 3: every such Q lies outside the circle, so OQ is greater than the radius OP, that is OQ > OP for all points Q on XY with Q different from P. Step 4: therefore OP is the shortest of all distances from O to points of the line XY. Step 5: the shortest distance from a point to a line is along the perpendicular, hence OP is perpendicular to XY. Answer: proved; the radius through the point of contact is perpendicular to the tangent, and the converse also holds."
+        },
+        {
+          "question": "Prove that the angle between the two tangents drawn from an external point to a circle is supplementary to the angle subtended by the line segments joining the points of contact at the centre.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "Step 1 (Given): tangents PA and PB from an external point P touch the circle with centre O at A and B; to prove angle APB + angle AOB = 180 degrees. Step 2: OA is perpendicular to PA and OB is perpendicular to PB, so angle OAP = 90 degrees and angle OBP = 90 degrees. Step 3: in quadrilateral OAPB the sum of angles is 360 degrees. Step 4: angle AOB + angle OAP + angle APB + angle OBP = 360, that is angle AOB + 90 + angle APB + 90 = 360. Step 5: hence angle APB + angle AOB = 180 degrees. Answer: proved; the two angles are supplementary, for example 50 degrees and 130 degrees."
+        },
+        {
+          "question": "A circular garden of radius 10 m has its centre at O. Two straight walking trails from an entrance gate T touch the garden at points P and Q, and the gate is 26 m from O. (a) Find the length of each trail from T to the garden. (b) If a third straight trail from T also touches the garden at R, find TR and name the theorem used. (c) After expansion, a new gate S is 30 m from O; find the trail length from S to the garden.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "Step 1 (a): each trail is a tangent and the radius OP is perpendicular to TP, so TP^2 = OT^2 - OP^2 = 676 - 100 = 576, giving TP = 24 m. Step 2: since the two tangents from T are equal, TQ = 24 m as well. Step 3 (b): TR is also a tangent from the same external point T, so TR = 24 m by the theorem that tangents drawn from an external point to a circle are equal in length. Step 4 (c): for gate S, trail length = sqrt(OS^2 - r^2) = sqrt(900 - 100) = sqrt800 = 20 sqrt2 = 28.28 m approximately. Answer: (a) 24 m, (b) 24 m by the equal tangents theorem, (c) 28.28 m approximately."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Areas Related to Circles",
+      "summary": "Areas related to circles compute sectors, arcs and segments using fractions of the full circle. The two central formulas are sector area = (theta/360) × pi r^2 and minor segment area = sector minus triangle, written as (r^2/2)[(pi theta/180) - sin theta] with theta in degrees. Clock hands, wheels and ring-shaped designs supply the standard board questions.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Area of a sector",
+        "Length of an arc",
+        "Minor and major segment areas",
+        "Clock hand sweep problems",
+        "Ring area between concentric circles",
+        "Choosing pi = 22/7 or 3.14"
+      ],
+      "sections": [
+        {
+          "heading": "Area and Circumference of Circles: Quick Recap",
+          "points": [
+            "Area of a circle of radius r = pi r^2.",
+            "Circumference of a circle = 2 pi r; diameter = 2r.",
+            "Area of a semicircle = pi r^2/2 and area of a quadrant = pi r^2/4.",
+            "Perimeter of a semicircle = pi r + 2r, since the curved part is pi r and the diameter adds 2r.",
+            "Area of a ring between two concentric circles of radii R and r = pi(R^2 - r^2).",
+            "Use pi = 22/7 when the radius is a multiple of 7 (like 7, 14, 21, 42); use pi = 3.14 when the question says so or the radius is not friendly."
+          ],
+          "keyTerms": [
+            {"term": "circumference", "meaning": "The perimeter of a circle, equal to 2 pi r."},
+            {"term": "quadrant", "meaning": "One quarter of a circle, that is a sector of 90 degrees."},
+            {"term": "ring", "meaning": "The region between two concentric circles; its area is pi(R^2 - r^2)."}
+          ],
+          "trick": "With pi = 22/7 and radius a multiple of 7 the sevens cancel: for r = 21, area = 22/7 × 441 = 22 × 63 = 1386 in one step.",
+          "examPointer": "Ring questions such as R = 14 cm and r = 7 cm give 22/7 × (196 - 49) = 462 cm^2; keep decimals intact instead of rounding mid-solution."
+        },
+        {
+          "heading": "Sector Area and Arc Length",
+          "points": [
+            "A sector is the region bounded by two radii and the arc between them; theta is the central angle in degrees.",
+            "Area of sector = (theta/360) × pi r^2.",
+            "Length of arc = (theta/360) × 2 pi r.",
+            "Area of sector = (1/2) × l × r where l is the arc length; useful as a cross-check.",
+            "Standard fractions: theta = 60 gives 1/6 of the circle, 45 gives 1/8, 90 gives 1/4, 120 gives 1/3 and 180 gives 1/2.",
+            "A quadrant is the sector of 90 degrees and a semicircle is the sector of 180 degrees."
+          ],
+          "keyTerms": [
+            {"term": "sector", "meaning": "The pizza-slice region between two radii and their arc."},
+            {"term": "arc", "meaning": "The part of the circumference between the two radii; its length is (theta/360) × 2 pi r."},
+            {"term": "central angle", "meaning": "The angle theta at the centre subtended by the arc of the sector."}
+          ],
+          "trick": "Reduce theta/360 to a fraction first (60 to 1/6, 90 to 1/4, 120 to 1/3, 45 to 1/8), then multiply; fractions stop arithmetic slips.",
+          "examPointer": "Clock facts: the minute hand turns 6 degrees per minute, so 10 minutes = 60 degrees and 15 minutes = 90 degrees; these convert clock questions into sector questions."
+        },
+        {
+          "heading": "Segments: Minor and Major",
+          "points": [
+            "A chord divides the circle into two regions called segments; the smaller one is the minor segment and the larger one is the major segment.",
+            "Area of minor segment = area of sector OAPB - area of triangle OAB = (r^2/2)[(pi theta/180) - sin theta], with theta in degrees.",
+            "Area of triangle OAB = (1/2) r^2 sin theta, since OA = OB = r with included angle theta.",
+            "Area of major segment = area of circle - area of minor segment = pi r^2 - (r^2/2)[(pi theta/180) - sin theta].",
+            "Equivalently, major segment = major sector of angle (360 - theta) + area of triangle OAB.",
+            "Check: theta = 90 and r = 14 with pi = 22/7 gives minor segment = 98 × (11/7 - 1) = 98 × 4/7 = 56 cm^2."
+          ],
+          "keyTerms": [
+            {"term": "segment", "meaning": "The region between a chord and its arc."},
+            {"term": "minor segment", "meaning": "The smaller region, equal to sector minus triangle."},
+            {"term": "included angle", "meaning": "The angle theta between the two equal radii OA and OB; it controls the triangle area."}
+          ],
+          "trick": "One-line memory: minor segment = sector - triangle; the bracket formula (r^2/2)[pi theta/180 - sin theta] is the same thing written once.",
+          "examPointer": "If the question fixes pi = 3.14, use 3.14 throughout; mixing 22/7 with 3.14 shifts the final decimal and loses the accuracy mark."
+        },
+        {
+          "heading": "Clock Hands, Wheels and Rotating Arms",
+          "points": [
+            "A minute hand of length r sweeps a sector; the angle swept in t minutes is 6t degrees, so the area swept = (6t/360) × pi r^2 = (t/60) × pi r^2.",
+            "An hour hand turns 360 degrees in 12 hours: 30 degrees per hour or 0.5 degrees per minute.",
+            "A second hand completes a full circle in 60 seconds, sweeping area pi r^2 per minute.",
+            "A wheel of radius r covers 2 pi r in one revolution; a distance d needs d/(2 pi r) revolutions.",
+            "Example: a minute hand of 14 cm sweeps (120/360) × 22/7 × 196 = 205.33 cm^2 in 20 minutes.",
+            "Pendulum and rotating door problems are sector problems: identify the central angle first, then apply the sector formula."
+          ],
+          "keyTerms": [
+            {"term": "revolution", "meaning": "One complete turn of a wheel, covering a distance equal to its circumference 2 pi r."},
+            {"term": "sweep", "meaning": "The sector area traced by a rotating hand of a clock or pendulum."}
+          ],
+          "trick": "Clock conversion first: minutes × 6 degrees for the minute hand and hours × 30 degrees for the hour hand, then straight into (theta/360) × pi r^2.",
+          "examPointer": "Wheel-revolution questions use circumference, not sector area; do not confuse the two, this is a favourite 2-mark trap."
+        },
+        {
+          "heading": "Worked Mini-Example: Minor Segment Step by Step",
+          "points": [
+            "Question: a chord of a circle of radius 12 cm subtends an angle of 120 degrees at the centre; find the area of the minor segment (use pi = 3.14 and sin 120 = 0.866).",
+            "Step 1: area of sector = (120/360) × pi r^2 = (1/3) × 3.14 × 144 = 150.72 cm^2.",
+            "Step 2: area of triangle OAB = (1/2) r^2 sin 120 = 0.5 × 144 × 0.866 = 62.35 cm^2 approximately.",
+            "Step 3: minor segment = 150.72 - 62.35 = 88.37 cm^2.",
+            "Answer: the area of the minor segment is 88.37 cm^2 approximately."
+          ],
+          "keyTerms": [
+            {"term": "sector minus triangle", "meaning": "The subtraction that produces the minor segment between the chord and the minor arc."},
+            {"term": "subtended angle", "meaning": "The angle formed at the centre by the two radii drawn to the ends of the chord."}
+          ],
+          "trick": "For theta = 120 the sector is exactly 1/3 of the circle and sin 120 = sin 60 = 0.866; two shortcuts that halve the working time.",
+          "examPointer": "State the values of pi and the sine you used; if pi = 3.1416 is prescribed instead, the same steps give a slightly larger final decimal, and that is acceptable when used consistently."
+        },
+        {
+          "heading": "Common Mistakes and Exam Strategy",
+          "points": [
+            "Mistake 1: multiplying the circle area by theta directly; the correct multiplier is the fraction theta/360.",
+            "Mistake 2: using the diameter as the radius, or forgetting to square r in pi r^2.",
+            "Mistake 3: subtracting the triangle from the sector twice, or adding it when the minor segment is asked.",
+            "Mistake 4: confusing arc length (a length in cm) with sector area (an area in cm^2); one uses 2 pi r, the other pi r^2.",
+            "Mistake 5: rounding pi or sin theta at an intermediate step, which shifts the final decimal.",
+            "Strategy: formula, substitution, fraction reduction, calculation, answer with units; show each part in a 5-mark solution."
+          ],
+          "keyTerms": [
+            {"term": "units", "meaning": "Areas carry square units such as cm^2 or m^2, while lengths carry cm or m."},
+            {"term": "substitution", "meaning": "Replacing the variables in the formula with the given numbers before computing."}
+          ],
+          "trick": "Sanity checks: sector area < circle area, minor segment < its sector, and major segment = circle - minor segment; catch sign errors instantly.",
+          "examPointer": "In 5-mark questions the split is roughly formula (1), substitution (1 to 2), simplification (1 to 2) and final answer with units (1); show every part to lock full credit."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "The area of a circle of radius 7 cm (pi = 22/7) is",
+          "options": ["44 cm^2", "154 cm^2", "49 cm^2", "308 cm^2"],
+          "answerIndex": 1,
+          "explanation": "Area = 22/7 × 49 = 154 cm^2.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The circumference of a circle of radius 14 cm (pi = 22/7) is",
+          "options": ["44 cm", "616 cm", "88 cm", "154 cm"],
+          "answerIndex": 2,
+          "explanation": "Circumference = 2 × 22/7 × 14 = 88 cm.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The area of a sector of angle 90 degrees in a circle of radius 4 cm is",
+          "options": ["4 pi cm^2", "2 pi cm^2", "8 pi cm^2", "16 pi cm^2"],
+          "answerIndex": 0,
+          "explanation": "Sector = (90/360) × pi × 16 = 4 pi cm^2.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The area of a semicircle of radius 10 cm is",
+          "options": ["100 pi cm^2", "25 pi cm^2", "20 pi cm^2", "50 pi cm^2"],
+          "answerIndex": 3,
+          "explanation": "Semicircle = half of pi × 100 = 50 pi cm^2.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "A minute hand of length 10 cm sweeps, in 30 minutes, an area of",
+          "options": ["50 pi cm^2", "100 pi cm^2", "25 pi cm^2", "150 pi cm^2"],
+          "answerIndex": 0,
+          "explanation": "In 30 minutes the hand sweeps half the circle: (1/2) × pi × 100 = 50 pi cm^2.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The length of an arc subtending 60 degrees at the centre of a circle of radius 21 cm (pi = 22/7) is",
+          "options": ["11 cm", "22 cm", "44 cm", "132 cm"],
+          "answerIndex": 1,
+          "explanation": "Arc = (60/360) × 2 × 22/7 × 21 = (1/6) × 132 = 22 cm.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A minute hand of length 21 cm sweeps in 5 minutes an area of (pi = 22/7)",
+          "options": ["115.5 cm^2", "231 cm^2", "57.75 cm^2", "154 cm^2"],
+          "answerIndex": 0,
+          "explanation": "Angle = 5 × 6 = 30 degrees, so area = (30/360) × 22/7 × 441 = (1/12) × 1386 = 115.5 cm^2.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A sector of angle 60 degrees occupies what fraction of the area of its circle?",
+          "options": ["1/4", "1/3", "1/6", "1/8"],
+          "answerIndex": 2,
+          "explanation": "Fraction = 60/360 = 1/6.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A chord subtends an angle of 90 degrees at the centre of a circle of radius 14 cm. The area of the minor segment (pi = 22/7) is",
+          "options": ["56 cm^2", "98 cm^2", "154 cm^2", "28 cm^2"],
+          "answerIndex": 0,
+          "explanation": "Segment = (196/2)[(22/7 × 90/180) - 1] = 98(11/7 - 1) = 98 × 4/7 = 56 cm^2.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "The area of a sector of angle 45 degrees is 154 cm^2. The radius of the circle (pi = 22/7) is",
+          "options": ["14 cm", "14 sqrt2 cm", "21 cm", "7 sqrt2 cm"],
+          "answerIndex": 1,
+          "explanation": "(45/360)(22/7) r^2 = 154 gives r^2 = 154 × 28/11 = 392, so r = 14 sqrt2 = 19.8 cm approximately.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "A minute hand of a clock is 15 cm long. Find the area swept by it in 10 minutes (pi = 22/7).",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: the minute hand turns 6 degrees per minute, so in 10 minutes theta = 60 degrees. Step 2: area swept = (60/360) × pi r^2 = (1/6) × 22/7 × 225. Step 3: 22/7 × 225 = 707.14, so area = 707.14/6 = 117.86 cm^2 approximately. Answer: about 117.86 cm^2."
+        },
+        {
+          "question": "Find the area of a sector of a circle of radius 10.5 cm with central angle 60 degrees (pi = 22/7).",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: area = (60/360) × pi r^2 = (1/6) × 22/7 × 10.5^2. Step 2: 10.5^2 = 110.25 and 110.25/7 = 15.75, so 22/7 × 110.25 = 346.5. Step 3: area = 346.5/6 = 57.75 cm^2. Answer: 57.75 cm^2."
+        },
+        {
+          "question": "A chord of a circle of radius 10 cm subtends a right angle at the centre. Find the area of the minor segment (pi = 22/7).",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: minor segment = (r^2/2)[(pi theta/180) - sin theta] with r = 10 and theta = 90. Step 2: pi × 90/180 = 22/7 × 1/2 = 11/7 and sin 90 = 1, so the bracket is 11/7 - 1 = 4/7. Step 3: area = 50 × 4/7 = 200/7 = 28.57 cm^2 approximately. Answer: about 28.57 cm^2."
+        },
+        {
+          "question": "Two concentric circles have radii 21 cm and 10.5 cm. Find the area of the ring between them (pi = 22/7).",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Step 1: ring area = pi(R^2 - r^2) = 22/7 × (21^2 - 10.5^2). Step 2: 21^2 = 441 and 10.5^2 = 110.25, so the difference is 330.75. Step 3: 330.75/7 = 47.25 and 47.25 × 22 = 1039.5. Answer: the ring area is 1039.5 cm^2."
+        },
+        {
+          "question": "A chord of a circle of radius 20 cm subtends an angle of 90 degrees at the centre. Find the area of the corresponding major segment of the circle (pi = 3.14).",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "Step 1: area of circle = pi r^2 = 3.14 × 400 = 1256 cm^2. Step 2: minor sector (90 degrees) = (90/360) × 3.14 × 400 = 314 cm^2. Step 3: area of triangle OAB = (1/2) r^2 sin 90 = 0.5 × 400 × 1 = 200 cm^2. Step 4: minor segment = 314 - 200 = 114 cm^2. Step 5: major segment = 1256 - 114 = 1142 cm^2. Answer: the major segment has area 1142 cm^2."
+        },
+        {
+          "question": "An umbrella has 8 ribs equally spaced. Treating the umbrella as a flat circle of radius 45 cm, find the area between two consecutive ribs (pi = 22/7).",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Step 1: 8 equal ribs divide the circle into 8 sectors, so the angle between consecutive ribs = 360/8 = 45 degrees. Step 2: area of one sector = (45/360) × pi r^2 = (1/8) × 22/7 × 45^2. Step 3: 45^2 = 2025 and 22/7 × 2025 = 44550/7 = 6364.29. Step 4: area = 6364.29/8 = 795.54 cm^2 approximately. Answer: the area between two consecutive ribs is about 795.5 cm^2."
+        },
+        {
+          "question": "A school ground is circular with radius 56 m. At its centre there is a circular stage of radius 14 m, and the ring between the stage and the boundary is a paved walkway. (a) Find the area of the walkway (pi = 22/7). (b) The walkway is tiled with square tiles of side 0.5 m; find the number of tiles needed. (c) Find the cost of fencing the outer boundary at Rs 50 per metre.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "Step 1 (a): walkway area = pi(R^2 - r^2) = 22/7 × (56^2 - 14^2) = 22/7 × (3136 - 196) = 22/7 × 2940. Step 2: 2940/7 = 420 and 420 × 22 = 9240, so the walkway area is 9240 m^2. Step 3 (b): each tile covers 0.5 × 0.5 = 0.25 m^2, so tiles needed = 9240/0.25 = 36960. Step 4 (c): outer circumference = 2 pi R = 2 × 22/7 × 56 = 352 m, and cost = 352 × 50 = Rs 17600. Answer: (a) 9240 m^2, (b) 36960 tiles, (c) Rs 17600."
+        }
+      ]
+    }
+  ]
+}

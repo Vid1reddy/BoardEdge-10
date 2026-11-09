@@ -1,0 +1,337 @@
+{
+  "code": "economics",
+  "name": "Economics",
+  "bookName": "Understanding Economic Development",
+  "weightageMarks": 20,
+  "chapters": [
+    {
+      "number": 5,
+      "title": "Consumer Rights",
+      "summary": "This chapter explains why consumers need protection in an unequal marketplace and how the consumer movement in India grew from the 1960s into a social force that won the Consumer Protection Act (COPRA) in 1986. It details the six consumer rights, the three-tier consumer courts, quality certification marks, consumer duties and the shift to the Consumer Protection Act, 2019.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Six consumer rights under COPRA",
+        "Three-tier consumer courts and their jurisdiction",
+        "Origin and growth of the consumer movement",
+        "Quality marks: ISI, Agmark, Hallmark and ISO",
+        "Duties of consumers and the RTI Act, 2005",
+        "Consumer Protection Act, 2019 replacing COPRA"
+      ],
+      "sections": [
+        {
+          "heading": "Why Consumer Protection Became Necessary",
+          "points": [
+            "In the marketplace the consumer is usually a small, scattered buyer standing against large, organised producers and sellers, so the bargaining power is heavily unequal.",
+            "Common forms of exploitation include underweight and under-measurement, where the buyer receives less quantity than the price he has paid for.",
+            "Adulteration of items like edible oil, milk and spices mixes cheap or harmful substances into goods and can cause serious illness.",
+            "Sellers also charge prices above the printed maximum retail price, push defective goods, and hide facts such as expiry dates or side effects.",
+            "Unsafe products like pressure cookers or electrical appliances without safety features can cause accidents, injuries and loss of property.",
+            "Because each individual purchase feels small, many buyers stay silent, which lets unfair trade practices continue; rules for markets and consumer protection laws became necessary for this reason."
+          ],
+          "keyTerms": [
+            {
+              "term": "Adulteration",
+              "meaning": "Mixing inferior or harmful substances into a product, especially a food item, which makes it unsafe for health."
+            },
+            {
+              "term": "Under-measurement",
+              "meaning": "Giving the consumer less quantity or weight than what he has actually paid for."
+            },
+            {
+              "term": "MRP",
+              "meaning": "Maximum Retail Price printed on a packed product; charging above it is an unfair trade practice."
+            }
+          ],
+          "trick": "Remember the five faces of exploitation as UADOI: Underweight, Adulteration, Defective goods, Overpricing, Incomplete information.",
+          "examPointer": "CBSE often asks a 1 or 2 mark question on why consumers are exploited, and case extracts usually describe one of these unfair practices, so learn at least four forms with a quick example for each."
+        },
+        {
+          "heading": "Consumer Movement in India: A Social Force in the Making",
+          "points": [
+            "The consumer movement in India originated as a social force in the 1960s, when rampant food shortages, hoarding, black marketing and adulteration of food and edible oil troubled buyers.",
+            "In the early years the work was limited to writing articles, holding exhibitions and filing complaints through voluntary consumer associations, because there was no strong legal support.",
+            "The United Nations adopted the Guidelines for Consumer Protection in 1985, giving member countries like India a framework to protect consumers.",
+            "Pressure from the movement led the Indian Parliament to enact the Consumer Protection Act (COPRA) in 1986, which gave consumers legal rights and special courts; after this the movement became a strong organised force.",
+            "24 December is observed as National Consumer Day because COPRA was enacted on that date in 1986, while 15 March is celebrated as World Consumer Rights Day.",
+            "US President John F. Kennedy had introduced four basic consumer rights, namely safety, information, choice and being heard, in 1962, which later shaped the wider list of rights."
+          ],
+          "keyTerms": [
+            {
+              "term": "COPRA",
+              "meaning": "Consumer Protection Act, 1986, enacted by the Indian Parliament; amended in 1991, 1993 and 2002 and later replaced by the Consumer Protection Act, 2019."
+            },
+            {
+              "term": "Social force",
+              "meaning": "A collective public effort, not merely individual complaints, that pushes society and the government to bring change."
+            },
+            {
+              "term": "National Consumer Day",
+              "meaning": "24 December, marking the enactment of COPRA in 1986."
+            }
+          ],
+          "trick": "Timeline rhyme: Born in the 60s, blessed by the UN in 85, legalised by COPRA in 86; 24 December sings its birthday, 15 March takes it global.",
+          "examPointer": "A 3 mark question on the origin and growth of the consumer movement is common; examiners reward the 1960s causes, the UN 1985 guidelines and COPRA 1986 in that sequence."
+        },
+        {
+          "heading": "The Six Rights of a Consumer",
+          "points": [
+            "Right to Safety: protection against goods and services that are hazardous to life and health, which is why buyers should prefer certified products like ISI-marked electrical goods.",
+            "Right to Information: the consumer can ask for complete details such as ingredients, date of manufacture and expiry, directions for use, quantity and maximum retail price before buying.",
+            "Right to Choose: every buyer must have access to a variety of goods and services at competitive prices and cannot be forced to accept one particular brand.",
+            "Right to be Heard: the interests of consumers should receive due consideration at appropriate forums, so complaint options, consumers associations and consumer courts exist for representation.",
+            "Right to Seek Redressal: against unfair trade practices and exploitation, the consumer can claim relief such as replacement, repair or compensation for loss or injury.",
+            "Right to Consumer Education: the right to keep learning about products, market practices and one's own rights, so that awareness continues throughout life."
+          ],
+          "keyTerms": [
+            {
+              "term": "Redressal",
+              "meaning": "The remedy or relief, such as replacement, repair or compensation, given to a consumer for a defective good or deficient service."
+            },
+            {
+              "term": "Consumer education",
+              "meaning": "Continuous learning by a consumer about products, rights and procedures so that he can use his other rights confidently."
+            },
+            {
+              "term": "Competitive prices",
+              "meaning": "Fair prices that emerge when several sellers offer similar goods, protecting the consumer's right to choose."
+            }
+          ],
+          "trick": "S I C H R E becomes the sentence: Some Intelligent Consumers Have Real Education, mapping to Safety, Information, Choice, Heard, Redressal, Education.",
+          "examPointer": "A 3 mark question usually asks to explain any three rights and a 5 mark question expects all six with one example each; always name the right first and then explain it."
+        },
+        {
+          "heading": "Duties of a Well-Informed Consumer",
+          "points": [
+            "Check for standardisation marks like ISI, Agmark or Hallmark and read the label for the expiry date, ingredients and instructions before purchasing.",
+            "Insist on a cash memo or bill for every purchase, because it is the main proof needed while filing a complaint.",
+            "Use products strictly as per the directions given, for example the correct dose of a medicine or the wiring instructions of an appliance.",
+            "Do not encourage hoarders, black marketers or sellers who quote prices above the MRP; instead, register a genuine complaint when cheated.",
+            "Use legal tools like the RTI Act, 2005 to seek information from government offices, for example about funds spent on a public road or services in a government hospital.",
+            "Spread consumer awareness among family, friends and the community, because an alert society reduces exploitation faster than courts alone can."
+          ],
+          "keyTerms": [
+            {
+              "term": "Cash memo",
+              "meaning": "A bill or receipt of purchase that serves as evidence of the transaction in a consumer dispute."
+            },
+            {
+              "term": "RTI Act, 2005",
+              "meaning": "The Right to Information Act that allows any citizen to seek information from government departments and offices."
+            },
+            {
+              "term": "Standardisation",
+              "meaning": "Setting and certifying minimum quality norms for products through marks like ISI, Agmark and Hallmark."
+            }
+          ],
+          "trick": "Be BILLS-wise: Bill always, ISI or Agmark check, Labels read, Legal route (RTI and complaint), Spread awareness.",
+          "examPointer": "Two mark questions on the duties of consumers are frequent; also remember RTI 2005 as the law that turns an ordinary citizen into an informed consumer."
+        },
+        {
+          "heading": "Quality Marks: Learning to Judge a Product",
+          "points": [
+            "ISI mark: given by the Bureau of Indian Standards to industrial goods like pressure cookers, cement, electric irons and other electrical appliances.",
+            "Agmark: used for agricultural products such as pulses, spices, honey and edible oils to certify their grade and quality.",
+            "Hallmark: certifies the purity of gold jewellery, so buyers of ornaments should always look for it before paying.",
+            "ISO: certification given by the International Organization for Standardization, which sets global quality standards for companies and products.",
+            "These marks reduce the information gap between seller and buyer, because a consumer cannot personally test purity or safety before purchase.",
+            "Checking the mark, the expiry date and the printed MRP is the quickest safety routine before buying any packed product."
+          ],
+          "keyTerms": [
+            {
+              "term": "ISI mark",
+              "meaning": "BIS quality certification for industrial goods like electrical appliances and pressure cookers."
+            },
+            {
+              "term": "Agmark",
+              "meaning": "Certification mark for agricultural products such as spices, pulses and honey."
+            },
+            {
+              "term": "Hallmark",
+              "meaning": "Certification of purity stamped on gold jewellery."
+            }
+          ],
+          "trick": "Say ISA-H: I See Appliances (ISI), Spices by Agmark, Hallmark for gold; ISO is the international boss.",
+          "examPointer": "Match-the-mark MCQs are extremely common: Agmark for agriculture, ISI for industrial goods, Hallmark for gold and ISO for international standards."
+        },
+        {
+          "heading": "Where to Complain: The Three-Tier Consumer Courts",
+          "points": [
+            "Under COPRA, a three-tier quasi-judicial machinery was set up at the district, state and national levels for redressal of consumer disputes.",
+            "The district-level court, called the District Forum or District Commission, hears claims up to Rs 20 lakh and is usually the first stop for a complainant.",
+            "The state-level commission deals with claims between Rs 20 lakh and Rs 1 crore, while the national-level commission takes claims above Rs 1 crore.",
+            "If a case is dismissed at the district level, the consumer can appeal to the state level and then to the national level, making a ladder of appeal.",
+            "Relief given by these courts includes replacement, repair, refund, compensation for loss or injury and penalties on the guilty trader or manufacturer.",
+            "The Consumer Protection Act, 2019 has now replaced COPRA, 1986 and covers new areas like e-commerce, but the three-tier redressal idea continues."
+          ],
+          "keyTerms": [
+            {
+              "term": "Quasi-judicial",
+              "meaning": "A body that works like a court, hears evidence and gives binding orders without being a full formal court."
+            },
+            {
+              "term": "NCDRC",
+              "meaning": "National Consumer Disputes Redressal Commission, the apex tier that handles claims above Rs 1 crore and appeals."
+            },
+            {
+              "term": "Deficiency",
+              "meaning": "Any fault, shortcoming or inadequacy in a good or service that harms the consumer."
+            }
+          ],
+          "trick": "Climb the D-S-N ladder: District takes small money, State takes the middle, National takes the top; appeals climb the same ladder upward.",
+          "examPointer": "A favourite 3 or 5 mark question is to explain the three-tier machinery with monetary limits; in case studies, first check the claim amount and then name the correct tier."
+        },
+        {
+          "heading": "Taking the Consumer Movement Forward",
+          "points": [
+            "After the enactment of COPRA in 1986, the consumer movement became organised, with consumers associations and organisations like VOICE and CERC testing products, filing cases and spreading awareness.",
+            "Mass awareness campaigns by the government, such as Jago Grahak Jago, and the celebration of National Consumer Day on 24 December keep the message alive.",
+            "Despite progress, the redressal process is often cumbersome, expensive and time consuming, and cases can stretch for years, which discourages ordinary buyers.",
+            "Large sections of consumers, especially in rural areas, still remain unaware of their rights, and weak enforcement lets unfair trade practices survive.",
+            "The Consumer Protection Act, 2019, which replaced COPRA, was a step forward because it recognised online shopping and strengthened the machinery for complaints.",
+            "The movement can move forward only when educated consumers participate actively, file genuine complaints and demand faster, cheaper and transparent redressal."
+          ],
+          "keyTerms": [
+            {
+              "term": "Consumer organisations",
+              "meaning": "Voluntary bodies of consumers, for example VOICE or CERC, that test goods, guide buyers and fight cases for them."
+            },
+            {
+              "term": "Unfair trade practice",
+              "meaning": "Any deceptive or exploitative act of a seller, such as overcharging, adulteration or false claims about a product."
+            },
+            {
+              "term": "Consumer Protection Act, 2019",
+              "meaning": "The law that replaced COPRA, 1986, updating consumer protection for online shopping and modern markets."
+            }
+          ],
+          "trick": "Think of a relay race: the law (1986) passed the baton to organisations, organisations passed it to campaigns, and now the baton is in the hands of every educated consumer.",
+          "examPointer": "Questions like how the consumer movement can be strengthened or why redressal is still difficult test this section; mention both achievements and remaining challenges for full marks."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "In which year was the Consumer Protection Act (COPRA) enacted by the Indian Parliament?",
+          "options": ["1986", "1991", "2002", "2005"],
+          "answerIndex": 0,
+          "explanation": "COPRA was enacted on 24 December 1986; it was amended in 1991, 1993 and 2002 before being replaced by the Consumer Protection Act, 2019.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which day is observed as National Consumer Day in India?",
+          "options": ["15 March", "24 December", "26 January", "2 October"],
+          "answerIndex": 1,
+          "explanation": "24 December is National Consumer Day because COPRA was enacted on that day in 1986. 15 March is World Consumer Rights Day.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The Hallmark certification mark is used for which of the following products?",
+          "options": ["Packaged milk and honey", "Gold jewellery", "Pressure cookers and electric irons", "Medicines and tablets"],
+          "answerIndex": 1,
+          "explanation": "Hallmark certifies the purity of gold jewellery; Agmark covers agricultural products and ISI covers industrial goods like electrical appliances.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How many consumer rights are described in the NCERT chapter on Consumer Rights?",
+          "options": ["Four", "Five", "Six", "Seven"],
+          "answerIndex": 2,
+          "explanation": "The chapter lists six rights: safety, information, choice, being heard, redressal and consumer education.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Under the COPRA framework given in your NCERT chapter, the district-level consumer court deals with claims involving:",
+          "options": ["Rs 20 lakh or less", "Rs 20 lakh to Rs 1 crore", "Above Rs 1 crore", "Only criminal offences"],
+          "answerIndex": 0,
+          "explanation": "The District Forum or District Commission handles claims up to Rs 20 lakh; higher claims move up to the State and National Commissions.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The consumer movement in India took an organised form as a social force during the:",
+          "options": ["1940s due to partition", "1950s due to industrialisation", "1960s due to shortages, hoarding and adulteration", "1990s due to globalisation"],
+          "answerIndex": 2,
+          "explanation": "Rampant food shortages, black marketing, hoarding and adulteration of food and edible oil led to an organised consumer movement in the 1960s.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which law allows an Indian citizen to seek information from government offices and departments?",
+          "options": ["Consumer Protection Act, 1986", "Right to Information Act, 2005", "UN Guidelines for Consumer Protection, 1985", "Bureau of Indian Standards Act"],
+          "answerIndex": 1,
+          "explanation": "The RTI Act, 2005 empowers citizens to ask government offices for information, which also helps consumers check public services.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A consumer dispute involving a claim of Rs 50 lakh should be filed, as per the limits given in the NCERT chapter, in the:",
+          "options": ["National Commission", "State Commission", "District Forum", "Lok Adalat only"],
+          "answerIndex": 1,
+          "explanation": "As per the limits in the NCERT chapter, claims between Rs 20 lakh and Rs 1 crore go to the State Consumer Disputes Redressal Commission, so a Rs 50 lakh claim lands there.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "15 March is observed as World Consumer Rights Day because:",
+          "options": ["COPRA was passed on this date", "The UN adopted its consumer protection guidelines on this date", "US President John F. Kennedy outlined four basic consumer rights to the US Congress in 1962", "The Bureau of Indian Standards was set up on this date"],
+          "answerIndex": 2,
+          "explanation": "Kennedy's 1962 declaration introduced the rights to safety, information, choice and being heard, and 15 March is celebrated worldwide in its memory. COPRA day is 24 December and the UN Guidelines came in 1985.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Shabnam bought mustard oil that was later found adulterated, and the label did not mention the ingredients clearly. Which TWO consumer rights are most directly violated?",
+          "options": ["Right to choose and right to consumer education", "Right to safety and right to information", "Right to redressal and right to choose", "Right to be heard and right to consumer education"],
+          "answerIndex": 1,
+          "explanation": "Adulteration endangers health, so the right to safety is violated, and the unclear label violates the right to information; the other rights come into play at the complaint and redressal stage.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "State any two ways in which a consumer can be exploited in the marketplace.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Underweight and under-measurement: sellers give less quantity than what is paid for, for example fewer grams of pulses than the weight printed on the packet. 2) Adulteration and sale of defective goods: edible items are mixed with cheap or harmful substances, and faulty products like expired medicines or unsafe pressure cookers are sold, damaging health and property. 3) Overcharging above the printed MRP and giving incomplete information, like hiding the expiry date, further exploit the buyer."
+        },
+        {
+          "question": "Mention any two responsibilities of a consumer while buying goods and services.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Check quality marks and labels: always look for the ISI, Agmark or Hallmark mark, the date of manufacture and expiry, ingredients and the printed maximum retail price before paying. 2) Keep proof of purchase and raise the complaint: insist on a cash memo or bill, use goods as per the given instructions, and if cheated, first approach the seller and then the consumer court instead of staying silent. Such habits turn an ordinary buyer into an alert, well-informed consumer."
+        },
+        {
+          "question": "Explain any three rights of a consumer provided under COPRA.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Right to Safety: the consumer is protected against goods and services that are hazardous to life and health, which is why certified products like ISI-marked appliances are preferred. 2) Right to Information: the buyer can demand full details such as ingredients, date of manufacture and expiry, directions for use, quantity and maximum retail price, so no seller can hide harmful facts. 3) Right to Seek Redressal: when a product or service is defective, the consumer can approach consumer courts for relief like replacement, repair or compensation for the loss suffered. 4) Along with the rights to choose, to be heard and to consumer education, these make up the six rights given in the chapter."
+        },
+        {
+          "question": "Describe the three-tier consumer redressal machinery set up under COPRA.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) District Consumer Disputes Redressal Forum or District Commission: the first tier, it hears claims up to Rs 20 lakh, so small disputes are settled close to the complainant's home. 2) State Consumer Disputes Redressal Commission: the second tier, it deals with claims between Rs 20 lakh and Rs 1 crore and hears appeals against district level orders. 3) National Consumer Disputes Redressal Commission: the apex body, it takes claims above Rs 1 crore and appeals against state commission orders. 4) If a case is dismissed in the district court, the consumer can appeal to the state and then the national level, so the machinery works like a ladder of justice."
+        },
+        {
+          "question": "Trace the growth of the consumer movement in India from its origin in the 1960s to the present day.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Origin in the 1960s: the consumer movement in India began as a social force when rampant food shortages, hoarding, black marketing and adulteration of food and edible oil troubled buyers, and individual consumers stood nowhere before organised sellers and producers. 2) Early phase: through the 1960s and 1970s the work remained limited to writing articles, holding exhibitions and filing complaints through voluntary consumer associations, so the movement had little legal power and grew slowly. 3) Legal turning point: pressure from the movement made the Government of India enact the Consumer Protection Act, COPRA, in 1986, which granted six consumer rights and created a three-tier quasi-judicial machinery of district, state and national level courts, after which the movement became a strong organised force. 4) Global and national milestones: the United Nations had adopted the Guidelines for Consumer Protection in 1985, and today 24 December is observed as National Consumer Day in India while 15 March is World Consumer Rights Day. 5) Present challenges: awareness is spreading through campaigns like Jago Grahak Jago and organisations such as VOICE and CERC, yet redressal remains cumbersome, expensive and time consuming, and many consumers, especially in rural areas, are still unaware of their rights. 6) Way forward: COPRA was amended in 1991, 1993 and 2002 and later replaced by the Consumer Protection Act, 2019, so the movement now needs faster courts, stronger consumer education and active citizen participation to take it forward."
+        },
+        {
+          "question": "Explain the six rights of a consumer. Why is consumer education regarded as the foundation of all the other rights?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Right to Safety: the consumer must be protected against goods and services that are hazardous to life and health, so buyers prefer certified products like ISI-marked electrical appliances. 2) Right to Information: the buyer can demand complete details about ingredients, date of manufacture and expiry, directions for use, quantity and maximum retail price, as with a medicine whose label must show composition and expiry. 3) Right to Choose: every consumer should have access to a variety of goods and services at competitive prices and cannot be forced to buy one brand. 4) Right to be Heard: the interests of consumers must receive due consideration at appropriate forums, which is why complaint systems, consumers associations and consumer courts exist. 5) Right to Seek Redressal: against unfair trade practices the consumer can claim relief such as replacement, repair or compensation for loss or injury. 6) Right to Consumer Education: the right to keep learning about products, market practices and one's own rights throughout life. Consumer education is the foundation of all other rights because a buyer who does not know his rights can never claim them; awareness of labels, quality marks, bills and courts converts a silent sufferer into an empowered consumer who can actually use safety, information, choice, representation and redressal, and tools like the RTI Act, 2005 strengthen this learning."
+        },
+        {
+          "question": "Read the following case and answer the sub-questions: Suresh bought a packet of health drink from a grocery shop, paying Rs 20 more than the printed maximum retail price. At home he noticed that the pack had crossed its expiry date and smelled foul. When he returned to the shop, the shopkeeper refused to take the packet back or give a bill. On his neighbour's advice, Suresh filed a complaint in the District Consumer Disputes Redressal Forum with the empty packet as evidence, and the forum ordered the shopkeeper and the manufacturer to pay him compensation. (a) Which consumer rights of Suresh were violated by the seller? (b) Why did Suresh file the case in the district-level forum and what relief can such a court give? (c) State two precautions Suresh should have taken at the time of purchase.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) Rights violated, part (a): the sale of an expired, foul-smelling product endangered his health, violating the right to safety; charging above the printed MRP and selling without clear disclosure hit the right to information; and the shopkeeper's refusal to listen violated the right to be heard. 2) Forum and relief, part (b): Suresh chose the district-level forum because it is the first tier of the three-tier machinery under COPRA, hears claims up to Rs 20 lakh, and is cheaper and closer to his home; the forum can order replacement or refund, compensation for the loss and penalties on the shopkeeper and manufacturer, and if he were dissatisfied he could appeal to the state commission. 3) Precautions, part (c): he should have insisted on a cash memo or bill as proof of purchase and should have checked the expiry date, ingredients and the maximum retail price printed on the sealed packet before paying, preferring a pack with the standard certification mark. 4) Lesson: an alert consumer who keeps evidence and knows the district, state and national ladder of courts can convert an unfair trade practice into an enforceable claim under consumer protection law, now continued through the Consumer Protection Act, 2019, which also covers online shopping."
+        }
+      ]
+    }
+  ]
+}

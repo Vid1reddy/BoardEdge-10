@@ -1,0 +1,343 @@
+     1→CHAPTER 1 | Resources and Development
+     2→  H: Meaning and Classification of Resources
+     3→   - Everything available in our environment which can be used to satisfy our needs, provided it is technologically accessible, economically feasible and culturally acceptable, is termed a resource.
+     4→   - On the basis of origin resources are classified as biotic, like flora and fauna, and abiotic, like rocks and metals.
+     5→   - On the basis of exhaustibility they are renewable, which can be renewed or reproduced, and non-renewable, like fossil fuels, which have a fixed stock and may get exhausted; non-renewable resources are further divided into recyclable and non-recyclable types.
+     6→   - On the basis of ownership resources can be individual, community owned, national or international; oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone belong to international bodies like the UN.
+     7→   - On the basis of status of development resources are potential, developed stocks, reserves and actual resources.
+     8→   - Potential resources exist in a region but have not been utilised, like solar and wind energy in Rajasthan and Gujarat before development.
+     9→   - Materials found in the environment which have the potential to satisfy human needs but are not technologically accessible form stock, while reserves are a subset of stock which can be put into use with existing technology but have been kept for future needs.
+    10→  H: Development of Resources and Sustainability
+    11→   - Resources are vital for human survival, but irrational consumption and over-utilisation of resources have led to socio-economic and environmental problems.
+    12→   - Indiscriminate use of resources by a few rich people has divided society into rich and poor, and resource depletion has led to global ecological crises like ozone depletion, pollution and land degradation.
+    13→   - Therefore equitable distribution and planned and sustainable use of resources are essential for the existence of all life.
+    14→   - Sustainable development means development that takes place without damaging the environment, meeting the needs of the present generation without compromising the needs of future generations.
+    15→   - The first Earth Summit, also called the Rio de Janeiro Earth Summit, was held in 1992 and adopted Agenda 21 for global sustainable development.
+    16→   - Agenda 21 aims at achieving global sustainable development, with every local government drawing its own local Agenda 21 to combat environmental damage, poverty and disease.
+    17→   - Resource planning is a widely accepted strategy for judicious use of resources and has three stages: identification and inventory, evolving a planning structure with technology and institutions, and matching resource development plans with national development plans.
+    18→  H: Land Use Pattern in India
+    19→   - Land resources are used for purposes such as forests, land not available for cultivation, other uncultivated land and net sown area.
+    20→   - The total geographical area of India is 3.28 million square kilometres, but land use data is available for only about 93 per cent of the total area because land use reporting for most of the north-east states except Assam has not been done fully.
+    21→   - The share of area under forest has increased from 14.12 per cent in 1960-61 to 22.57 per cent, yet it is far lower than the 33 per cent prescribed by the National Forest Policy of 1952.
+    22→   - Land under permanent pasture has decreased, which is a cause of worry for livestock and dairy development.
+    23→   - Net sown area remains about 54 per cent of the reporting area; total cultivated area includes net sown area plus current fallow and other fallow land.
+    24→   - Land put to non-agricultural uses is increasing because of growing population and expansion of settlements, industries and transport.
+    25→   - Waste land includes rocky, arid and desert areas, while land put to non-agricultural uses includes buildings, roads, railways and industry.
+    26→  H: Land Degradation and Its Conservation
+    27→   - About 130 million hectares of land in India is degraded, and approximately 28 per cent of it is forest degraded area, 56 per cent is water eroded area and the rest is affected by saline and alkaline conditions.
+    28→   - Mining and deforestation degrade land; mining sites are abandoned after excavation leaving deep scars and traces of overburdening in states like Jharkhand, Chhattisgarh, Madhya Pradesh and Odisha.
+    29→   - In states like Gujarat, Rajasthan, Madhya Pradesh and Maharashtra overgrazing is a major cause of land degradation.
+    30→   - Deforestation due to mining, over-irrigation causing water logging leading to salinity and alkalinity, mineral processing and industrial effluents also degrade land.
+    31→   - Degraded land can be checked by afforestation and proper management of grazing.
+    32→   - Stabilising sand dunes by growing thorny bushes, controlling mining activities, proper discharge and treatment of industrial effluents before release, and ploughing along contours on sloping areas help conserve land.
+    33→   - Planning of shelter belts and over-irrigation should be avoided, and strip cropping should be practised to make land use sustainable.
+    34→  H: Soil Types of India
+    35→   - Alluvial soil is the most widely spread and important soil, covering about 40 per cent of the country in the northern plains and river valleys, and it is very fertile, supporting rice, wheat and sugarcane.
+    36→   - Alluvial soils are classified as Bangar, the old alluvium with higher concentration of kankar nodules, and Khadar, the new alluvium which is more fertile; they are rich in potash but poor in nitrogen and phosphorus.
+    37→   - Black soil, also called regur, develops in the Deccan trap of Maharashtra, Gujarat and Madhya Pradesh, is ideal for cotton because of its moisture-retaining capacity, is rich in iron, lime, magnesium and alumina but poor in nitrogen and phosphorus, and develops cracks in summer.
+    38→   - Red and yellow soils develop on crystalline igneous rocks in areas of low rainfall in the eastern and southern Deccan; the red colour comes from diffusion of iron in crystalline and metamorphic rocks.
+    39→   - Laterite soil develops in areas with high temperature and heavy rainfall through intense leaching, is poor in humus and lime and is used for tea, coffee and cashew; bricks made of laterite are used as building material.
+    40→   - Arid soil is sandy and saline in western Rajasthan and Gujarat, lacks moisture and humus, contains calcium deposits called kankar layers, and can be made fertile with proper irrigation and gypsum treatment.
+    41→   - Forest or mountain soils occur in the Himalayan slopes, are acidic with low humus in snowy areas, and are fertile in valleys where orchards grow.
+    42→  H: Soil Erosion and Conservation
+    43→   - The denudation of the soil cover and subsequent washing down is described as soil erosion, caused by running water, wind, glaciers and human activities like deforestation, overgrazing and faulty farming.
+    44→   - When water flows down a slope in narrow channels making deep grooves, it is gully erosion; the land becomes unfit for cultivation and is called ravines, as in the Chambal valley.
+    45→   - When water removes the top soil as a sheet over large areas, it is sheet erosion, and wind blows loose soil off flat or sloping land in windy regions like western Rajasthan.
+    46→   - Deforestation, overgrazing, construction, mining and defective methods of farming like ploughing up and down the slope accelerate soil erosion.
+    47→   - Contour ploughing, ploughing along the contour lines on a slope, decelerates the flow of water down the slopes and checks erosion.
+    48→   - Terrace cultivation on steep slopes restricts erosion, and strip cropping divides large fields into strips with grass in between so that water cannot carry away the soil.
+    49→   - Shelter belts of trees planted in rows check wind erosion, stabilise sand dunes in western Rajasthan and have contributed to the development of green belts.
+    50→CHAPTER 2 | Forest and Wildlife Resources
+    51→  H: India's Biodiversity and Its Depletion
+    52→   - India is one of the world's richest countries in terms of biological diversity, with about 47,000 plant species, ranking tenth in the world and fourth in Asia in plant diversity.
+    53→   - There are about 15,000 flowering plant species in India, which account for 6 per cent of the world's total number of flowering plant species.
+    54→   - India has about 89,000 animal species, 1,200 bird species and 2,500 fish species, which constitute more than one-tenth of all animal species of the world.
+    55→   - Biodiversity is under great threat, and the International Union for Conservation of Nature and Natural Resources (IUCN) reports that many species are endangered or critically endangered.
+    56→   - The cheetah, the world's fastest land mammal, has become extinct in India, and the pink-headed duck, mountain quail and forest spotted owlet are also among extinct species.
+    57→   - Depletion of forest resources impoverishes the resource base of local communities and threatens the ecological balance on which all life depends.
+    58→  H: Categories of Species: IUCN Classification
+    59→   - Normal species are species whose population levels are considered normal for their survival, such as cattle, sal, pine and rodents.
+    60→   - Endangered species are those whose numbers have been depleted to a level from which they may not survive, such as black buck, crocodile, Indian wild ass, lion-tailed macaque and rhinoceros.
+    61→   - Vulnerable species are those whose population has declined to levels from which they may move into the endangered category, such as blue sheep, Asiatic elephant and Gangetic dolphin.
+    62→   - Rare species are species with small population which may move into endangered or vulnerable category, like Himalayan brown bear, wild Asiatic buffalo, desert fox and hornbill.
+    63→   - Endemic species are found only in particular areas, like the Andaman teal, Nicobar pigeon, Andaman wild pig and mithun in Arunachal Pradesh.
+    64→   - Extinct species are species which are no longer seen and cannot be sighted anywhere, such as the pink-headed duck, mountain quail and forest spotted owlet.
+    65→   - This classification helps conservationists decide the urgency and type of protection each species requires.
+    66→  H: Causes of Depletion of Forest and Wildlife Resources
+    67→   - During the colonial period the British exploited forests for railways, ship-building and commercial agriculture, destroying vast stretches of natural forests.
+    68→   - Agricultural expansion after independence, large-scale development projects and industry have continued to shrink forest cover.
+    69→   - Hunting by greedy hunters for pleasure, commerce, vanity and illegal trade in animal products like skins, tusks and bones has pushed many species to extinction.
+    70→   - The greatest damaging factor to wildlife is habitat destruction through deforestation, mining, dam building and urbanisation.
+    71→   - In the Buxa Tiger Reserve in West Bengal, the Great Himalayan Biodiversity Hotspot region and the rainforests of the Western Ghats, severe damage to biodiversity has taken place due to mining and development.
+    72→   - Pollution, forest fires and invasion of exotic species also damage ecosystems and push native species out.
+    73→   - Rich biodiversity is important because ecological processes depend on it, and its loss directly harms local communities that depend on forests for food, fuel, fodder and medicine.
+    74→  H: Conservation of Forests and Wildlife
+    75→   - Conservation of forests and wildlife is essential to preserve biodiversity, maintain ecological balance and protect the livelihood of forest-dependent communities.
+    76→   - The Indian Wildlife Protection Act was implemented in 1972, with various provisions for protecting habitats and whole ecosystems, and an all-India list of protected species was published.
+    77→   - The thrust of the programme was towards protecting the remaining population of certain endangered species by banning hunting, giving legal protection to habitats and restricting trade in wildlife.
+    78→   - Project Tiger was launched in 1973, when the tiger population had dwindled to 1,827; it is one of the most successful conservation ventures, and today there are 53 tiger reserves in India.
+    79→   - The tiger is found in various parts of the country, from the Himalayan and central Indian forests to the mangroves of the Sundarbans, and in reserves like Corbett, Ranthambore, Sariska, Manas and Bandipur.
+    80→   - Project Elephant was launched in 1992 to protect elephants and their habitats and corridors.
+    81→   - In theNotification of 1980s and 1990s, many national parks and wildlife sanctuaries were established, and programmes like the Great Himalayan Biodiversity Hotspot and the Western Ghats rainforest programme were strengthened.
+    82→  H: Types and Distribution of Forests
+    83→   - Indian forests are classified into reserved forests, protected forests and unclassed forests on the basis of the degree of protection they receive.
+    84→   - Reserved forests are regarded as the most valuable as far as conservation of forest and wildlife resources is concerned; more than half of the total forest land has been declared reserved.
+    85→   - In reserved forests, most of the rights of hunting, grazing and timber collection by local people are restricted and the forest department has full control.
+    86→   - Protected forests are protected from any further depletion, and local people are allowed certain rights like grazing and collecting fuel wood and non-timber forest products.
+    87→   - Unclassed forests are large parts of forests belonging to both government and private individuals and communities, with the least degree of protection.
+    88→   - Madhya Pradesh has the largest area under permanent forests, which means reserved and protected forests, and it has stated that 75 per cent of its forest area is under permanent forests.
+    89→   - The forests of India are distributed in the Himalayan region, the Western Ghats, the northeastern states, the Deccan plateau and the coastal areas, with varying degrees of degradation.
+    90→  H: Community and Conservation: Chipko and Joint Forest Management
+    91→   - In India, forests are home to many communities whose lives depend on them, and conservation of forests and wildlife cannot be done without their participation.
+    92→   - In Sariska Tiger Reserve, Rajasthan, villagers have fought against mining by citing the Wildlife Protection Act, and in many areas of the country local communities are conserving habitats of their own accord.
+    93→   - The famous Chipko movement in the Himalayas successfully resisted deforestation in several areas, when village women like Gaura Devi of Reni village hugged trees to stop contractors from felling them.
+    94→   - Community conservation is possible only when local communities get some benefit from the resource, and many communities have declared their own conservation rules.
+    95→   - The Beej Bachao Andolan in Tehri district of Uttarakhand and Navdanya have shown that adequate levels of diversified crop production without the use of synthetic agrochemicals are possible.
+    96→   - Joint Forest Management (JFM) furnishes a good example of involving local communities in the management and restoration of degraded forests; it has been in formal existence since 1988 when the state of Odisha passed the first resolution.
+    97→   - In the Arabari forest range of Midnapore district, West Bengal, as early as 1972, the forest department involved 618 families of eleven villages to protect 1,272 hectares of degraded sal forest, and by 1983 the value of the sal trees was 12.5 crore rupees.
+    98→CHAPTER 3 | Water Resources
+    99→  H: Water Scarcity and the Need for Conservation
+   100→   - Water is a renewable resource, but its availability in acceptable quantity and quality is decreasing due to growing population, rising demand and uneven distribution.
+   101→   - About three-fourths of the earth's surface is covered with water, but 97.5 per cent of it is ocean water which cannot be used directly, and only 2.5 per cent is fresh water.
+   102→   - Nearly 70 per cent of this fresh water occurs as ice sheets and glaciers in Antarctica, Greenland and mountain regions, and less than one per cent is stored in lakes, rivers and the ground for human use.
+   103→   - India receives four per cent of global precipitation and ranks 133 in the world in terms of water availability per person, and predictions say India may face water scarcity by 2025.
+   104→   - Water scarcity arises not only from low rainfall but from over-exploitation, unequal access, pollution and the growing demand of cities, industries and agriculture.
+   105→   - A society with a large population producing food from irrigated land needs far more water than a smaller society, so scarcity is linked to population, lifestyle and the nature of water use.
+   106→   - Conservation and management of water through harvesting, watershed development and recycling has become an urgent need.
+   107→  H: Multipurpose River Projects and Dams
+   108→   - Dams are built across rivers to impound water, which is then used for irrigation, electricity generation, water supply, flood control, navigation and fish breeding.
+   109→   - A dam is traditionally defined as a barrier across flowing water that obstructs or directs the flow, and a reservoir is an artificial lake created by impounding water behind the dam.
+   110→   - Dams are now called multipurpose projects because they serve many purposes at the same time: irrigation, power generation, flood control, drinking water, navigation, fisheries and recreation.
+   111→   - Bhakra Nangal project is built on the Satluj river, the Hirakud project on the Mahanadi, and the Damodar Valley Corporation came up on the Damodar river in 1948 as the first multipurpose project of India.
+   112→   - Other important multipurpose projects are the Nagarjuna Sagar on the Krishna, the Krishna Raja Sagar on the Cauvery, the Mettur dam and the Tehri project on the Bhagirathi.
+   113→   - Jawaharlal Nehru proudly proclaimed the dams as the temples of modern India, since they would integrate the development of agriculture and the village economy with rapid industrialisation.
+   114→   - Multipurpose projects are seen as combining water conservation with development of the entire river basin.
+   115→  H: Why Multipurpose Projects Are Criticised
+   116→   - Multipurpose projects and large dams have come under great scrutiny and opposition for their environmental and social costs.
+   117→   - Regulating and damming rivers affects their natural flow, causing poorer sediment flow and excessive sedimentation at the bottom of reservoirs, which reduces their water storage capacity.
+   118→   - Dams also fragment rivers, making it difficult for aquatic fauna, especially fish, to migrate along the river for spawning.
+   119→   - The reservoirs submerge existing vegetation and soil, leading to its decomposition over time and contributing to greenhouse emissions.
+   120→   - Large dams cause the displacement of local communities, like the tribals and peasants whose land is submerged, and irrigation without proper drainage causes water logging and salinity.
+   121→   - Interestingly, dams built to control floods have themselves triggered floods due to sedimentation and the release of excess water, as seen in Punjab, where floods occurred despite dams like Bhakra.
+   122→   - Opposition to projects has grown into movements: the Narmada Bachao Andolan against the Sardar Sarovar dam, and protests over the Tehri dam, argue that local people are denied benefits and suffer displacement.
+   123→  H: Narmada Bachao Andolan and the Debate on Large Dams
+   124→   - The Narmada Bachao Andolan is a movement against the large multi-purpose dams being built on the Narmada river, especially the Sardar Sarovar project in Gujarat.
+   125→   - The movement, which began in the mid-1980s under leaders like Medha Patkar, questions the very premise of large dam development.
+   126→   - It argues that the projects benefit big farmers and industry while the costs are borne by the poor, especially the adivasis whose villages and forests are submerged.
+   127→   - The Andolan demands complete information about the projects, the right to participate in decision-making, and proper rehabilitation of the displaced people.
+   128→   - The Narmada valley project would displace lakhs of people and submerge large areas of forest and farmland in Madhya Pradesh, Maharashtra and Gujarat.
+   129→   - The struggle raised national debates on development, showing that development should not mean destroying the livelihood of the weakest sections.
+   130→   - The issue highlights the need for assessing costs and benefits of every project, including social and environmental costs, before taking decisions.
+   131→  H: Traditional Rainwater Harvesting
+   132→   - India has a long tradition of water harvesting systems suited to local rainfall and terrain, practised for thousands of years.
+   133→   - In the arid and semi-arid regions of Rajasthan, particularly in Bikaner and Phalodi, rooftop rainwater harvesting was commonly practised to store drinking water in underground tanks called tankas.
+   134→   - In the flood-prone areas of western Rajasthan, khadins are traditional earthen embankments that stop water and let it percolate into the soil for cropping.
+   135→   - Johads are small earthen check dams built across streams to collect rainwater and recharge groundwater, revived in many villages of Rajasthan by community effort.
+   136→   - In hill and mountain areas, guls or channels were used in the western Himalayas for irrigation, diverting water from hill streams to fields.
+   137→   - Bamboo drip irrigation is practised in Meghalaya, where bamboo pipes carry water from springs to fields and reduce wastage by about 18-20 litres per site during peak summer.
+   138→   - In the northeastern states, bamboo drip irrigation systems transport water over long distances and distribute it to the fields drop by drop.
+   139→  H: Modern Rainwater Harvesting: Rooftop and Watershed
+   140→   - Rooftop rainwater harvesting is the most common practice in Shillong in Meghalaya, where it is practised because of the hilly terrain and despite high rainfall.
+   141→   - In Shillong, about 15-25 per cent of households use rooftop rainwater harvesting, and water is stored and piped to homes.
+   142→   - Tamil Nadu is the first state in India to make rooftop rainwater harvesting compulsory for every house to avoid groundwater depletion; it was made compulsory in 2001.
+   143→   - In Gendathur, a backward village in Mysuru district of Karnataka, villagers have installed rainwater harvesting systems to meet their drinking water needs.
+   144→   - Gendathur receives an annual rainfall of about 1,000 mm, and with 80 per cent collection efficiency, about 1,00,000 litres of rainwater is harvested per household per year.
+   145→   - With nearly 200 households, the net quantity of rainwater harvested in Gendathur amounts to 20,00,000 litres per year, showing that community effort can solve water problems.
+   146→   - Watershed development and rainwater harvesting together help increase soil moisture, raise the groundwater table, check floods and provide reliable water supplies.
+   147→CHAPTER 4 | Agriculture
+   148→  H: Types of Farming
+   149→   - Primitive subsistence farming is practised on small patches of land with primitive tools like hoe, dao and digging sticks, and family or community labour.
+   150→   - This type of farming depends on monsoon, natural fertility of the soil and suitability of other environmental conditions; when soil fertility decreases, farmers shift to a new patch, which is called slash and burn agriculture.
+   151→   - Slash and burn agriculture is locally known as jhumming in the north-eastern states, Bewar or Dahiya in Madhya Pradesh, Podu in Odisha, Kuruwa in Jharkhand and Dipa in Bastar, Chhattisgarh and the Andaman and Nicobar Islands.
+   152→   - Intensive subsistence farming is practised in areas of high population pressure on land, where the holdings are small and farmers use high doses of biochemical inputs and irrigation for high yields.
+   153→   - There is enormous pressure on agricultural land for intensive subsistence farming of food grains like rice, and even the per capita availability of land is decreasing.
+   154→   - Commercial farming is practised to produce crops mainly for sale in the market, with higher doses of modern inputs and use of better yielding seeds, chemical fertilisers, insecticides and pesticides.
+   155→   - Plantation is a type of commercial farming in which a single crop is grown on a large area, like tea, coffee, sugarcane, cashew, rubber, banana and cotton, requiring well-developed networks of transport and communication.
+   156→  H: Cropping Seasons: Rabi, Kharif and Zaid
+   157→   - India has three cropping seasons: rabi, kharif and zaid.
+   158→   - Rabi crops are sown in winter from October to December and harvested in summer from April to June; important rabi crops are wheat, barley, peas, gram and mustard.
+   159→   - Rabi crops are mainly grown in Punjab, Haryana, Uttar Pradesh, Bihar, Rajasthan and parts of Madhya Pradesh, using the availability of green revolution technology and irrigation.
+   160→   - Kharif crops are grown with the onset of monsoon in different parts of the country and are harvested in September-October; important kharif crops are paddy, maize, bajra, tur or arhar, jute and cotton.
+   161→   - Paddy is the main kharif crop, grown in Assam, West Bengal, coastal regions of Andhra Pradesh, Tamil Nadu, Kerala, Maharashtra and Odisha.
+   162→   - Zaid is a short season in the summer months between the rabi and the kharif seasons, when crops like watermelon, muskmelon, cucumber, vegetables and fodder crops are grown.
+   163→   - Some crops like rice and gram grow in more than one season in different regions depending on temperature and irrigation facilities.
+   164→  H: Food Crops: Rice, Wheat, Millets, Maize and Pulses
+   165→   - Rice is the staple food crop of a majority of people in India, requiring high temperature above 25 degree Celsius and high humidity with annual rainfall above 100 cm; it can grow with irrigation in lower rainfall areas like Punjab and Haryana.
+   166→   - Rice is grown in the plains of north and north-eastern India, coastal areas and deltaic regions; West Bengal, Punjab and Uttar Pradesh are leading producers, and India is among the largest rice producers in the world.
+   167→   - Wheat requires a cool growing season with bright sunshine at ripening and 50 to 75 cm of rainfall, and it grows in the Ganga-Satluj plains of Punjab, Haryana, Uttar Pradesh and the black soil region of the Deccan; India is the second largest producer of wheat in the world.
+   168→   - Millets, called coarse grains, are of high nutritional value and include jowar, bajra and ragi; India is the largest producer of ragi, with Karnataka leading, while Maharashtra leads in jowar and Rajasthan in bajra.
+   169→   - Maize is a food as well as fodder crop, known as queen of cereals, requiring temperature between 21 and 27 degree Celsius and old alluvial soil; Karnataka, Uttar Pradesh, Bihar and Madhya Pradesh are major producers.
+   170→   - Pulses are the main source of protein for vegetarians, and India is the largest producer as well as consumer of pulses in the world; gram and tur are major pulses, grown mostly in Madhya Pradesh, Maharashtra and Rajasthan.
+   171→   - Pulses need less moisture and survive even in dry conditions, and being leguminous they restore soil fertility by fixing nitrogen.
+   172→  H: Cash Crops: Sugarcane, Oilseeds, Cotton, Jute, Tea and Coffee
+   173→   - Sugarcane is a tropical as well as subtropical crop requiring 21 to 27 degree Celsius temperature and 75 to 100 cm rainfall; it grows in Uttar Pradesh, Maharashtra, Karnataka, Tamil Nadu and Andhra Pradesh, and India is the second largest producer after Brazil.
+   174→   - Sugarcane provides sugar, gur, khandsari and molasses, and it is a long duration crop of almost a year needing fertile soil.
+   175→   - Oilseeds cover a variety like groundnut, mustard, coconut, sesamum, soyabean, castor, cotton seeds, linseed and sunflower; India is the largest producer of oilseeds in the world.
+   176→   - Groundnut accounts for about half of the major oilseeds produced in the country, with Gujarat and Andhra Pradesh as leading producers, while Rajasthan is a leading producer of mustard and coconut grows along the coasts of Kerala and Tamil Nadu.
+   177→   - Cotton is a kharif crop requiring high temperature, light rainfall or irrigation, 210 frost-free days and bright sunshine, and black cotton soil of the Deccan; Maharashtra, Gujarat and Telangana are leading producers, and cotton is used as raw material for the textile industry.
+   178→   - Jute, known as the golden fibre, grows well on well-drained fertile soils in the flood plains where soils are renewed every year, needing high temperature and heavy rainfall; West Bengal, Bihar and Assam are main producers, and jute is used to make gunny bags, mats, ropes and carpets.
+   179→   - Tea grows well in tropical and subtropical climates in deep, fertile, well-drained soil rich in humus and organic matter, needing warm and moist frost-free climate with frequent showers of 150 to 200 cm; Assam and West Bengal hills are the main producers. Coffee, of the Arabica and Robusta varieties originally brought from Yemen through the Baba Budan Hills, grows in Karnataka, Kerala and Tamil Nadu.
+   180→  H: Technological and Institutional Reforms
+   181→   - In the 1960s and 1970s, agricultural reforms were introduced under the slogan Jai Jawan Jai Kisan to improve agriculture and achieve self-sufficiency in food grains.
+   182→   - The Green Revolution of the 1960s used high yielding variety seeds, chemical fertilisers and assured irrigation to raise food grain production, especially of wheat and rice in Punjab, Haryana and western Uttar Pradesh.
+   183→   - The White Revolution, or Operation Flood, associated with Dr Verghese Kurien, made India the largest producer of milk in the world through cooperatives like Amul.
+   184→   - The government introduced minimum support price (MSP) to give assured remunerative prices to farmers, provision of loans and crop insurance against drought, flood, cyclone, fire and pests.
+   185→   - The Kisan Credit Card (KCC) and Personal Accident Insurance Scheme (PAIS) were introduced for farmers, along with special weather bulletins and agricultural programmes on radio and television.
+   186→   - Institutional reforms included consolidation of holdings, abolition of zamindari, cooperation among farmers and provision of credit through Grameen banks, cooperative societies and banks.
+   187→   - Despite reforms, agriculture's share in GDP has declined, so public investment, employment generation in rural areas, easy credit and organic farming are needed for sustainable development.
+   188→  H: Food Security and the Impact of Globalisation
+   189→   - Food security means availability, accessibility and affordability of food to all people at all times.
+   190→   - The Food Corporation of India (FCI) procures food grains from farmers at the minimum support price and maintains buffer stocks, releasing grain into the market during shortages and distributing it through the public distribution system.
+   191→   - Buffer stock ensures food availability even in years of drought, flood or other calamity, and stabilises prices in the market.
+   192→   - After the Green Revolution, India became self-sufficient in food grains and now exports rice and wheat, with production rising from about 82 million tonnes in 1960-61 to over 300 million tonnes today.
+   193→   - Globalisation has exposed Indian farmers to international competition, and reduction of subsidies and import of cheap farm products can hurt small farmers.
+   194→   - Indian farmers faced competition after the WTO agreements, and the government is reducing public investment in agriculture, especially in irrigation, power and rural roads.
+   195→   - For sustainable and inclusive growth, India needs reforms in marketing, credit, cooperative farming, diversification to high value crops and organic farming.
+   196→CHAPTER 5 | Minerals and Energy Resources
+   197→  H: Meaning and Classification of Minerals
+   198→   - A mineral is a homogeneous naturally occurring substance with a definable internal structure; minerals are usually found in ores, which are rocks with a high concentration of a particular mineral mixed with other elements.
+   199→   - Mining is the extraction of minerals from the earth, either by surface digging or by digging deep shafts into the ground.
+   200→   - Minerals are classified into metallic, non-metallic and energy minerals; metallic minerals are further divided into ferrous minerals, which contain iron, such as iron ore and manganese, and non-ferrous minerals, which do not contain iron, such as copper, bauxite, lead and zinc.
+   201→   - Non-metallic minerals do not contain metals; examples are mica, limestone and gypsum.
+   202→   - Energy minerals include coal, petroleum and natural gas, which are sources of power.
+   203→   - Minerals occur in the earth's crust in several forms: in igneous and metamorphic rocks as veins or lodes, in sedimentary rocks as beds or layers, as alluvial deposits in sands of valley floors, and in ocean waters as dissolved salts.
+   204→   - Minerals are non-renewable resources; the geological processes of their formation are so slow that rates of replenishment are infinitely small compared with rates of consumption.
+   205→  H: Ferrous Minerals: Iron Ore and Manganese
+   206→   - Iron ore is the basic mineral and the backbone of industrial development; India is richly endowed with iron ore of good quality.
+   207→   - Magnetite is the finest iron ore with a very high content of iron up to seventy per cent; it has excellent magnetic qualities, especially valuable in the electrical industry.
+   208→   - Hematite ore is the most extensively used industrial iron ore with a slightly lower iron content of fifty to sixty per cent; limonite and siderite are inferior grades.
+   209→   - The Odisha-Jharkhand belt covers Badampahar, Mayurbhanj and Kendujhar in Odisha and Singbhum in Jharkhand; the Durg-Bastar-Chandrapur belt lies in Chhattisgarh and Maharashtra, where Bailadila in Bastar district has high grade hematite exported to Japan and South Korea through Vishakhapatnam port.
+   210→   - The Bellary-Chitradurga-Chikmagalur-Tumkur belt in Karnataka has large reserves and Kudremukh deposits, one thousand metres high in the Western Ghats, are known to be among the largest in the world; the Maharashtra-Goa belt includes Ratnagiri and Chitradurga- goa areas.
+   211→   - Manganese is used in the manufacturing of ferro-alloys, steel, bleaching powder, insecticides and batteries, and about one kilogram of manganese is needed to smelt one tonne of steel; Odisha is a leading producer along with Karnataka, Madhya Pradesh and Maharashtra.
+   212→   - The iron and steel industry and cement industry together consume most of the iron ore and limestone mined in India.
+   213→  H: Non-Ferrous and Non-Metallic Minerals
+   214→   - Non-ferrous minerals like copper, bauxite, lead, zinc and gold play a vital role in a number of metallurgical, engineering and electrical industries.
+   215→   - Copper is malleable, ductile and a good conductor of electricity, so it is mainly used in electrical cables, electronics and chemical industries; mining for copper began in Nellore in Andhra Pradesh, and the Khetri mines of Rajasthan, Balaghat of Madhya Pradesh and Singhbhum of Jharkhand are major producers.
+   216→   - Bauxite is the ore from which aluminium is made; it is formed by the decomposition of rocks rich in aluminium silicates, and the deposits are found in the Amarkantak plateau, Maikal hills and the plateau region of Bilaspur-Katni; Odisha, especially Kalahandi and Koraput districts, has become a major producer, along with Jharkhand, Gujarat and Maharashtra.
+   217→   - Aluminium is light, rust-resistant and a good conductor of heat, so it is used to make aircraft, utensils and wires, and it is a substitute for steel, copper, zinc and lead.
+   218→   - Mica is a non-metallic mineral made up of a series of thin plates or sheets; it is indispensable in the electric and electronic industries because of its excellent di-electric strength, low power loss factor, insulating properties and resistance to high voltage.
+   219→   - Mica deposits are found in the northern edge of the Chota Nagpur plateau, and the Koderma-Gaya-Hazaribagh belt of Jharkhand is the leading producer.
+   220→   - Limestone is the basic raw material for the cement industry and is essential for smelting iron ore in blast furnaces; it is found in association with rocks composed of calcium carbonates.
+   221→  H: Conventional Sources of Energy: Coal, Petroleum, Natural Gas and Electricity
+   222→   - Conventional sources of energy have been used for centuries and include firewood, cattle dung cake, coal, petroleum, natural gas and electricity; non-conventional sources are the newer alternatives like solar, wind, tidal, geothermal, biogas and atomic energy.
+   223→   - In India coal is the most abundantly available fossil fuel; it provides a substantial part of the nation's energy needs and is used for power generation, supply of energy to industry and domestic needs, and as a raw material in the iron and steel industry.
+   224→   - Coal is classified by carbon content: anthracite is the highest quality hard coal with more than eighty per cent carbon; bituminous is the most widely used coal with fifty to sixty per cent carbon; lignite is a low grade brown coal used for electricity generation at Neyveli in Tamil Nadu, and peat has the lowest carbon content and heating capacity.
+   225→   - Coal occurs in rock sequences of the Gondwana period, over two hundred million years old, mainly in the Damodar valley covering Jharia, Bokaro and Raniganj, and the Godavari, Mahanadi and Son valley basins, including Talcher in Odisha.
+   226→   - Petroleum is the second most important energy source after coal; about sixty-three per cent of its requirement is met by imports, and it is found in association with natural gas in the anticlines and fault traps of rock formations; the Mumbai High, Gujarat and Bassein fields and the Krishna-Godavari and Kaveri basins are major producing areas, while Digboi in Assam has the oldest refinery.
+   227→   - Natural gas is an environment friendly fuel because of low carbon emissions; the Hazira-Vijaipur-Jagdishpur gas pipeline connects gas fields with fertilizer and power plants, and reserves are found in the Krishna-Godavari basin, Mumbai High and the Gulf of Cambay.
+   228→   - Electricity is generated mainly by hydroelectricity from fast flowing water, thermal electricity from burning coal, petroleum and natural gas, and nuclear electricity from uranium and thorium, which is available in the monazite sands of Kerala.
+   229→  H: Non-Conventional Sources of Energy
+   230→   - Rapid growth in energy demand and limited reserves of fossil fuels have focused attention on non-conventional or renewable sources of energy.
+   231→   - India is a tropical country with sunshine for the greater part of the year, so solar energy has bright prospects; photovoltaic technology converts sunlight directly into electricity, and solar energy is used in solar cookers, water heaters and solar power plants.
+   232→   - Wind energy is the fastest growing source; the largest wind farm cluster in the country is at Nagercoil-Tirunelveli in Tamil Nadu, with another important cluster at Jaisalmer-Barmer in Rajasthan; India is a leading wind power producer in the world.
+   233→   - Tidal energy is generated by oceanic tides; tidal power sites are located in the Gulf of Kutch and the Gulf of Khambhat in Gujarat and along the Sunderbans of West Bengal, where turbine blades move with the rise and fall of tides.
+   234→   - Geothermal energy comes from the heat of the earth's interior, which heats groundwater to form natural steam; geothermal plants exist in the Puga valley in Ladakh and at Manikaran in Himachal Pradesh.
+   235→   - Biogas plants use shrubs, farm waste, animal and human waste to produce gas with higher thermal efficiency than kerosene or cow dung cakes; biogas reduces the pressure on forests, and its slurry can be used as organic manure.
+   236→   - These sources are renewable, environment friendly and suitable for decentralised rural supply, and their promotion is essential for energy security.
+   237→  H: Conservation of Minerals and Energy
+   238→   - Minerals are non-renewable and irreplaceable assets, so planned and judicious use is essential for sustainable development.
+   239→   - Conservation of minerals can be achieved by reducing wastage in mining, using improved technologies to exploit low grade ores at low costs, recycling of metals and using substitutes like aluminium and plastics in place of scarce metals.
+   240→   - Energy conservation is equally urgent because coal, petroleum and natural gas are finite; an energy crisis can occur if consumption continues unchecked.
+   241→   - Using public transport systems instead of individual vehicles, switching off electricity when not required, using power-saving devices such as LED bulbs and non-conventional sources of energy are simple ways every citizen can save energy.
+   242→   - Energy saved is energy produced, and this slogan summarises the philosophy of energy conservation.
+   243→   - The promotion of solar, wind, tidal, geothermal and biogas energy reduces dependence on imported petroleum and lowers greenhouse gas emissions.
+   244→   - Recycling, efficiency and substitution together ensure that development today does not rob future generations of their resources.
+   245→CHAPTER 6 | Manufacturing Industries
+   246→  H: Importance and Classification of Manufacturing
+   247→   - Production of goods in large quantities after processing from raw materials to more valuable products is called manufacturing; the word literally means making by hand, though machines are now used for most manufacturing.
+   248→   - Manufacturing belongs to the secondary sector, which complements the primary and tertiary sectors; modern economies depend on it for jobs, value addition and export earnings.
+   249→   - The share of manufacturing in the Gross Domestic Product has stagnated at around seventeen per cent for two decades, and the National Manufacturing Competitiveness Council aims to raise it to twenty-five per cent within a decade.
+   250→   - Industries are classified on the basis of the source of raw material as agro-based, using farm products like cotton and sugar cane, and mineral-based, using minerals like iron ore and bauxite.
+   251→   - On the basis of their role, basic or key industries supply their products as raw material to manufacture other goods, like iron and steel and copper smelting, while consumer industries produce goods for direct use, like sugar and tea.
+   252→   - On the basis of capital investment, industries are small scale or large scale, and on the basis of ownership they are public sector, private sector, joint sector or cooperative sector; on the basis of bulk and weight they may be heavy or light industries.
+   253→   - Industrial location is governed by availability of raw material, labour, capital, power and transport, plus market and government policies; manufacturing activity tends to locate where all these factors are available together, leading to industrial clusters.
+   254→  H: Agro-based Industries: Cotton Textiles
+   255→   - The textile industry is the only industry in the country which is self-reliant and complete in the value chain, from raw material to the highest value added products.
+   256→   - Cotton textiles form the oldest industry of India, and the first successful cotton textile mill was established in Mumbai in 1854.
+   257→   - The industry is concentrated in Maharashtra and Gujarat because of the availability of raw cotton, moist climate, cheap skilled labour, capital, good transport and a large market; Ahmedabad is often called the Manchester of India.
+   258→   - India has the second largest installed capacity of spindles in the world after China; spinning is centralised in Maharashtra, Gujarat and Tamil Nadu, while weaving is highly decentralised, providing employment to many weavers in handlooms and powerlooms.
+   259→   - About one-fourth of the workers engaged in the industry are women, and the industry contributes significantly to industrial production and export earnings.
+   260→   - Problems faced by the industry include erratic power supply, outdated machinery, low output of labour and stiff competition from the synthetic fibre industry.
+   261→   - India exports cotton yarn, cotton goods and garments to many countries, earning substantial foreign exchange.
+   262→  H: Jute and Sugar Industries
+   263→   - India is the largest producer of raw jute and jute goods and stands at second place as an exporter after Bangladesh.
+   264→   - Most jute mills are located in the Hugli basin of West Bengal, near Kolkata, because of the availability of raw jute, cheap water transport, abundant labour, capital and a large hinterland.
+   265→   - The jute industry supports about forty lakh workers directly and many more indirectly, and products like gunny bags, hessian and carpets are made from jute.
+   266→   - Challenges of the jute industry include stiff competition in the international market from synthetic substitutes and fluctuations in the supply of raw jute.
+   267→   - The sugar industry stands second among agro-based industries; India is the second largest producer of sugar in the world after Brazil and the largest producer of gur and khandsari.
+   268→   - Sugar mills are located close to sugar cane growing areas in Uttar Pradesh, Bihar, Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh and Gujarat, because sugar cane is a perishable and weight-losing raw material.
+   269→   - The industry is seasonal in nature, so it is ideally suited to the cooperative sector; old inefficient methods of production, transport delays in reaching cane to mills and the need to maximise the use of bagasse are major challenges.
+   270→  H: Mineral-based Industries: Iron, Steel and Aluminium
+   271→   - The iron and steel industry is the basic industry since all other industries depend on it for their machinery; steel is needed to manufacture engineering goods, construction material, defence goods, and vehicles.
+   272→   - Steel is also called a heavy industry because all raw materials as well as finished goods are heavy and bulky, entailing heavy transportation costs; the industry is located in the Chhotanagpur region where iron ore, coal, limestone, labour and the home market are available.
+   273→   - India produced about 32.8 million tonnes of finished steel in 2017-18 and is among the leading steel producers, yet per capita consumption of steel is only around thirty kilograms, far below the world average; India imports steel despite large production.
+   274→   - Problems of the industry include high costs and limited availability of coking coal, lower productivity of labour, irregular supply of energy and poor infrastructure.
+   275→   - Most public sector steel plants market their steel through the Steel Authority of India Limited (SAIL); famous plants include TISCO at Jamshedpur, the first private iron and steel plant of 1907, and public sector plants at Bhilai, Durgapur, Rourkela and Bokaro.
+   276→   - Aluminium smelting is the second most important metallurgical industry; aluminium is light, corrosion resistant and a good conductor of heat, used for aircraft, utensils and wires, and it substitutes steel, copper, zinc and lead.
+   277→   - Smelting requires about 18,600 kWh of electricity per tonne of bauxite, so plants are located near cheap power; there are eight smelting plants in Odisha with NALCO and BALCO, West Bengal, Kerala, Uttar Pradesh, Chhattisgarh, Maharashtra and Tamil Nadu.
+   278→  H: Cement, Automobile and Information Technology Industries
+   279→   - The cement industry is essential for construction activity such as building houses, roads, bridges, ports, dams and airports; it needs bulky raw materials like limestone, silica and alumina, besides coal and electric power.
+   280→   - The first cement plant was set up in Chennai in 1904, and after decontrol of price and distribution in 1989 the industry made rapid strides in capacity, process, technology and production; the industry is concentrated in Gujarat due to the availability of raw material.
+   281→   - Cement is exported to East Asia, the Middle East and Africa, and the industry is doing well in production as well as export.
+   282→   - Automobiles provide vehicles for quick transport of goods, services and passengers; trucks, buses, cars, motorcycles, scooters and three-wheelers are manufactured at centres around Delhi, Gurgaon, Mumbai, Pune, Chennai, Kolkata, Lucknow, Indore, Hyderabad, Jamshedpur and Bangalore.
+   283→   - The electronics and information technology industry covers transistors, television, telephones, cellular telecom, radars and computers; Bangalore has emerged as the electronic capital of India, with other centres at Mumbai, Delhi, Hyderabad, Pune, Chennai, Kolkata, Lucknow and Coimbatore.
+   284→   - Software technology parks provide single window service and high data communication facilities to software experts; a major impact of this industry has been employment generation, and about thirty per cent of the people employed in it are women.
+   285→   - The continuing growth of this industry depends on continuous design input, rapid technological change and skilled manpower, and it has made India a global hub for software services and business process outsourcing.
+   286→  H: Industrial Pollution and Control: The NTPC Approach
+   287→   - Industries pollute air, water, land and add noise pollution; air pollution is caused by undesirable gases like sulphur dioxide and carbon monoxide and by airborne particulate matter and smoke from burning fossil fuels, causing acid rain and respiratory diseases.
+   288→   - Water pollution is caused when organic and inorganic industrial wastes and effluents are discharged into rivers; paper, pulp, chemical, textile, dyeing, petroleum refineries and tanneries are the main culprits, discharging acids, dyes, pesticides and heavy metals like mercury, lead and cadmium.
+   289→   - Thermal pollution of water occurs when hot water from factories and thermal plants is drained into rivers before cooling; land pollution results from dumping of solid and liquid industrial waste, making soil useless.
+   290→   - Noise pollution from machinery, generators, electric drills and construction activity causes irritation, hearing impairment, increased heart rate and blood pressure; noise above about ninety decibels is harmful.
+   291→   - Control measures include treating hot water and effluents before discharge, harvesting rainwater, recycling water, and treating industrial waste in three phases: primary by mechanical means like screening and sedimentation, secondary by biological processes, and tertiary by chemical, bacterial and electrolytic methods.
+   292→   - Particulate matter can be removed by scrubbers and electrostatic precipitators; smoke can be reduced by using oil or CNG instead of coal in factories, and industries should be located away from residential areas through proper zoning.
+   293→   - NTPC, a major power providing corporation with ISO certification for Environment Management System, follows a proactive approach: optimum utilisation of equipment, minimising waste by maximising ash utilisation, providing green belts, reducing pollution through ash pond management, ash water recycling and liquid waste management, and ecological monitoring with online databases for all its power stations.
+   294→CHAPTER 7 | Lifelines of National Economy
+   295→  H: Roadways: Classification of Roads
+   296→   - India has one of the largest road networks in the world, aggregating to more than fifty-four lakh kilometres; roads are the most economical means of transportation for short distances.
+   297→   - Roads are preferred because their construction cost is much lower than railways, they can traverse comparatively more dissected and undulating topography, they negotiate high gradients like slopes of the Himalayas, and they provide door to door service, acting as a feeder to other modes of transport.
+   298→   - The Golden Quadrilateral Super Highways project links Delhi, Mumbai, Chennai and Kolkata with six lane super highways; the North-South corridors link Srinagar in Jammu and Kashmir with Kanniyakumari in Tamil Nadu, and the East-West corridor links Silchar in Assam with Porbandar in Gujarat; the National Highway Authority of India (NHAI) implements these projects.
+   299→   - National Highways link extreme parts of the country and are laid and maintained by the Central Public Works Department (CPWD); the historic Sher Shah Suri Marg between Delhi and Amritsar is the old National Highway 1.
+   300→   - State Highways link a state capital with different district headquarters and are constructed and maintained by the state Public Works Departments; District Roads connect district headquarters with other places of the district and are maintained by the Zila Parishad.
+   301→   - Rural roads link rural areas and villages with towns, and the Pradhan Mantri Gram Sadak Yojana launched in December 2000 provides special focus on planned rural road development.
+   302→   - Border Roads are constructed and maintained by the Border Roads Organisation (BRO), established in 1960, for the strategic development of roads in the bordering areas of the country; the density of roads varies from only 12.14 km in Jammu and Kashmir to 517.77 km in Kerala with a national average of 142.68 km per 100 square km (2011).
+   303→  H: Railways and Pipelines
+   304→   - The Indian Railways is the largest public sector undertaking of the country, comprising a network of about 7,031 stations spread over a route length of about 63,221 km; the first train ran from Bombay to Thane in 1853, covering a distance of thirty-four kilometres.
+   305→   - The Indian Railways operates on three gauges: broad gauge with a width of 1.676 metres, metre gauge with a width of 1.000 metre and narrow gauge with a width of 0.762 metre; conversion of metre to broad gauge and unigauge projects are under way.
+   306→   - The distribution of the railway network depends on physiographic, economic and administrative factors; the northern plains have a dense network, while the Himalayan mountainous regions, sandy deserts of Rajasthan, dense forests of the north-east and flood-prone areas have sparse networks.
+   307→   - The Konkan Railway through the Sahyadri mountains required the construction of many tunnels and bridges and linked Maharashtra, Goa and Karnataka with the west coast.
+   308→   - Rail transport suffers from problems such as difficulties of track laying in hilly and sandy terrain, gauge changes, ticketless travel and accidents, yet it remains the chief means of moving bulk goods and millions of passengers.
+   309→   - Pipeline transport is a new arrival used to transport crude oil, petroleum products and natural gas from oil and natural gas fields to refineries, fertilizer factories and big thermal plants; the initial cost of laying pipelines is high but subsequent running costs are minimal.
+   310→   - Three important pipeline networks run from the oilfields of upper Assam to Kanpur via Guwahati, Barauni and Allahabad, from Salaya in Gujarat to Jalandhar in Punjab via Viramgam, Mathura, Delhi and Sonipat, and the Hazira-Vijaipur-Jagdishpur gas pipeline connected with the Mumbai High and South Bassein fields.
+   311→  H: Waterways and Major Seaports
+   312→   - Waterways are the cheapest means of transport, most suited to carry heavy and bulky goods; they are fuel efficient and environment friendly, and about ninety-five per cent of the country's trade volume is moved by sea.
+   313→   - India has been one of the seafaring countries for centuries, with inland waterways in rivers, canals, backwaters and creeks; the Ganga-Brahmaputra rivers and the backwaters of Kerala are the main inland waterways.
+   314→   - National Waterway 1 runs on the Ganga between Prayagraj (Allahabad) and Haldia covering 1,620 km; National Waterway 2 runs on the Brahmaputra between Sadiya and Dhubri covering 891 km; National Waterway 3 is the West Coast Canal from Kottapuram to Kollam with the Udyogmandal and Champakara canals covering 205 km.
+   315→   - India has twelve major seaports and about two hundred notified minor and intermediate ports; Kandla in Kachchh was the first port developed soon after Partition to ease the volume of trade on the Mumbai port, and it is a tidal port.
+   316→   - Mumbai is the biggest port with a natural harbour; Jawaharlal Nehru port at Nhava Sheva was developed to decongest Mumbai and is the largest container port; Marmagao in Goa is the premier iron ore exporting port, and New Mangalore in Karnataka handles Kudremukh iron ore concentrates.
+   317→   - Kochi is the south-western port at the entrance of a lagoon with a natural harbour; Tuticorin in southern Tamil Nadu handles trade of the southern region; Chennai is one of the oldest artificial ports and ranks second after Mumbai in volume of trade.
+   318→   - Vishakhapatnam is the deepest landlocked and protected port of India; Paradip in Odisha exports iron ore; Kolkata is an inland riverine port serving the Ganga-Brahmaputra basin, supported by the deep water satellite port of Haldia which was developed to reduce congestion at Kolkata.
+   319→  H: Airways and Communication
+   320→   - Airways are the fastest, most comfortable and prestigious mode of transport, but air travel is expensive and beyond the reach of ordinary people.
+   321→   - Air travel is the easiest and quickest way to cover the difficult terrain of the north-eastern states with their big rivers, dissected relief, dense forests and frequent floods, and long international border areas are also served by air.
+   322→   - The first air flight in India took place in 1911 from Allahabad to Naini across the river Yamuna, covering only a short distance of about ten kilometres.
+   323→   - International airports are located at Amritsar, Delhi, Mumbai, Chennai, Kolkata, Hyderabad, Bangalore and Thiruvananthapuram, handling both international and domestic traffic.
+   324→   - Communication carries messages from one place to another; personal communication includes postcards, letters, telephone, mobile phone and email, while mass communication through radio, television, newspapers, magazines, books and films reaches millions at one time.
+   325→   - India has one of the largest telecom networks in Asia, and more than two-thirds of the villages in the country have Subscriber Trunk Dialling (STD) facility.
+   326→   - All India Radio broadcasts a variety of programmes in national, regional and local languages, Doordarshan provides national and regional channels, and India is the largest producer of feature films in the world.
+   327→  H: International Trade and Balance of Trade
+   328→   - The exchange of goods among people, states and countries is called trade; trade between two countries is called international trade, and it may involve ports as the chief gateways of trade.
+   329→   - Export and import are the two components of trade; when the value of exports exceeds the value of imports, the balance of trade is favourable, and when the value of imports is greater than exports, the balance is unfavourable.
+   330→   - India has trade relations with all the major trading blocks and all geographical regions of the world; commodities exported include agriculture and allied products, ores and minerals, gems and jewellery, chemical and allied products, engineering goods and petroleum products.
+   331→   - Commodities imported to India include petroleum and petroleum products, pearls and precious stones, inorganic chemicals, coal, coke and briquettes and machinery.
+   332→   - The bulk of imports, especially petroleum products, shows that energy security dominates the import bill, while growth of exports of engineering goods and services reflects industrial progress.
+   333→   - Advancement of international trade of a country is an index to its economic prosperity; as the resources are space bound, no country can survive without international trade.
+   334→   - India has emerged as a software giant at the international level and is earning large amounts of foreign exchange from the export of information technology services and business process outsourcing.
+   335→  H: Tourism as a Trade
+   336→   - Tourism in India has grown substantially over the last three decades and has emerged as a major source of foreign exchange earnings.
+   337→   - Foreign tourists visit India for heritage tourism, eco-tourism, adventure tourism, cultural tourism, medical tourism and business tourism.
+   338→   - More than fifteen million people are directly engaged in the tourism industry, and many more earn indirectly from hotels, transport, handicrafts and guides.
+   339→   - Tourism promotes national integration and international understanding, and it supports local handicrafts and cultural pursuits of the people.
+   340→   - Tourism also helps in the development of infrastructure like hotels, roads, airports and communication facilities in remote and scenic areas.
+   341→   - Indian handicrafts, handlooms, classical dance, music, fairs and festivals attract tourists and provide employment to artisans and performers.
+   342→   - Tourism is thus rightly called a trade because it is an invisible export that earns foreign exchange without shipping any physical goods abroad.
+   343→

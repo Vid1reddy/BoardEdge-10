@@ -1,0 +1,1488 @@
+{
+  "code": "english",
+  "name": "English",
+  "bookName": "First Flight (Poems)",
+  "weightageMarks": 80,
+  "chapters": [
+    {
+      "number": 10,
+      "title": "Dust of Snow (Poem)",
+      "summary": "A crow shakes a light shower of snow dust from a hemlock tree onto the poet as he stands in a sorrowful mood. This tiny natural event lifts his spirits and rescues part of a day he had already regretted. The poem shows how the smallest moments in nature can bring unexpected joy.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Hemlock tree and crow as unusual symbols",
+        "Sudden change of mood",
+        "Healing power of nature",
+        "Importance of small moments",
+        "From regret to joy"
+      ],
+      "sections": [
+        {
+          "heading": "Summary",
+          "points": [
+            "The poet is in a depressed, regretful mood when a crow shakes down fine dust of snow from a hemlock tree onto him.",
+            "This light shower of snow alters his state of mind and makes him feel refreshed and light-hearted.",
+            "The small experience saves some part of the day that he had earlier counted as wasted or regretted."
+          ],
+          "keyTerms": [
+            {"term": "rued", "meaning": "felt deep regret or remorse for something"},
+            {"term": "hemlock", "meaning": "a poisonous tree with white flowers, traditionally linked with sorrow and death"},
+            {"term": "dust of snow", "meaning": "fine, powder-like particles of snow shaken down by the crow"}
+          ],
+          "trick": "Remember the flip: crow and hemlock are gloomy symbols, yet here they deliver joy, so every answer must highlight the reversal of mood, not bad omens.",
+          "examPointer": "Extract-based questions usually quote the hemlock and crow lines and ask for the effect on the poet's mood or the meaning of the word 'rued'."
+        },
+        {
+          "heading": "Central Idea and Themes",
+          "points": [
+            "Even the smallest act of nature can transform human sorrow into cheerfulness.",
+            "Nature has the quiet power to heal a troubled mind without effort, cost or grand gestures.",
+            "One should never write off a day as wasted, since a trivial incident can restore hope and optimism at any moment."
+          ],
+          "keyTerms": [
+            {"term": "change of mood", "meaning": "the shift in the poet's mind from regret and gloom to cheerfulness"},
+            {"term": "optimism", "meaning": "the hopeful outlook that the falling snow restores in the poet"}
+          ],
+          "trick": "Link the theme to one line: a few flakes of snow saved part of a day the poet had rued, so every thematic answer must mention small causes producing big changes.",
+          "examPointer": "Message-based questions often ask how nature lifts our spirits, so support the answer with the crow, the hemlock tree and the changed mood."
+        },
+        {
+          "heading": "Poetic Devices",
+          "points": [
+            "Rhyme scheme: abab (crow-snow, me-tree; heart-part, mood-rued).",
+            "Imagery: the visual picture of fine snow dust falling on the poet appeals strongly to the senses.",
+            "Symbolism: the crow and the hemlock tree, normally signs of bad luck, symbolise unexpected sources of happiness.",
+            "Enjambment: the lines flow smoothly into one another, mirroring the natural, unbroken flow of the moment."
+          ],
+          "keyTerms": [
+            {"term": "symbolism", "meaning": "the use of objects or creatures to represent deeper ideas beyond their literal meaning"},
+            {"term": "imagery", "meaning": "descriptive language that creates sensory pictures in the reader's mind"}
+          ],
+          "trick": "For devices, quote 'the dust of snow' for imagery and the hemlock tree for symbolism; do not call the poem a metaphor since the snow is real, not figurative.",
+          "examPointer": "Expect device questions on the rhyme scheme abab and on identifying symbolism in the crow and the hemlock tree."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Extract-based angle: explain how an ordinary winter scene brings a change in the poet's mood.",
+            "Message-based angle: small joys of life can ease deep regret, so never let one bad moment ruin the whole day.",
+            "Value-based angle: gratitude for the simple gifts of nature restores positivity and hope."
+          ],
+          "keyTerms": [
+            {"term": "extract-based question", "meaning": "a question built around a quoted portion of the poem"},
+            {"term": "message", "meaning": "the moral or life-lesson that the poem conveys"}
+          ],
+          "trick": "Pair the gloomy symbols with the happy outcome in one sentence; examiners reward that contrast immediately.",
+          "examPointer": "Most board questions from this poem are 2 to 3 marks, so keep answers crisp and always end with the lesson of hope."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Which tree does the crow shake the dust of snow from?",
+          "options": ["Oak", "Hemlock", "Pine", "Maple"],
+          "answerIndex": 1,
+          "explanation": "The poem begins with snow shaken 'From a hemlock tree', a poisonous tree that Frost chooses deliberately to reverse the idea of bad omens.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What does the falling dust of snow give the poet?",
+          "options": ["A cold and fever", "A change of mood", "A new hobby", "A deep wound"],
+          "answerIndex": 1,
+          "explanation": "The shower of snow gives the poet's heart a change of mood and saves part of his rued day.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How much of the poet's day is saved by the incident?",
+          "options": ["The whole day", "Some part of the day", "Nothing at all", "The next day as well"],
+          "answerIndex": 1,
+          "explanation": "The poet says the experience saved some part of a day he had rued, so only a part of the day is rescued.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Read the lines: 'Has given my heart / A change of mood'. In the poem, 'a day I had rued' means a day the poet had ...",
+          "options": ["Celebrated with friends", "Deeply regretted as wasted", "Planned with great care", "Spent outdoors in joy"],
+          "answerIndex": 1,
+          "explanation": "The word 'rued' means regretted; the poet had counted the day as wasted until the snow dust changed his mood.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Why is Frost's choice of a crow and a hemlock tree considered unusual?",
+          "options": ["Both are extremely rare in winter", "Both are traditionally symbols of ill omen, yet here they bring joy", "Both are symbols of wealth and luxury", "Both belong to tropical regions"],
+          "answerIndex": 1,
+          "explanation": "A crow's caw and the poisonous hemlock are linked with bad luck, so using them as agents of happiness reverses the usual symbolism.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the lines: 'And saved some part / Of a day I had rued.' What deeper truth about nature and human moods do these lines convey?",
+          "options": ["Nature never affects human feelings", "A tiny, effortless incident in nature can rescue a whole day lost to regret", "Snow always brings happiness to people", "Regret is impossible once it snows"],
+          "answerIndex": 1,
+          "explanation": "The lines carry the core idea of the poem: the smallest natural touch can transform sorrow into cheer without any effort or expense.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "How did the falling dust of snow affect the poet's mood?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "As the poet stood in a regretful mood, a crow shook fine dust of snow from a hemlock tree onto him. This tiny touch of nature lifted his spirits instantly, gave his heart a change of mood and saved some part of the day he had earlier counted as wasted."
+        },
+        {
+          "question": "The crow and the hemlock tree are usually associated with bad omens. How does Robert Frost use them differently in 'Dust of Snow'?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "In popular belief, a crow's caw and the poisonous hemlock tree announce sorrow and death, so both are considered unlucky. Frost, however, reverses these gloomy symbols: the crow's small action of shaking down snow becomes the source of unexpected joy. The very agents of ill omen refresh the poet's heart and rescue his ruined day. The reversal teaches readers that happiness can arrive through ordinary, even unlovely things, and that no moment should be dismissed as worthless."
+        },
+        {
+          "question": "What message does the poem 'Dust of Snow' convey about dealing with regret and bad days?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The poem suggests that a bad mood need not consume the whole day. When the poet stands ruing his fate, a mere shower of snow dust changes his heart's mood and saves part of the day he had rued. The message is that hope lies in small things: a chance encounter with nature, a kind gesture or a trivial incident can dissolve regret instantly. We should remain open to such moments instead of writing off our days in sorrow."
+        },
+        {
+          "question": "Describe the incident that changes the poet's mood in 'Dust of Snow' and explain the central theme of the poem.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "The poet begins the poem in a gloomy state of mind, regretting how his day has gone. As he stands lost in sorrow, a crow perched on a hemlock tree shakes down a light shower of snow dust that falls upon him. This trivial contact with nature works like magic: his heart receives a change of mood, and some part of the day he had rued is saved. The theme of the poem is the healing power of small moments. Frost deliberately chooses a crow and a hemlock, symbols normally linked with bad luck, to show that even unlovely things can bring unexpected happiness. The poem urges readers not to let regret consume them, because joy may enter through the smallest door. A moment of natural beauty, however brief, is enough to restore hope and make life worth continuing."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Fire and Ice (Poem)",
+      "summary": "The poet weighs two possible ends of the world, by fire and by ice, and equates them with human emotions. Fire stands for desire and greed, while ice stands for hatred and cold indifference. He concludes that both emotions are powerful enough to destroy the world.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Fire as symbol of desire and greed",
+        "Ice as symbol of hatred and indifference",
+        "The idea of the world ending twice",
+        "Power of destructive emotions",
+        "Tone of irony and understatement"
+      ],
+      "sections": [
+        {
+          "heading": "Summary",
+          "points": [
+            "The poet reports the common belief that the world will end either in fire or in ice.",
+            "From his own experience of desire, he sides with those who favour fire as the cause of the end.",
+            "He then argues that hatred is equally destructive, and that ice would suffice just as well if the world had to perish twice."
+          ],
+          "keyTerms": [
+            {"term": "perish", "meaning": "to die or be destroyed completely"},
+            {"term": "suffice", "meaning": "to be enough or adequate for a purpose"},
+            {"term": "desire", "meaning": "an intense longing or greed for things, symbolised by fire"}
+          ],
+          "trick": "Fire means hot emotions like desire, greed and lust; ice means cold emotions like hate and indifference. Map every question to this hot-cold pair first.",
+          "examPointer": "Extracts quoting 'Some say the world will end in fire, / Some say in ice' often ask what fire and ice symbolise, so answer with emotions, not literal disasters."
+        },
+        {
+          "heading": "Central Idea and Themes",
+          "points": [
+            "Human emotions like desire and hatred can destroy individuals and civilisations just as fire and ice destroy the physical world.",
+            "Unchecked greed burns things away quickly, while cold hatred freezes relationships and societies slowly.",
+            "The poem is a warning that both passionate and unfeeling attitudes are equally dangerous for humanity."
+          ],
+          "keyTerms": [
+            {"term": "hatred", "meaning": "intense dislike or ill will, symbolised by ice"},
+            {"term": "destruction", "meaning": "the complete ruin of the world through extreme human emotions"}
+          ],
+          "trick": "Whenever asked for the central idea, write one line: extreme desire burns and extreme hate freezes, and either can end the world.",
+          "examPointer": "Message-based questions may ask which force is more harmful; the safe board answer is that both are equally destructive, as the poet refuses to choose finally."
+        },
+        {
+          "heading": "Poetic Devices",
+          "points": [
+            "Rhyme scheme: aba abc bcb, with the fire and ice sounds interweaving like the two forces.",
+            "Symbolism: fire represents desire and greed, while ice represents hatred and indifference.",
+            "Alliteration: as in 'Some say', adding a musical effect to the opening lines.",
+            "Understatement and irony: the casual tone of 'And would suffice' makes the horror of the world's end sound chillingly light."
+          ],
+          "keyTerms": [
+            {"term": "symbolism", "meaning": "the representation of abstract ideas through concrete images"},
+            {"term": "understatement", "meaning": "presenting something serious as if it were less important than it is"}
+          ],
+          "trick": "Do not confuse the rhyme scheme with abab; quote it as aba abc bcb and support it with the fire-desire and ice-hate pairs.",
+          "examPointer": "Device questions often ask for the symbols; always attach an emotion to each element instead of describing literal fire and ice."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Extract-based angle: identify what fire and ice stand for and how each can end the world.",
+            "Message-based angle: control desire and hatred before they consume life and relationships.",
+            "Comparative angle: contrast the slow freezing of hate with the quick burning of desire."
+          ],
+          "keyTerms": [
+            {"term": "irony", "meaning": "the contrast between the poet's calm tone and the terrible subject of the world's end"},
+            {"term": "greed", "meaning": "excessive desire for wealth or pleasure, symbolised by fire"}
+          ],
+          "trick": "If asked which is stronger, fire or ice, quote 'And would suffice' to show the poet lets hate equal desire; that one quotation settles the question.",
+          "examPointer": "Long answers should blend both symbols with everyday examples, such as wars born of greed and families broken by cold hate."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "According to the poem, what does fire symbolise?",
+          "options": ["Hatred and coldness", "Desire and greed", "Peace and harmony", "Knowledge and wisdom"],
+          "answerIndex": 1,
+          "explanation": "The poet equates fire with desire: from what he has tasted of desire, he holds with those who favour fire.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What does ice stand for in the poem?",
+          "options": ["Love and care", "Hatred and indifference", "Joy and celebration", "Knowledge and truth"],
+          "answerIndex": 1,
+          "explanation": "Ice symbolises hate, a cold emotion that the poet finds sufficient for the destruction of the world.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How many times does the poet imagine the world might end?",
+          "options": ["Once, in fire", "Twice, once by fire and once by ice", "Never at all", "Thrice, in floods"],
+          "answerIndex": 1,
+          "explanation": "The line 'But if it had to perish twice' introduces a second destruction, which ice would cause.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Read the lines: 'Some say the world will end in fire, / Some say in ice.' From these lines and the rest of the poem, whose view does the poet initially support?",
+          "options": ["Those who favour ice", "Those who favour fire", "Neither group", "The scientists"],
+          "answerIndex": 1,
+          "explanation": "The poet has tasted desire and holds with those who favour fire, supporting the fire view first.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What does the line 'And would suffice' imply about the power of hatred?",
+          "options": ["Hatred is weaker than desire", "Ice alone would be quite enough to destroy the world", "Ice can never harm anyone", "Hatred only causes minor harm"],
+          "answerIndex": 1,
+          "explanation": "The understated line shows that hatred needs no partner; it is fully sufficient for the world's destruction.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Why does the poet imagine the world perishing 'twice', and what does this reveal about his view of human emotions?",
+          "options": ["He believes the same destructive emotions could ruin the world again, showing that desire and hate are each independently sufficient", "He thinks fire and ice will act together at the same time", "He is joking about climate change", "He doubts whether the world will end at all"],
+          "answerIndex": 0,
+          "explanation": "The idea of a second end lets the poet weigh both emotions separately and conclude that either desire or hate alone can complete the destruction.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What do fire and ice each stand for in the poem 'Fire and Ice'?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Fire stands for intense desire, greed and lust that burn the world, while ice stands for hatred, coldness and indifference that freeze human feelings. Drawing on his own experience of desire, the poet holds with those who favour fire, yet admits that hatred is equally sufficient to destroy the world."
+        },
+        {
+          "question": "How can hatred be as destructive as desire? Explain with reference to 'Fire and Ice'.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Desire is a fiery emotion that makes people chase wealth and power ruthlessly, burning everything that comes in the way, so the poet holds with those who favour fire. Hatred, however, is a cold emotion that destroys slowly but surely, freezing relationships and spreading bitterness across society. The poet admits that if the world had to perish twice, ice would suffice, showing that cold indifference is just as lethal as burning greed. Both emotions, if unchecked, can end the world."
+        },
+        {
+          "question": "What message does Robert Frost convey through the poem 'Fire and Ice'?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The poem warns that human emotions can be as destructive as natural catastrophes. Uncontrolled desire and greed consume people the way fire consumes, while hatred and indifference kill warmth the way ice does. The message is that humanity must restrain both extremes, for either one can bring an end to the world. Frost hints that jealousy, greed and cruelty in daily life are small versions of these global forces, so controlling them individually is how we save the world collectively."
+        },
+        {
+          "question": "Discuss how Frost uses the symbols of fire and ice to comment on human nature. Why is the message of the poem relevant today?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Frost opens with the popular debate about the world ending in fire or in ice, then converts both images into emotional symbols. Fire represents desire, greed and uncontrolled passion; the poet has tasted such desire and sides with those who favour fire. Ice represents hatred, coldness and indifference, and the poet's knowledge of hate convinces him that ice is equally destructive, sufficient to end the world a second time. The poem thus suggests that humanity carries two kinds of self-destruction within itself: the burning rage of wanting more and the freezing cruelty of not caring. The message remains relevant today, when wars, exploitation and environmental ruin spring from greed, while social conflicts grow from hate and apathy. By ending flatly with 'And would suffice', Frost leaves the reader with the chilling thought that either emotion alone is enough to finish us."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "A Tiger in the Zoo (Poem)",
+      "summary": "A mighty tiger stalks a few steps inside a cage, his velvet pads silent and his rage suppressed. The poet imagines the same tiger lurking in shadow near a water hole and terrorising the village at the jungle's edge. The poem contrasts captivity with freedom and questions the cruelty of caging wild animals.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Contrast between cage and forest",
+        "Quiet rage of the caged tiger",
+        "Terrorising the village at jungle's edge",
+        "Velvet pads and brilliant eyes",
+        "Message about animal freedom"
+      ],
+      "sections": [
+        {
+          "heading": "Summary",
+          "points": [
+            "In the cage the tiger moves up and down in a few steps, his paws soft as velvet but his anger suppressed within him.",
+            "He is locked in a concrete cell with his strength behind bars; at night he hears the patrolling cars and stares at the brilliant stars with his brilliant eyes.",
+            "The poet imagines him instead lurking in shadow, sliding through the long grass near a water hole where plump deer pass, and terrorising the village at the jungle's edge."
+          ],
+          "keyTerms": [
+            {"term": "stalks", "meaning": "moves slowly and stealthily, as a hunter does"},
+            {"term": "quiet rage", "meaning": "fierce anger that the tiger must suppress because he is caged"},
+            {"term": "water hole", "meaning": "a natural pond in the forest where animals gather to drink"}
+          ],
+          "trick": "Organise every answer as cage scene, night scene, forest scene; each scene has one vivid detail: velvet pads, patrolling cars, plump deer.",
+          "examPointer": "Extract-based questions often quote 'On pads of velvet quiet, / In his quiet rage' and ask what the tiger is doing or feeling."
+        },
+        {
+          "heading": "Central Idea and Themes",
+          "points": [
+            "Wild animals belong in their natural habitat, not behind bars for human entertainment.",
+            "Captivity suppresses the tiger's strength and dignity, turning his fury into a silent, helpless rage.",
+            "Freedom is essential for every living being, and denying it to any creature is an act of cruelty."
+          ],
+          "keyTerms": [
+            {"term": "captivity", "meaning": "the state of being imprisoned or confined, as the tiger is in his cage"},
+            {"term": "habitat", "meaning": "the natural home of an animal, here the forest with grass, deer and shadow"}
+          ],
+          "trick": "Answer in two halves for every question: what the tiger is forced to do in the cage versus what he would do in the forest.",
+          "examPointer": "Message-based questions frequently ask why the tiger should be free, so link freedom with dignity and natural behaviour."
+        },
+        {
+          "heading": "Poetic Devices",
+          "points": [
+            "Rhyme scheme: abcb, seen in pairs like cage-rage and cars-stars.",
+            "Oxymoron: 'quiet rage' combines silence and fury to express the tiger's suppressed anger.",
+            "Imagery: vivid pictures of velvet pads, long grass, plump deer and brilliant eyes create strong visual effects.",
+            "Contrast (antithesis): the concrete cell is set against the free forest throughout the poem."
+          ],
+          "keyTerms": [
+            {"term": "oxymoron", "meaning": "a phrase that combines two contradictory ideas, like 'quiet rage'"},
+            {"term": "antithesis", "meaning": "a contrast of opposing ideas placed side by side for effect"}
+          ],
+          "trick": "Quote 'quiet rage' whenever a device is asked; it is an oxymoron that also carries the whole message of suppressed fury.",
+          "examPointer": "Contrast-based questions are common: always name the three forest details (shadow and long grass, water hole with deer, village terror) against the cage details."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Extract-based angle: describe the tiger's behaviour in the cage or in the forest from the quoted lines.",
+            "Message-based angle: caging wild animals robs them of freedom and strength; wildlife belongs to the wild.",
+            "Value-based angle: empathy towards animals and criticism of zoos as places of entertainment."
+          ],
+          "keyTerms": [
+            {"term": "patrolling cars", "meaning": "the zoo guards' vehicles moving about at night, reminding the tiger that he is watched"},
+            {"term": "brilliant eyes", "meaning": "the tiger's shining eyes that reflect his longing, helplessness and dignity"}
+          ],
+          "trick": "End every answer with one line: the poem is a plea for animal freedom, not merely a description of a tiger.",
+          "examPointer": "The 5-mark question often asks for the contrast between the cage and the forest, so prepare three parallel points for each side."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "What is the tiger doing inside his cage?",
+          "options": ["Sleeping all day", "Stalking up and down in a few steps", "Hunting plump deer", "Roaring at the visitors"],
+          "answerIndex": 1,
+          "explanation": "The tiger stalks in his vivid stripes, taking only a few steps in his cage.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How are the tiger's pads described in the poem?",
+          "options": ["Hard and cracked", "Velvet quiet", "Rough and torn", "Covered with dust"],
+          "answerIndex": 1,
+          "explanation": "The tiger walks on pads of velvet quiet, showing his silent, suppressed movement.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "At night, the tiger stares with his brilliant eyes at ...",
+          "options": ["The visitors", "The deer", "The brilliant stars", "The zoo gates"],
+          "answerIndex": 2,
+          "explanation": "He hears the patrolling cars and stares with his brilliant eyes at the brilliant stars.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What would the tiger do near the water hole if he were free?",
+          "options": ["Play with the deer", "Lurk in shadow and ambush the plump deer that pass", "Drink water peacefully", "Sleep on the bank"],
+          "answerIndex": 1,
+          "explanation": "In his natural habitat he would lurk in shadow and slide through the long grass near the water hole where plump deer pass.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the lines: 'On pads of velvet quiet, / In his quiet rage.' What does the phrase 'quiet rage' convey about the tiger?",
+          "options": ["He is calm and content", "His fierce anger is suppressed because he is caged", "He has lost all strength", "He is angry with the visitors"],
+          "answerIndex": 1,
+          "explanation": "The oxymoron shows that the tiger's natural fury has no outlet in captivity, so it stays bottled up as silent rage.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Why does the poet show the tiger hearing patrolling cars and staring at the stars at night?",
+          "options": ["To prove that the zoo protects the tiger", "To emphasise that the imprisoned tiger longs for freedom, which deepens the reader's sympathy", "To show that the tiger enjoys the night", "To hint that the tiger will escape soon"],
+          "answerIndex": 1,
+          "explanation": "The night scene turns the tiger into a wistful prisoner, and his brilliant eyes fixed on the stars express his yearning for freedom.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why does the tiger express only a 'quiet rage' in the zoo?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "The tiger is locked in a concrete cell with his strength behind bars, so he cannot hunt, roar or roam. His natural fury finds no outlet and therefore remains suppressed within him. His soft velvet pads move silently through a few steps, and the anger inside shows itself only as a quiet, helpless rage."
+        },
+        {
+          "question": "Describe the tiger's life in his natural habitat as imagined by the poet.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The poet imagines the tiger lurking in shadow and sliding silently through the long grass near a water hole, waiting to ambush the plump deer that pass that way. He should be snarling around houses at the jungle's edge, baring his fangs and claws and terrorising the village. In the forest the tiger would be a fearless ruler, moving freely, hunting on his own terms and living with the dignity that nature gave him."
+        },
+        {
+          "question": "What message does the poem 'A Tiger in the Zoo' convey about keeping wild animals in captivity?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The poem condemns the practice of caging wild animals for human entertainment. The tiger, born to rule the forest, paces a few steps in a concrete cell, his strength behind bars and his rage silenced. At night he hears patrolling cars and stares helplessly at the stars, a prisoner deprived of freedom. The message is that wild animals belong in their natural habitat, and robbing them of freedom for our pleasure is cruel and unjust."
+        },
+        {
+          "question": "Compare the tiger's life in the cage with his life in the forest and bring out the central idea of the poem.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "In the zoo, the tiger stalks up and down within a few steps of his cage, moving on pads of velvet quiet but full of quiet rage. He is locked in a concrete cell, his strength behind bars, ignoring visitors and hearing only the patrolling cars at night as he stares with brilliant eyes at the brilliant stars. In the forest, by contrast, he would lurk in shadow, slide through the long grass near the water hole, seize the plump deer that pass, and snarl around houses at the jungle's edge, baring his fangs and claws and terrorising the village. The contrast between helpless captivity and majestic freedom forms the heart of the poem. Leslie Norris thus criticises the cruelty of caging wild animals and asserts that every creature has a right to live freely in its natural habitat."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "How to Tell Wild Animals (Poem)",
+      "summary": "The poet offers hilarious instructions for identifying wild animals, suggesting that you can recognise a tiger by its roar as it attacks you, or a leopard by the spots on its skin as it leaps. The mock-serious advice about bears, hyenas, crocodiles and chameleons satirises the human love for classification and creates humour throughout.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Humour and satire in animal identification",
+        "Bengal tiger recognised by its roar",
+        "Leopard's spots and sudden leap",
+        "Hyena's smile versus crocodile's tears",
+        "Chameleon's camouflage"
+      ],
+      "sections": [
+        {
+          "heading": "Summary",
+          "points": [
+            "The poet pretends to give scientific rules for recognising wild animals in the Asian jungle.",
+            "A Bengal tiger can be identified by its roar, while a leopard's spotted skin gives it away even as it leaps on you.",
+            "A bear is known by its deadly hug, the hyena comes with merry smiles while the crocodile is in tears, and if there is nothing on the tree, it must be the chameleon."
+          ],
+          "keyTerms": [
+            {"term": "rosettes", "meaning": "the leopard's spotted markings on its skin"},
+            {"term": "camouflage", "meaning": "the ability to blend with the surroundings, shown by the chameleon"},
+            {"term": "bear hug", "meaning": "a crushing embrace; here a joke about the bear's deadly way of greeting"}
+          ],
+          "trick": "Match animal to clue in one line each: tiger-roar, leopard-spots, bear-hug, hyena-smile, crocodile-tears, chameleon-nothing-on-tree.",
+          "examPointer": "Extract-based questions usually quote the chameleon or leopard couplets and ask which animal is being described or what trait it shows."
+        },
+        {
+          "heading": "Central Idea and Themes",
+          "points": [
+            "The poem gently mocks the way humans turn even dangerous encounters into lessons of classification.",
+            "It shows that knowledge gained only from books can be absurdly impractical in real situations.",
+            "Humour is used to make readers smile at the foolishness of treating life-threatening animals as museum specimens."
+          ],
+          "keyTerms": [
+            {"term": "satire", "meaning": "the use of humour and irony to criticise human folly"},
+            {"term": "mock-serious tone", "meaning": "a style that treats a silly or dangerous idea with pretended seriousness"}
+          ],
+          "trick": "Call the poem a satire on scientific classification; that single phrase answers most theme questions.",
+          "examPointer": "Message-based questions may ask why the poem is funny; answer that the safety instructions would actually get the traveller killed."
+        },
+        {
+          "heading": "Poetic Devices",
+          "points": [
+            "Rhyme scheme: aabb, the poem being written entirely in rhyming couplets.",
+            "Allusion: a reference to 'crocodile tears', the proverbial idea of false weeping.",
+            "Irony: the advice is useless because following it would injure or kill the reader.",
+            "Humour and exaggeration: absurd descriptions like identifying a bear by being hugged by it create comedy."
+          ],
+          "keyTerms": [
+            {"term": "allusion", "meaning": "an indirect reference to a well-known idea, such as crocodile tears"},
+            {"term": "couplet", "meaning": "a pair of rhyming lines, the basic unit of this poem"}
+          ],
+          "trick": "For the device question, quote the couplet 'if there's nothing on the tree, / 'tis the chameleon you see' and label the scheme aabb.",
+          "examPointer": "Humour questions must include one example of the absurd logic, such as distinguishing a crocodile from a hyena only after it attacks you."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Extract-based angle: identify the animal and the trait from the quoted couplet.",
+            "Message-based angle: enjoy the satire on impractical, bookish knowledge and be practical in life.",
+            "Appreciation angle: explain how rhyme, irony and exaggeration together create humour."
+          ],
+          "keyTerms": [
+            {"term": "exaggeration", "meaning": "deliberate overstatement used to make an idea comic"},
+            {"term": "irony", "meaning": "the contrast between the intended usefulness of the advice and its deadly impracticality"}
+          ],
+          "trick": "Write the animal-clue pairs in brackets while answering; examiners spot the six animals quickly and award full marks.",
+          "examPointer": "Three-mark questions often ask how the poet creates humour, so combine tone, irony and couplets in the answer."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "How can a Bengal tiger be recognised, according to the poem?",
+          "options": ["By counting its stripes", "By its roar as it attacks", "By its gentle purring", "By its smell"],
+          "answerIndex": 1,
+          "explanation": "The poet says the tiger announces itself by roaring, which is a uselessly dangerous way of identification.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What does the poet say about the leopard?",
+          "options": ["It sleeps through the day", "Its rosette-spotted skin shows as it leaps on you", "It dances in the rain", "It hides underwater"],
+          "answerIndex": 1,
+          "explanation": "The leopard is identified by the spots on its skin at the very moment it leaps on the traveller.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which animal, according to the poem, comes with merry smiles?",
+          "options": ["The crocodile", "The chameleon", "The hyena", "The bear"],
+          "answerIndex": 2,
+          "explanation": "The hyena comes with merry smiles, while the crocodile is always in tears.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How are the hyena and the crocodile distinguished in the poem?",
+          "options": ["By their size and weight", "The hyena comes with merry smiles while the crocodile is in tears", "By the sound of their roar", "By counting their legs"],
+          "answerIndex": 1,
+          "explanation": "The poet's distinction is comically impractical, since the traveller would meet the animal before noticing its expression.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the lines: 'if there's nothing on the tree, / 'tis the chameleon you see.' What trait of the chameleon does this couplet highlight?",
+          "options": ["Its huge appetite for leaves", "Its habit of sleeping all day", "Its camouflage, which makes it almost invisible", "Its loud croaking at night"],
+          "answerIndex": 2,
+          "explanation": "The chameleon blends so perfectly with its surroundings that the tree appears empty, so nothing on the tree means the chameleon is there.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What makes the poem's 'instructions' for identifying animals deeply ironic?",
+          "options": ["They are copied from science textbooks", "They require the reader to be attacked or almost killed before the animal can be identified", "They are written in a foreign language", "They apply only to zoo animals"],
+          "answerIndex": 1,
+          "explanation": "The irony lies in following the advice: one must let the tiger roar, the leopard leap or the bear hug before identification is complete.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "How can a leopard be recognised, according to the poet?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The poet says that a leopard's spotted skin can be seen only when the animal leaps on you, and it is useless to roar back at it or cry for help, because the leopard will keep attacking. This absurd advice, that one must be pounced upon to identify the beast, creates the poem's humour."
+        },
+        {
+          "question": "How are the hyena and the crocodile distinguished in the poem? What makes this distinction amusing?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The poet remarks that it is genuinely hard to tell the hyena from the crocodile. The distinction he offers is comically useless: the hyena comes with merry smiles while the crocodile is always in tears. The humour lies in the fact that the traveller must wait for the animal's expression, that is, until it attacks him, before he can identify it, and the crocodile's tears recall the phrase 'crocodile tears' for false weeping."
+        },
+        {
+          "question": "How does Carolyn Wells create humour in 'How to Tell Wild Animals'? Give examples.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Humour arises from the mock-serious tone that treats deadly animals like classroom specimens. The Bengal tiger is identified by its roar as it attacks, the leopard by its spots as it leaps on you, and the bear by the hug that would squeeze you to death. The chameleon is spotted only when nothing is left on the tree. The rhyming couplets, exaggerated logic and the irony of instructions that would get the reader killed make the poem consistently funny."
+        },
+        {
+          "question": "Discuss 'How to Tell Wild Animals' as a satire on human attempts to classify everything, with reference to the poet's instructions and style.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Carolyn Wells pretends to offer a practical field guide to the Asian jungle, and that pretence is the poem's satire. The instructions are absurd: a Bengal tiger announces itself by roaring as it attacks, a leopard shows its rosettes while leaping on you, a bear is recognised by the hug that would crush you to death, and the hyena and crocodile are told apart only by the smile on one and the tears of the other. Even the chameleon is identified when there is nothing left on the tree, because it blends invisibly with its surroundings. By treating life-threatening encounters as calm lessons in classification, the poet mocks the human habit of turning everything, even danger, into categories and rules. The rhyming couplets, gentle irony and deadpan tone keep the poem light while the message lands: real experience cannot be replaced by bookish, ready-made knowledge."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "The Ball Poem (Poem)",
+      "summary": "A little boy loses his ball into the water and stands rigid with grief, staring at the drifting ball. The poet refuses to offer a new ball, because money cannot bring back the memories attached to it. The loss teaches the boy his first lesson in the epistemology of loss, that every person must learn to lose and stand up again.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "The boy's first experience of loss",
+        "Money is external",
+        "Epistemology of loss",
+        "Responsibility and growing up",
+        "Grief and standing up"
+      ],
+      "sections": [
+        {
+          "heading": "Summary",
+          "points": [
+            "A boy's ball bounces merrily down the street and falls into the water, leaving him trembling and helpless.",
+            "The poet knows money can buy another ball, but no new ball can equal the one with its childhood memories.",
+            "He lets the boy grieve, believing this first loss will teach him that losing and standing up are part of life."
+          ],
+          "keyTerms": [
+            {"term": "epistemology of loss", "meaning": "the understanding or knowledge of what it means to lose something"},
+            {"term": "external", "meaning": "outside a person; money cannot touch inner feelings and memories"},
+            {"term": "grief", "meaning": "the deep sorrow felt by the boy for his lost ball"}
+          ],
+          "trick": "Remember the sequence ball-water-rigid boy-no new ball-life lesson, and quote 'money is external' in every answer about why the poet does not buy another ball.",
+          "examPointer": "Extract-based questions often quote 'What is the boy now, who has lost his ball' and ask about the boy's state of mind."
+        },
+        {
+          "heading": "Central Idea and Themes",
+          "points": [
+            "Loss is an unavoidable part of life, and the first loss is the hardest to bear.",
+            "Money and possessions cannot replace the emotional value of what is lost.",
+            "Growing up means accepting responsibility and learning to stand up after loss without depending on others."
+          ],
+          "keyTerms": [
+            {"term": "responsibility", "meaning": "the duty to face one's losses and move on without depending on others"},
+            {"term": "intrinsically", "meaning": "by its inner nature; the lost ball was valuable to the boy in itself"}
+          ],
+          "trick": "Tie every theme answer to growing up: the lost ball is the boy's first tuition fee in the school of life.",
+          "examPointer": "Message-based questions may ask what the poet wants the boy to learn; answer with acceptance of loss and self-reliance."
+        },
+        {
+          "heading": "Poetic Devices",
+          "points": [
+            "The poem is written in free verse, in a single long stanza with no fixed rhyme scheme.",
+            "Imagery: the ball bouncing merrily down the street and then falling into the water creates a vivid picture.",
+            "Repetition: 'What, what is he to do?' intensifies the poet's sense of helplessness.",
+            "Symbolism: the ball symbolises childhood memories and the innocent possessions we inevitably lose."
+          ],
+          "keyTerms": [
+            {"term": "free verse", "meaning": "poetry without a fixed rhyme scheme or metrical pattern"},
+            {"term": "repetition", "meaning": "repeating words or phrases for emphasis and emotional effect"}
+          ],
+          "trick": "Do not invent a rhyme scheme; state clearly that the poem is in free verse, which is a favourite one-mark answer.",
+          "examPointer": "Device questions may ask why the poem has no rhyme; explain that the loose, flowing lines mirror the flow of grief and thought."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Extract-based angle: explain the boy's rigid, trembling stare and what it reveals about grief.",
+            "Message-based angle: losses teach us the epistemology of loss, so we must learn to stand up.",
+            "Value-based angle: the emotional value of objects is greater than their price."
+          ],
+          "keyTerms": [
+            {"term": "intrude", "meaning": "to interfere unnecessarily; the poet refuses to intrude on the boy's grief"},
+            {"term": "harbour", "meaning": "the water body where the ball finally disappears from view"}
+          ],
+          "trick": "When asked why not a new ball, give three reasons in one breath: memories, the first-loss lesson, and money being external.",
+          "examPointer": "The 5-mark question usually asks for the message about loss, so end with the line that every man must learn to lose and stand up."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Where does the boy's ball finally go?",
+          "options": ["Under the bed", "Into the water", "Over the roof", "Into the school bag"],
+          "answerIndex": 1,
+          "explanation": "The ball bounces down the street and then falls merrily into the water, where the boy watches it drift.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What does the poet mean by 'money is external'?",
+          "options": ["Money is always available", "Money cannot buy back the inner, emotional value of lost things", "Money grows on trees", "Money should be spent on balls"],
+          "answerIndex": 1,
+          "explanation": "Money belongs to the outer world; the memories and attachment tied to the lost ball are internal and cannot be purchased.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How does the boy react after losing his ball?",
+          "options": ["He laughs it off", "He immediately demands a new toy", "He stands rigid, trembling and stares at the water", "He runs home crying"],
+          "answerIndex": 2,
+          "explanation": "The boy is fixated, trembling and staring at the ball in the water, experiencing his first grief.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Read the lines: 'What is the boy now, who has lost his ball, / What, what is he to do?' What tone do these lines create?",
+          "options": ["Playful excitement", "Helpless grief and confusion", "Bitter anger", "Calm acceptance"],
+          "answerIndex": 1,
+          "explanation": "The repeated question expresses the poet's helplessness as he watches the boy's first, unanswerable experience of loss.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What is meant by 'the epistemology of loss'?",
+          "options": ["A scientific study of toys", "The understanding or knowledge of what loss truly means", "A rule for buying new balls", "A method of avoiding grief"],
+          "answerIndex": 1,
+          "explanation": "Epistemology means knowledge or understanding; here it is the boy's first real understanding of losing something he loves.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Why does the poet not offer the boy money for another ball, and what lesson does the boy thus learn?",
+          "options": ["He cannot afford a ball", "The loss is an inevitable lesson: the boy must feel his grief and learn to accept loss and stand up, since money cannot replace what is emotionally lost", "The boy does not want a ball", "The poet dislikes the boy"],
+          "answerIndex": 1,
+          "explanation": "By not intruding, the poet lets the boy sense his responsibility and learn that losing and standing up are part of every life.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What does the lost ball symbolise in 'The Ball Poem'?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The lost ball symbolises the innocent possessions and cherished memories of childhood that everyone must lose someday. It also stands for the first experience of loss in a boy's life, the moment when he learns that nothing he loves will stay forever and that he must bear his grief himself and move on."
+        },
+        {
+          "question": "Why does the poet say that money is external and refuse to buy another ball?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "The poet knows that a new ball costs little and that money can buy one easily, but he also knows that no new ball can be the same as the one the boy played with and lost. That ball carried his childhood memories and attachment, which are internal and priceless. By refusing to intrude, the poet allows the boy to feel his grief fully, because learning to accept loss is more valuable than any replacement money can offer."
+        },
+        {
+          "question": "Explain the expression 'the epistemology of loss' with reference to the boy's experience.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Epistemology means the study or knowledge of something, so 'the epistemology of loss' means the understanding of what it truly means to lose. For the boy, losing the ball is his first such lesson: he feels grief, stands rigid and trembling, and realises for the first time that some things, once lost, never return. The poet wants every person to learn this knowledge of loss early, so that later, greater losses do not break them."
+        },
+        {
+          "question": "Losing something we love is our first lesson in growing up. Discuss how 'The Ball Poem' presents this idea.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "The poem describes a small boy whose ball bounces merrily down the street and falls into the water, leaving him trembling and staring helplessly at the drifting ball. The poet watches him and senses that this is not a trivial moment, for the boy is experiencing his first real loss. Money could buy another ball, but the poet refuses to intrude, because money is external and cannot restore the memories and affection attached to the old one. He wants the boy to sense his responsibility and learn what the poet calls the epistemology of loss, the knowledge that loss is part of life. The ball thus symbolises every possession and even every relationship we inevitably lose as we grow. The message is clear and comforting: grief must be felt and accepted, for every man must learn to lose, stand up and carry on with life."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Amanda! (Poem)",
+      "summary": "A nagging parent constantly criticises Amanda for biting her nails, slouching and daydreaming. In response, the lonely girl escapes into imaginations of being an orphan, a mermaid and Rapunzel, where nobody nags her. The poem highlights how constant fault-finding crushes a child's spirit and her need for freedom.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Constant nagging of the parent",
+        "Amanda's escape into imagination",
+        "Orphan roaming the street",
+        "Mermaid and Rapunzel fantasies",
+        "Need for freedom and peace"
+      ],
+      "sections": [
+        {
+          "heading": "Summary",
+          "points": [
+            "The parent repeatedly issues commands: stop biting nails, stop hunching shoulders, sit up straight and finish the homework.",
+            "Amanda escapes into daydreams where she is an orphan roaming the street, a mermaid drifting in the green sea, or Rapunzel alone in a tower.",
+            "Each fantasy ends with her wish for silence and freedom, showing how nagging makes a child feel imprisoned."
+          ],
+          "keyTerms": [
+            {"term": "nagging", "meaning": "constantly criticising or scolding someone over small things"},
+            {"term": "drifting", "meaning": "moving gently without effort, as Amanda imagines herself in the sea"},
+            {"term": "hushed", "meaning": "quiet and calm, describing Amanda's dreamlike wandering"}
+          ],
+          "trick": "List the three main fantasies in order, orphan, mermaid, Rapunzel, and pair each one with the instruction that triggered it.",
+          "examPointer": "Extract-based questions usually quote the orphan lines and ask why Amanda imagines such escapes."
+        },
+        {
+          "heading": "Central Idea and Themes",
+          "points": [
+            "Constant criticism damages a child's confidence and sense of freedom.",
+            "Children seek peace and independence through imagination when reality feels suffocating.",
+            "Parents should guide children with love instead of endless fault-finding."
+          ],
+          "keyTerms": [
+            {"term": "freedom", "meaning": "the liberty Amanda craves, free from orders and criticism"},
+            {"term": "solitude", "meaning": "the peaceful aloneness Amanda enjoys in her Rapunzel fantasy"}
+          ],
+          "trick": "Frame the theme as nagging versus freedom; every answer should show that the fantasies are reactions to the scolding.",
+          "examPointer": "Message-based questions often ask what parents must learn from the poem, so end with the harm of excessive criticism."
+        },
+        {
+          "heading": "Poetic Devices",
+          "points": [
+            "Rhyme scheme: the instruction stanzas follow aaba and the dream stanzas follow ccc, the pattern repeating in every pair of stanzas.",
+            "Allusion: Rapunzel, the fairy-tale girl in the tower, expresses the desire for peaceful solitude.",
+            "Repetition: the name 'Amanda!' is repeated to stress the constant scolding.",
+            "Imagery: soft dust, bare feet and the green sea paint vivid dream pictures."
+          ],
+          "keyTerms": [
+            {"term": "allusion", "meaning": "a reference to a well-known story or character, like Rapunzel"},
+            {"term": "repetition", "meaning": "repeating a word for emphasis, as with 'Amanda!'"}
+          ],
+          "trick": "For the rhyme scheme, write aaba ccc and add that the pattern repeats in every alternating pair of stanzas.",
+          "examPointer": "Device questions often ask for the allusion; explain Rapunzel's tower as Amanda's dream of undisturbed peace."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Extract-based angle: identify the fantasy and the feeling of freedom in the quoted lines.",
+            "Message-based angle: criticism should be balanced with love; children need space to grow.",
+            "Character-based angle: the parent's anxious care turns into nagging, and Amanda turns into a silent dreamer."
+          ],
+          "keyTerms": [
+            {"term": "orphan", "meaning": "a child without parents; Amanda imagines being one so that nobody can scold her"},
+            {"term": "moody", "meaning": "the way constant scolding finally leaves Amanda sulky and lost in her own world"}
+          ],
+          "trick": "If asked about Amanda's character, use three words: imaginative, lonely, and rebellious in a silent way.",
+          "examPointer": "The 5-mark question often asks whether nagging is justified, so discuss both parental care and its harmful excess."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "What is Amanda asked to stop doing at the start of the poem?",
+          "options": ["Biting her nails", "Eating chocolates", "Shouting loudly", "Running in the street"],
+          "answerIndex": 0,
+          "explanation": "The opening instruction tells Amanda not to bite her nails, followed by orders about her posture.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In her imagination, Amanda drifts blissfully in the green sea as ...",
+          "options": ["A mermaid", "A fish", "A sailor", "A pirate"],
+          "answerIndex": 0,
+          "explanation": "Amanda wishes she were a mermaid, drifting blissfully and alone in the emerald green sea.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "According to Amanda, silence is ...",
+          "options": ["Boring", "Golden", "Strange", "Forbidden"],
+          "answerIndex": 1,
+          "explanation": "Amanda repeats the proverb that silence is golden, adding that freedom is sweet.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Why does Amanda wish to be an orphan roaming the street?",
+          "options": ["She hates her home", "Then nobody would nag her, and she would be free to wander in silence", "She wants to earn money", "She is searching for friends"],
+          "answerIndex": 1,
+          "explanation": "As an orphan she imagines no parent to issue orders, so she could pattern soft dust with her hushed, bare feet.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the lines: 'I am an orphan roaming the street, / I pattern soft dust with my hushed, bare feet.' What do these lines reveal about Amanda?",
+          "options": ["She loves playing with dust", "She longs for freedom and peace, away from constant nagging", "She wants to learn dancing", "She fears her parents deeply"],
+          "answerIndex": 1,
+          "explanation": "The dream of a lonely orphan shows that Amanda's deepest wish is simply to be left in peaceful freedom.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "How does the alternating pattern of instruction stanzas and dream stanzas shape the meaning of the poem?",
+          "options": ["It shows two different girls", "It contrasts the parent's nagging with Amanda's craving for freedom, showing how constant criticism pushes a child into imagination", "It describes Amanda's school timetable", "It proves Amanda never obeys anyone"],
+          "answerIndex": 1,
+          "explanation": "The alternating structure is the poem's core device: every scolding stanza is answered by a dream stanza, dramatising nagging versus freedom.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why does Amanda imagine herself as an orphan?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Amanda is constantly nagged about biting her nails, slouching and her posture, so she feels trapped and lonely. She imagines herself as an orphan roaming the street because then no parent would scold her, and she could wander freely, pattern soft dust with hushed bare feet and enjoy silence and freedom without criticism."
+        },
+        {
+          "question": "Why does Amanda imagine herself as Rapunzel? What does the tower represent?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Amanda imagines herself as Rapunzel because in her fantasy the tower is a place of tranquillity where no one nags her. She has not a care and decides she will certainly never let down her golden hair, meaning she wants no contact with the outer world of scolding. The tower represents the peace, solitude and freedom she is denied at home, showing that even lonely isolation feels sweeter than constant criticism."
+        },
+        {
+          "question": "Do you think the parent's repeated instructions help Amanda? Give reasons from the poem.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The instructions are given out of concern for good habits and posture, but their constant repetition harms Amanda more than it helps. Each round of scolding pushes her deeper into daydreams of orphans, mermaids and towers where nobody nags her. By the end she is left moody and withdrawn. The poem suggests that care expressed only as criticism makes a child feel unwanted, so parents must balance guidance with affection and give children the freedom to be themselves."
+        },
+        {
+          "question": "'Amanda!' shows how constant nagging can damage a child. Discuss the theme of the poem with reference to the fantasies and the parent's tone.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "The poem alternates between the parent's sharp commands and Amanda's silent dreams. The parent orders her to stop biting her nails, to stop hunching her shoulders, to sit up straight, to do her homework and to tidy her room, all in a nagging tone that repeats her name like a scold. Every round of criticism drives Amanda into a richer fantasy: she becomes an orphan roaming the streets, a mermaid drifting blissfully in the green sea, and Rapunzel living peacefully in a tower. Each dream ends with her wish that silence is golden and freedom is sweet, and that she is not nagged. The contrast between reality and imagination reveals her loneliness and her craving for freedom. Robin Klein's message is gentle but firm: children need love, space and encouragement, and endless fault-finding only alienates them, so parents must correct without crushing a child's spirit."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "The Trees (Poem)",
+      "summary": "The trees inside the house strain towards the glass and slowly push out, their roots and leaves working all night to reach the forest. By morning they will move like newly discharged patients, half-dazed, into the open forest. The poem symbolises the longing for freedom of anything long confined, often read as nature reclaiming its space or as women breaking free of social cages.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Trees moving out to the forest",
+        "Straining leaves and disentangling roots",
+        "Newly discharged patients simile",
+        "Symbolism of freedom for women",
+        "Nature reclaiming its space"
+      ],
+      "sections": [
+        {
+          "heading": "Summary",
+          "points": [
+            "The trees inside the house begin to move out into the forest, their leaves straining towards the glass and their roots working to disentangle from the cracks in the veranda floor.",
+            "All night the long-cramped branches shuffle under the roof like newly discharged patients, half-dazed, moving towards the doors.",
+            "The poet watches, her head full of whispers, as the empty forest waits for its trees to return by morning."
+          ],
+          "keyTerms": [
+            {"term": "disentangle", "meaning": "to free oneself from something twisted or entwined, as the roots free themselves"},
+            {"term": "veranda", "meaning": "the open porch of the house in whose cracks the roots are held"},
+            {"term": "whispers", "meaning": "the soft, secret sounds of the moving trees that fill the poet's head"}
+          ],
+          "trick": "Track the movement hour by hour: leaves strain, twigs stiffen, boughs shuffle, and by sunrise the trees reach the forest.",
+          "examPointer": "Extract-based questions often quote 'The trees inside are moving out / into the forest' and ask what the trees symbolise."
+        },
+        {
+          "heading": "Central Idea and Themes",
+          "points": [
+            "Nothing born free can live happily inside walls; every confined being longs for its natural space.",
+            "The trees symbolise women breaking free of a male-dominated world, or nature itself returning to its home.",
+            "Freedom demands struggle, as shown by the slow, painful movement of the roots, twigs and branches."
+          ],
+          "keyTerms": [
+            {"term": "emancipation", "meaning": "the act of being set free from restrictions, often linked with women's freedom in this poem"},
+            {"term": "confinement", "meaning": "the state of being kept within limits, like the trees trapped in the house"}
+          ],
+          "trick": "Give both readings together, nature's revival and women's liberation, and examiners will credit your layered answer.",
+          "examPointer": "Message-based questions may ask what the forest represents; answer with the natural world, open space and freedom."
+        },
+        {
+          "heading": "Poetic Devices",
+          "points": [
+            "The poem is written in free verse, without a fixed rhyme scheme.",
+            "Simile: the long-cramped branches are 'like newly discharged patients, half-dazed'.",
+            "Imagery: sunken roots, straining leaves, the whole and bright moon and the smell of leaves create strong sensory pictures.",
+            "Personification: the trees strain, shuffle and move out with human effort and will."
+          ],
+          "keyTerms": [
+            {"term": "personification", "meaning": "giving human qualities to non-human things, as the trees strain and struggle"},
+            {"term": "free verse", "meaning": "poetry that is free from fixed rhyme and metre"}
+          ],
+          "trick": "The patient simile is the most quoted device; pair it with confinement in a hospital to explain the half-dazed first steps to freedom.",
+          "examPointer": "Expect questions on the simile of the discharged patients and on personification in the trees' determined movement."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Extract-based angle: explain the trees' movement from the quoted lines and its symbolic meaning.",
+            "Message-based angle: freedom is the birthright of all, and confinement, however comfortable, cannot hold life forever.",
+            "Appreciation angle: connect the ecological reading with the feminist reading in one balanced answer."
+          ],
+          "keyTerms": [
+            {"term": "symbolism", "meaning": "the trees and the forest stand for deeper ideas of freedom and renewal"},
+            {"term": "ecological reading", "meaning": "understanding the poem as nature reclaiming space from human houses"}
+          ],
+          "trick": "Never end a long answer without the word freedom; it is the single thread that ties every stanza together.",
+          "examPointer": "The 5-mark question may ask for two interpretations, so prepare the women's-emancipation angle with clear reasoning."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Where are the trees moving out to, in the poem?",
+          "options": ["Into the kitchen", "Into the forest", "Onto the road", "Into the sky"],
+          "answerIndex": 1,
+          "explanation": "The opening line says the trees inside are moving out into the forest, their true home.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What do the leaves of the trees do inside the house?",
+          "options": ["They fall silently", "They strain towards the glass", "They change colour", "They shelter insects"],
+          "answerIndex": 1,
+          "explanation": "The leaves strain towards the glass, showing their longing for the open air outside.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "With what is the poet's head full, as she watches the trees?",
+          "options": ["Songs", "Whispers", "Arguments", "Memories of childhood"],
+          "answerIndex": 1,
+          "explanation": "The poet says her head is full of whispers, the quiet stir of the trees preparing to leave.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What does the simile 'like newly discharged patients, half-dazed' suggest about the branches?",
+          "options": ["They are ill and dying", "They are weak and confused after long confinement but are finally stepping out to freedom", "They are being taken to a hospital", "They enjoy living indoors"],
+          "answerIndex": 1,
+          "explanation": "The branches, cramped for years under the roof, move out unsteadily like patients leaving a hospital into open life.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the lines: 'The trees inside are moving out / into the forest.' What do the trees most likely symbolise?",
+          "options": ["Old furniture being moved", "Living beings, such as women, breaking free from confinement to claim their natural freedom", "Seasonal changes in weather", "Trees bought for decoration"],
+          "answerIndex": 1,
+          "explanation": "The trees have often been read as women, or any confined life, escaping a house that is actually a cage.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Why is the forest described as empty, and what does the bright, whole moon suggest by the end?",
+          "options": ["The forest was cut down years ago", "The forest has waited bare without its trees, and the bright moon hints at hope and the fulfilment of the trees' quest for freedom", "The moon is a source of pollution", "The trees fear the moonlight"],
+          "answerIndex": 1,
+          "explanation": "The empty forest shows what confinement has cost the natural world, while the whole, bright moon suggests hope and coming fulfilment.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What do the trees symbolise in Adrienne Rich's poem 'The Trees'?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The trees trapped inside the house symbolise all beings that long for freedom. They are often read as women struggling to break free of a male-dominated society, and also as nature itself trying to reclaim the forest from which humans have uprooted it. Their slow, painful movement out of the house represents the struggle for emancipation."
+        },
+        {
+          "question": "Explain the simile of the 'newly discharged patients' in 'The Trees'.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The long-cramped branches of the trees, shuffling under the roof all night, are compared to newly discharged patients, half-dazed, moving to the clinic doors. Like patients freed after long confinement, the branches are weak, stiff and confused after years inside the house, yet they are stepping out into openness and light. The simile captures both the pain of prolonged captivity and the uncertain first steps towards freedom."
+        },
+        {
+          "question": "How do the roots, twigs and branches show the struggle for freedom in the poem?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The roots work all night to disentangle themselves from the cracks in the veranda floor, the leaves strain towards the glass as if longing for the open air, and the small twigs are stiff with effort and exertion. The boughs, cramped for years under the roof, shuffle like newly discharged patients. Every part of the tree labours slowly and painfully, showing that liberation from long confinement demands determined, exhausting struggle before freedom is finally reached."
+        },
+        {
+          "question": "Discuss 'The Trees' as a poem of freedom, considering both the ecological and the feminist interpretations.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "On the surface, the poem describes trees kept inside a house pushing their way back to the forest: the leaves strain towards the glass, the roots disentangle from the cracks in the veranda floor, the twigs stiffen with effort, and the long-cramped boughs shuffle like newly discharged patients. By morning the trees will reach the empty forest that has waited for them, and the poet senses their movement as whispers filling her head. Ecologically, the poem shows displaced nature struggling to return to its rightful place. Symbolically, the trees are often read as women confined within a male-dominated society, half-dazed but determined, moving towards open space, identity and emancipation. In both readings the message is the same: nothing born free can live happily behind walls, and freedom, however long delayed, will finally be claimed."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Fog (Poem)",
+      "summary": "In six brief lines, Carl Sandburg describes fog arriving on little cat feet, sitting silently over the harbour and city, and then moving on. The extended metaphor compares fog to a cat, quiet, soft and unpredictable. The poem captures the silent, transient nature of fog and, by extension, of time and life itself.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Extended metaphor of fog and cat",
+        "Little cat feet",
+        "Silent arrival and departure",
+        "Transience of fog and time",
+        "Imagery of harbour and city"
+      ],
+      "sections": [
+        {
+          "heading": "Summary",
+          "points": [
+            "The fog comes silently on little cat feet, without any warning or sound.",
+            "It sits looking over the harbour and the city on silent haunches, like a cat perched still.",
+            "After a while it simply moves on, showing how temporary and unpredictable natural phenomena are."
+          ],
+          "keyTerms": [
+            {"term": "haunches", "meaning": "the hips and hind legs of a cat on which it sits"},
+            {"term": "transient", "meaning": "lasting only for a short time, like the fog"},
+            {"term": "harbour", "meaning": "the port area over which the fog sits like a cat watching"}
+          ],
+          "trick": "Cat equals fog in every respect: soft feet, silent sitting, sudden departure; use this equation for all one-line answers.",
+          "examPointer": "Extract-based questions quote 'The fog comes / on little cat feet' and ask for the device or the qualities of the fog."
+        },
+        {
+          "heading": "Central Idea and Themes",
+          "points": [
+            "Fog, like a cat, arrives silently, pauses briefly and departs without leaving a trace.",
+            "Natural phenomena are fleeting, just as moments and phases of human life come and go.",
+            "Great effects can be created with economy of words, since the whole poem has only six lines."
+          ],
+          "keyTerms": [
+            {"term": "metaphor", "meaning": "a direct comparison; here fog is called a cat without using like or as"},
+            {"term": "economy", "meaning": "saying much in few words, a speciality of this poem"}
+          ],
+          "trick": "Write the theme in one line: fog comes and goes like a cat, so nothing in nature or life stays forever.",
+          "examPointer": "Message-based questions may link the fog's departure to life's changing phases; keep the answer short but complete."
+        },
+        {
+          "heading": "Poetic Devices",
+          "points": [
+            "The poem is in free verse with no fixed rhyme scheme, matching the fog's free movement.",
+            "Extended metaphor: the fog is a cat throughout, coming on little cat feet and sitting on silent haunches.",
+            "Imagery: visual and kinetic pictures of the fog settling over the harbour and the city.",
+            "Personification: the fog sits and looks, behaving like a living creature."
+          ],
+          "keyTerms": [
+            {"term": "extended metaphor", "meaning": "a comparison carried through the whole poem"},
+            {"term": "personification", "meaning": "treating a non-living thing as a living being"}
+          ],
+          "trick": "Call it an extended metaphor, not a simile; there is no 'like' or 'as' in the comparison, and that distinction earns the mark.",
+          "examPointer": "Device questions almost always ask for the metaphor; add personification as a supporting answer."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Extract-based angle: identify the metaphor and the qualities of fog from the quoted lines.",
+            "Message-based angle: nothing lasts forever; fog, like time, moves on silently.",
+            "Appreciation angle: explain how six simple lines capture arrival, stillness and departure."
+          ],
+          "keyTerms": [
+            {"term": "kinetic imagery", "meaning": "word pictures that show motion, like the fog coming and moving on"},
+            {"term": "stillness", "meaning": "the pause of the fog sitting over the city, like a cat resting"}
+          ],
+          "trick": "Structure the appreciation answer as arrival, sitting, departure; it mirrors the poem and finishes neatly.",
+          "examPointer": "The 5-mark question may ask how the metaphor enriches the poem, so describe three shared qualities of fog and cat."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "How does the fog come, according to the poem?",
+          "options": ["With thunder and rain", "On little cat feet", "In a storm of wind", "With a loud whistle"],
+          "answerIndex": 1,
+          "explanation": "The opening line says the fog comes on little cat feet, soft and silent.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which poetic device runs through the entire poem?",
+          "options": ["Simile", "Extended metaphor", "Hyperbole", "Onomatopoeia"],
+          "answerIndex": 1,
+          "explanation": "The fog is directly presented as a cat from beginning to end, making it an extended metaphor.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Over what does the fog sit looking?",
+          "options": ["Hills and rivers", "Harbour and city", "Schools and temples", "Forests and farms"],
+          "answerIndex": 1,
+          "explanation": "The fog sits looking over the harbour and the city on silent haunches.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Why is the fog compared to a cat?",
+          "options": ["Both are grey in colour", "Both arrive silently, sit quietly for a while and leave without warning", "Both are kept as pets", "Both are afraid of water"],
+          "answerIndex": 1,
+          "explanation": "The cat's soft, silent and unpredictable behaviour mirrors exactly how fog behaves.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the lines: 'The fog comes / on little cat feet.' Which quality of the fog do these lines best express?",
+          "options": ["Its coldness and dampness", "Its silent, soft and light arrival", "Its danger to ships", "Its white colour"],
+          "answerIndex": 1,
+          "explanation": "The tiny, padded feet of a cat suggest the fog's gentle, noiseless and weightless entry.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What broader message can the reader draw from the fog's silent arrival and departure?",
+          "options": ["Fog must be avoided by sailors", "Like fog, the phases of life and time are transient; they come and go quietly, so they must be accepted calmly", "Cities should ban fog", "Cats love foggy weather"],
+          "answerIndex": 1,
+          "explanation": "The poem's transience suggests that moments, moods and phases of life, like fog, never stay permanent.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "How is fog compared to a cat in the poem 'Fog'?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Sandburg describes the fog as a cat that comes on little cat feet, sits silently on its haunches looking over the harbour and the city, and then quietly moves on. The comparison captures the fog's silent arrival, its temporary rest over the city and its sudden, unannounced departure."
+        },
+        {
+          "question": "Identify and explain the central metaphor of the poem 'Fog'.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "The central metaphor presents fog as a cat, and it runs through the entire six-line poem. The fog arrives as softly as a cat walks, on little cat feet; it settles over the harbour and city and sits looking, as a cat sits on silent haunches; and finally it moves on, just as a cat wanders away. The metaphor makes an invisible weather condition visible, gentle and alive, adding the cat's qualities of silence, grace and unpredictability to the fog."
+        },
+        {
+          "question": "What qualities of fog does Sandburg highlight through the cat image?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Through the cat image the poet highlights the silence of the fog, which enters without any warning or sound, its softness and lightness suggested by the little cat feet, its patient stillness as it sits over the harbour and city, and its transience, since it moves on after a brief pause. The comparison also implies the fog's mysterious, graceful and unpredictable nature, coming and going exactly like a wandering cat."
+        },
+        {
+          "question": "Describe how the brevity of 'Fog' adds to its beauty, and explain the extended metaphor with examples.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Carl Sandburg compresses an entire weather scene into six short lines, and that brevity is the poem's greatest beauty. The fog arrives on little cat feet, sits looking over the harbour and the city on silent haunches, and then moves on. The single extended metaphor of the cat does all the work: like a cat, the fog walks softly, chooses its perch, watches the world quietly and wanders away without a trace. The free verse, without rhyme or fixed rhythm, matches the free, formless movement of the fog itself. Nothing is wasted: no adjective explains the fog, yet every reader instantly sees and feels it. The poem also suggests a larger truth, that natural phenomena, and indeed the phases of our lives, arrive silently, linger briefly and disappear quietly. In so few words, Sandburg achieves vivid imagery, perfect metaphor and a gentle philosophy of transience."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "The Tale of Custard the Dragon (Poem)",
+      "summary": "Belinda lives with her pets, Ink the black kitten, Blink the grey mouse, Mustard the yellow dog and Custard the dragon, whom all consider a coward because he cries for a nice safe cage. When a pirate breaks in, the brave pets flee but Custard attacks and gobbles him up. The ballad's irony lies in the so-called coward proving the true hero, though everyone soon returns to boasting.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Belinda and her pets",
+        "Custard's desire for a safe cage",
+        "The pirate's attack",
+        "Custard as the real hero",
+        "Irony of bravery and cowardice"
+      ],
+      "sections": [
+        {
+          "heading": "Summary",
+          "points": [
+            "Belinda lives in a little white house with Ink the black kitten, Blink the grey mouse, Mustard the yellow dog and Custard, her realio trulio little pet dragon.",
+            "All the pets boast of their courage while Custard keeps crying for a nice safe cage.",
+            "When a pirate climbs in with pistols, the others flee, but Custard snorts like an engine, clashes his tail and gobbles the pirate, every bit, saving everyone."
+          ],
+          "keyTerms": [
+            {"term": "realio trulio", "meaning": "a playful, non-standard way of saying really and truly"},
+            {"term": "grog", "meaning": "a drink; the pirate drinks grog from a pocket flagon"},
+            {"term": "gobbled", "meaning": "swallowed quickly and completely, as Custard eats the pirate"}
+          ],
+          "trick": "Remember the pet map: Ink-black kitten, Blink-grey mouse, Mustard-yellow dog, Custard-dragon; one mark often hangs on this matching.",
+          "examPointer": "Extract-based questions quote the bravery lines or the pirate scene and ask who did what, so match names to animals carefully."
+        },
+        {
+          "heading": "Central Idea and Themes",
+          "points": [
+            "Real courage is proved by action in a crisis, not by loud boasting.",
+            "Appearances and labels can deceive; the timid one may turn out to be the bravest.",
+            "Humour lies in the way the so-called heroes resume their bragging after the danger passes."
+          ],
+          "keyTerms": [
+            {"term": "bravado", "meaning": "a show of false or exaggerated courage, shown by Belinda and her pets"},
+            {"term": "cowardice", "meaning": "lack of courage; Custard is wrongly labelled a coward"}
+          ],
+          "trick": "Write the theme as action versus boast, and support it with the line that Custard always cried for a nice safe cage.",
+          "examPointer": "Message-based questions may ask whether labels are reliable; answer with the irony that the coward saves everyone."
+        },
+        {
+          "heading": "Poetic Devices",
+          "points": [
+            "Rhyme scheme: aabb, with rhyming couplets throughout the ballad.",
+            "Similes: Belinda is as brave as a barrelful of bears, and Ink and Blink as brave as lions.",
+            "Onomatopoeia and sound effects: Custard snorting like an engine and clashing his tail like irons in a dungeon create comic noise.",
+            "Irony: the dragon called a coward becomes the only true hero of the story."
+          ],
+          "keyTerms": [
+            {"term": "ballad", "meaning": "a long narrative poem telling a story, humorous in this case"},
+            {"term": "irony", "meaning": "a contrast between what is expected and what actually happens"}
+          ],
+          "trick": "For the scheme, write aabb and quote one couplet; for irony, contrast the cage-crying dragon with the pirate-eating hero.",
+          "examPointer": "Device questions often ask for similes and irony together; prepare one example of each from the bravery stanza."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Extract-based angle: identify the pets or the dragon's deed from the quoted couplet.",
+            "Message-based angle: true bravery shows in deeds, while loud claims may hide fear.",
+            "Appreciation angle: explain how nonsense names, couplets and exaggeration make the poem a comic ballad."
+          ],
+          "keyTerms": [
+            {"term": "exaggeration", "meaning": "overstatement for comic effect, such as engine-like snorts and tail like iron bells"},
+            {"term": "narrative poem", "meaning": "a poem that tells a complete story with characters and a plot"}
+          ],
+          "trick": "In every answer, keep the four pet names and their animals together; half the marks rest on that accuracy.",
+          "examPointer": "The 5-mark question often asks how humour and irony work together, so trace the story from boasting to rescue to renewed boasting."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Who is Custard in the poem?",
+          "options": ["Belinda's kitten", "Belinda's pet dragon", "Belinda's dog", "The pirate"],
+          "answerIndex": 1,
+          "explanation": "Custard is Belinda's realio trulio little pet dragon, who surprisingly turns out to be the hero.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Ink and Blink are respectively ...",
+          "options": ["A dog and a dragon", "A black kitten and a grey mouse", "Two dragons", "A bear and a lion"],
+          "answerIndex": 1,
+          "explanation": "Ink is the little black kitten and Blink is the little grey mouse in Belinda's house.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Who attacks Belinda's little white house?",
+          "options": ["A tiger", "A pirate", "A lion", "A witch"],
+          "answerIndex": 1,
+          "explanation": "A pirate armed with pistols climbs in through the window, triggering the crisis.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "How does Custard deal with the pirate?",
+          "options": ["He hides under the bed", "He snorts, clashes his tail and gobbles the pirate completely", "He begs for mercy", "He locks the door"],
+          "answerIndex": 1,
+          "explanation": "Custard springs up like an engine, clashes his tail like irons in a dungeon and finally gobbles the pirate, every bit.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the lines: 'Belinda was as brave as a barrelful of bears, / And Ink and Blink as brave as lions.' What is ironic about these boasts?",
+          "options": ["The pets really were fearless", "These brave ones fled in terror, while Custard, who begged for a cage, alone fought the pirate", "Belinda had no pets at all", "Lions are actually cowards"],
+          "answerIndex": 1,
+          "explanation": "The similes inflate their bravery, yet at the crisis all of them flee and the mocked dragon does the fighting.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "What does the poem suggest about judging courage, and how do the characters prove it?",
+          "options": ["Courage depends on size and strength", "Courage is revealed by action in real danger; Custard, mocked as a coward, alone confronts and defeats the pirate, proving boasting hollow", "Courage belongs only to dogs", "Courage is the same as cruelty"],
+          "answerIndex": 1,
+          "explanation": "The ballad's message is that real courage is tested in action, and Custard's deed exposes the hollowness of the others' claims.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why did Custard cry for a nice safe cage?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Custard, the dragon, was called a coward because, unlike Belinda and the pets who boasted of their bravery, he always cried for a nice safe cage. He longed for security and comfort, which the others mistook for cowardice, until the pirate's attack proved him the real hero of them all."
+        },
+        {
+          "question": "How did Custard finally prove himself when the pirate attacked?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "When a pirate entered the little white house with pistols in both hands, Belinda cried for help and Mustard fled with a ferocious noise, while Ink and Blink hid away in panic. Custard alone sprang up, snorting like an engine and clashing his tail like irons in a dungeon, and pounced on the pirate. He attacked the intruder relentlessly and finally gobbled him, every bit, saving everyone in the house."
+        },
+        {
+          "question": "Bring out the irony in the poem 'The Tale of Custard the Dragon'.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The irony lies in the contrast between labels and reality. Belinda and her pets are praised as brave as bears, lions and tigers, while Custard, who only cries for a nice safe cage, is mocked as a coward. Yet when the pirate attacks, the so-called brave ones flee in panic, and it is the cowardly dragon who kills the pirate and saves everyone. Even after the rescue they resume boasting and still call Custard a coward, deepening the comic irony."
+        },
+        {
+          "question": "Describe how Ogden Nash uses humour, rhyme and irony to tell the tale of the cowardly dragon who becomes a hero.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Nash builds a comic ballad in aabb couplets, filling it with playful names and nonsense words such as realio, trulio, and with characters mapped to pets: Ink the black kitten, Blink the grey mouse, Mustard the yellow dog and Custard the dragon. The humour comes from exaggeration, since Belinda is as brave as a barrelful of bears, and from the sheer absurdity of a dragon begging for a nice safe cage. The rhyme and rhythm give the poem a rollicking, nursery-tale energy. The irony, however, carries the message: when the pirate breaks in with pistols, the brave friends flee, while the cowardly Custard springs up, snorts like an engine, clashes his tail and gobbles the pirate, every bit. After the rescue they resume boasting, showing how self-flattery survives even the clearest proof. Through laughter, Nash teaches that real courage is shown in action, not in claims."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "For Anne Gregory (Poem)",
+      "summary": "In this dialogue poem, a young man tells Anne Gregory that men love her only for her yellow hair, not for herself. Anne replies that she can dye her hair any colour, so love should not depend on looks. An old religious man quotes a text that only God can love a person for inner worth alone, making the poem a gentle debate on outer beauty versus inner worth.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Outer beauty versus inner worth",
+        "Yellow hair and honey-coloured ramparts",
+        "Anne's offer to dye her hair",
+        "Only God's love is for the self alone",
+        "Dialogue structure of the poem"
+      ],
+      "sections": [
+        {
+          "heading": "Summary",
+          "points": [
+            "A young man declares that young men, though thrown into despair by Anne's honey-coloured hair, love her for her looks and not for herself.",
+            "Anne argues that hair colour can be changed by dye, so love based on looks is shallow and changeable.",
+            "An old religious man concludes, citing a religious text, that only God loves a person for themselves alone and not for their yellow hair."
+          ],
+          "keyTerms": [
+            {"term": "ramparts", "meaning": "broad walls of a fort; a metaphor for the locks of hair around Anne's face"},
+            {"term": "dye", "meaning": "a colouring liquid; Anne offers to colour her hair brown, black or carrot"},
+            {"term": "despair", "meaning": "the hopelessness felt by young men in the grip of Anne's beauty"}
+          ],
+          "trick": "Three voices, young man, Anne, old religious man; remember their order to structure any answer on the argument.",
+          "examPointer": "Extract-based questions quote the ramparts line or the God line and ask for the meaning or the device used."
+        },
+        {
+          "heading": "Central Idea and Themes",
+          "points": [
+            "Human love is often attracted to physical beauty, which is shallow and can change.",
+            "True love should value the inner qualities of character rather than outward appearance.",
+            "Only divine love is completely pure, loving a person for the self alone."
+          ],
+          "keyTerms": [
+            {"term": "inner beauty", "meaning": "the qualities of mind and heart that lie beyond appearance"},
+            {"term": "shallow", "meaning": "not deep or serious, describing love based only on looks"}
+          ],
+          "trick": "Frame the theme as looks versus soul, and add that dyeing hair cannot change what truly matters.",
+          "examPointer": "Message-based questions may ask what real love should value, so contrast the young man's view with Anne's argument."
+        },
+        {
+          "heading": "Poetic Devices",
+          "points": [
+            "Rhyme scheme: abcb in each stanza, as in despair-ear and dear-hair.",
+            "Metaphor: the honey-coloured hair is called great ramparts, walls that young men admire.",
+            "Dialogue form: the poem is structured as a conversation between Anne, the young man and the old religious man.",
+            "Allusion: the old man's conclusion refers to a religious text, adding scriptural weight to the idea."
+          ],
+          "keyTerms": [
+            {"term": "dialogue", "meaning": "a conversation between speakers, the structural device of this poem"},
+            {"term": "metaphor", "meaning": "a direct comparison, as hair becomes ramparts"}
+          ],
+          "trick": "Do not call the rhyme scheme aabb; it is abcb, and pair it with the ramparts metaphor for full marks.",
+          "examPointer": "Device questions often ask for the metaphor of ramparts; explain that the hair surrounds the face like fortress walls."
+        },
+        {
+          "heading": "Exam Focus",
+          "points": [
+            "Extract-based angle: explain the meaning of the quoted stanza and the speaker's viewpoint.",
+            "Message-based angle: value people for inner qualities; appearance is temporary and dyeable.",
+            "Comparative angle: weigh the young man's cynicism, Anne's confidence and the old man's spiritual conclusion."
+          ],
+          "keyTerms": [
+            {"term": "cynicism", "meaning": "a distrustful view of human motives, seen in the young man's claim about love"},
+            {"term": "spiritual conclusion", "meaning": "the old man's message that only God's love is perfectly selfless"}
+          ],
+          "trick": "Answer theme questions with the triangle: outer looks, inner worth, divine love; it covers every possible angle.",
+          "examPointer": "The 5-mark question may ask whether love should depend on appearance, so use Anne's dyeing argument as your main support."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "According to the young man, what do men love in Anne Gregory?",
+          "options": ["Her kindness", "Her yellow hair", "Her wisdom", "Her wealth"],
+          "answerIndex": 1,
+          "explanation": "The young man claims men love Anne only for her yellow hair and not for herself alone.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What does Anne offer to do to prove her point?",
+          "options": ["Cut off her hair", "Dye her hair any colour, such as brown, black or carrot", "Enter a convent", "Leave the city"],
+          "answerIndex": 1,
+          "explanation": "Anne says she can get her hair dyed any colour she likes, to show that looks should not decide love.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "According to the old religious man, who alone can love Anne for herself alone?",
+          "options": ["Young men", "Poets", "God", "Her family"],
+          "answerIndex": 2,
+          "explanation": "Quoting a religious text, the old man says only God could love Anne for herself alone and not her yellow hair.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "What does the metaphor 'honey-coloured ramparts' refer to?",
+          "options": ["The walls of Anne's house", "The golden locks of Anne's hair framing her ear and face", "The ramparts of a city fort", "The steps of a temple"],
+          "answerIndex": 1,
+          "explanation": "The hair around Anne's face is pictured as honey-coloured fortress walls that captivate young men.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Read the lines: 'Only God, my dear, / Could love you for yourself alone / And not your yellow hair.' What idea do these lines convey?",
+          "options": ["Anne must keep her yellow hair", "Selfless love for one's inner worth is rare; only God's love is truly unconditional", "Hair colour decides love", "God loves only beautiful people"],
+          "answerIndex": 1,
+          "explanation": "The old religious man's lines make the poem's final point: perfect, inner-directed love belongs to God alone.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "How does the dialogue form strengthen the poem's message about beauty and love?",
+          "options": ["It makes the poem entertaining only", "It presents three viewpoints, shallow attraction, Anne's confidence in inner worth and the spiritual conclusion, so readers weigh the argument rather than accept one voice", "It hides the poet's real opinion", "It converts the poem into a drama"],
+          "answerIndex": 1,
+          "explanation": "The three speakers create a debate that moves from surface attraction to inner worth to divine love, enriching the poem's message.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why does Anne Gregory offer to dye her hair?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The young man claims that men love Anne only for her yellow hair and not for herself. To prove that appearance-based love is meaningless, Anne offers to dye her hair any colour, brown, black or carrot, so that young men may love her for her inner qualities alone."
+        },
+        {
+          "question": "Explain the metaphor of the 'honey-coloured ramparts' and its effect.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "The young man describes Anne's yellow hair as great honey-coloured ramparts, fortress walls thrown around her ear. The metaphor makes her hair an impressive but defensive structure that attracts admirers and keeps them captivated. Its effect is to show how physical beauty surrounds a person like walls, drawing love that is directed at the outer covering rather than the person within."
+        },
+        {
+          "question": "What is the central message of 'For Anne Gregory' about love and beauty?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "The poem argues that love based on physical beauty is shallow, since appearance can change, as Anne proves by offering to dye her hair. True love should respond to a person's inner qualities and character. The old religious man's conclusion that only God can love a person for themselves alone adds a spiritual touch: human love often remains dependent on looks, while divine love alone is perfectly unconditional and pure."
+        },
+        {
+          "question": "The poem suggests that human love is often drawn to outward beauty while only divine love is purely for the self. Discuss with reference to the three speakers in 'For Anne Gregory'.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "The poem is built as a dialogue among three voices. The young man takes a cynical view: young men, however much they despair, love Anne for her yellow hair and not for herself alone. Anne refuses to accept this and argues confidently that hair can be dyed brown, black or carrot, so if men still love her afterwards, they must love her for her inner self. The old religious man resolves the debate by quoting a religious text: only God could love Anne for herself alone and not for her yellow hair. The progression moves from shallow physical attraction, through Anne's faith in inner worth, to the spiritual truth that selfless love is rare among humans and belongs to God alone. Yeats thus gently criticises human superficiality while holding up divine love as the ideal standard."
+        }
+      ]
+    }
+  ]
+}

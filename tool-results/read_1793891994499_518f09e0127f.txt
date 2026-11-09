@@ -1,0 +1,402 @@
+     1→export default {
+     2→  "code": "science",
+     3→  "name": "Science",
+     4→  "bookName": "NCERT Science",
+     5→  "weightageMarks": 80,
+     6→  "chapters": [
+     7→    {
+     8→      "number": 1,
+     9→      "title": "Chemical Reactions and Equations",
+    10→      "summary": "This chapter introduces chemical equations and the rule of balancing based on the law of conservation of mass. It classifies reactions into combination, decomposition, displacement, double displacement and redox, along with exothermic and endothermic behaviour. It ends with two everyday effects of oxidation: corrosion of metals and rancidity of food.",
+    11→      "weightageMarks": 6,
+    12→      "difficulty": "medium",
+    13→      "hotTopics": [
+    14→        "Balancing chemical equations",
+    15→        "Types of decomposition reactions",
+    16→        "Displacement and double displacement reactions",
+    17→        "Redox reactions",
+    18→        "Exothermic vs endothermic reactions",
+    19→        "Corrosion and rancidity"
+    20→      ],
+    21→      "sections": [
+    22→        {
+    23→          "heading": "Chemical Equations: Writing and Balancing",
+    24→          "points": [
+    25→            "A chemical equation represents a reaction using formulae: reactants on the left, products on the right, separated by an arrow, e.g. Zn + H2SO4 -> ZnSO4 + H2.",
+    26→            "A balanced equation obeys the law of conservation of mass: the number of atoms of every element is equal on both sides.",
+    27→            "An unbalanced equation is called a skeletal equation; it is balanced by hit and trial, changing only coefficients, never the formulae.",
+    28→            "Physical states are shown as (s), (l), (g) and (aq); conditions like heat, catalyst or sunlight are written above or below the arrow.",
+    29→            "Burning of magnesium ribbon in air is a classic example: 2Mg + O2 -> 2MgO, with a dazzling white flame forming white magnesium oxide powder.",
+    30→            "Iron reacting with steam: 3Fe + 4H2O -> Fe3O4 + 4H2; the hydrogen evolved burns with a pop sound when a burning candle is brought near it."
+    31→          ],
+    32→          "keyTerms": [
+    33→            { "term": "Chemical equation", "meaning": "Symbolic representation of a chemical reaction using formulae of reactants and products." },
+    34→            { "term": "Balanced equation", "meaning": "An equation with equal numbers of atoms of each element on both sides, obeying conservation of mass." },
+    35→            { "term": "Skeletal equation", "meaning": "An unbalanced equation that only lists the formulae of reactants and products." }
+    36→          ],
+    37→          "trick": "Balancing is book keeping: atoms in must equal atoms out, so count like an accountant and never rewrite a formula.",
+    38→          "examPointer": "Balancing given equations and identifying reactants and products are guaranteed 2-3 mark questions in every board paper."
+    39→        },
+    40→        {
+    41→          "heading": "Combination and Decomposition Reactions",
+    42→          "points": [
+    43→            "In a combination reaction two or more reactants form a single product, e.g. CaO + H2O -> Ca(OH)2 with release of large heat.",
+    44→            "Quicklime (CaO) with water forms slaked lime used for whitewashing; Ca(OH)2 + CO2 -> CaCO3 + H2O gives walls a shiny finish.",
+    45→            "In a decomposition reaction a single substance breaks into two or more simpler substances; energy in some form is always supplied.",
+    46→            "Thermal decomposition: CaCO3 -> CaO + CO2 (limestone) and 2FeSO4 -> Fe2O3 + SO2 + SO3, where pale green crystals turn brown with a smell of burning sulphur.",
+    47→            "Electrolytic decomposition: 2H2O -> 2H2 + O2 on passing electricity; hydrogen at the cathode is collected in double the volume of oxygen at the anode.",
+    48→            "Photolytic decomposition: 2AgCl -> 2Ag + Cl2 in sunlight; white silver chloride turns grey, the principle of black and white photography."
+    49→          ],
+    50→          "keyTerms": [
+    51→            { "term": "Combination reaction", "meaning": "A reaction in which two or more substances combine to form a single product." },
+    52→            { "term": "Decomposition reaction", "meaning": "A reaction in which one compound breaks down into two or more simpler substances using heat, light or electricity." },
+    53→            { "term": "Photolytic decomposition", "meaning": "Decomposition carried out by light energy, e.g. silver chloride turning grey in sunlight." }
+    54→          ],
+    55→          "trick": "Combination marries many into one; decomposition divorces one into many. AgCl fears sunlight: white to grey like an old photograph.",
+    56→          "examPointer": "Heating of ferrous sulphate and silver chloride, and electrolysis of water, are repeated as MCQs and as 3 mark questions."
+    57→        },
+    58→        {
+    59→          "heading": "Displacement and Double Displacement Reactions",
+    60→          "points": [
+    61→            "Displacement: a more reactive element pushes out a less reactive element from its compound, e.g. Fe + CuSO4 -> FeSO4 + Cu.",
+    62→            "In the iron nail experiment the blue colour of copper sulphate fades to light green and brown copper deposits on the nail.",
+    63→            "Similarly Zn + CuSO4 -> ZnSO4 + Cu and Cu + 2AgNO3 -> Cu(NO3)2 + 2Ag confirm the reactivity order Zn > Cu > Ag.",
+    64→            "Double displacement: two compounds exchange their ions, e.g. Na2SO4 + BaCl2 -> BaSO4 + 2NaCl.",
+    65→            "Reactions producing an insoluble solid are precipitation reactions; BaSO4 appears as a white precipitate and PbI2 as a yellow one in Pb(NO3)2 + 2KI -> PbI2 + 2KNO3.",
+    66→            "Double displacement between an acid and a base is neutralisation and is accompanied by evolution of heat."
+    67→          ],
+    68→          "keyTerms": [
+    69→            { "term": "Displacement reaction", "meaning": "A reaction where a more reactive element takes the place of a less reactive element in its compound." },
+    70→            { "term": "Double displacement reaction", "meaning": "A reaction in which two compounds exchange ions to form two new compounds." },
+    71→            { "term": "Precipitation reaction", "meaning": "A double displacement reaction producing an insoluble solid (precipitate), e.g. white BaSO4." }
+    72→          ],
+    73→          "trick": "The reactive bully displaces the weak from its compound; in double displacement partners exchange ions like passengers swapping seats, and BaSO4 always lands white.",
+    74→          "examPointer": "Colour change questions (blue to light green with iron in copper sulphate) and equations of precipitation reactions are repeatedly asked."
+    75→        },
+    76→        {
+    77→          "heading": "Oxidation, Reduction and Redox Reactions",
+    78→          "points": [
+    79→            "Oxidation is gain of oxygen or loss of hydrogen; reduction is loss of oxygen or gain of hydrogen.",
+    80→            "Oxidation and reduction occur together in a single reaction, called a redox reaction.",
+    81→            "Example: CuO + H2 -> Cu + H2O; CuO is reduced to Cu while H2 is oxidised to H2O.",
+    82→            "2Cu + O2 -> 2CuO shows copper being oxidised to black copper oxide on heating in air.",
+    83→            "ZnO + C -> Zn + CO2: carbon removes oxygen from zinc oxide, so carbon acts as the reducing agent.",
+    84→            "The substance that gets oxidised is the reducing agent, and the substance that gets reduced is the oxidising agent."
+    85→          ],
+    86→          "keyTerms": [
+    87→            { "term": "Oxidation", "meaning": "Gain of oxygen or loss of hydrogen by a substance in a reaction." },
+    88→            { "term": "Reduction", "meaning": "Loss of oxygen or gain of hydrogen by a substance in a reaction." },
+    89→            { "term": "Redox reaction", "meaning": "A reaction in which oxidation and reduction take place simultaneously." },
+    90→            { "term": "Reducing agent", "meaning": "The substance that is oxidised and thereby removes oxygen (or gives electrons) from the other reactant." }
+    91→          ],
+    92→          "trick": "Oxygen added means oxidised, oxygen removed means reduced, and the two always travel as a pair called REDOX.",
+    93→          "examPointer": "Identify the substance oxidised and reduced in a given equation is a favourite 2-3 marker; one such equation usually appears in source based questions."
+    94→        },
+    95→        {
+    96→          "heading": "Exothermic and Endothermic Reactions",
+    97→          "points": [
+    98→            "Reactions that release heat are exothermic; the reaction mixture and container become hot.",
+    99→            "Burning of natural gas: CH4 + 2O2 -> CO2 + 2H2O, and burning of magnesium are exothermic.",
+   100→            "Respiration is exothermic: glucose is broken down in cells with oxygen to give CO2, water and energy for life processes.",
+   101→            "Decomposition of vegetable matter into compost and dissolving of quicklime in water also release heat.",
+   102→            "Reactions that absorb heat are endothermic; the mixture cools or needs continuous heating.",
+   103→            "Heating of calcium carbonate (CaCO3 -> CaO + CO2) and reaction of barium hydroxide with ammonium chloride are endothermic; electrolysis of water needs electrical energy."
+   104→          ],
+   105→          "keyTerms": [
+   106→            { "term": "Exothermic reaction", "meaning": "A reaction in which heat is evolved, e.g. burning of fuels and respiration." },
+   107→            { "term": "Endothermic reaction", "meaning": "A reaction in which heat is absorbed from the surroundings, e.g. decomposition of limestone." },
+   108→            { "term": "Respiration", "meaning": "Exothermic breakdown of glucose inside living cells releasing energy." }
+   109→          ],
+   110→          "trick": "EXO exits heat so hands get hot; ENDO enters heat so hands get cold. Respiration and burning are twin exothermic processes.",
+   111→          "examPointer": "Classify given reactions as exothermic or endothermic with a reason is a common 2-3 marker; respiration as exothermic is a repeated PYQ."
+   112→        },
+   113→        {
+   114→          "heading": "Corrosion and Rancidity: Oxidation in Daily Life",
+   115→          "points": [
+   116→            "Corrosion is the slow eating up of metal surfaces by gases and moisture of the atmosphere.",
+   117→            "Rusting of iron needs both air and moisture together, forming a brown flaky coating of hydrated iron(III) oxide, Fe2O3.xH2O.",
+   118→            "Copper develops a green coating of basic copper carbonate; silver acquires a black coating of silver sulphide.",
+   119→            "Corrosion damages railings, bridges, car bodies and ships, causing huge annual loss.",
+   120→            "Rancidity: oxidation of fats and oils in food on exposure to air changes their taste and smell.",
+   121→            "Rancidity is prevented by adding antioxidants, flushing packets with nitrogen gas, refrigeration and storing food in airtight containers."
+   122→          ],
+   123→          "keyTerms": [
+   124→            { "term": "Corrosion", "meaning": "Gradual destruction of metals by air, moisture or chemicals present in the environment." },
+   125→            { "term": "Rusting", "meaning": "Corrosion of iron in the presence of both oxygen and water giving hydrated iron(III) oxide." },
+   126→            { "term": "Rancidity", "meaning": "Oxidation of fats and oils in food producing bad taste and smell." },
+   127→            { "term": "Antioxidant", "meaning": "A substance like BHA added to food to prevent oxidation of fats and oils." }
+   128→          ],
+   129→          "trick": "Rust needs air plus water just like tea needs milk plus water. Chips packets are puffed with nitrogen because oxygen spoils the oil.",
+   130→          "examPointer": "Why chips packets are flushed with nitrogen and methods to prevent rancidity have appeared in CBSE papers (2023, 2020); corrosion coatings are regular MCQs."
+   131→        }
+   132→      ],
+   133→      "mcqs": [
+   134→        {
+   135→          "question": "The correctly balanced equation for the burning of magnesium in air is",
+   136→          "options": ["Mg + O2 -> MgO", "2Mg + O2 -> 2MgO", "Mg + 2O2 -> 2MgO", "2Mg + 2O2 -> 2MgO"],
+   137→          "answerIndex": 1,
+   138→          "explanation": "Balancing needs two Mg and two O atoms on each side: 2Mg + O2 -> 2MgO, obeying the law of conservation of mass.",
+   139→          "difficulty": "easy"
+   140→        },
+   141→        {
+   142→          "question": "An iron nail is dipped in copper sulphate solution. The colour of the solution changes from",
+   143→          "options": ["Light green to blue", "Blue to light green", "Colourless to blue", "Blue to colourless and then red"],
+   144→          "answerIndex": 1,
+   145→          "explanation": "Iron displaces copper: Fe + CuSO4 -> FeSO4 + Cu. Blue copper sulphate turns light green as ferrous sulphate forms and brown copper deposits on the nail.",
+   146→          "difficulty": "easy",
+   147→          "pyq": "CBSE 2023"
+   148→        },
+   149→        {
+   150→          "question": "Heating of ferrous sulphate crystals is an example of",
+   151→          "options": ["combination reaction", "decomposition reaction", "displacement reaction", "double displacement reaction"],
+   152→          "answerIndex": 1,
+   153→          "explanation": "On heating 2FeSO4 -> Fe2O3 + SO2 + SO3; one substance breaks into three, so it is thermal decomposition.",
+   154→          "difficulty": "easy",
+   155→          "pyq": "CBSE 2022"
+   156→        },
+   157→        {
+   158→          "question": "In the electrolysis of water, the gas collected at the cathode is",
+   159→          "options": ["oxygen, in double volume", "hydrogen, in double the volume of the gas at the anode", "hydrogen, in equal volume as at the anode", "oxygen only"],
+   160→          "answerIndex": 1,
+   161→          "explanation": "Water splits as 2H2O -> 2H2 + O2; hydrogen appears at the cathode in twice the volume of oxygen collected at the anode.",
+   162→          "difficulty": "medium"
+   163→        },
+   164→        {
+   165→          "question": "White silver chloride turns grey when kept in sunlight because it",
+   166→          "options": ["combines with oxygen of air", "decomposes to grey metallic silver", "reacts with nitrogen of air", "absorbs moisture and swells"],
+   167→          "answerIndex": 1,
+   168→          "explanation": "Photolytic decomposition 2AgCl -> 2Ag + Cl2 deposits fine grey silver, the principle of black and white photography.",
+   169→          "difficulty": "easy"
+   170→        },
+   171→        {
+   172→          "question": "Which of the following is a precipitation reaction?",
+   173→          "options": ["Na2SO4 + BaCl2 -> BaSO4 + 2NaCl", "CaO + H2O -> Ca(OH)2", "Zn + H2SO4 -> ZnSO4 + H2", "2H2O -> 2H2 + O2"],
+   174→          "answerIndex": 0,
+   175→          "explanation": "Exchange of ions between the two solutions forms insoluble white BaSO4, a double displacement precipitation reaction.",
+   176→          "difficulty": "medium"
+   177→        },
+   178→        {
+   179→          "question": "In the reaction CuO + H2 -> Cu + H2O, the substance oxidised is",
+   180→          "options": ["CuO", "Cu", "H2", "H2O"],
+   181→          "answerIndex": 2,
+   182→          "explanation": "H2 gains oxygen to become H2O, so hydrogen is oxidised; CuO loses oxygen and is reduced to copper.",
+   183→          "difficulty": "medium"
+   184→        },
+   185→        {
+   186→          "question": "Which of the following is an endothermic process?",
+   187→          "options": ["Burning of natural gas", "Respiration", "Decomposition of calcium carbonate on heating", "Dissolving quicklime in water"],
+   188→          "answerIndex": 2,
+   189→          "explanation": "CaCO3 -> CaO + CO2 absorbs heat continuously; burning, respiration and slaking of lime all evolve heat.",
+   190→          "difficulty": "medium",
+   191→          "pyq": "CBSE 2020"
+   192→        },
+   193→        {
+   194→          "question": "Rancidity in fried food items can be prevented by",
+   195→          "options": ["adding antioxidants like BHA", "flushing the packet with nitrogen gas", "storing in airtight containers in a refrigerator", "all of these"],
+   196→          "answerIndex": 3,
+   197→          "explanation": "Antioxidants, nitrogen flushing and airtight refrigerated storage all cut off or slow the oxidation of fats and oils that causes rancidity.",
+   198→          "difficulty": "easy"
+   199→        },
+   200→        {
+   201→          "question": "The brown flaky layer formed on iron articles left in moist air is chemically",
+   202→          "options": ["basic copper carbonate", "silver sulphide", "hydrated iron(III) oxide", "iron sulphide"],
+   203→          "answerIndex": 2,
+   204→          "explanation": "Rust is Fe2O3.xH2O, hydrated iron(III) oxide, formed only when iron meets both air and moisture.",
+   205→          "difficulty": "medium"
+   206→        },
+   207→        {
+   208→          "question": "The green coating formed on copper vessels due to corrosion is",
+   209→          "options": ["copper oxide", "basic copper carbonate", "copper sulphide", "copper chloride"],
+   210→          "answerIndex": 1,
+   211→          "explanation": "Copper reacts with moist air containing CO2 to form a green layer of basic copper carbonate.",
+   212→          "difficulty": "easy",
+   213→          "pyq": "CBSE 2024"
+   214→        },
+   215→        {
+   216→          "question": "Which information is NOT conveyed by a balanced chemical equation?",
+   217→          "options": ["Formulae of reactants and products", "Number of atoms of each element on both sides", "Physical states if written as (s), (l), (g) and (aq)", "Whether the reaction is fast or slow"],
+   218→          "answerIndex": 3,
+   219→          "explanation": "A balanced equation gives identity, atom count and, if written, physical states; it tells nothing about the speed of the reaction, which depends on conditions.",
+   220→          "difficulty": "hard"
+   221→        }
+   222→      ],
+   223→      "boardQuestions": [
+   224→        {
+   225→          "question": "Why should a magnesium ribbon be cleaned before burning it in air? Write the balanced equation for its burning.",
+   226→          "marks": 2,
+   227→          "type": "SA",
+   228→          "probability": "very-high",
+   229→          "answer": "1) Magnesium reacts slowly with the oxygen of air and gets covered by a thin protective layer of magnesium oxide. 2) This layer prevents the metal below from burning easily, so the ribbon is rubbed with sandpaper to remove the coating and expose fresh magnesium. 3) On heating, the clean ribbon burns in air with a dazzling white flame forming white magnesium oxide powder: 2Mg + O2 -> 2MgO. The MgO formed is a basic oxide and its aqueous solution turns red litmus blue."
+   230→        },
+   231→        {
+   232→          "question": "Why is respiration considered an exothermic reaction? Write the equation for the overall process.",
+   233→          "marks": 2,
+   234→          "type": "SA",
+   235→          "probability": "high",
+   236→          "answer": "1) During respiration, glucose combines with oxygen inside the cells and breaks down into carbon dioxide and water. 2) Energy is released in this process, which keeps the body warm and drives all life processes like growth, movement and repair of tissues; since heat energy is evolved, respiration is an exothermic reaction. 3) Overall equation: C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy. This is why we feel warm after exercise and why the body temperature stays around 37 C without any external heating."
+   237→        },
+   238→        {
+   239→          "question": "Translate the following statements into balanced chemical equations: (a) Hydrogen gas combines with nitrogen to form ammonia. (b) Barium chloride solution reacts with aluminium sulphate solution to give aluminium chloride and barium sulphate. (c) Potassium metal reacts with water to give potassium hydroxide and hydrogen gas.",
+   240→          "marks": 3,
+   241→          "type": "SA",
+   242→          "probability": "high",
+   243→          "answer": "1) (a) 3H2 + N2 -> 2NH3; three molecules of hydrogen combine with one molecule of nitrogen to give two molecules of ammonia, so it is a combination reaction. 2) (b) 3BaCl2 + Al2(SO4)3 -> 2AlCl3 + 3BaSO4; barium sulphate is a white insoluble precipitate, so it is also a double displacement precipitation reaction. 3) (c) 2K + 2H2O -> 2KOH + H2; potassium reacts violently with cold water, darting about and often catching fire because the reaction is highly exothermic and the hydrogen evolved burns. In each case, coefficients are adjusted so that the number of atoms of every element is equal on both sides."
+   244→        },
+   245→        {
+   246→          "question": "What is a decomposition reaction? Explain its three types with one balanced equation each and name the type used in black and white photography.",
+   247→          "marks": 5,
+   248→          "type": "LA",
+   249→          "probability": "very-high",
+   250→          "answer": "A decomposition reaction is one in which a single compound breaks down into two or more simpler substances. 1) Thermal decomposition uses heat: CaCO3 -> CaO + CO2 on heating limestone; also 2FeSO4 -> Fe2O3 + SO2 + SO3 when green ferrous sulphate crystals are heated. 2) Electrolytic decomposition uses electricity: 2H2O -> 2H2 + O2 when current is passed through acidified water; hydrogen at the cathode is double the volume of oxygen at the anode. 3) Photolytic decomposition uses light: 2AgCl -> 2Ag + Cl2, where white silver chloride turns grey in sunlight. Photolytic decomposition of silver chloride or silver bromide is used in black and white photography because light decomposes the salt, depositing dark silver metal on the film."
+   251→        },
+   252→        {
+   253→          "question": "Define combination reaction, displacement reaction, double displacement reaction, redox reaction and exothermic reaction, giving one balanced equation for each.",
+   254→          "marks": 5,
+   255→          "type": "LA",
+   256→          "probability": "high",
+   257→          "answer": "1) Combination reaction: two or more reactants form a single product, e.g. CaO + H2O -> Ca(OH)2. 2) Displacement reaction: a more reactive element displaces a less reactive one from its salt solution, e.g. Fe + CuSO4 -> FeSO4 + Cu. 3) Double displacement reaction: two compounds exchange ions, e.g. Na2SO4 + BaCl2 -> BaSO4 + 2NaCl, where BaSO4 is a white precipitate. 4) Redox reaction: oxidation and reduction occur together, e.g. CuO + H2 -> Cu + H2O, where CuO is reduced and H2 is oxidised. 5) Exothermic reaction: heat is evolved, e.g. CH4 + 2O2 -> CO2 + 2H2O during burning of natural gas. Many reactions belong to more than one class, for example slaking of lime is both combination and exothermic."
+   258→        },
+   259→        {
+   260→          "question": "Read the source and answer: A student heated some pale green crystals in a dry test tube. The crystals first lost their colour and a brown residue was left behind, with a smell of burning sulphur. Water droplets also appeared on the cooler upper parts of the tube. (a) Name the crystals and the type of reaction. (b) Write the balanced equation for the change. (c) Why do the crystals lose colour and what is the brown residue?",
+   261→          "marks": 5,
+   262→          "type": "CASE",
+   263→          "probability": "high",
+   264→          "answer": "(a) The crystals are ferrous sulphate (FeSO4.7H2O), pale green in colour; heating them is a thermal decomposition reaction. (b) 2FeSO4 -> Fe2O3 + SO2 + SO3; the gases sulphur dioxide and sulphur trioxide escape and water of crystallisation first appears as droplets. (c) The green colour is due to water of crystallisation; when it is driven off and the salt decomposes, colour is lost. The brown residue is ferric oxide (Fe2O3), and the suffocating smell of burning sulphur comes from SO2 and SO3 released during decomposition."
+   265→        },
+   266→        {
+   267→          "question": "Read the source and answer: Deepa found that a packet of fried snacks left open for a few days developed an unpleasant smell and taste. Her teacher explained that oxygen of the air reacts with the oil present in the food. (a) Name the process responsible. (b) Suggest any two methods to prevent it. (c) Why are chips packets flushed with nitrogen gas?",
+   268→          "marks": 4,
+   269→          "type": "CASE",
+   270→          "probability": "high",
+   271→          "answer": "(a) The process is rancidity, the oxidation of fats and oils in food by atmospheric oxygen, which spoils taste and smell. (b) It can be prevented by adding antioxidants such as BHA or BHT to the food, and by storing food in airtight containers in a refrigerator; keeping food away from light also helps. (c) Nitrogen is an unreactive gas; flushing the packet with nitrogen replaces oxygen, so the oil cannot get oxidised and the snacks remain fresh and crisp for a longer time."
+   272→        }
+   273→      ]
+   274→    },
+   275→    {
+   276→      "number": 2,
+   277→      "title": "Acids, Bases and Salts",
+   278→      "summary": "This chapter studies the reactions of acids and bases with metals, metal carbonates, metal oxides and non-metal oxides, along with neutralisation. It explains the pH scale, strong and weak acids or bases, and the role of pH in daily life from tooth decay to antacids. It closes with the family of salts and the preparation and uses of washing soda, baking soda, bleaching powder and plaster of Paris.",
+   279→      "weightageMarks": 6,
+   280→      "difficulty": "medium",
+   281→      "hotTopics": [
+   282→        "Reactions of acids with metals and carbonates",
+   283→        "pH scale and importance of pH in daily life",
+   284→        "Chlor-alkali process",
+   285→        "Baking soda and washing soda",
+   286→        "Bleaching powder preparation and uses",
+   287→        "Plaster of Paris and water of crystallisation"
+   288→      ],
+   289→      "sections": [
+   290→        {
+   291→          "heading": "Understanding Chemical Properties of Acids and Bases",
+   292→          "points": [
+   293→            "Acids are sour, turn blue litmus red and give H+(aq) ions in aqueous solution; examples are HCl, H2SO4, citric acid in lemon and acetic acid in vinegar.",
+   294→            "Bases are bitter, soapy to touch, turn red litmus blue and give OH- ions in solution; examples are NaOH, Ca(OH)2 and Mg(OH)2.",
+   295→            "Acid + metal gives salt and hydrogen gas: Mg + 2HCl -> MgCl2 + H2; the gas burns with a pop sound when a burning candle is brought near it.",
+   296→            "Acid + metal carbonate gives salt, water and carbon dioxide: CaCO3 + 2HCl -> CaCl2 + H2O + CO2; the CO2 turns lime water milky due to formation of insoluble CaCO3.",
+   297→            "Acid + metal hydrogencarbonate also gives CO2: NaHCO3 + HCl -> NaCl + H2O + CO2; this reaction of baking soda with acids makes cakes fluffy.",
+   298→            "The milky lime water becomes clear again when excess CO2 passes through, forming soluble calcium hydrogencarbonate."
+   299→          ],
+   300→          "keyTerms": [
+   301→            { "term": "Indicator", "meaning": "A substance like litmus, methyl orange or phenolphthalein that changes colour to show whether a solution is acidic or basic." },
+   302→            { "term": "Pop sound test", "meaning": "Test for hydrogen gas: a burning candle near the gas gives a characteristic pop sound." },
+   303→            { "term": "Limewater test", "meaning": "Test for carbon dioxide: CO2 turns lime water milky due to formation of insoluble calcium carbonate." }
+   304→          ],
+   305→          "trick": "Metal gives POP (hydrogen), carbonate gives MILK (CO2 turns lime water milky). Baking soda plus acid raises cakes like tiny CO2 balloons.",
+   306→          "examPointer": "Writing equations for acids with metals, carbonates and hydrogencarbonates, and identifying the gases evolved, are guaranteed board questions."
+   307→        },
+   308→        {
+   309→          "heading": "Neutralisation, Oxides and the Rule of Dilution",
+   310→          "points": [
+   311→            "Neutralisation: acid + base -> salt + water, e.g. NaOH + HCl -> NaCl + H2O; heat is evolved in this exothermic change.",
+   312→            "Acids react with metal oxides, which behave as bases: CuO + 2HCl -> CuCl2 + H2O, giving a blue-green solution of copper chloride.",
+   313→            "Bases react with non-metal oxides, which behave as acidic oxides: Ca(OH)2 + CO2 -> CaCO3 + H2O and 2NaOH + CO2 -> Na2CO3 + H2O.",
+   314→            "Hence metal oxides are basic in nature while non-metal oxides are acidic in nature.",
+   315→            "Acids show acidic behaviour only in the presence of water: HCl in water forms H3O+ (hydronium) and Cl- ions; dry HCl gas does not turn dry litmus red.",
+   316→            "Dilution of an acid is highly exothermic; always add acid slowly to water with constant stirring, never water to concentrated acid."
+   317→          ],
+   318→          "keyTerms": [
+   319→            { "term": "Neutralisation", "meaning": "Reaction between an acid and a base producing salt and water with evolution of heat." },
+   320→            { "term": "Hydronium ion", "meaning": "H3O+ ion formed when H+ combines with a water molecule; all aqueous acids contain it." },
+   321→            { "term": "Dilution", "meaning": "Lowering the concentration of an acid or base by adding water, always acid into water." }
+   322→          ],
+   323→          "trick": "Metal oxide is a base, non-metal oxide is an acid. Add ACID to WATER like pouring tea into milk, never the reverse.",
+   324→          "examPointer": "Why dry HCl gas fails to turn dry litmus red, and the safe rule for diluting acids, are repeated 2 mark questions."
+   325→        },
+   326→        {
+   327→          "heading": "Strong and Weak Acids and Bases",
+   328→          "points": [
+   329→            "Strength of an acid depends on how many H+ ions it produces in water; more H+ ions mean a stronger acid.",
+   330→            "Strong acids like HCl, H2SO4 and HNO3 ionise almost completely; weak acids like acetic acid and citric acid ionise only partially.",
+   331→            "Strong bases like NaOH and KOH produce OH- ions completely; weak bases like ammonium hydroxide ionise partially.",
+   332→            "The pH scale runs from 0 to 14 and measures the H+ ion concentration; p stands for potenz, meaning power in German.",
+   333→            "A neutral solution has pH 7, acidic solutions have pH below 7 and basic solutions have pH above 7; lower pH means stronger acid, higher pH means stronger base.",
+   334→            "A universal indicator gives different colours for different pH values and is used to estimate the pH of a solution."
+   335→          ],
+   336→          "keyTerms": [
+   337→            { "term": "pH scale", "meaning": "Logarithmic scale from 0 to 14 used to express the hydrogen ion concentration of a solution." },
+   338→            { "term": "Strong acid", "meaning": "An acid that ionises completely in water, e.g. HCl, H2SO4." },
+   339→            { "term": "Universal indicator", "meaning": "A mixture of dyes giving different colours at different pH values, used to estimate pH." }
+   340→          ],
+   341→          "trick": "pH 7 is the middle child: below 7 acidic temper, above 7 basic calm. Potenz means power, so pH is the power of hydrogen.",
+   342→          "examPointer": "Predicting the acidic, basic or neutral nature of solutions from given pH values is a common MCQ and 2 marker."
+   343→        },
+   344→        {
+   345→          "heading": "Importance of pH in Everyday Life",
+   346→          "points": [
+   347→            "Our body works within a narrow pH range of 7.0 to 7.8; survival is impossible outside this range.",
+   348→            "The stomach produces HCl to digest proteins; excess acid causes indigestion, cured by antacids like milk of magnesia (magnesium hydroxide).",
+   349→            "Tooth decay begins when the pH of the mouth falls below 5.5; acids attack tooth enamel, so brushing with basic toothpaste neutralises them.",
+   350→            "Plants and animals are pH sensitive; acid rain with pH below 5.6 lowers river water pH and kills aquatic life.",
+   351→            "Farmers treat acidic soil by adding lime (calcium hydroxide or calcium oxide) to raise its pH for better crops.",
+   352→            "Self defence: bee sting injects methanoic (formic) acid relieved by rubbing baking soda; nettle leaf sting is also methanoic acid, soothed traditionally by the basic juice of dock leaves."
+   353→          ],
+   354→          "keyTerms": [
+   355→            { "term": "Antacid", "meaning": "A mild base like magnesium hydroxide that neutralises excess HCl in the stomach." },
+   356→            { "term": "Acid rain", "meaning": "Rain with pH below 5.6 due to dissolved acidic oxides; it harms aquatic life and soil." },
+   357→            { "term": "Methanoic acid", "meaning": "Formic acid injected during bee and nettle stings, neutralised by a mild base like baking soda." }
+   358→          ],
+   359→          "trick": "Teeth melt below 5.5, the stomach is soothed by milk of magnesia, bees sting with formic acid and baking soda is the balm. pH saves the day everywhere.",
+   360→          "examPointer": "Why toothpaste prevents decay, how antacids work and why bee stings are treated with baking soda are classic 2-3 mark PYQs."
+   361→        },
+   362→        {
+   363→          "heading": "Family of Salts and the Chlor-Alkali Process",
+   364→          "points": [
+   365→            "Salts are ionic compounds formed by neutralisation; salts sharing the same cation or anion form a family, e.g. NaCl, Na2SO4 and Na2CO3 belong to the sodium family.",
+   366→            "Nature of salt solutions: salt of a strong acid and strong base (NaCl) is neutral; of a strong acid and weak base (NH4Cl) is acidic; of a strong base and weak acid (Na2CO3, CH3COONa) is basic.",
+   367→            "Common salt (sodium chloride) is obtained from sea water and rock salt and is the raw material for many substances of daily use.",
+   368→            "Chlor-alkali process: electrolysis of brine (aqueous NaCl) gives 2NaCl + 2H2O -> 2NaOH + Cl2 + H2; chlorine is released at the anode, hydrogen at the cathode and sodium hydroxide forms in the solution.",
+   369→            "Uses: sodium hydroxide for soaps, detergents and degreasing metals; chlorine for bleaching powder, PVC and disinfectants; hydrogen for fuels, margarine and ammonia for fertilisers.",
+   370→            "When chlorine and hydrogen from the process combine they give hydrochloric acid, used in medicines and cosmetics."
+   371→          ],
+   372→          "keyTerms": [
+   373→            { "term": "Brine", "meaning": "Concentrated aqueous solution of sodium chloride used in the chlor-alkali process." },
+   374→            { "term": "Chlor-alkali process", "meaning": "Electrolysis of brine producing sodium hydroxide, chlorine and hydrogen simultaneously." },
+   375→            { "term": "Family of salts", "meaning": "Salts having the same cation or the same anion, e.g. the sodium family." }
+   376→          ],
+   377→          "trick": "Brine splits three ways: NaOH for soap, Cl2 for bleach, H2 for fuel. One salt, three industries, remember N-C-H from bottom to top of the cell.",
+   378→          "examPointer": "The chlor-alkali process with products and uses is a repeated 3 and 5 mark question; nature of salt solutions from pH is a common MCQ."
+   379→        },
+   380→        {
+   381→          "heading": "Bleaching Powder, Baking Soda, Washing Soda, Plaster of Paris",
+   382→          "points": [
+   383→            "Bleaching powder is made by passing chlorine gas over dry slaked lime: Ca(OH)2 + Cl2 -> CaOCl2 + H2O; it bleaches cotton in the textile industry and wood pulp in paper, and disinfects drinking water.",
+   384→            "Baking soda (sodium hydrogencarbonate, NaHCO3) is a mild non-corrosive base used as an antacid, in baking powder with tartaric acid, and in soda-acid fire extinguishers.",
+   385→            "On heating, 2NaHCO3 -> Na2CO3 + H2O + CO2; the released CO2 makes cakes and bread fluffy.",
+   386→            "Washing soda (Na2CO3.10H2O) is obtained by recrystallising sodium carbonate solution; it is used in glass, soap and paper industries, removes permanent hardness of water and works as a cleaning agent.",
+   387→            "Plaster of Paris is made by heating gypsum at 373 K: CaSO4.2H2O -> CaSO4.1/2H2O + 3/2H2O; mixed with water it sets into hard gypsum, used for plastering fractured bones, making toys and smooth walls.",
+   388→            "Water of crystallisation is fixed water in crystals: blue CuSO4.5H2O turns white on heating and becomes blue again on adding water."
+   389→          ],
+   390→          "keyTerms": [
+   391→            { "term": "Bleaching powder", "meaning": "CaOCl2, made from chlorine and dry slaked lime; used as bleaching and disinfecting agent." },
+   392→            { "term": "Baking soda", "meaning": "Sodium hydrogencarbonate, NaHCO3, a mild antacid and raising agent in baking." },
+   393→            { "term": "Water of crystallisation", "meaning": "Fixed number of water molecules present in one formula unit of a salt, e.g. 5 in CuSO4.5H2O." },
+   394→            { "term": "Plaster of Paris", "meaning": "Calcium sulphate hemihydrate, CaSO4.1/2H2O, obtained by heating gypsum at 373 K." }
+   395→          ],
+   396→          "trick": "POP is born at 373 K from gypsum. Blue vitriol loses its 5 waters and turns white, add water and blue returns. Baking soda cools the tummy, washing soda softens hard water.",
+   397→          "examPointer": "Preparation and uses of bleaching powder, baking soda, washing soda and POP form a 5 mark question bank; the blue copper sulphate experiment is a repeated source based question."
+   398→        }
+   399→      ],
+   400→      "mcqs": [
+
+[showing lines 1-400 of 1324; use offset=401 with limit to continue reading]

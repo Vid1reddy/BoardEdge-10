@@ -1,0 +1,1232 @@
+     1→export default {
+     2→  "code": "english",
+     3→  "name": "English",
+     4→  "bookName": "First Flight",
+     5→  "weightageMarks": 80,
+     6→  "chapters": [
+     7→    {
+     8→      "number": 6,
+     9→      "title": "Mijbil the Otter",
+    10→      "summary": "Gavin Maxwell, a Scottish writer and naturalist, loses his pet dog Jonnie and, on his friend's suggestion, decides to keep an otter as a pet. He obtains Mijbil from the marshes near Basra in Iraq in 1956, and the playful otter fills his life with joy, mischief and chaos. The chapter describes Mijbil's love of water, the eventful air journey in a tin box with a kind air hostess, and Mij's games and walks in London where curious people make wild guesses about the strange animal.",
+    11→      "weightageMarks": 20,
+    12→      "difficulty": "easy",
+    13→      "hotTopics": [
+    14→        "Mijbil's origin in the Basra marshes and Maxell's otter",
+    15→        "Mijbil's playful love of water and the bathroom episode",
+    16→        "The air journey: tin box escape and the air hostess",
+    17→        "Londoners' wild guesses about the otter",
+    18→        "Mij's games with ping-pong balls and marbles",
+    19→        "The author's fear of the ten pound fine and the lead"
+    20→      ],
+    21→      "sections": [
+    22→        {
+    23→          "heading": "About the Author",
+    24→          "points": [
+    25→            "Gavin Maxwell was a Scottish writer and naturalist who loved animals and lived close to nature.",
+    26→            "He lived at Camusfearna, a remote house on the west coast of Scotland, where he kept pets for company.",
+    27→            "He was deeply attached to his pet dog Jonnie, and when Jonnie died he was heartbroken and life became too lonely for him.",
+    28→            "A friend suggested that he should get an otter instead of a dog, since Camusfearna was ringed by water and suitable for an otter.",
+    29→            "Otters were rare and difficult to obtain in Scotland, so Maxwell decided to get one from the Tigris marshes in Iraq.",
+    30→            "In 1956 he travelled to Basra in Iraq, and this journey led to his meeting with the otter he named Mijbil.",
+    31→            "Maxwell later wrote about his experiences with otters in his famous book Ring of Bright Water.",
+    32→            "The chapter is a travel and nature narrative that blends humour, affection and careful observation of an animal's behaviour."
+    33→          ],
+    34→          "keyTerms": [
+    35→            { "term": "Naturalist", "meaning": "A person who studies plants and animals scientifically and observes them closely in their surroundings." },
+    36→            { "term": "Camusfearna", "meaning": "Maxwell's house on the west coast of Scotland, ringed by water, where he kept his otters." },
+    37→            { "term": "Ring of Bright Water", "meaning": "Maxwell's famous book based on his life with otters, including Mijbil." }
+    38→          ],
+    39→          "trick": "Maxwell's story: Camusfearna by the water, dog Jonnie gone, friend says otter, book is Ring of Bright Water.",
+    40→          "examPointer": "Author-based MCQs and why Maxwell chose an otter are frequently asked; remember 1956, Basra and Ring of Bright Water."
+    41→        },
+    42→        {
+    43→          "heading": "Plot Overview",
+    44→          "points": [
+    45→            "In 1956, grieving for his dead dog Jonnie, Gavin Maxwell travels to Basra in Iraq to visit the Tigris marshes.",
+    46→            "Two Arabs bring him an otter in a sack, and he names the young, friendly creature Mijbil.",
+    47→            "At first Mijbil is indifferent and hides, but soon he becomes friendly and develops a passionate love for water, playing wildly in the bathroom.",
+    48→            "When it is time to return to England, the British airline refuses to carry animals, so Maxwell books a flight to Paris on another airline and plans to travel to England by train.",
+    49→            "The airline insists that Mijbil be packed in a tin box not more than eighteen inches square, placed on the floor near Maxwell's feet.",
+    50→            "Mijbil tears the lining of the box, escapes mid-air, and the aircraft is thrown into chaos; Maxwell's hands and wrists are lacerated and bloodied.",
+    51→            "A kind and cooperative air hostess helps him; finally Mijbil is recovered and the flight continues safely, and they reach England via Paris by train.",
+    52→            "In London, Maxwell takes Mijbil out on a lead, Londoners make wild guesses about the strange creature, and Mijbil delights in playing with ping-pong balls and marbles."
+    53→          ],
+    54→          "keyTerms": [
+    55→            { "term": "Basra", "meaning": "A port city in Iraq from where Maxwell obtained the otter Mijbil." },
+    56→            { "term": "Tigris marshes", "meaning": "The marshy wetlands of the river Tigris in Iraq where Maxwell went and where otters were found." },
+    57→            { "term": "Tin box", "meaning": "The airline-approved box, not more than eighteen inches square, in which Mijbil had to be carried during the flight." }
+    58→          ],
+    59→          "trick": "Journey order: Basra, otter in sack, water joy, tin box escape, Paris, train, London lead.",
+    60→          "examPointer": "Sequence-of-events and transportation questions are common; be clear about why the author flew to Paris and travelled to England by train."
+    61→        },
+    62→        {
+    63→          "heading": "Character Sketches",
+    64→          "points": [
+    65→            "Gavin Maxwell is a patient, affectionate and adventurous animal lover who understands his pet's moods and never loses his temper.",
+    66→            "He is observant and humorous, describing Mijbil's pranks with delight rather than irritation, even when he is covered in blood.",
+    67→            "Mijbil is playful, mischievous and intelligent; he invents games, plays with the tap, and jiggles door handles with great skill.",
+    68→            "Mijbil is also independent and wilful; he resists the tin box, escapes twice, and refuses to be hurried on his walks.",
+    69→            "The air hostess is kind, calm and cooperative; instead of scolding, she helps handle the otter and jokes that she would like to be pounded in the same way.",
+    70→            "The Londoners are curious but ignorant about animals; they call Mijbil a baby seal, a squirrel, a walrus, a beaver, a bear cub and even a leopard.",
+    71→            "The two Arabs who bring the otter in a sack are simple, helpful people who quietly fulfil the author's unspoken wish."
+    72→          ],
+    73→          "keyTerms": [
+    74→            { "term": "Mischievous", "meaning": "Playfully causing trouble or pranks, like Mijbil tearing the box lining and escaping." },
+    75→            { "term": "Mijbil", "meaning": "The pet otter, later identified by London Zoo zoologists as Maxell's otter, Lutrogale perspicillata maxwelli." },
+    76→            { "term": "Air hostess", "meaning": "The flight attendant whose kindness and humour turn an airborne crisis into a manageable episode." }
+    77→          ],
+    78→          "trick": "Three Ps: Maxwell is Patient, Mijbil is Playful, the air hostess is Polite.",
+    79→          "examPointer": "Character sketch of Mijbil and the air hostess's role are standard 2-3 and 5 markers; quote the pounding joke for effect."
+    80→        },
+    81→        {
+    82→          "heading": "Themes and Message",
+    83→          "points": [
+    84→            "The central theme is the deep bond between humans and animals; a pet can heal loneliness and bring joy into life.",
+    85→            "Animals are intelligent and emotional beings capable of friendship, play and mischief, and they deserve affection and patience.",
+    86→            "Unfamiliar creatures can fascinate and confuse people, as Londoners' absurd guesses about the otter show; knowledge about wildlife is limited.",
+    87→            "Keeping an unusual pet demands responsibility: providing water, exercise, a lead, and obeying laws such as the fear of a ten pound fine for a loose otter.",
+    88→            "The kindness of strangers, like the air hostess, can turn a crisis into a memorable and even humorous experience.",
+    89→            "Small pleasures, like an otter splashing in water or chasing a ping-pong ball, are enough to make life meaningful and happy."
+    90→          ],
+    91→          "keyTerms": [
+    92→            { "term": "Bonding", "meaning": "The close emotional tie that develops between the author and Mijbil through care and play." },
+    93→            { "term": "Companionship", "meaning": "The comfort of having a friend, here the otter who removes the author's loneliness after Jonnie's death." },
+    94→            { "term": "Responsibility", "meaning": "The care, discipline and legal duty involved in keeping a pet safe in a city like London." }
+    95→          ],
+    96→          "trick": "Lonely man plus loving animal equals healing; strange animal plus ignorant city equals comedy.",
+    97→          "examPointer": "Theme-based questions like the message of the chapter or how animals show intelligence appear as 2-3 markers every year."
+    98→        },
+    99→        {
+   100→          "heading": "Important Incidents",
+   101→          "points": [
+   102→            "Two Arabs bring the otter to Maxwell's hotel in a sack, and he names the creature Mijbil.",
+   103→            "Mijbil's first hours of indifference pass when he suddenly plunges into the bathtub, goes wild with joy, and plays with the tap like a swimmer.",
+   104→            "The British airline refuses to fly animals, so Maxwell books a flight to Paris and decides to continue to England by train.",
+   105→            "The airline insists on a tin box not more than eighteen inches square, and Mijbil violently resists being packed in it.",
+   106→            "Mid-flight Mijbil escapes, chases about the aircraft, lacerates the author's wrists, and covers him with blood, terrifying passengers.",
+   107→            "The air hostess calms everyone, helps the author, and finally Mijbil is recovered; they reach Paris and then England by train.",
+   108→            "On London streets, people stop and stare, asking what the creature is, and offer absurd guesses ranging from baby seal to leopard.",
+   109→            "Mijbil spends hours playing with ping-pong balls and marbles, inventing games, while the author fears a ten pound fine if the otter is found loose without the lead."
+   110→          ],
+   111→          "keyTerms": [
+   112→            { "term": "Lacerated", "meaning": "Cut or torn; Maxwell's hands and wrists were lacerated while catching the otter in the plane." },
+   113→            { "term": "Lead", "meaning": "A strap or chain by which a pet animal is walked, which Mijbil had to wear on London streets." },
+   114→            { "term": "Maxell's otter", "meaning": "The name given by London Zoo zoologists to Mijbil's species, previously unknown to science, found along the Tigris marshes." }
+   115→          ],
+   116→          "trick": "Six steps of Mij's journey: Sack, Tap, Tin, Plane, Lead, Ball.",
+   117→          "examPointer": "The aircraft chaos and the bathroom episode are the two most extracted passages; prepare their sequence and reactions carefully."
+   118→        },
+   119→        {
+   120→          "heading": "Value Points and Vocabulary",
+   121→          "points": [
+   122→            "A pet is not a possession but a companion; Maxwell's patience shows that love means accepting an animal's nature.",
+   123→            "Animals communicate affection in their own ways: Mijbil's growing friendliness shows trust earned through kindness.",
+   124→            "Ignorance should be met with curiosity and education, not mockery; the Londoners' questions reveal how little city people know of wildlife.",
+   125→            "Rules and safety matter even for joy: the lead, the tin box and the ten pound fine remind us that freedom must be balanced with care.",
+   126→            "Humour helps in crisis; the air hostess's light-hearted response defuses a frightening situation.",
+   127→            "Useful words: indifferent (unconcerned), lacerated (cut), gesticulating is not from this text but scuttled means ran quickly, walrus and beaver are sea and water animals, and quivering means trembling with emotion.",
+   128→            "Remember the figures: 1956 for the journey, eighteen inches square for the box, ten pounds for the feared fine."
+   129→          ],
+   130→          "keyTerms": [
+   131→            { "term": "Indifferent", "meaning": "Showing no interest or concern, as Mijbil behaved towards Maxwell in the first hours." },
+   132→            { "term": "Scuttled", "meaning": "Ran quickly with short steps, the way the otter moved about." },
+   133→            { "term": "Quivering", "meaning": "Trembling or shaking slightly, as Mijbil did with excitement or fright." }
+   134→          ],
+   135→          "trick": "Numbers to hold: 1956, eighteen inches square, ten pounds fine.",
+   136→          "examPointer": "Vocabulary-based MCQs pick words like indifferent, lacerated and quivering; match meanings with the context of the otter."
+   137→        }
+   138→      ],
+   139→      "mcqs": [
+   140→        {
+   141→          "question": "Who is the author of 'Mijbil the Otter'?",
+   142→          "options": ["James Herriot", "Gavin Maxwell", "Kenneth Anderson", "Ruskin Bond"],
+   143→          "answerIndex": 1,
+   144→          "explanation": "The chapter is written by Gavin Maxwell, a Scottish writer and naturalist who loved keeping animals.",
+   145→          "difficulty": "easy",
+   146→          "pyq": "CBSE 2023"
+   147→        },
+   148→        {
+   149→          "question": "The zoologists of London Zoo found that Mijbil belonged to a species previously unknown to science, found along the Tigris marshes. It was named",
+   150→          "options": ["Persian otter", "Maxell's otter", "Baghdad otter", "Marsh otter"],
+   151→          "answerIndex": 1,
+   152→          "explanation": "The zoologists named it Lutrogale perspicillata maxwelli, or Maxell's otter, after Gavin Maxwell himself.",
+   153→          "difficulty": "medium",
+   154→          "pyq": "CBSE 2020"
+   155→        },
+   156→        {
+   157→          "question": "Why did Gavin Maxwell decide to get an otter as a pet?",
+   158→          "options": [
+   159→            "Because otters were cheaper than dogs",
+   160→            "Because his friend suggested it after his dog Jonnie died",
+   161→            "Because he needed an otter for his research work",
+   162→            "Because the locals in Basra insisted that he take one"
+   163→          ],
+   164→          "answerIndex": 1,
+   165→          "explanation": "After the death of his dog Jonnie, Maxwell felt very lonely, and a friend suggested that Camusfearna, ringed by water, would be suitable for an otter.",
+   166→          "difficulty": "easy"
+   167→        },
+   168→        {
+   169→          "question": "How was the otter finally delivered to the author at Basra?",
+   170→          "options": [
+   171→            "He caught it himself in the Tigris marshes",
+   172→            "It was sent by the airline in a cage",
+   173→            "Two Arabs brought it to him in a sack",
+   174→            "It followed him from the marshes to his hotel"
+   175→          ],
+   176→          "answerIndex": 2,
+   177→          "explanation": "After days of waiting, two Arabs arrived and produced a terrified otter from a sack for the author.",
+   178→          "difficulty": "easy"
+   179→        },
+   180→        {
+   181→          "question": "What was Mijbil's reaction when he first saw the bathroom water?",
+   182→          "options": [
+   183→            "He trembled with fright and refused to enter",
+   184→            "He went wild with joy, plunging and rolling in the water and playing with the tap",
+   185→            "He only drank a little water and left",
+   186→            "He pushed the soap into the bathtub and ran away"
+   187→          ],
+   188→          "answerIndex": 1,
+   189→          "explanation": "Mijbil went wild with joy in the water, splashing and plunging like a swimmer, and even played with the tap, showing his passionate love for water.",
+   190→          "difficulty": "easy"
+   191→        },
+   192→        {
+   193→          "question": "Why did the author not take the direct British airline flight from Basra to England with Mijbil?",
+   194→          "options": [
+   195→            "The flight was cancelled due to bad weather",
+   196→            "The airline refused to carry animals",
+   197→            "The tickets were fully booked for a week",
+   198→            "Mijbil had bitten a member of the airline staff"
+   199→          ],
+   200→          "answerIndex": 1,
+   201→          "explanation": "The British airline to London would not fly animals, so the author booked a flight to Paris on another airline that carried them, and planned to go to England by train.",
+   202→          "difficulty": "easy",
+   203→          "pyq": "CBSE 2019"
+   204→        },
+   205→        {
+   206→          "question": "What did the airline insist upon for carrying Mijbil on the flight?",
+   207→          "options": [
+   208→            "That he be muzzled like a dog",
+   209→            "That he be drugged for the journey",
+   210→            "That he be packed in a box not more than eighteen inches square",
+   211→            "That he be tied to the author's seat with a lead"
+   212→          ],
+   213→          "answerIndex": 2,
+   214→          "explanation": "The airline insisted that the otter be packed into a box not more than eighteen inches square, to be placed on the floor near the author's feet.",
+   215→          "difficulty": "medium"
+   216→        },
+   217→        {
+   218→          "question": "What did the author find when he returned to his seat after washing away the blood in the aircraft?",
+   219→          "options": [
+   220→            "Mijbil was quietly sleeping inside the tin box",
+   221→            "The box was empty and Mijbil had escaped",
+   222→            "The air hostess was holding Mijbil on her knee",
+   223→            "The passengers had thrown the box out of the window"
+   224→          ],
+   225→          "answerIndex": 1,
+   226→          "explanation": "When the author returned, the box was open and Mijbil had escaped, which soon threw the entire aircraft into chaos.",
+   227→          "difficulty": "easy"
+   228→        },
+   229→        {
+   230→          "question": "How did the air hostess behave during the mid-air crisis with Mijbil?",
+   231→          "options": [
+   232→            "She was angry and asked the author to control his animal",
+   233→            "She was calm, cooperative and helpful, and joked that she would like to be pounded in the same way",
+   234→            "She fainted at the sight of blood",
+   235→            "She ordered the author to get off the plane at the next stop"
+   236→          ],
+   237→          "answerIndex": 1,
+   238→          "explanation": "The air hostess remained friendly and cooperative, helped the author handle the otter, and joked that she would like to be pounded in the same way.",
+   239→          "difficulty": "medium"
+   240→        },
+   241→        {
+   242→          "question": "Which of the following was NOT one of the guesses made by Londoners about Mijbil?",
+   243→          "options": ["A baby seal", "A squirrel", "A badger", "A leopard"],
+   244→          "answerIndex": 2,
+   245→          "explanation": "Londoners guessed Mijbil was a baby seal, a squirrel, a walrus, a beaver, a bear cub and a leopard; a badger was never mentioned.",
+   246→          "difficulty": "medium"
+   247→        },
+   248→        {
+   249→          "question": "What was Mijbil's favourite game in London?",
+   250→          "options": [
+   251→            "Chasing pigeons in the park",
+   252→            "Playing with ping-pong balls and marbles",
+   253→            "Swimming in the River Thames",
+   254→            "Tearing newspapers into strips"
+   255→          ],
+   256→          "answerIndex": 1,
+   257→          "explanation": "Mijbil spent hours playing with ping-pong balls and marbles, inventing games of his own, along with rubber fruit and a terrapin shell.",
+   258→          "difficulty": "easy"
+   259→        },
+   260→        {
+   261→          "question": "Why did the author fear a ten pound fine while walking Mijbil in London?",
+   262→          "options": [
+   263→            "Because he had no licence for the otter",
+   264→            "Because otters were not allowed in public parks",
+   265→            "Because Mijbil might be found loose in the streets off the lead",
+   266→            "Because the otter damaged public property daily"
+   267→          ],
+   268→          "answerIndex": 2,
+   269→          "explanation": "Mijbil had to be exercised and taken across streets on a lead; the author feared that if the otter was found loose he would be fined ten pounds.",
+   270→          "difficulty": "medium",
+   271→          "pyq": "CBSE 2024"
+   272→        }
+   273→      ],
+   274→      "boardQuestions": [
+   275→        {
+   276→          "question": "Why did Gavin Maxwell decide to keep an otter as a pet? How did he obtain Mijbil?",
+   277→          "marks": 3,
+   278→          "type": "SA",
+   279→          "probability": "very-high",
+   280→          "answer": "1) Maxwell lived at Camusfearna in Scotland, ringed by water, and when his pet dog Jonnie died he felt so lonely that life became empty for him. 2) Since Camusfearna was suitable for an otter, a friend suggested that instead of another dog he should get an otter, and Maxwell was attracted by the idea. 3) Otters were rare and hard to obtain in Scotland, so in 1956 he travelled to Basra in Iraq, from where he planned to get one from the Tigris marshes. 4) When his waiting produced no result, two Arabs suddenly brought him a young otter in a sack; he named it Mijbil, and it soon grew into a friendly, water-loving companion."
+   281→        },
+   282→        {
+   283→          "question": "Why did the author have to travel to England via Paris? What route did he finally take?",
+   284→          "marks": 2,
+   285→          "type": "SA",
+   286→          "probability": "high",
+   287→          "answer": "1) When it was time to leave Basra, the British airline to London refused to fly animals, so Maxwell could not take Mijbil on a direct flight to England. 2) He therefore booked a flight to Paris on a different airline that agreed to carry animals, provided the otter was packed in a box not more than eighteen inches square, and from Paris he took the train to England with Mijbil."
+   288→        },
+   289→        {
+   290→          "question": "Describe the chaos that Mijbil caused in the aircraft and the role played by the air hostess.",
+   291→          "marks": 5,
+   292→          "type": "LA",
+   293→          "probability": "very-high",
+   294→          "answer": "1) Mijbil had to be packed in a tin box not more than eighteen inches square, and he furiously resisted, tearing the metal lining of the box. 2) Mid-air, while the author had gone to wash the blood from his lacerated hands, the box was left open and Mijbil escaped. 3) The otter chased about the aircraft, frightening passengers, while the author, covered in blood, scrambled to catch him; his hands and wrists were cut and his clothes bloodstained. 4) The air hostess proved kind and cooperative; instead of complaining, she helped the author manage the otter, calmed the situation and joked that she would like to be pounded in the same way. 5) Finally Mijbil was recovered and the flight continued safely; the author reached Paris and travelled on to England by train, the whole episode turning into a memorable comic adventure."
+   295→        },
+   296→        {
+   297→          "question": "Describe Mijbil's life in London: his games, his walks and the people's reactions to him.",
+   298→          "marks": 5,
+   299→          "type": "LA",
+   300→          "probability": "high",
+   301→          "answer": "1) In London Mijbil had to be exercised twice daily, and he was taken out on a lead across the streets to a fenced piece of ground, for a loose otter could bring the author a ten pound fine. 2) Londoners were astonished to see the strange creature; they stopped and asked what it was supposed to be. 3) Their guesses were wildly wrong: some called him a baby seal, others a squirrel, a walrus, a beaver, a bear cub and even a leopard, showing how little city people knew of otters. 4) At home Mijbil invented games for himself; his favourites were ping-pong balls and marbles, and he also played with rubber fruit and a terrapin shell, spending hours in energetic play. 5) His high spirits, intelligence and love of games show how happy and contented he was, and the author's affection turned the little otter into a beloved companion rather than a mere pet."
+   302→        },
+   303→        {
+   304→          "question": "Read the extract and answer the questions: The airline insisted that Mijbil be packed into a box not more than eighteen inches square, to be carried on the floor near my feet. I found a tin box and put him in it, but Mijbil furiously tore the metal lining and escaped mid-air. I was left covered in blood, and when I returned from washing, the box was open and the otter was gone. (a) Why was Mijbil to be packed in a box during the flight? (b) What happened while the author was away from his seat? (c) Who came to the author's help and how did the crisis end?",
+   305→          "marks": 4,
+   306→          "type": "CASE",
+   307→          "probability": "high",
+   308→          "answer": "(a) Since the airline agreed to carry animals only under strict conditions, Mijbil had to be packed in a tin box not more than eighteen inches square, placed on the floor near the author's feet, so that he could not disturb the aircraft. (b) While the author had gone to wash the blood from his lacerated hands and wrists, Mijbil escaped from the open box and ran loose in the aircraft, creating panic among the passengers. (c) The kind air hostess helped the author handle the situation and joked that she would like to be pounded in the same way; Mijbil was finally recovered, the flight continued safely, and the author reached Paris and went on to England by train."
+   309→        },
+   310→        {
+   311→          "question": "Read the extract and answer the questions: Taking Mijbil for exercise in London was a problem, for he had to be taken across the streets on a lead. Londoners stopped and stared, asking what the creature was. One suggested a baby seal, another a squirrel, a third a walrus, and still others a beaver, a bear cub and a leopard. At home he played for hours with ping-pong balls and marbles. (a) Why was the author afraid of a ten pound fine? (b) What do the Londoners' guesses reveal about them? (c) What does Mijbil's play with ping-pong balls tell us about him?",
+   312→          "marks": 5,
+   313→          "type": "CASE",
+   314→          "probability": "medium",
+   315→          "answer": "(a) The author feared that if Mijbil escaped and was found loose in the streets without the lead, he would be fined ten pounds; hence the otter had to be kept under control while being taken for exercise. (b) The guesses reveal the ignorance of city people about wild animals; not one of them could identify an otter, and they offered absurd suggestions like a baby seal, a squirrel, a walrus, a beaver, a bear cub and a leopard. (c) His play with ping-pong balls and marbles shows that Mijbil was playful, inventive and highly intelligent; he could create his own games and remained happy and energetic even in a strange urban environment."
+   316→        }
+   317→      ]
+   318→    },
+   319→    {
+   320→      "number": 7,
+   321→      "title": "Madam Rides the Bus",
+   322→      "summary": "Valliammai, called Valli, is an eight-year-old girl with no playmates of her own age, whose favourite pastime is watching the street from her front door. Her strongest desire is to ride the bus that travels between her village and the nearest town, and she carefully gathers information about the journey, saving every coin with great self-control. One afternoon she secretly boards the bus, enjoys the six-mile ride as the conductor playfully calls her madam, laughs at a galloping young cow, but on her return journey sees the same cow lying dead, which fills her with sadness and gives her a first glimpse of the reality of life and death.",
+   323→      "weightageMarks": 20,
+   324→      "difficulty": "easy",
+   325→      "hotTopics": [
+   326→        "Valli's burning desire to ride the bus",
+   327→        "Careful planning and saving of thirty paise",
+   328→        "The conductor's jokes and the name madam",
+   329→        "Valli's maturity and self-respect beyond her years",
+   330→        "The young cow: laughter on the way, grief on return",
+   331→        "First encounter with the mystery of life and death"
+   332→      ],
+   333→      "sections": [
+   334→        {
+   335→          "heading": "About the Author",
+   336→          "points": [
+   337→            "The story 'Madam Rides the Bus' was written by Vallikkannan, a noted Tamil writer and journalist.",
+   338→            "Vallikkannan was the pen name of a Tamil author celebrated for his short stories and critical writings on modern Tamil poetry.",
+   339→            "He received the Sahitya Akademi Award for his study of the growth of modern Tamil poetry.",
+   340→            "His stories are known for their realistic portrayal of ordinary people, especially children, and their inner worlds.",
+   341→            "The present story was originally written in Tamil and is available in English translation in the NCERT textbook.",
+   342→            "In this story the author enters the mind of an eight-year-old girl and presents her curiosity, discipline and dignity with gentle humour."
+   343→          ],
+   344→          "keyTerms": [
+   345→            { "term": "Vallikkannan", "meaning": "The Tamil writer and journalist who authored Madam Rides the Bus and won the Sahitya Akademi Award." },
+   346→            { "term": "Pen name", "meaning": "A name used by a writer instead of his real name; Vallikkannan is such a pen name." },
+   347→            { "term": "Sahitya Akademi Award", "meaning": "A major Indian literary award given for outstanding writing in Indian languages." }
+   348→          ],
+   349→          "trick": "Vallikkannan writes about Valliammai: the Tamil writer who won the Sahitya Akademi Award tells a child's bus story.",
+   350→          "examPointer": "Author-based MCQs are rare but possible; focus more on Valli's character and the cow episodes which are exam favourites."
+   351→        },
+   352→        {
+   353→          "heading": "Plot Overview",
+   354→          "points": [
+   355→            "Valliammai, known as Valli, is eight years old and has no playmates of her own age, so her favourite pastime is standing at her front door watching the street.",
+   356→            "The sight of a bus full of new passengers fills her with longing, and her strongest wish becomes riding that bus between her village and the town.",
+   357→            "She listens carefully to neighbours' conversations and asks discreet questions, learning that the town is six miles away, the fare is thirty paise one way, and the journey takes forty-five minutes.",
+   358→            "She plans to take the one o'clock afternoon bus, see the town from the bus window, and return by the same bus on the same ticket, saving every coin by resisting temptations like peppermints, toys, balloons and the merry-go-round.",
+   359→            "One fine spring afternoon she slips out while her aunt naps, boards the bus alone and pays her fare like any grown-up traveller.",
+   360→            "The jolly conductor jokes with her, addressing her as madam, while she stands on her seat to drink in the sights of canals, palm trees, mountains and green fields.",
+   361→            "A young cow galloping wildly in front of the bus makes Valli laugh until tears come, and she returns home content, though on the way back the same cow lies dead by the roadside.",
+   362→            "The sight of the dead cow haunts her and spoils her joy, and at home she quietly slips away, remarking to her aunt that she can take care of herself."
+   363→          ],
+   364→          "keyTerms": [
+   365→            { "term": "Fare", "meaning": "The money paid for a journey; Valli's fare was thirty paise each way for the six-mile ride." },
+   366→            { "term": "Conductor", "meaning": "The official on the bus who sells tickets and looks after passengers; here a jolly, teasing man." },
+   367→            { "term": "Merry-go-round", "meaning": "A rotating fair ride that Valli refused to enjoy in order to save money for her bus fare." }
+   368→          ],
+   369→          "trick": "Numbers: eight years old, six miles, thirty paise, forty-five minutes, one o'clock bus.",
+   370→          "examPointer": "MCQs on the fare, distance, duration and Valli's savings are asked almost every year; learn all four figures by heart."
+   371→        },
+   372→        {
+   373→          "heading": "Character Sketches",
+   374→          "points": [
+   375→            "Valli is a curious and determined girl whose keen desire to ride the bus drives every action of the story.",
+   376→            "She is a careful planner: she gathers exact details of fare, distance and time, and chooses the hour when her mother naps.",
+   377→            "She is disciplined and self-controlled, suppressing her longing for peppermints, toys, balloons and the merry-go-round to save the fare.",
+   378→            "She has strong self-respect and pride; she refuses to be laughed at, insists on paying her fare, and says she can take care of herself.",
+   379→            "She is also sensitive; the sight of the dead cow fills her with sadness and shows her capacity for deep feeling.",
+   380→            "The conductor is jolly and playful; he teases Valli politely by calling her madam, yet looks after her kindly like an affectionate elderly person.",
+   381→            "The elderly woman on the bus is kind but unattractive to Valli, with big holes in her ear lobes and betel juice about her lips, and Valli curtly refuses to talk with her."
+   382→          ],
+   383→          "keyTerms": [
+   384→            { "term": "Valliammai", "meaning": "Valli's full name; she was called Valli for short, and the conductor mock-respectfully called her madam." },
+   385→            { "term": "Self-control", "meaning": "Valli's power to resist every temptation so that not a single coin was wasted from her savings." },
+   386→            { "term": "Jolly", "meaning": "Cheerful and full of fun, the nature of the conductor who made Valli's ride lively." }
+   387→          ],
+   388→          "trick": "Valli's traits: Curious, Careful, Controlled, Confident, Compassionate: five Cs of an eight-year-old.",
+   389→          "examPointer": "Character sketch of Valli is the most repeated 5 marker; pair her intelligence and planning with her sensitivity at the sight of the dead cow."
+   390→        },
+   391→        {
+   392→          "heading": "Themes and Message",
+   393→          "points": [
+   394→            "The central theme is a child's curiosity and her longing to explore the world beyond her small village.",
+   395→            "The story celebrates careful planning and self-discipline; a dream, however small, needs preparation and sacrifice to come true.",
+   396→            "It highlights the dignity and self-respect of a child who wants to be treated as an equal, not patronised or laughed at.",
+   397→            "The young cow, first galloping joyfully and then lying dead, introduces the theme of the transience of life and the certainty of death.",
+   398→            "The story suggests that experience teaches what books cannot: Valli returns from her joyful ride touched by sorrow and wiser about life.",
+   399→            "It also shows a child's independence and courage in venturing into the outside world alone, yet within safe and planned limits."
+   400→          ],
+   401→          "keyTerms": [
+   402→            { "term": "Transience of life", "meaning": "The idea that life and joy are short-lived, symbolised by the cow alive on the way and dead on the return." },
+   403→            { "term": "Curiosity", "meaning": "The eager desire to learn and experience new things, which is Valli's defining quality." },
+   404→            { "term": "Independence", "meaning": "The ability to do something on one's own; Valli plans and completes her journey without anyone's help." }
+   405→          ],
+   406→          "trick": "Laughter out, grief back: the cow turns a joyride into a lesson on life and death.",
+   407→          "examPointer": "Why did Valli stop looking out of the window on her return? is a repeated 2-3 marker; link the answer to the dead cow and her changed feelings."
+   408→        },
+   409→        {
+   410→          "heading": "Important Incidents",
+   411→          "points": [
+   412→            "Valli watches the bus pass her street each hour, and a new kind of longing grows in her to ride it.",
+   413→            "She collects information secretly by listening to neighbours and asking careful questions without arousing suspicion.",
+   414→            "She saves every paisa, resisting the temptations of peppermints, toys, balloons and even the merry-go-round at the village fair.",
+   415→            "One spring afternoon, while her aunt naps, she boards the one o'clock bus and confidently pays her thirty paise fare.",
+   416→            "She stands on her seat to look out, and the conductor's playful remark leads to his calling her madam throughout the journey.",
+   417→            "A young cow galloping wildly in the middle of the road, frightened by the bus horn, makes Valli laugh until tears stream down her cheeks.",
+   418→            "In town she only looks from the bus window, refuses the conductor's offer of a cold drink, and returns by the same bus on the same ticket.",
+   419→            "On the return journey the same young cow lies dead by the roadside, and the memory haunts Valli, so she no longer looks out of the window."
+   420→          ],
+   421→          "keyTerms": [
+   422→            { "term": "Haunting memory", "meaning": "The recurring image of the dead cow that spoils Valli's joy on the journey home." },
+   423→            { "term": "Galloping", "meaning": "Running fast with long strides, the way the young cow ran in front of the bus." },
+   424→            { "term": "Discreet questions", "meaning": "Careful questions asked without revealing her plan, so that nobody learnt of her desire." }
+   425→          ],
+   426→          "trick": "Watch, learn, save, ride, laugh, grieve, return: the seven steps of Valli's adventure.",
+   427→          "examPointer": "The two cow incidents and the conductor's behaviour are the most extracted passages; be ready to compare joy and sorrow in them."
+   428→        },
+   429→        {
+   430→          "heading": "Value Points and Vocabulary",
+   431→          "points": [
+   432→            "Small dreams reveal great character: Valli's wish for a bus ride shows her longing for freedom and the wider world.",
+   433→            "True satisfaction comes from one's own effort; Valli enjoys the ride because she has earned it by saving and planning.",
+   434→            "Self-respect does not depend on age: an eight-year-old can demand and deserve courteous treatment.",
+   435→            "Life mixes joy and sorrow: the same world that offered her laughing cows also shows her death, and maturity means accepting both.",
+   436→            "Kindness with humour, like the conductor's, can make a stranger comfortable without hurting her pride.",
+   437→            "Useful words: eavesdropped means listened secretly, suppressed means held back feelings, curtly means briefly and rudely, elated means overjoyed, and slacked or slowed shows the bus losing speed.",
+   438→            "Remember the pair: thirty paise to go, thirty paise to return, one ticket and one unforgettable lesson."
+   439→          ],
+   440→          "keyTerms": [
+   441→            { "term": "Eavesdropped", "meaning": "Listened secretly to others' conversations; Valli learnt bus details by carefully eavesdropping on neighbours." },
+   442→            { "term": "Suppressed", "meaning": "Held back or restrained, as Valli suppressed her longing for small pleasures to save money." },
+   443→            { "term": "Elated", "meaning": "Extremely happy and proud, Valli's feeling as she rode the bus like a grown-up." }
+   444→          ],
+   445→          "trick": "Save the paise, suppress the wish, see the world, sense the sorrow.",
+   446→          "examPointer": "Vocabulary MCQs pick words like suppressed, eavesdropped and curtly; match each with Valli's situation in the story."
+   447→        }
+   448→      ],
+   449→      "mcqs": [
+   450→        {
+   451→          "question": "What was Valliammai's nick name?",
+   452→          "options": ["Valli", "Amma", "Mai", "Liamma"],
+   453→          "answerIndex": 0,
+   454→          "explanation": "Valliammai's full name was shortened to Valli, the name used for her throughout the story.",
+   455→          "difficulty": "easy",
+   456→          "pyq": "CBSE 2020"
+   457→        },
+   458→        {
+   459→          "question": "How old was Valli?",
+   460→          "options": ["Six years", "Seven years", "Eight years", "Nine years"],
+   461→          "answerIndex": 2,
+   462→          "explanation": "Valli was just eight years old, yet she planned and executed her bus journey with adult-like maturity.",
+   463→          "difficulty": "easy",
+   464→          "pyq": "CBSE 2023"
+   465→        },
+   466→        {
+   467→          "question": "What was Valli's favourite pastime?",
+   468→          "options": [
+   469→            "Playing with friends of her age",
+   470→            "Standing at her front door and watching the street",
+   471→            "Reading storybooks in her room",
+   472→            "Helping her mother with household work"
+   473→          ],
+   474→          "answerIndex": 1,
+   475→          "explanation": "Valli had no playmates of her own age, so her favourite pastime was standing at her front door, watching what happened in the street outside.",
+   476→          "difficulty": "easy"
+   477→        },
+   478→        {
+   479→          "question": "How far was the town from Valli's village and what was the one-way fare?",
+   480→          "options": [
+   481→            "Three miles, fifteen paise",
+   482→            "Six miles, thirty paise",
+   483→            "Six miles, forty-five paise",
+   484→            "Ten miles, thirty paise"
+   485→          ],
+   486→          "answerIndex": 1,
+   487→          "explanation": "The town was six miles from her village, the fare was thirty paise one way, and the trip took forty-five minutes.",
+   488→          "difficulty": "easy",
+   489→          "pyq": "CBSE 2019"
+   490→        },
+   491→        {
+   492→          "question": "How long did the bus take to cover the distance between the village and the town?",
+   493→          "options": ["Thirty minutes", "Forty minutes", "Forty-five minutes", "One hour"],
+   494→          "answerIndex": 2,
+   495→          "explanation": "Valli learnt by careful questioning that the trip to town took forty-five minutes each way.",
+   496→          "difficulty": "easy"
+   497→        },
+   498→        {
+   499→          "question": "How did Valli gather information about the bus journey?",
+   500→          "options": [
+   501→            "By asking the bus conductor directly",
+   502→            "By reading a timetable pasted at the fair",
+   503→            "By listening carefully to conversations of neighbours and asking discreet questions",
+   504→            "By travelling with her aunt once to learn everything"
+   505→          ],
+   506→          "answerIndex": 2,
+   507→          "explanation": "Valli picked up details by eavesdropping on her neighbours' conversations and asking a few careful questions here and there.",
+   508→          "difficulty": "medium"
+   509→        },
+   510→        {
+   511→          "question": "Which of these temptations did Valli NOT resist while saving money?",
+   512→          "options": ["Peppermints", "Balloons", "The merry-go-round ride", "All of these she resisted"],
+   513→          "answerIndex": 3,
+   514→          "explanation": "Valli resolutely resisted every temptation: peppermints, toys, balloons and the ride on the merry-go-round, so that not a paisa was wasted.",
+   515→          "difficulty": "easy"
+   516→        },
+   517→        {
+   518→          "question": "Why did the conductor address Valli as madam?",
+   519→          "options": [
+   520→            "Because she was dressed like a rich lady",
+   521→            "Because she behaved like a grown-up and he was playfully giving her that respect",
+   522→            "Because he had been instructed by her parents",
+   523→            "Because madam was her actual name"
+   524→          ],
+   525→          "answerIndex": 1,
+   526→          "explanation": "The jolly conductor saw how confidently Valli behaved like a grown-up, so he teasingly and politely called her madam throughout the journey.",
+   527→          "difficulty": "easy",
+   528→          "pyq": "CBSE 2019"
+   529→        },
+   530→        {
+   531→          "question": "What made Valli laugh till tears came into her eyes on the outward journey?",
+   532→          "options": [
+   533→            "The conductor's jokes",
+   534→            "A young cow galloping wildly in front of the bus, frightened by its horn",
+   535→            "The sight of the mountains and green fields",
+   536→            "An old man's strange hat"
+   537→          ],
+   538→          "answerIndex": 1,
+   539→          "explanation": "A young cow, frightened by the honking of the bus, ran wildly in front of it, and the sight made Valli laugh until there were tears in her eyes.",
+   540→          "difficulty": "easy"
+   541→        },
+   542→        {
+   543→          "question": "What was Valli's reaction on seeing the same cow on the return journey?",
+   544→          "options": [
+   545→            "She laughed again at the cow",
+   546→            "She was overjoyed to see it once more",
+   547→            "She was overcome with sadness, for the cow lay dead by the roadside",
+   548→            "She asked the conductor to stop the bus"
+   549→          ],
+   550→          "answerIndex": 2,
+   551→          "explanation": "On the return journey the same young cow was lying dead by the roadside; the memory haunted Valli and the sight filled her with sadness.",
+   552→          "difficulty": "medium",
+   553→          "pyq": "CBSE 2023"
+   554→        },
+   555→        {
+   556→          "question": "Why did Valli refuse to look out of the window on her journey back home?",
+   557→          "options": [
+   558→            "It had grown completely dark outside",
+   559→            "The sight of the dead cow haunted her and spoilt her enthusiasm",
+   560→            "She was tired and wanted to sleep",
+   561→            "The conductor asked her to keep the window shut"
+   562→          ],
+   563→          "answerIndex": 1,
+   564→          "explanation": "The memory of the dead cow haunted Valli, so she no longer wanted to look out of the window; the joy of the ride had been spoilt.",
+   565→          "difficulty": "medium",
+   566→          "pyq": "CBSE 2024"
+   567→        },
+   568→        {
+   569→          "question": "What did Valli say when she reached home and her aunt remarked on her outings?",
+   570→          "options": [
+   571→            "She promised never to go out alone again",
+   572→            "She replied that she could take care of herself",
+   573→            "She told her aunt about the whole bus ride",
+   574→            "She started crying and asked for company"
+   575→          ],
+   576→          "answerIndex": 1,
+   577→          "explanation": "Valli replied with confidence that she could take care of herself, showing her self-respect and independence; her aunt called her just a chip off the old block.",
+   578→          "difficulty": "medium",
+   579→          "pyq": "CBSE 2022"
+   580→        }
+   581→      ],
+   582→      "boardQuestions": [
+   583→        {
+   584→          "question": "How did Valli gather information about the bus journey and arrange money for it?",
+   585→          "marks": 3,
+   586→          "type": "SA",
+   587→          "probability": "very-high",
+   588→          "answer": "1) Valli listened carefully to conversations between her neighbours and others who regularly used the bus, and asked a few discreet questions here and there so that nobody suspected her plan. 2) In this way she learnt that the town was six miles away, the fare was thirty paise one way, and the journey took forty-five minutes; she also decided to return by the same bus on the same ticket. 3) She had painstakingly saved every coin she received, resisting the temptations of peppermints, toys, balloons and even the ride on the merry-go-round at the village fair, so that she had exactly sixty paise for the double trip."
+   589→        },
+   590→        {
+   591→          "question": "Why did the conductor call Valli madam? What does his behaviour tell about him?",
+   592→          "marks": 2,
+   593→          "type": "SA",
+   594→          "probability": "high",
+   595→          "answer": "1) Valli behaved with the confidence of a grown-up: she paid her fare proudly, refused help and insisted on being treated as an equal, so the jolly conductor playfully addressed her as madam throughout the journey. 2) His behaviour shows that he was kind-hearted and fond of children; he teased her gently without ever hurting her self-respect, watched over her like an affectionate elderly person, and even offered her a cold drink."
+   596→        },
+   597→        {
+   598→          "question": "Give a character sketch of Valli in about 120 words.",
+   599→          "marks": 5,
+   600→          "type": "LA",
+   601→          "probability": "very-high",
+   602→          "answer": "1) Valli, an eight-year-old girl, is curious and adventurous; with no playmates of her age, she watches the street for hours and develops a strong desire to ride the bus to town. 2) She is a careful planner and an intelligent learner: by listening to neighbours and asking discreet questions she learns the fare, distance and duration of the trip, and chooses the safest hour to travel alone. 3) She is disciplined and self-controlled, resisting the temptations of peppermints, toys, balloons and the merry-go-round to save sixty paise for the double journey. 4) She has great self-respect; she refuses to be laughed at, pays her fare proudly and declares that she can take care of herself. 5) Above all she is sensitive and capable of growth: the sight of the galloping cow delights her, but the same cow lying dead on the return journey fills her with grief, giving her a first understanding of the sorrow that life also holds."
+   603→        },
+   604→        {
+   605→          "question": "Describe the two encounters with the young cow and explain how they changed Valli's feelings.",
+   606→          "marks": 5,
+   607→          "type": "LA",
+   608→          "probability": "high",
+   609→          "answer": "1) On the way to town, a young cow, frightened by the horn of the bus, came galloping wildly right in front of it; Valli was overwhelmed with laughter until tears streamed from her eyes, and she clapped her hands in delight. 2) On the return journey, Valli saw the same young cow lying dead by the roadside where it had been struck by some fast-moving vehicle. 3) The sight filled her with sadness; the memory of the dead cow haunted her, and she no longer wanted to look out of the window. 4) The contrast shows the change in Valli: from innocent, unthinking laughter she moved to a quiet awareness of pain and death. 5) Thus the two incidents together mark her passage from childhood joy towards a mature understanding that life is beautiful but also fleeting, and that sorrow and death are woven into it."
+   610→        },
+   611→        {
+   612→          "question": "Read the extract and answer the questions: The most fascinating thing of all was the bus that travelled between her village and the nearest town. It went on and on, and the sight of the bus, filled with new passengers, was a source of unending joy for Valli. Day after day she watched the bus, and gradually a tiny wish crept into her head and grew there. (a) What was Valli's tiny wish? (b) How did she prepare for it? (c) What qualities of Valli are revealed by her preparation?",
+   613→          "marks": 4,
+   614→          "type": "CASE",
+   615→          "probability": "high",
+   616→          "answer": "(a) Valli's tiny wish, which grew stronger day by day, was to ride on that bus between her village and the nearest town and experience the journey herself. (b) She prepared secretly and thoroughly: she listened to neighbours' conversations and asked careful questions to learn that the town was six miles away, the fare thirty paise one way and the trip forty-five minutes; then she saved every coin by resisting temptations like peppermints, toys, balloons and the merry-go-round, till she had enough for the return fare. (c) Her preparation reveals her curiosity, careful planning, discipline, self-control and quiet determination; she was mature far beyond her eight years and wanted to achieve her desire entirely on her own."
+   617→        },
+   618→        {
+   619→          "question": "Read the extract and answer the questions: Just outside the city gate the young cow was lying dead by the roadside, where it had been struck by some fast-moving vehicle. It was the same cow that had been galloping so wildly in front of the bus. Valli, who had laughed so hard, sank back into her seat, and the memory of the dead cow haunted her. She no longer wanted to look out of the window. (a) What had been Valli's reaction to the same cow on the outward journey? (b) Why did the sight of the dead cow haunt her? (c) What does the change in her feelings signify?",
+   620→          "marks": 5,
+   621→          "type": "CASE",
+   622→          "probability": "medium",
+   623→          "answer": "(a) On the outward journey the young cow, frightened by the honking of the bus, had run wildly in front of it, and Valli had laughed till there were tears in her eyes, clapping her hands in sheer delight. (b) The sight haunted her because the same joyful animal now lay dead by the roadside; the contrast between the galloping, living cow and its lifeless body confronted her with pain and death for the first time, and her gaiety turned to overwhelming sadness. (c) The change signifies Valli's growth: the joyride that began as pure fun ended in a sober lesson about the transience of life. It shows that experience teaches children truths that words cannot, and that maturity begins when one accepts that life holds both laughter and grief."
+   624→        }
+   625→      ]
+   626→    },
+   627→    {
+   628→      "number": 8,
+   629→      "title": "The Sermon at Benares",
+   630→      "summary": "The chapter recounts the life of Gautama Buddha, born Siddhartha Gautama, a prince of northern India who left his sheltered royal life after seeing human suffering and attained enlightenment under a peepal tree. It then tells the moving story of Kisa Gotami, whose only son had died and who went from house to house seeking medicine to revive him. Buddha asks her to bring a handful of mustard seeds from a house where no one has ever died, and her fruitless search makes her realise that death is inevitable and common to all. Buddha's sermon at Benares teaches that the life of mortals is troubled and brief, that grief cannot bring back the dead, and that wisdom, not sorrow, brings peace.",
+   631→      "weightageMarks": 20,
+   632→      "difficulty": "easy",
+   633→      "hotTopics": [
+   634→        "Siddhartha Gautama's renunciation and enlightenment",
+   635→        "Kisa Gotami's grief and search for medicine",
+   636→        "The mustard seed condition of the Buddha",
+   637→        "Similes: ripe fruits and earthen vessels",
+   638→        "The world afflicted with death",
+   639→        "Wisdom versus sorrow: the message of the sermon"
+   640→      ],
+   641→      "sections": [
+   642→        {
+   643→          "heading": "About the Author and Background",
+   644→          "points": [
+   645→            "The text is adapted from Betty Renshaw's book Values and Voices: An Elementary Course in Spiritual Education.",
+   646→            "Gautama Buddha began life as Siddhartha Gautama, a prince in a royal family of northern India, shielded from all sight of suffering.",
+   647→            "At the age of twenty-five he went out to see the world and encountered a sick man, an aged man, a funeral procession with a corpse, and finally a monk begging for alms.",
+   648→            "These sights of sickness, old age, death and serenity moved him so deeply that he left home to seek the truth of life.",
+   649→            "He wandered for seven years in search of enlightenment and finally sat under a peepal tree, now called the Bodhi tree, where he attained wisdom.",
+   650→            "He came to be known as the Buddha, the Awakened One or the Enlightened One, and spread his message of peace and detachment.",
+   651→            "He delivered his first sermon at Benares, on the bank of the Ganga, regarded as the most holy dwelling place of the Hindu gods.",
+   652→            "Buddha's teaching emphasised that sorrow arises from attachment and that peace comes through wisdom and freedom from selfish craving."
+   653→          ],
+   654→          "keyTerms": [
+   655→            { "term": "Siddhartha Gautama", "meaning": "The birth name of Gautama Buddha, a prince who renounced royal luxury to seek the truth of life." },
+   656→            { "term": "Enlightenment", "meaning": "The awakening to complete wisdom and understanding of life and death, attained by Buddha under the Bodhi tree." },
+   657→            { "term": "Sermon", "meaning": "A religious and moral speech; Buddha's first sermon was delivered at Benares on the bank of the Ganga." }
+   658→          ],
+   659→          "trick": "Four sights, seven years, one tree: sick man, old man, corpse, monk; seven years of wandering; Bodhi tree enlightenment.",
+   660→          "examPointer": "MCQs on Buddha's early life, the four sights, the number of years and the meaning of the word Buddha are asked repeatedly."
+   661→        },
+   662→        {
+   663→          "heading": "Plot Overview",
+   664→          "points": [
+   665→            "Kisa Gotami, a young woman whose only son had died, carried his body from house to house asking for medicine to bring him back to life.",
+   666→            "The people thought she had lost her senses, and one man directed her to Gautama Buddha, the Sakyamuni, saying that only he could give such medicine.",
+   667→            "Kisa Gotami begged Buddha to restore her child, and he promised to do so if she brought him a handful of mustard seeds.",
+   668→            "The condition was that the seeds must come from a house where no one had ever lost a child, husband, parent or friend.",
+   669→            "Hope renewed, she went from house to house, but every house had known death, and she could not find a single mustard seed of the required kind.",
+   670→            "Weary and hopeless, she sat by the wayside watching the lights of the city flicker up and die, and realised how selfish her grief was, for death was common to all.",
+   671→            "She returned to Buddha, and he preached a sermon declaring that the life of mortals is troubled and brief and combined with pain.",
+   672→            "Using the similes of ripe fruits and earthen vessels, he taught that death is certain for all who are born, that lamentation brings no peace, and that only the wise, who do not grieve, find tranquillity."
+   673→          ],
+   674→          "keyTerms": [
+   675→            { "term": "Kisa Gotami", "meaning": "The grief-stricken mother whose only son died and whose search for mustard seeds taught her the truth about death." },
+   676→            { "term": "Mustard seeds", "meaning": "Tiny seeds that Buddha asked Kisa Gotami to fetch from a house where death had never occurred." },
+   677→            { "term": "Sakyamuni", "meaning": "A title of the Buddha meaning the sage of the Shakyas, by which the man directed Kisa Gotami to him." }
+   678→          ],
+   679→          "trick": "Grief, Go, Grains, Gone, Gnosis: her grief sends her out, no house has the grains, death has taken all, and gnosis or wisdom ends sorrow.",
+   680→          "examPointer": "The mustard seed episode is the most extracted passage; questions on why she failed and what she realised are asked almost every year."
+   681→        },
+   682→        {
+   683→          "heading": "Character Sketches",
+   684→          "points": [
+   685→            "Gautama Buddha is a compassionate teacher who cures grief not with sympathy alone but with a method that leads the sufferer to her own realisation.",
+   686→            "He is wise and practical: instead of lecturing Kisa Gotami at once, he sets her a task that turns her hope into understanding.",
+   687→            "His sermon is calm, poetic and universal, using simple similes of ripe fruits and broken earthen vessels to convey profound truth.",
+   688→            "Kisa Gotami is a loving and desperate mother whose grief makes her lose all reason; she begs from house to house for her son's life.",
+   689→            "She is also sincere and receptive; when the truth dawns on her, she accepts it and returns to Buddha transformed from despair to serenity.",
+   690→            "The people of the city, who think she has lost her senses yet quietly point her to Buddha, show ordinary human pity and practical wisdom."
+   691→          ],
+   692→          "keyTerms": [
+   693→            { "term": "Compassion", "meaning": "Deep sympathy combined with the desire to relieve suffering, the quality that guides Buddha's handling of Kisa Gotami." },
+   694→            { "term": "Detachment", "meaning": "Freedom from selfish attachment and craving, which Buddha teaches as the path that ends sorrow." },
+   695→            { "term": "Realisation", "meaning": "The moment of understanding; Kisa Gotami's insight at dusk that death is common to all and her grief was selfish." }
+   696→          ],
+   697→          "trick": "Buddha heals by task, not by talk; Kisa finds the cure in the search itself.",
+   698→          "examPointer": "Compare Kisa Gotami before and after the search in 2-3 markers; her transformation is the heart of most questions on this chapter."
+   699→        },
+   700→        {
+   701→          "heading": "Themes and Message",
+   702→          "points": [
+   703→            "The central theme is the universality and inevitability of death: whoever is born must die, and no family is untouched by loss.",
+   704→            "Sorrow and grief spring from attachment to the self and to loved ones; the dear self one mourns for is the source of pain.",
+   705→            "Lamentation cannot revive the dead; weeping only multiplies pain and disturbs the peace of the living.",
+   706→            "True peace comes through wisdom and acceptance: the wise do not grieve, knowing the terms of the world cannot be changed.",
+   707→            "Personal experience is the best teacher; Buddha's clever task lets Kisa Gotami discover the truth herself rather than merely hear it.",
+   708→            "The message is to live with awareness of mortality, giving up selfishness and craving, and to seek peace by drawing out the arrow of lamentation."
+   709→          ],
+   710→          "keyTerms": [
+   711→            { "term": "Mortality", "meaning": "The state of being certain to die; the Buddha says mortals when born are ever in danger of death." },
+   712→            { "term": "Lamentation", "meaning": "Passionate expression of grief; Buddha says not from weeping does anyone obtain peace." },
+   713→            { "term": "Wisdom", "meaning": "The understanding that accepts death as natural, which alone overcomes sorrow and brings tranquillity." }
+   714→          ],
+   715→          "trick": "Death is the tax all must pay; wisdom is the only currency for grief.",
+   716→          "examPointer": "Message-based questions like what does the chapter teach about death and grief appear as 2-3 markers; quote the ripe fruit or earthen vessel simile."
+   717→        },
+   718→        {
+   719→          "heading": "Important Incidents",
+   720→          "points": [
+   721→            "The death of Kisa Gotami's only son, which shatters her world and sets the story in motion.",
+   722→            "Her desperate rounds from house to house with the dead child, asking for medicine, while people call her mad.",
+   723→            "A man's quiet suggestion that she go to the Sakyamuni, the Buddha, for only he can give such medicine.",
+   724→            "Buddha's condition of a handful of mustard seeds from a house where no one has ever died, which rekindles her hope.",
+   725→            "Her exhausting search through the city, house after house, finding that every family has lost someone to death.",
+   726→            "Her realisation at the wayside at dusk, watching the city lights flicker up and die, that death is common to all and her grief is selfish.",
+   727→            "Her return to Buddha, who delivers the sermon on the troubled, brief and pain-filled life of mortals.",
+   728→            "The sermon's similes of ripe fruits in danger of falling and earthen vessels that must break, and the assurance that only the wise attain peace."
+   729→          ],
+   730→          "keyTerms": [
+   731→            { "term": "Wayside realisation", "meaning": "Kisa Gotami's insight, sitting at dusk watching the lights of the city flicker up and die, that death is the common lot." },
+   732→            { "term": "Bodhi tree", "meaning": "The peepal tree under which Siddhartha attained enlightenment and became the Buddha." },
+   733→            { "term": "Benares", "meaning": "The holy city on the bank of the Ganga where Buddha delivered his first sermon." }
+   734→          ],
+   735→          "trick": "Son dies, mother runs, Buddha sets the seed test, city fails her, dusk teaches her, sermon seals it.",
+   736→          "examPointer": "The dusk realisation and the sermon are the two most quoted passages in case-based questions; memorise their sequence."
+   737→        },
+   738→        {
+   739→          "heading": "Value Points and Vocabulary",
+   740→          "points": [
+   741→            "Grief is natural but blind; wisdom gives grief its eyes and turns despair into acceptance.",
+   742→            "Suffering shared is suffering halved: Kisa Gotami's discovery that every house has known death ends her isolation.",
+   743→            "A good teacher guides by questions and tasks, letting the learner arrive at the truth herself.",
+   744→            "Attachment binds; detachment frees, and craving for the impossible only deepens pain.",
+   745→            "Life's brevity should inspire peace and right living, not despair; the wise surrender selfish sorrow and find tranquillity.",
+   746→            "Useful words: afflicted means distressed or suffering, weary means extremely tired, in vain means without result, surrender means to give up, and procured means obtained.",
+   747→            "Remember the imagery: ripe fruits are early in danger of falling, and earthen vessels made by the potter end in being broken."
+   748→          ],
+   749→          "keyTerms": [
+   750→            { "term": "Afflicted", "meaning": "Stricken with suffering or pain; the world is said to be afflicted with death and decay." },
+   751→            { "term": "In vain", "meaning": "Without success or result; Kisa Gotami's weary search for the mustard seeds was in vain." },
+   752→            { "term": "Weary", "meaning": "Extremely tired and worn out, as Kisa Gotami became after going from house to house all day." }
+   753→          ],
+   754→          "trick": "Fruit falls, pot breaks, lamp flickers out: three pictures of one truth.",
+   755→          "examPointer": "Match the simile with its meaning in MCQs, and be ready to explain the flickering lights of the city as a symbol of mortality."
+   756→        }
+   757→      ],
+   758→      "mcqs": [
+   759→        {
+   760→          "question": "What was the birth name of Gautama Buddha?",
+   761→          "options": ["Kisa Gautama", "Siddhartha Gautama", "Sakyamuni Gotami", "Maha Moggallana"],
+   762→          "answerIndex": 1,
+   763→          "explanation": "Gautama Buddha was born as Siddhartha Gautama, a prince in northern India, and later became the Buddha, the Awakened One.",
+   764→          "difficulty": "easy",
+   765→          "pyq": "CBSE 2023"
+   766→        },
+   767→        {
+   768→          "question": "At the age of twenty-five, Siddhartha went out to see the world. Which of these was NOT one of the sights that moved him?",
+   769→          "options": ["A sick man", "An aged man", "A rich merchant", "A monk begging for alms"],
+   770→          "answerIndex": 2,
+   771→          "explanation": "He saw a sick man, an aged man, a funeral procession with a corpse, and a monk begging for alms; a rich merchant was not among the sights.",
+   772→          "difficulty": "medium"
+   773→        },
+   774→        {
+   775→          "question": "For how many years did Siddhartha wander in search of enlightenment before he sat under the Bodhi tree?",
+   776→          "options": ["Three years", "Five years", "Seven years", "Twelve years"],
+   777→          "answerIndex": 2,
+   778→          "explanation": "After wandering for seven years in search of truth, Siddhartha finally sat under a peepal tree, the Bodhi tree, and attained enlightenment.",
+   779→          "difficulty": "easy"
+   780→        },
+   781→        {
+   782→          "question": "The word Buddha means",
+   783→          "options": ["The Great King", "The Awakened One", "The Wise Merchant", "The Pure Soul"],
+   784→          "answerIndex": 1,
+   785→          "explanation": "After attaining enlightenment, Siddhartha came to be called the Buddha, meaning the Awakened One or the Enlightened One.",
+   786→          "difficulty": "easy",
+   787→          "pyq": "CBSE 2020"
+   788→        },
+   789→        {
+   790→          "question": "Where did the Buddha deliver his first sermon?",
+   791→          "options": ["At Lumbini", "At Benares on the bank of the Ganga", "At Kusinara", "At Rajagriha"],
+   792→          "answerIndex": 1,
+   793→          "explanation": "The Buddha preached his first sermon at the city of Benares, on the bank of the Ganga, the most holy dwelling place of the Hindu gods.",
+   794→          "difficulty": "easy",
+   795→          "pyq": "CBSE 2019"
+   796→        },
+   797→        {
+   798→          "question": "What had happened to Kisa Gotami before she approached the Buddha?",
+   799→          "options": [
+   800→            "Her husband had gone away from home",
+   801→            "Her only son had died",
+   802→            "Her house had been destroyed by a flood",
+   803→            "She had lost all her wealth"
+   804→          ],
+   805→          "answerIndex": 1,
+   806→          "explanation": "Kisa Gotami's only son had died, and she carried his body from house to house asking for medicine to bring him back to life.",
+   807→          "difficulty": "easy"
+   808→        },
+   809→        {
+   810→          "question": "What did the Buddha ask Kisa Gotami to bring him?",
+   811→          "options": [
+   812→            "A pot of holy water from the Ganga",
+   813→            "Flowers from the temple at Benares",
+   814→            "A handful of mustard seeds",
+   815→            "Medicinal herbs from the forest"
+   816→          ],
+   817→          "answerIndex": 2,
+   818→          "explanation": "The Buddha asked her to bring a handful of mustard seeds, but from a house where no one had ever lost a child, husband, parent or friend.",
+   819→          "difficulty": "easy",
+   820→          "pyq": "CBSE 2024"
+   821→        },
+   822→        {
+   823→          "question": "Why did Kisa Gotami fail in her search for mustard seeds?",
+   824→          "options": [
+   825→            "No house in the city had mustard seeds",
+   826→            "She forgot the Buddha's condition and asked for rice instead",
+   827→            "She could not find a house where no one had ever died",
+   828→            "The people refused to give seeds to a stranger"
+   829→          ],
+   830→          "answerIndex": 2,
+   831→          "explanation": "Every house she visited had known death of some member; she found mustard seeds but not from a house untouched by death, so her search was in vain.",
+   832→          "difficulty": "medium",
+   833→          "pyq": "CBSE 2022"
+   834→        },
+   835→        {
+   836→          "question": "What did Kisa Gotami realise sitting by the wayside at dusk?",
+   837→          "options": [
+   838→            "That the Buddha had deceived her",
+   839→            "That death was common to all and her grief was selfish",
+   840→            "That she should move to another city",
+   841→            "That her son's body must be buried at once"
+   842→          ],
+   843→          "answerIndex": 1,
+   844→          "explanation": "Watching the lights of the city flicker up and die, she realised how selfish her grief was, for death had taken someone from every family.",
+   845→          "difficulty": "medium"
+   846→        },
+   847→        {
+   848→          "question": "In the Buddha's sermon, mortals when born are compared to",
+   849→          "options": [
+   850→            "Candles burning in the wind",
+   851→            "Ripe fruits that are early in danger of falling",
+   852→            "Waves that rise and fall in the sea",
+   853→            "Leaves that fall in autumn"
+   854→          ],
+   855→          "answerIndex": 1,
+   856→          "explanation": "The Buddha says that as ripe fruits are early in danger of falling, so mortals when born are ever in danger of death.",
+   857→          "difficulty": "medium"
+   858→        },
+   859→        {
+   860→          "question": "What comparison does the Buddha draw for the end of mortal life in his sermon?",
+   861→          "options": [
+   862→            "As earthen vessels made by the potter end in being broken, so is the life of mortals",
+   863→            "As snow melts in the sun, so mortals pass away",
+   864→            "As rivers flow into the sea, so mortals merge into the world",
+   865→            "As flowers wither in the heat, so mortals fade"
+   866→          ],
+   867→          "answerIndex": 0,
+   868→          "explanation": "The sermon says that as earthen vessels made by the potter end in being broken, so is the life of mortals; death is the natural end of all.",
+   869→          "difficulty": "medium"
+   870→        },
+   871→        {
+   872→          "question": "According to the sermon, who obtains peace and overcomes sorrow?",
+   873→          "options": [
+   874→            "One who weeps day and night for the dead",
+   875→            "One who performs great sacrifices",
+   876→            "One who is wise and does not grieve, drawing out the arrow of lamentation",
+   877→            "One who retires into the forest alone"
+   878→          ],
+   879→          "answerIndex": 2,
+   880→          "explanation": "The Buddha teaches that not from weeping does anyone obtain peace; the wise do not grieve, and one who seeks peace must draw out the arrow of lamentation.",
+   881→          "difficulty": "medium"
+   882→        }
+   883→      ],
+   884→      "boardQuestions": [
+   885→        {
+   886→          "question": "What did Kisa Gotami do when her only son died? How did she reach the Buddha?",
+   887→          "marks": 3,
+   888→          "type": "SA",
+   889→          "probability": "very-high",
+   890→          "answer": "1) When Kisa Gotami's only son died, she was struck with grief and went from house to house carrying him, asking the people for a medicine that would bring him back to life. 2) The people thought she had lost her senses and pitied her, but no one had such a medicine. 3) At last a man met her and told her that the Sakyamuni, the Buddha, was at Benares and only he could give her the medicine she sought, so she went to the Buddha and begged him to restore her son to life."
+   891→        },
+   892→        {
+   893→          "question": "Why did Kisa Gotami's search for mustard seeds end in failure? What did she realise?",
+   894→          "marks": 2,
+   895→          "type": "SA",
+   896→          "probability": "high",
+   897→          "answer": "1) The Buddha had asked for mustard seeds from a house where no one had ever lost a child, husband, parent or friend; though every house readily gave the seeds, there was not a single house where death had never entered, so her search ended in failure. 2) Sitting wearily by the wayside at dusk, watching the lights of the city flicker up and die, she realised that death is common to all, that the living are but few compared to the dead, and that her grief was selfish; only sorrow over what is one's own makes one weep."
+   898→        },
+   899→        {
+   900→          "question": "Describe the early life of Siddhartha Gautama and the circumstances that led to his enlightenment.",
+   901→          "marks": 5,
+   902→          "type": "LA",
+   903→          "probability": "very-high",
+   904→          "answer": "1) Siddhartha Gautama was born a prince in a royal family of northern India and spent his early years in luxury and comfort, shielded from every sight of suffering. 2) At the age of twenty-five he went out to see the world for the first time and encountered a sick man, an aged man, a funeral procession carrying a corpse, and finally a monk begging for alms, calm and serene. 3) These four sights opened his eyes to sickness, old age, death and the possibility of peace, and they moved him so deeply that he left his home and princely comforts to seek the truth of life. 4) He wandered about for seven years in search of enlightenment, meeting teachers and practising austerities, but understanding eluded him until he sat under a peepal tree, which came to be called the Bodhi tree. 5) There at last he attained enlightenment and became the Buddha, the Awakened One; he then went to Benares on the bank of the Ganga and delivered his first sermon, beginning his mission of teaching humanity the path that ends sorrow."
+   905→        },
+   906→        {
+   907→          "question": "Summarise the sermon delivered by the Buddha at Benares and bring out its central message.",
+   908→          "marks": 5,
+   909→          "type": "LA",
+   910→          "probability": "high",
+   911→          "answer": "1) When Kisa Gotami returned having failed to find mustard seeds from a house untouched by death, the Buddha preached to her the sermon that forms the heart of the chapter. 2) He declared that the life of mortals in this world is troubled and brief and combined with pain, and that there is no way by which those who have been born can avoid dying. 3) He used two striking similes: as ripe fruits are early in danger of falling, so mortals when born are ever in danger of death, and as earthen vessels made by the potter end in being broken, so is the life of mortals. 4) He taught that young and old, foolish and wise, all are caught in the net of death, that the world is afflicted with death and decay, and that the terms of the world cannot be changed. 5) His central message is that lamentation and weeping cannot bring back the dead and only multiply pain; the wise do not grieve, knowing the nature of the world, and one who seeks peace must draw out the arrow of lamentation, for peace of mind comes through wisdom, acceptance and freedom from selfish grief."
+   912→        },
+   913→        {
+   914→          "question": "Read the extract and answer the questions: Kisa Gotami became weary and hopeless, and sat down at the wayside, watching the lights of the city, as they flickered up and died. Darkness soon approached and she realised how selfish she had been. Death is common to all, she thought; there was not a house but someone had died in it. (a) Why was Kisa Gotami weary and hopeless? (b) What does the image of the flickering lights suggest? (c) How did this realisation change her?",
+   915→          "marks": 4,
+   916→          "type": "CASE",
+   917→          "probability": "high",
+   918→          "answer": "(a) Kisa Gotami was weary and hopeless because she had spent the whole day going from house to house for mustard seeds, and in every house someone had died, so she could not collect seeds from a house untouched by death as the Buddha had demanded. (b) The city lights flickering up and dying one after another suggest human lives: they blaze for a while and then go out, symbolising the mortality of man and the certainty of death for all. (c) The realisation that death is common to all changed her from a desperate, selfish mourner into a calm, understanding person; her grief lost its selfishness, she returned to the Buddha in humility, and received his sermon on the troubled, brief and pain-filled life of mortals."
+   919→        },
+   920→        {
+   921→          "question": "Read the extract and answer the questions: The life of mortals in this world is troubled and brief and combined with pain. For there is not any means by which those that have been born can avoid dying; after reaching old age there is death; of such a nature are living beings. As ripe fruits are early in danger of falling, so mortals when born are ever in danger of death. As earthen vessels made by the potter end in being broken, so is the life of mortals. (a) What is the nature of the life of mortals according to the Buddha? (b) Explain the two similes used in the passage. (c) What, according to the sermon, is the way to overcome sorrow?",
+   922→          "marks": 5,
+   923→          "type": "CASE",
+   924→          "probability": "medium",
+   925→          "answer": "(a) According to the Buddha, the life of mortals is troubled, brief and combined with pain, and no one who is born can avoid dying; death in old age is the natural end of living beings, and the world is afflicted with death and decay. (b) In the first simile, mortals are compared to ripe fruits which are in danger of falling at any moment; just as ripeness brings fruit closer to its fall, birth itself brings every being closer to death. In the second simile, human life is compared to earthen vessels made by a potter, which are bound to break in the end; similarly every life must end in death, whoever the person may be. (c) The sermon teaches that neither weeping nor lamentation can bring peace or revive the dead, for grief only deepens pain and harms the living; one who seeks peace must draw out the arrow of lamentation and become free from selfish grief, since the wise who understand the nature of the world do not grieve and thus attain tranquillity."
+   926→        }
+   927→      ]
+   928→    },
+   929→    {
+   930→      "number": 9,
+   931→      "title": "The Proposal",
+   932→      "summary": "The Proposal is a one-act farce by the Russian writer Anton Chekhov, set in the drawing room of Stepan Stepanovitch Chubukov, a landowner. Ivan Vassilevitch Lomov, a thirty-five-year-old neighbour and hypochondriac, arrives in evening dress to ask for the hand of Chubukov's twenty-five-year-old daughter, Natalya Stepanovna. Before he can propose, the two quarrel over the ownership of Oxen Meadows and then over whose dog, Guess or Squeezer, is superior, while Lomov suffers heart palpitations and collapses repeatedly. Chubukov finally thrusts the couple's hands together and blesses them, but even after the engagement the newly promised husband and wife continue arguing about the dogs, exposing the pettiness and quarrelsome nature of the characters.",
+   933→      "weightageMarks": 20,
+   934→      "difficulty": "medium",
+   935→      "hotTopics": [
+   936→        "The one-act farce and Chekhov's humour",
+   937→        "Lomov as a nervous hypochondriac",
+   938→        "The quarrel over Oxen Meadows",
+   939→        "The dispute over the dogs Guess and Squeezer",
+   940→        "Marriage proposal amid quarrels and collapse",
+   941→        "Satire on property, status and marriage among landowners"
+   942→      ],
+   943→      "sections": [
+   944→        {
+   945→          "heading": "About the Author",
+   946→          "points": [
+   947→            "Anton Chekhov (1860-1904) was a Russian playwright and one of the greatest masters of the modern short story.",
+   948→            "He was a medical doctor by training, and his keen observation of human weakness fills his plays and stories.",
+   949→            "Chekhov excelled in the one-act play, a short drama with a single setting, few characters and one central situation.",
+   950→            "His famous farces include The Proposal and The Bear, both of which laugh gently at human folly.",
+   951→            "A farce is a light, exaggerated comedy that depends on ridiculous situations, rapid dialogue and comic quarrels.",
+   952→            "In The Proposal he satirises the marriage habits of the Russian landowning gentry of his time, for whom land and status mattered as much as love.",
+   953→            "His humour lies in showing ordinary people as they are: vain, excitable, quarrelsome, yet ultimately harmless and even lovable."
+   954→          ],
+   955→          "keyTerms": [
+   956→            { "term": "One-act play", "meaning": "A short play performed in a single act with one setting and a compact plot, of which The Proposal is a classic example." },
+   957→            { "term": "Farce", "meaning": "A comedy based on exaggerated, ridiculous situations and rapid comic dialogue, meant to produce hearty laughter." },
+   958→            { "term": "Landowning gentry", "meaning": "The class of wealthy landowners in old Russia, whose property, status and marriages Chekhov satirises." }
+   959→          ],
+   960→          "trick": "Chekhov the doctor diagnoses society: his farce is a comic prescription for greedy, quarrelsome gentry.",
+   961→          "examPointer": "Author-based and genre-based MCQs (farce, one-act play) are common; remember Chekhov was Russian and also wrote The Bear."
+   962→        },
+   963→        {
+   964→          "heading": "Plot Overview",
+   965→          "points": [
+   966→            "Ivan Vassilevitch Lomov, a long-time neighbour of Chubukov, arrives at the Chubukov house in formal evening dress, looking nervous.",
+   967→            "Chubukov welcomes him with exaggerated endearments, and Lomov confesses that he has come to ask for the hand of Natalya Stepanovna.",
+   968→            "Overjoyed, Chubukov goes to call his daughter, but before Lomov can make the proposal, the conversation drifts to land.",
+   969→            "Lomov mentions Oxen Meadows, and Natalya flares up, insisting the Meadows belong to the Chubukovs; a bitter quarrel follows over their worth and history.",
+   970→            "Lomov suffers heart palpitations, his foot goes to sleep, and Chubukov angrily drives him out; Natalya, hysterical, continues the argument until her father reveals Lomov came to propose.",
+   971→            "Natalya demands that Lomov be brought back at once, and the two then quarrel even more fiercely over whose dog is better, Lomov's Guess or her Squeezer.",
+   972→            "Lomov collapses with palpitations and is thought to be dying, but he revives, and Chubukov hastily joins their hands and gives his blessing.",
+   973→            "No sooner are they engaged than the couple resumes arguing about the dogs, showing that the farce of quarrelling will continue into married life."
+   974→          ],
+   975→          "keyTerms": [
+   976→            { "term": "Oxen Meadows", "meaning": "The plot of land worth about three hundred roubles, disputed between the Lomovs and the Chubukovs." },
+   977→            { "term": "Guess", "meaning": "Lomov's pedigreed dog, bought for a hundred and twenty-five roubles, praised by his master as first-rate." },
+   978→            { "term": "Squeezer", "meaning": "Natalya's dog, bought for eighty-five roubles, which she and her father consider superior to Guess." }
+   979→          ],
+   980→          "trick": "Two quarrels in one proposal: land first, dogs next, marriage in between the shouting.",
+   981→          "examPointer": "The sequence of the two quarrels and Lomov's collapses is asked in both MCQs and long answers; keep the order straight."
+   982→        },
+   983→        {
+   984→          "heading": "Character Sketches",
+   985→          "points": [
+   986→            "Ivan Vassilevitch Lomov is a thirty-five-year-old landowner, a nervous hypochondriac who suffers palpitations, sleeps badly and jumps when startled.",
+   987→            "He is fussy about health yet proud of his property and pedigree, and he values marriage as a chance to lead a quiet, regular life before age overtakes him.",
+   988→            "Natalya Stepanovna, twenty-five, is intelligent and energetic but quarrelsome and possessive; she argues over Meadows and dogs as fiercely as any man.",
+   989→            "She longs to be married once she learns of Lomov's intention, and she becomes hysterical and demanding when he is driven away.",
+   990→            "Stepan Stepanovitch Chubukov, a landowner in his seventies, is fussy, flattering and hypocritical, greeting Lomov as my darling and my treasure.",
+   991→            "He is eager to marry off his daughter, and when Lomov faints he panics and shouts for a doctor, then hurriedly completes the engagement.",
+   992→            "All three characters are comic rather than villainous: their vanity, excitability and pettiness drive the laughter of the farce."
+   993→          ],
+   994→          "keyTerms": [
+   995→            { "term": "Hypochondriac", "meaning": "A person who is constantly anxious about illness; Lomov complains of palpitations, a numb foot and trembling lips." },
+   996→            { "term": "Palpitations", "meaning": "Unusually rapid, strong heartbeats from which Lomov suffers whenever he is excited or angry." },
+   997→            { "term": "Hysterical", "meaning": "In a state of uncontrolled emotion; Natalya behaves hysterically when she learns Lomov had come to propose." }
+   998→          ],
+   999→          "trick": "Lomov 35 and trembling, Natalya 25 and shouting, Chubukov 70 and flattering: three ages, one noise.",
+  1000→          "examPointer": "Character sketches of Lomov as a hypochondriac and of Natalya are repeated 3 and 5 markers; support them with the palpitations and the dog quarrel."
+  1001→        },
+  1002→        {
+  1003→          "heading": "Themes and Message",
+  1004→          "points": [
+  1005→            "Marriage among the landed gentry is shown as a social and economic arrangement rather than a union of love, rushed through for property and status.",
+  1006→            "Trivial possessions like Oxen Meadows and pedigree dogs can ignite furious quarrels, exposing human greed and possessiveness.",
+  1007→            "Anger and ego destroy communication: the would-be couple spends the engagement quarrelling and never speaks of love.",
+  1008→            "The play satirises the fickleness and excitability of human nature, which swings between hatred and happiness within minutes.",
+  1009→            "Health and weakness are used comically: Lomov's palpitations underline how nerves and self-pity shape his behaviour.",
+  1010→            "The farce suggests that harmony in relationships demands patience, tolerance and the ability to laugh at one's own pettiness."
+  1011→          ],
+  1012→          "keyTerms": [
+  1013→            { "term": "Satire", "meaning": "The use of humour and exaggeration to expose human follies; Chekhov satirises marriage based on property." },
+  1014→            { "term": "Pettiness", "meaning": "Excessive concern with small matters, shown in the quarrels over meadows and dogs." },
+  1015→            { "term": "Family bliss", "meaning": "Chubukov's ironic phrase for the couple's happiness, which begins, ironically, with a fresh quarrel about the dogs." }
+  1016→          ],
+  1017→          "trick": "Meadows and dogs before love and vows: Chekhov's marriage market runs on land and pedigree.",
+  1018→          "examPointer": "Why is the play called a farce? and what does the quarrel over trivial things reveal? are evergreen questions; answer with examples."
+  1019→        },
+  1020→        {
+  1021→          "heading": "Important Incidents",
+  1022→          "points": [
+  1023→            "Lomov arrives in evening dress with gloves, and Chubukov receives him with exaggerated warmth and endearments.",
+  1024→            "Lomov, unable to speak directly, explains that he wishes to marry Natalya, and Chubukov embrace him with joy and goes to fetch her.",
+  1025→            "The first quarrel: Lomov claims Oxen Meadows are his, Natalya and Chubukov hotly deny it, and the Meadows are valued at three hundred roubles.",
+  1026→            "Lomov explains that his aunt's grandmother had given the Meadows for temporary, free use to the peasants of Natalya's father's grandfather, who in turn baked bricks for her.",
+  1027→            "Chubukov drives Lomov out, and when Natalya learns the true purpose of the visit she demands that he be brought back immediately.",
+  1028→            "The second quarrel: Lomov praises his dog Guess, bought for a hundred and twenty-five roubles, while Natalya boasts of Squeezer, bought for eighty-five roubles.",
+  1029→            "Each claims the other's dog has a defective jaw, and in the excitement Lomov's heart palpitates, his side pulls and he collapses.",
+  1030→            "Believing him dead, Chubukov and Natalya panic; Lomov revives, the hands are joined, the blessing given, and the couple immediately argues again about the dogs."
+  1031→          ],
+  1032→          "keyTerms": [
+  1033→            { "term": "Evening dress", "meaning": "Formal clothes and gloves in which Lomov arrives, signalling his serious intention to propose." },
+  1034→            { "term": "Overshot and undershot", "meaning": "The alleged jaw defects of the dogs: each owner claims the other's dog has the lower jaw shorter than the upper." },
+  1035→            { "term": "Collapse", "meaning": "Lomov's fainting fits caused by palpitations, twice mistaken for something serious in the course of the play." }
+  1036→          ],
+  1037→          "trick": "Proposal, Meadows, walkout, return, dogs, collapse, blessing, dogs again: eight beats of the farce.",
+  1038→          "examPointer": "Extracts are usually taken from the two quarrel scenes; practise explaining the Meadows history and the dog figures with the amounts."
+  1039→        },
+  1040→        {
+  1041→          "heading": "Value Points and Vocabulary",
+  1042→          "points": [
+  1043→            "Money and status decide relationships in the gentry's world, and Chekhov laughs at this marriage market.",
+  1044→            "Quarrels over trifles are self-defeating; the couple forgets the purpose of the meeting in the heat of argument.",
+  1045→            "Human beings can be sincere and ridiculous at the same time, which is the essence of farce.",
+  1046→            "The comedy of the ending lies in the irony that family bliss begins with another quarrel about Squeezer and Guess.",
+  1047→            "Patience and a sense of proportion are the virtues the play quietly preaches; small things must not rule big decisions.",
+  1048→            "Useful words: palpitations mean racing heartbeats, hysterics mean uncontrolled emotional outbursts, endearments are loving names like my darling, pedigreed means of recorded pure breeding, and toss in the assize court is Chubukov's comic threat to go to law.",
+  1049→            "Remember the figures: Meadows about three hundred roubles, Guess a hundred and twenty-five roubles, Squeezer eighty-five roubles."
+  1050→          ],
+  1051→          "keyTerms": [
+  1052→            { "term": "Palpitations", "meaning": "Rapid heartbeats; Lomov's chronic complaint whenever he is excited, angry or frightened." },
+  1053→            { "term": "Endearment", "meaning": "An affectionate form of address, such as my darling or my treasure, which Chubukov lavishes on Lomov." },
+  1054→            { "term": "Pedigree", "meaning": "The recorded ancestry of an animal; both Guess and Squeezer are prized as pedigreed dogs." }
+  1055→          ],
+  1056→          "trick": "300 for the Meadows, 125 for Guess, 85 for Squeezer: money measures every mock-battle.",
+  1057→          "examPointer": "Vocabulary MCQs often test palpitations and hysterics; the three money figures appear in both MCQs and case answers."
+  1058→        }
+  1059→      ],
+  1060→      "mcqs": [
+  1061→        {
+  1062→          "question": "Who is the author of the one-act play 'The Proposal'?",
+  1063→          "options": ["Anton Chekhov", "William Shakespeare", "Oscar Wilde", "George Bernard Shaw"],
+  1064→          "answerIndex": 0,
+  1065→          "explanation": "The Proposal is a one-act farce written by the Russian playwright and short story writer Anton Chekhov.",
+  1066→          "difficulty": "easy",
+  1067→          "pyq": "CBSE 2023"
+  1068→        },
+  1069→        {
+  1070→          "question": "How old was Ivan Vassilevitch Lomov?",
+  1071→          "options": ["Twenty-five", "Thirty", "Thirty-five", "Forty"],
+  1072→          "answerIndex": 2,
+  1073→          "explanation": "Lomov tells Chubukov that he is thirty-five, a critical age, and feels it is time he led a quiet and regular life.",
+  1074→          "difficulty": "easy"
+  1075→        },
+  1076→        {
+  1077→          "question": "How old was Natalya Stepanovna when Lomov came to propose to her?",
+  1078→          "options": ["Twenty", "Twenty-five", "Thirty", "Thirty-five"],
+  1079→          "answerIndex": 1,
+  1080→          "explanation": "Natalya Stepanovna, Chubukov's daughter, was twenty-five years old, and her father considered it high time she was married.",
+  1081→          "difficulty": "easy"
+  1082→        },
+  1083→        {
+  1084→          "question": "Why has Lomov come to Chubukov's house dressed in evening clothes?",
+  1085→          "options": [
+  1086→            "To attend a party at the Chubukovs",
+  1087→            "To borrow money from Chubukov",
+  1088→            "To ask for the hand of Natalya in marriage",
+  1089→            "To invite them to his aunt's wedding"
+  1090→          ],
+  1091→          "answerIndex": 2,
+  1092→          "explanation": "Lomov has come in formal evening dress to ask for the hand of Natalya Stepanovna in marriage, though he keeps postponing the actual proposal.",
+  1093→          "difficulty": "easy",
+  1094→          "pyq": "CBSE 2020"
+  1095→        },
+  1096→        {
+  1097→          "question": "What is the value of Oxen Meadows as stated in the play?",
+  1098→          "options": ["About 125 roubles", "About 85 roubles", "About 300 roubles", "About 500 roubles"],
+  1099→          "answerIndex": 2,
+  1100→          "explanation": "Lomov admits the Meadows may be worth about three hundred roubles, though he insists they are of no great value to him but are his property.",
+  1101→          "difficulty": "medium"
+  1102→        },
+  1103→        {
+  1104→          "question": "According to Lomov, how did the Chubukovs come to use Oxen Meadows?",
+  1105→          "options": [
+  1106→            "They won the land in a card game",
+  1107→            "Lomov's aunt's grandmother gave the Meadows for temporary, free use to the peasants of Natalya's father's grandfather, who baked bricks for her",
+  1108→            "Chubukov bought the Meadows from a merchant",
+  1109→            "The Meadows were shared equally between the two families"
+  1110→          ],
+  1111→          "answerIndex": 1,
+  1112→          "explanation": "Lomov claims his aunt's grandmother allowed the peasants of Chubukov's father's grandfather free, temporary use of Oxen Meadows in return for making bricks, and the peasants later got used to treating them as their own.",
+  1113→          "difficulty": "medium"
+  1114→        },
+  1115→        {
+  1116→          "question": "Which dog belongs to Lomov and how much did he pay for it?",
+  1117→          "options": ["Squeezer, 85 roubles", "Guess, 125 roubles", "Guess, 85 roubles", "Squeezer, 125 roubles"],
+  1118→          "answerIndex": 1,
+  1119→          "explanation": "Lomov's dog is Guess, a first-rate pedigreed dog for which he paid a hundred and twenty-five roubles; Natalya's Squeezer cost her father eighty-five roubles.",
+  1120→          "difficulty": "medium",
+  1121→          "pyq": "CBSE 2019"
+  1122→        },
+  1123→        {
+  1124→          "question": "During the quarrel over the dogs, what physical defect does each side attribute to the other's dog?",
+  1125→          "options": [
+  1126→            "Blindness in one eye",
+  1127→            "A lame leg",
+  1128→            "The lower jaw shorter than the upper",
+  1129→            "A crooked tail"
+  1130→          ],
+  1131→          "answerIndex": 2,
+  1132→          "explanation": "Lomov points out that Squeezer's lower jaw is shorter than the upper, while Natalya and Chubukov retort that it is Guess who is undershot with the same defect.",
+  1133→          "difficulty": "medium"
+  1134→        },
+  1135→        {
+  1136→          "question": "What chronic complaint does Lomov repeatedly make about his health?",
+  1137→          "options": [
+  1138→            "Frequent headaches and coughs",
+  1139→            "Palpitations, numbness in the foot and trembling lips",
+  1140→            "Stomach aches after every meal",
+  1141→            "Loss of eyesight"
+  1142→          ],
+  1143→          "answerIndex": 1,
+  1144→          "explanation": "Lomov is a hypochondriac who complains of heart palpitations, a foot going to sleep, trembling lips and sleepless nights whenever he is excited.",
+  1145→          "difficulty": "easy",
+  1146→          "pyq": "CBSE 2024"
+  1147→        },
+  1148→        {
+  1149→          "question": "Why does Lomov want to marry Natalya without delay?",
+  1150→          "options": [
+  1151→            "Because he is passionately in love with her",
+  1152→            "Because Chubukov has threatened to sue him",
+  1153→            "Because at thirty-five he needs a quiet, regular life before his health fails further",
+  1154→            "Because his relatives insist on the match"
+  1155→          ],
+  1156→          "answerIndex": 2,
+  1157→          "explanation": "Lomov feels that at thirty-five, a critical age with palpitations and disturbed sleep, he must marry soon to lead a quiet and regular life; love is hardly the motive.",
+  1158→          "difficulty": "medium"
+  1159→        },
+  1160→        {
+  1161→          "question": "What happens immediately after Chubukov joins the hands of Lomov and Natalya and blesses them?",
+  1162→          "options": [
+  1163→            "They embrace each other happily",
+  1164→            "They start arguing again about which dog is better, Squeezer or Guess",
+  1165→            "Lomov faints for the third time",
+  1166→            "Natalya runs out of the house in tears"
+  1167→          ],
+  1168→          "answerIndex": 1,
+  1169→          "explanation": "The moment they are engaged, the couple resumes the quarrel over the dogs, each insisting his or her dog is better, and Chubukov ironically cries that family bliss has begun.",
+  1170→          "difficulty": "easy"
+  1171→        },
+  1172→        {
+  1173→          "question": "What does Chubukov do when Lomov collapses during the dog quarrel?",
+  1174→          "options": [
+  1175→            "He calmly waits for Lomov to rise",
+  1176→            "He runs for a doctor, thinking Lomov is dead",
+  1177→            "He laughs at Lomov's weakness",
+  1178→            "He throws Lomov out of the house"
+  1179→          ],
+  1180→          "answerIndex": 1,
+  1181→          "explanation": "Thinking Lomov is dying, Chubukov panics and shouts for a doctor, but Lomov soon revives, and Chubukov hurriedly completes the engagement.",
+  1182→          "difficulty": "easy"
+  1183→        }
+  1184→      ],
+  1185→      "boardQuestions": [
+  1186→        {
+  1187→          "question": "Why did Lomov visit Chubukov's house? How was he received there?",
+  1188→          "marks": 3,
+  1189→          "type": "SA",
+  1190→          "probability": "very-high",
+  1191→          "answer": "1) Lomov, a thirty-five-year-old neighbour, visited Chubukov's house in evening dress with the specific intention of asking for the hand of Natalya Stepanovna in marriage, for at his age he wished to lead a quiet and regular life. 2) Chubukov received him with exaggerated affection, calling him my darling, my treasure and my angel, and embraced and kissed him, delighted at the unexpected visit. 3) However, when Lomov hesitatingly disclosed his purpose, Chubukov was overjoyed and went in to fetch Natalya, though ironically the proposal was never made in calm words, as the two young people fell out over Oxen Meadows before Lomov could speak his heart."
+  1192→        },
+  1193→        {
+  1194→          "question": "What was the quarrel over Oxen Meadows?",
+  1195→          "marks": 2,
+  1196→          "type": "SA",
+  1197→          "probability": "high",
+  1198→          "answer": "1) Lomov claimed that Oxen Meadows, though not worth much to him, were his property, while Natalya and Chubukov hotly asserted that the Meadows belonged to the Chubukovs, though they valued them at only about three hundred roubles. 2) Lomov argued that his aunt's grandmother had given the Meadows for temporary, free use to the peasants of Natalya's father's grandfather in return for making bricks, but the peasants had used them so long that they considered them their own; the dispute grew so bitter that Lomov left without proposing."
+  1199→        },
+  1200→        {
+  1201→          "question": "Describe the first quarrel between Lomov and Natalya over Oxen Meadows and its consequences.",
+  1202→          "marks": 5,
+  1203→          "type": "LA",
+  1204→          "probability": "very-high",
+  1205→          "answer": "1) Lomov had come to propose to Natalya, but before he could make his purpose clear, he mentioned the Oxen Meadows, which he claimed as his property. 2) Natalya at once declared that the Meadows were theirs, and the argument rose in pitch, with both sides shouting that the other was telling lies; even Chubukov joined in and called Lomov's claim treachery. 3) Lomov tried to reason that his aunt's grandmother had given the Meadows for temporary, free use to the peasants of Chubukov's father's grandfather, who baked bricks for her, and that the family had got used to the land and treated it as its own. 4) The quarrel affected Lomov's health badly: his heart palpitated, his foot went to sleep, his lips trembled and something pulled in his side, and Chubukov finally drove him out of the house. 5) The consequence was comic: when Natalya learnt from her father that Lomov had actually come to propose to her, she went into hysterics, cried that she had driven him away, and demanded that he be brought back at once, so the quarrel paved the way for a second one over the dogs."
+  1206→        },
+  1207→        {
+  1208→          "question": "Describe the second quarrel between Lomov and Natalya over the dogs. How does the play end?",
+  1209→          "marks": 5,
+  1210→          "type": "LA",
+  1211→          "probability": "high",
+  1212→          "answer": "1) When Lomov returns after learning the misunderstanding, he and Natalya soon drift into a fresh argument about their hunting dogs. 2) Lomov praises his Guess, for which he paid a hundred and twenty-five roubles, calling him a first-rate dog, while Natalya boasts of Squeezer, bought for eighty-five roubles, insisting that Squeezer is the better hunter. 3) Each belittles the other's dog: Lomov points out that Squeezer's lower jaw is shorter than the upper, while Natalya and Chubukov retort that Guess is undershot and that Lomov paid too much for him. 4) In the heat of the argument Lomov suffers heart palpitations, his side pulls and his foot goes numb, and he collapses; Chubukov and Natalya panic, believing he is dead, and rush to fetch a doctor. 5) Lomov revives, and the practical Chubukov quickly places Natalya's hand in Lomov's and gives his blessing; but the farce ends with the newly engaged couple again arguing whether Squeezer or Guess is the better dog, and Chubukov ironically exclaiming that the family bliss has begun."
+  1213→        },
+  1214→        {
+  1215→          "question": "Read the extract and answer the questions: LOMOV: The fact is, I have come to you, honoured Stepan Stepanovitch, to trouble you with a request. Not once or twice have I already had the privilege of receiving your assistance... NATALYA: Oxen Meadows are ours! I know they're ours! LOMOV: But, please, that's my opinion. The Meadows are not worth much to me. They are, perhaps, worth 300 roubles, but they are mine. (a) What request did Lomov actually come to make? (b) Why does the discussion turn to Oxen Meadows? (c) What is the outcome of the dispute?",
+  1216→          "marks": 4,
+  1217→          "type": "CASE",
+  1218→          "probability": "high",
+  1219→          "answer": "(a) Lomov had come to ask for the hand of Natalya Stepanovna in marriage, though out of nervousness he speaks of it as a request and keeps postponing the actual proposal. (b) The discussion turns to Oxen Meadows because Lomov refers to the land while talking, and Natalya takes offence when she understands that he claims the Meadows as his property, so the would-be lovers begin to quarrel over a worthless plot worth about three hundred roubles. (c) The dispute grows bitter, Lomov suffers palpitations and is driven out of the house; when Chubukov reveals that Lomov came to propose, Natalya demands his return, and after a second quarrel over the dogs the two are finally engaged."
+  1220→        },
+  1221→        {
+  1222→          "question": "Read the extract and answer the questions: NATALYA: My Squeezer is better than your Guess! LOMOV: And you're just putting forward baseless claims... My Guess is a first-rate dog... I paid 125 roubles for him. NATALYA: Squeezer is a dog of pedigree... My father paid 85 roubles for him. (a) Why are Lomov and Natalya arguing about the dogs? (b) What defect does each claim the other's dog has? (c) What happens to Lomov in the course of this quarrel, and how does the scene end?",
+  1223→          "marks": 5,
+  1224→          "type": "CASE",
+  1225→          "probability": "medium",
+  1226→          "answer": "(a) After the dispute over Oxen Meadows is patched up, Lomov and Natalya drift into a fresh quarrel about their hunting dogs, each boasting that his or her dog is superior; it shows their habit of fighting over trifles even at the very moment of their engagement. (b) Each claims that the other's dog has the lower jaw shorter than the upper, one being called overshot and the other undershot; Lomov also taunts that Natalya's father paid eighty-five roubles for Squeezer while he paid a hundred and twenty-five for the truly first-rate Guess. (c) In the excitement Lomov suffers heart palpitations, his side pulls and his foot becomes numb, and he collapses as if dead; Chubukov and Natalya panic and call for a doctor, but Lomov revives, and Chubukov hastily joins the couple's hands and blesses them, after which the newly engaged pair immediately resumes arguing about Squeezer and Guess."
+  1227→        }
+  1228→      ]
+  1229→    }
+  1230→  ]
+  1231→}
+  1232→

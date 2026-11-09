@@ -1,0 +1,1807 @@
+export default {
+  "code": "history",
+  "name": "History",
+  "bookName": "India and the Contemporary World II",
+  "weightageMarks": 20,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Rise of Nationalism in Europe",
+      "summary": "This chapter traces how the idea of the nation state emerged in Europe after the French Revolution and spread through liberal, cultural and revolutionary movements. It explains the unification of Germany, Italy and Britain and ends with nationalist tensions in the Balkans that led to the First World War.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Unification of Germany and Italy",
+        "Napoleonic Code 1804",
+        "Liberalism and Zollverein",
+        "Frankfurt Parliament and 1848 revolutions",
+        "Allegories Marianne and Germania"
+      ],
+      "sections": [
+        {
+          "heading": "The French Revolution and the Idea of the Nation",
+          "points": [
+            "Frederic Sorrieu, a French artist, made four prints in 1848 showing his dream of a world made of democratic and social republics.",
+            "The French Revolution of 1789 shifted sovereignty from the monarch to the French nation and its citizens.",
+            "Ideas of la patrie (the fatherland) and le citoyen (the citizen) gave citizens equal rights under one identity.",
+            "A tricolour flag replaced the royal standard; the Estates General was elected and renamed the National Assembly.",
+            "The Marseillaise became the national anthem; uniform laws, a centralised administration and abolition of internal customs duties followed.",
+            "Revolutionary armies carried the ideas of nationalism into Holland, Belgium, Switzerland and much of Italy."
+          ],
+          "keyTerms": [
+            { "term": "Nation state", "meaning": "A state whose citizens share a common identity, history and culture; it replaced dynastic empires of Europe." },
+            { "term": "La patrie and le citoyen", "meaning": "Fatherland and citizen, emphasising a community of equal citizens instead of subjects of a king." },
+            { "term": "Marseillaise", "meaning": "Patriotic hymn of the French Revolution, adopted as the national anthem of France." }
+          ],
+          "trick": "1789 France taught Europe that citizens, not kings, own the nation: PAtrie plus CIToyen equals PAtriOT power.",
+          "examPointer": "Questions on how the French Revolution created collective identity, and source based passages on Sorrieu's prints, appear regularly in boards."
+        },
+        {
+          "heading": "Napoleon and the Napoleonic Code",
+          "points": [
+            "The Civil Code of 1804, called the Napoleonic Code, abolished all privileges based on birth.",
+            "It established equality before the law and secured the right to property for all.",
+            "Administrative divisions were simplified and a uniform decimal system of weights and measures was introduced.",
+            "Roads and transport improved; in the Rhineland the code freed peasants from serfdom and manorial dues.",
+            "In towns like Holland, Switzerland and Italy, uniform laws and better transport encouraged trade.",
+            "Drawbacks: French armies forced conscription, raised taxation and imposed censorship, turning admirers into critics."
+          ],
+          "keyTerms": [
+            { "term": "Napoleonic Code", "meaning": "Civil Code of 1804 giving equality before law, right to property and uniform administration across Napoleon's empire." },
+            { "term": "Conscription", "meaning": "Compulsory military service that forced men of conquered regions into French armies." },
+            { "term": "Serfdom", "meaning": "Feudal bondage of peasants to lords; abolished in many conquered territories by the Code." }
+          ],
+          "trick": "1804 equals ERT: Equality, Right to property, Transport and uniform measures. Remember the ERT code.",
+          "examPointer": "Describe any three features of the Napoleonic Code is a regular 3 marker; its impact on Europe is often asked with it."
+        },
+        {
+          "heading": "Liberalism, the Conservative Order and Vienna 1815",
+          "points": [
+            "Liberalism comes from the Latin liber, meaning free; politically it opposed autocracy and clerical privileges.",
+            "Liberals wanted a constitution, representative parliamentary government, independent judiciary and equality before law.",
+            "Economically, liberalism stood for freedom of markets and free movement of goods and capital.",
+            "The Zollverein, a Prussian led customs union of 1834, abolished tariff barriers and cut over thirty currencies to two.",
+            "After Napoleon's defeat, the Treaty of Vienna 1815, hosted by Metternich, restored Bourbon rule in France.",
+            "Belgium went to the Netherlands, Genoa to Sardinia Piedmont, northern Italy to Austria and part of Poland to Russia."
+          ],
+          "keyTerms": [
+            { "term": "Liberalism", "meaning": "Political and economic ideology of freedom: constitutional government and free markets." },
+            { "term": "Zollverein", "meaning": "Prussian led customs union formed in 1834 that removed tariffs and united German markets economically." },
+            { "term": "Treaty of Vienna 1815", "meaning": "Settlement by Britain, Russia, Prussia and Austria to undo Napoleonic changes and restore conservative monarchies." },
+            { "term": "Metternich", "meaning": "Austrian Chancellor and host of the Vienna Congress, symbol of the conservative order." }
+          ],
+          "trick": "LIBERal means LIBERate markets and minds. Zollverein 1834: One Zone, No Tariffs, Two currencies.",
+          "examPointer": "MCQs on Zollverein's year and Prussia, and 3 markers on the measures of the Vienna settlement, are frequently set in boards."
+        },
+        {
+          "heading": "Revolutionaries and the Uprisings of 1830 and 1848",
+          "points": [
+            "Giuseppe Mazzini of Genoa founded secret societies, Young Italy in Marseilles and Young Europe in Berne.",
+            "Mazzini believed nations were God's natural building blocks of mankind and a unified Italy must be a republic.",
+            "In 1830 the Bourbon king Charles X was overthrown in France and Louis Philippe became constitutional monarch.",
+            "Belgium broke away from the Netherlands in 1830; Greece gained independence through the Treaty of Constantinople, 1832.",
+            "The 1848 revolution in France, driven by food shortage and unemployment, ended the monarchy and brought universal male suffrage.",
+            "The Frankfurt Parliament of 831 members met in St Paul's Church but was crushed by monarchs and the military."
+          ],
+          "keyTerms": [
+            { "term": "Giuseppe Mazzini", "meaning": "Italian revolutionary, jailed in 1831 for revolution in Liguria; founded Young Italy and Young Europe." },
+            { "term": "Frankfurt Parliament", "meaning": "All German national assembly of 1848 in St Paul's Church; failed when Friedrich Wilhelm IV rejected the crown." },
+            { "term": "Treaty of Constantinople 1832", "meaning": "Agreement that recognised Greece as an independent nation." },
+            { "term": "Universal male suffrage", "meaning": "Right of all adult men to vote, granted in France after the 1848 revolution." }
+          ],
+          "trick": "Mazzini was the youth coach: Young Italy plus Young Europe. 1830 gave Belgium and Greece; 1848 gave hope but no crown.",
+          "examPointer": "Why did the Frankfurt Parliament fail, and the role of Mazzini, are classic 3 markers; Metternich's sneeze quote is a repeated MCQ."
+        },
+        {
+          "heading": "Culture, Romanticism and Language as Nationalism",
+          "points": [
+            "Romanticism used art, poetry, stories and music to create a feeling of shared national heritage.",
+            "Johann Gottfried Herder, German philosopher, said true German culture was discovered among common people, das volk.",
+            "Collecting folk songs, folk poetry and folk dances became a way of preserving the national spirit.",
+            "In Poland, the Polish language became a weapon; the clergy used it for religious instruction despite Russian bans.",
+            "After the 1831 Polish uprising was crushed, Russian language was imposed and many priests were jailed or exiled.",
+            "Composer Karol Kurpinski turned folk dances like the polonaise and mazurka into nationalist symbols."
+          ],
+          "keyTerms": [
+            { "term": "Romanticism", "meaning": "Cultural movement that sought to develop national sentiment through art, poetry and folklore." },
+            { "term": "Das volk", "meaning": "Herder's idea that the true spirit of a nation lives in its common people." },
+            { "term": "Vernacular language", "meaning": "The mother tongue, used by Poles and others as a tool of national resistance." }
+          ],
+          "trick": "Herder said nations sing before they fight. Poland prayed and sang in Polish; Kurpinski danced the nation with polonaise and mazurka.",
+          "examPointer": "Short questions on Herder, folklore and language based nationalism in Poland appear as 2 and 3 markers."
+        },
+        {
+          "heading": "Unification of Germany, Italy and Britain",
+          "points": [
+            "Prussia's chief minister Otto von Bismarck led German unification with the support of army and bureaucracy.",
+            "Three wars in seven years against Denmark, Austria and France ended in Prussian victory.",
+            "In January 1871 Kaiser William I of Prussia was proclaimed German Emperor at Versailles.",
+            "Chief Minister Cavour of Sardinia Piedmont allied with France in 1859; Garibaldi's Red Shirts took the south in 1860.",
+            "Victor Emmanuel II was proclaimed King of united Italy in 1861.",
+            "Britain united gradually: the Act of Union 1707 joined England and Scotland; Ireland was forcibly incorporated in 1801."
+          ],
+          "keyTerms": [
+            { "term": "Otto von Bismarck", "meaning": "Prussian chief minister who unified Germany through wars and diplomacy, famous for blood and iron politics." },
+            { "term": "Count Cavour", "meaning": "Chief minister of Sardinia Piedmont, architect of Italian unification through a French alliance." },
+            { "term": "Giuseppe Garibaldi", "meaning": "Leader of the Red Shirts who conquered the Kingdom of the Two Sicilies in 1860." },
+            { "term": "Act of Union 1707", "meaning": "Agreement between England and Scotland that formed the United Kingdom of Great Britain." }
+          ],
+          "trick": "GCB formula: Garibaldi the sword, Cavour the brain, Bismarck the blood and iron. Dates: Germany 1871, Italy 1861, Britain 1707 plus 1801.",
+          "examPointer": "Steps of German unification, or the role of Bismarck, Cavour and Garibaldi, is a favourite 5 marker in boards."
+        },
+        {
+          "heading": "Allegories, Balkans and Nationalist Tensions",
+          "points": [
+            "Nations were shown as female figures; France's Marianne wore a red cap, tricolour and cockade.",
+            "Marianne's statues stood in public squares and her images were printed on coins and stamps.",
+            "Germania, symbol of Germany, wears a crown of oak leaves standing for German heroism.",
+            "The Balkans, home to Slavic peoples like Serbs, Bulgarians and Greeks, was ruled by the weakening Ottoman Empire.",
+            "Balkan nationalists used history to claim they had once been independent, demanding freedom and self rule.",
+            "Rivalry among Russia, Germany, England and Austria Hungary over the Balkans helped spark the First World War in 1914."
+          ],
+          "keyTerms": [
+            { "term": "Allegory", "meaning": "An abstract idea, like the nation, expressed through a person or symbol." },
+            { "term": "Marianne", "meaning": "Female personification of the French nation, marked by the red cap and tricolour." },
+            { "term": "Germania", "meaning": "Female personification of Germany, crowned with oak leaves symbolising heroism." },
+            { "term": "Balkans", "meaning": "Region of south east Europe whose nationalist tensions after Ottoman decline led to World War One." }
+          ],
+          "trick": "M for Marianne, M for modern France; Germania in oak means German heroism. The Balkans were the powder keg of Europe.",
+          "examPointer": "MCQs on Marianne's symbols and Germania's crown are common; Balkans as a source of nationalist tension is a standard 3 marker."
+        },
+        {
+          "heading": "European Society and the Rise of the Middle Class",
+          "points": [
+            "In the eighteenth century, the aristocracy was the dominant class of Europe, owning estates in town and country.",
+            "Aristocratic families were tied together by marriage alliances and spoke French, the language of high society and diplomacy.",
+            "The peasantry formed the majority of the population, tilling land that belonged to landlords in most regions.",
+            "From the second half of the eighteenth century, industrialisation created new social groups, a working class and a middle class.",
+            "The middle class included industrialists, businessmen and professionals like lawyers, doctors and teachers.",
+            "It was among the educated, liberal middle class that ideas of national unity and the abolition of aristocratic privilege became popular.",
+            "After 1815, hidden nationalist feelings found expression in secret societies like the Carbonari, whose member Mazzini later founded Young Italy."
+          ],
+          "keyTerms": [
+            { "term": "Aristocracy", "meaning": "The socially and economically dominant class of eighteenth century Europe, united by marriage ties and French speaking high society." },
+            { "term": "Middle class", "meaning": "New class of industrialists, businessmen and professionals that became the main carrier of liberal nationalist ideas after 1815." },
+            { "term": "Carbonari", "meaning": "Italian secret society of nationalists to which Mazzini belonged before founding his own revolutionary societies." }
+          ],
+          "trick": "ARM: Aristocracy Ruled, Middle class thought. Educated liberals, not kings, carried the idea of the nation.",
+          "examPointer": "The social structure of Europe and the role of the middle class in spreading nationalism are regular 2 and 3 markers."
+        },
+        {
+          "heading": "Women and the Revolutions of 1848",
+          "points": [
+            "Women of the liberal middle classes took part in political meetings, demonstrations and associations across Europe.",
+            "They formed their own political associations and founded newspapers to demand equal rights.",
+            "Louise Otto-Peters founded the Frauenzeitung and a political association to campaign for women's rights.",
+            "Despite active participation, women were denied the right to vote in the elections of the 1848 assemblies.",
+            "In the Frankfurt Parliament, women were admitted only as spectators in the visitors' gallery.",
+            "Their demands for equal political rights were rejected, showing the limits of liberal nationalism of the time."
+          ],
+          "keyTerms": [
+            { "term": "Louise Otto-Peters", "meaning": "German activist who founded the Frauenzeitung and a political association demanding rights for women." },
+            { "term": "Frauenzeitung", "meaning": "Newspaper started by Louise Otto-Peters to argue that political freedom should include women." },
+            { "term": "Suffrage", "meaning": "The right to vote in elections, denied to women during the revolutions of 1848." }
+          ],
+          "trick": "Present in the gallery, absent from the ballot: women marched in 1848 but could not vote.",
+          "examPointer": "Women's participation and exclusion in the 1848 revolutions is a popular 3 marker and appears in source based questions."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Who made a series of four prints in 1848 visualising a world of democratic and social republics?",
+          "options": ["Frederic Sorrieu", "Giuseppe Mazzini", "Otto von Bismarck", "Ernst Renan"],
+          "answerIndex": 0,
+          "explanation": "Sorrieu, a French artist, made four prints in 1848 showing his dream of a world of democratic and social republics.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which of the following was abolished by the Napoleonic Code of 1804?",
+          "options": ["Equality before law", "Right to property", "Privileges based on birth", "Uniform weights and measures"],
+          "answerIndex": 2,
+          "explanation": "The Napoleonic Code of 1804 abolished privileges based on birth and gave equality before law.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Zollverein customs union of 1834 was formed under the leadership of",
+          "options": ["Austria", "Prussia", "France", "Russia"],
+          "answerIndex": 1,
+          "explanation": "Zollverein, formed in 1834, was a Prussian led customs union that abolished tariff barriers in German states.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Who remarked, 'When France sneezes, the whole of Europe catches cold'?",
+          "options": ["Metternich", "Napoleon", "Mazzini", "Garibaldi"],
+          "answerIndex": 0,
+          "explanation": "Metternich, Austrian Chancellor and host of the Vienna Congress, made this famous remark after the 1830 French revolution.",
+          "difficulty": "easy",
+          "pyq": "CBSE 2020"
+        },
+        {
+          "question": "Giuseppe Mazzini founded which secret societies to spread the idea of unified Italian nations?",
+          "options": ["Young Italy and Young Europe", "Young Italy and Young Germany", "Red Shirts and Young Italy", "Young Europe and Carbonari"],
+          "answerIndex": 0,
+          "explanation": "Mazzini founded Young Italy in Marseilles and Young Europe in Berne to spread the idea of unified nations.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which statement about the Frankfurt Parliament of 1848 is INCORRECT?",
+          "options": ["It met in the Church of St Paul", "It drafted a constitution for a German nation", "King Friedrich Wilhelm IV accepted the crown offered to him", "Women were present only as spectators"],
+          "answerIndex": 2,
+          "explanation": "Friedrich Wilhelm IV of Prussia rejected the crown offered by the Frankfurt Parliament, leading to its failure.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Who was proclaimed the German Emperor at Versailles in January 1871?",
+          "options": ["Otto von Bismarck", "Kaiser William I of Prussia", "Friedrich Wilhelm IV", "Victor Emmanuel II"],
+          "answerIndex": 1,
+          "explanation": "After Bismarck's three wars, William I of Prussia was proclaimed German Emperor at Versailles in January 1871.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "United Italy was proclaimed a kingdom under Victor Emmanuel II in the year",
+          "options": ["1859", "1860", "1861", "1871"],
+          "answerIndex": 2,
+          "explanation": "Victor Emmanuel II was proclaimed King of united Italy in 1861 after Garibaldi's southern campaign.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The volunteers led by Garibaldi in southern Italy were popularly known as",
+          "options": ["Red Shirts", "Black Shirts", "Young Italy", "Carbonari"],
+          "answerIndex": 0,
+          "explanation": "Garibaldi's volunteers, famous as Red Shirts, marched to southern Italy in 1860.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Germania, the allegory of Germany, wears a crown of",
+          "options": ["Red cap", "Oak leaves", "Tricolour ribbon", "Cockade"],
+          "answerIndex": 1,
+          "explanation": "Germania wears a crown of oak leaves, as German oak symbolises heroism.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Greece was recognised as an independent nation by the Treaty of Constantinople in",
+          "options": ["1821", "1830", "1832", "1848"],
+          "answerIndex": 2,
+          "explanation": "The Treaty of Constantinople of 1832 recognised Greece as an independent nation.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Act of Union of 1707 resulted in the formation of",
+          "options": ["United Kingdom of Great Britain", "Kingdom of Italy", "German Empire", "Kingdom of Netherlands"],
+          "answerIndex": 0,
+          "explanation": "The Act of Union of 1707 united England and Scotland into the United Kingdom of Great Britain.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Who among the following argued that the true spirit of a nation was to be discovered among its common people, das volk?",
+          "options": ["Johann Gottfried Herder", "Frederic Sorrieu", "Count Cavour", "Kaiser William I"],
+          "answerIndex": 0,
+          "explanation": "Johann Gottfried Herder, the German philosopher, believed that true German culture lived among the common people, das volk.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "After the revolution of 1830 in France, the constitutional monarch who came to power was",
+          "options": ["Louis Philippe", "Charles X", "Napoleon Bonaparte", "Louis XVI"],
+          "answerIndex": 0,
+          "explanation": "The 1830 revolution overthrew Charles X and made Louis Philippe the constitutional monarch of France.",
+          "difficulty": "medium"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Explain the meaning of liberalism in the political and economic spheres.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Political liberalism: it stood for the end of autocracy and clerical privileges, a constitution, representative government elected through parliament, and an independent judiciary. 2) It emphasised individual freedom and equality before law. 3) Economic liberalism: it demanded freedom of markets and removal of state imposed restrictions on the movement of goods and capital. The Zollverein of 1834 was its practical example, abolishing tariff barriers across German states."
+        },
+        {
+          "question": "Describe any three features of the Napoleonic Code.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) It abolished all privileges based on birth and established equality before the law. 2) It secured the right to property for every citizen. 3) Administrative divisions were simplified and uniform laws were applied across Napoleon's empire. 4) A decimal system of weights and measures and better roads and transport helped trade. 5) In the Rhineland and other conquered areas it freed peasants from serfdom and manorial dues. Yet increased taxation, censorship and forced conscription later turned people against French rule."
+        },
+        {
+          "question": "Why did the Frankfurt Parliament fail to achieve its aim?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) The Frankfurt Parliament of 1848, with 831 elected members, met in St Paul's Church and drafted a constitution for a German nation. 2) But it lost support because its members were mostly middle class professionals who lacked mass backing. 3) When the crown was offered to Friedrich Wilhelm IV of Prussia, he refused it, and other monarchs and the army opposed the assembly. Troops were called, the parliament was disbanded and women remained only spectators. Thus liberal hopes of unification through parliament failed."
+        },
+        {
+          "question": "How were nations personified as female figures? Explain with examples.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Nations were portrayed as female figures to give the abstract idea of the nation a visible form. 1) In France, Marianne wore the red cap, tricolour and cockade; her statues stood in squares and her images appeared on coins and stamps. 2) In Germany, Germania wore a crown of oak leaves, for German oak stood for heroism; Philip Veit's painting of Germania hung in the Church of St Paul where the Frankfurt Parliament met. 3) Such images united people emotionally and helped them identify with the nation."
+        },
+        {
+          "question": "Describe the process of unification of Germany and Italy, highlighting the role of Bismarck, Cavour and Garibaldi.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "Germany: 1) Liberal hopes of 1848 failed, so unification shifted to Prussia. 2) Chief Minister Otto von Bismarck, with the army and bureaucracy, fought three wars in seven years against Denmark, Austria and France. 3) Prussia's victories completed the process and in January 1871 Kaiser William I was proclaimed German Emperor at Versailles. Italy: 1) Italy was divided into seven states, with Sardinia Piedmont under Victor Emmanuel II leading unification. 2) Chief Minister Cavour formed a diplomatic alliance with France in 1859 and defeated Austria. 3) In 1860, Garibaldi marched south with his Red Shirt volunteers, won peasant support and captured the Kingdom of the Two Sicilies. 4) In 1861, Victor Emmanuel II was proclaimed King of united Italy. Mazzini's earlier revolutionary ideas had prepared the ground for both nations."
+        },
+        {
+          "question": "What steps were taken by the Treaty of Vienna 1815? Why did the conservative regimes established after it fear nationalism?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) The Bourbon dynasty was restored to power in France. 2) France lost the territories it had annexed under Napoleon. 3) Belgium was united with the Netherlands, and Genoa was given to Sardinia Piedmont. 4) Austria got control of northern Italy, Prussia received important new territories on its western frontier and Russia took part of Poland. 5) The main aim was to restore the monarchies overthrown by Napoleon and create a new conservative order. 6) Conservative regimes of 1815 were autocratic: they did not tolerate criticism, imposed censorship on press, books, plays and songs, and feared the ideas of liberty and equality spread by the French Revolution. This repression pushed many people towards secret societies and revolutionary activity."
+        },
+        {
+          "question": "Read the source and answer the questions: Frederic Sorrieu, a French artist, made a series of four prints in 1848 visualising his dream of a world made up of democratic and social republics. In the first print, the peoples of the world are grouped as distinct nations, identified through their flags and costumes, marching past the statue of Liberty. (a) Name the artist and the year of the prints. (b) What is meant by a utopian vision? (c) What, according to Sorrieu, would the world of the future become?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "(a) Frederic Sorrieu, a French artist, made the four prints in 1848. (b) A utopian vision is a dream of an ideal society that does not yet exist in reality; Sorrieu imagined a perfect world order of free and equal democratic nations, which Europe of 1848 had not achieved. (c) He expected that the states of the world would one day become democratic and social republics, where people of every nation would live as equal citizens, marching as distinct nations under their own flags. His print shows the dream of nationalism, liberty and fraternity spreading across the world."
+        },
+        {
+          "question": "Describe the social structure of Europe in the eighteenth century.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) The aristocracy was the dominant class, owning estates in town and country, united by marriage alliances and speaking French in high society. 2) The peasantry formed the majority of the population and tilled land owned by landlords, often under serfdom in central and eastern Europe. 3) From the mid eighteenth century, industrialisation created a working class in factories and a middle class of industrialists, businessmen and professionals, which later carried liberal and nationalist ideas."
+        },
+        {
+          "question": "Who were the main carriers of the idea of national unity in Europe after 1815? Explain the role of the educated middle class.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) After 1815, the idea of national unity became popular mainly among the educated, liberal middle classes of Europe. 2) This class had grown with industrialisation and included industrialists, businessmen and professionals like lawyers and doctors. 3) They wanted a nation based on equality before law, constitutional government and freedom of markets, replacing the privileges of the aristocracy. 4) They spread their ideas through secret societies like the Carbonari, through liberal demands for constitutions, and through movements like the Frankfurt Parliament of 1848, with Mazzini as their most famous spokesman."
+        },
+        {
+          "question": "Explain the role of the middle class and of women in the growth of nationalism in Europe.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "Middle class: 1) Industrialisation from the late eighteenth century created a working class and a middle class of industrialists, businessmen and professionals. 2) Among the educated, liberal middle class, ideas of national unity and the abolition of aristocratic privilege became popular, and they promoted constitutions, parliaments and free markets. 3) They organised politically through secret societies, universities and movements like the Frankfurt Parliament of 1848, which drafted a constitution for a German nation. Women: 4) Women of the liberal middle classes attended political meetings and demonstrations, formed their own associations and founded newspapers demanding equal rights; Louise Otto-Peters founded the Frauenzeitung and a political association for women's rights. 5) Yet women were denied suffrage and sat only as spectators in the Frankfurt Parliament, showing that the liberal nationalism of the age had limits and that the struggle for political equality continued."
+        },
+        {
+          "question": "How did culture, folklore and language help in the growth of nationalism in Europe? Explain with examples.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Romanticism used art, poetry, stories and music to create and share the feeling of a common national heritage. 2) Johann Gottfried Herder argued that the true spirit of a nation lived among its common people, das volk, so collecting folk songs, folk tales and dances became a way of preserving national identity. 3) In Poland, language itself became a weapon: after the 1831 revolt was crushed and Russian was imposed, the Polish clergy used Polish for religious instruction, and many priests were jailed or exiled for refusing to give it up. 4) Composer Karol Kurpinski turned folk dances like the polonaise and mazurka into nationalist symbols, and music kept Polish feeling alive under foreign rule. 5) Thus culture gave people a shared past and identity, mobilising them for the nation even where politics was suppressed."
+        },
+        {
+          "question": "Read the source and answer the questions: In the Frankfurt Parliament of 1848, women were admitted only as spectators. Middle class women had nevertheless formed their own political associations and founded newspapers. Louise Otto-Peters founded the Frauenzeitung and a political association for women's rights, demanding that women be included when political rights were proclaimed. (a) How did women participate in political life in the nineteenth century? (b) What rights were women denied during the 1848 revolutions? (c) What does Louise Otto-Peters' demand tell us about liberal nationalism?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "(a) Women of the liberal middle classes participated actively: they attended political meetings and demonstrations, formed their own political associations and founded newspapers like the Frauenzeitung to demand equal rights. (b) They were denied the right to vote and to be elected; in the Frankfurt Parliament women could sit only as spectators in the visitors' gallery, and their demand for suffrage was rejected. (c) Her demand shows that liberal nationalism claimed liberty and equality for all citizens but in practice granted political rights mainly to propertied men, so the demand for women's political equality became part of the wider struggle for democracy."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Nationalism in India",
+      "summary": "This chapter explains how anti colonial feeling became a mass movement under Mahatma Gandhi. It follows the journey from Satyagraha, the Rowlatt Act and Non Cooperation to the Salt March, Civil Disobedience and the idea of Poorna Swaraj, ending with how Indians developed a sense of collective belonging.",
+      "weightageMarks": 5,
+      "difficulty": "hard",
+      "hotTopics": [
+        "Salt March and Civil Disobedience Movement",
+        "Non Cooperation and Khilafat Movement",
+        "Rowlatt Act and Jallianwala Bagh",
+        "Limits of Civil Disobedience (Dalits and Muslims)",
+        "Sense of collective belonging (Bharat Mata, flag, folklore)"
+      ],
+      "sections": [
+        {
+          "heading": "First World War, Khilafat and Early Satyagraha",
+          "points": [
+            "The First World War of 1914 to 1918 increased defence spending; taxes, customs duties and income tax rose.",
+            "Prices doubled between 1913 and 1918; forced recruitment in villages created anger across rural India.",
+            "Crop failures and the influenza epidemic of 1918 to 1921 killed 12 to 13 million people as per the 1921 census.",
+            "Mahatma Gandhi returned to India from South Africa in January 1915 and introduced Satyagraha.",
+            "Satyagraha stressed truth and non violence; the oppressor could be won over by appealing to conscience.",
+            "Early struggles: Champaran 1917 for indigo planters, Kheda 1918 for peasants, Ahmedabad 1918 for cotton mill workers."
+          ],
+          "keyTerms": [
+            { "term": "Satyagraha", "meaning": "Gandhi's method of mass struggle based on truth and non violence, without seeking revenge." },
+            { "term": "Champaran Satyagraha 1917", "meaning": "Gandhi's first movement in India, supporting indigo planters against the oppressive plantation system." },
+            { "term": "Kheda Satyagraha 1918", "meaning": "Support to Gujarat peasants who could not pay revenue after crop failure and plague." }
+          ],
+          "trick": "Remember C K A: Champaran (17), Kheda (18), Ahmedabad (18), Gandhi's first three steps in India.",
+          "examPointer": "Matching Satyagraha locations with issues is a common MCQ; define Satyagraha appears as a 1 or 2 marker."
+        },
+        {
+          "heading": "Rowlatt Act, Jallianwala Bagh and Khilafat",
+          "points": [
+            "The Rowlatt Act of 1919 allowed detention of political prisoners without trial for two years.",
+            "It was pushed through the Imperial Legislative Council despite united opposition of Indian members.",
+            "Gandhi launched a nationwide Satyagraha; 6 April 1919 was observed as a countrywide hartal.",
+            "On 13 April 1919, General Dyer's troops fired on a peaceful Baisakhi crowd at Jallianwala Bagh, Amritsar.",
+            "People had gathered to protest the arrest of leaders Saifuddin Kitchlew and Satyapal; exits were blocked.",
+            "To unite Hindus and Muslims, Gandhi supported the Khilafat cause; in September 1920 the Calcutta session approved Non Cooperation."
+          ],
+          "keyTerms": [
+            { "term": "Rowlatt Act 1919", "meaning": "Black law permitting arrest and detention of political prisoners without trial for two years." },
+            { "term": "Jallianwala Bagh massacre", "meaning": "Firing by General Dyer's troops on a peaceful gathering at Amritsar on 13 April 1919." },
+            { "term": "Khilafat Committee", "meaning": "Organisation formed to defend the Ottoman Caliph; led by Muhammad Ali and Shaukat Ali." }
+          ],
+          "trick": "Rowlatt means no trial for two years. Jallianwala: Baisakhi day, 13 April 1919. Khilafat plus Non Cooperation equals the Hindu Muslim unity plan.",
+          "examPointer": "Jallianwala Bagh and the Rowlatt Act are evergreen 2 and 3 markers; the reason for the nationwide Satyagraha against the Act is often asked."
+        },
+        {
+          "heading": "Non Cooperation Movement in Towns, Villages and Forests",
+          "points": [
+            "The Non Cooperation Khilafat Movement began in January 1921 with boycott of schools, colleges, courts, titles and foreign cloth.",
+            "Middle classes led in cities; students left schools, teachers resigned, lawyers gave up practice and council elections were boycotted.",
+            "In Awadh, Baba Ramchandra led peasants against talukdars, demanding reduction of revenue and abolition of begar.",
+            "The Oudh Kisan Sabha, set up in 1920 by Jawaharlal Nehru and Baba Ramchandra, organised peasant protests.",
+            "In the Gudem hills of Andhra, Alluri Sitaram Raju led tribal guerrillas claiming special spiritual powers.",
+            "In February 1922 at Chauri Chaura, Gorakhpur, demonstrators burnt a police station; Gandhi withdrew the movement."
+          ],
+          "keyTerms": [
+            { "term": "Non Cooperation Movement", "meaning": "Mass movement from January 1921 boycotting British institutions, titles, schools, courts and foreign goods." },
+            { "term": "Baba Ramchandra", "meaning": "Sanyasi and former indentured labourer in Fiji who led Awadh peasants against talukdars and landlords." },
+            { "term": "Alluri Sitaram Raju", "meaning": "Tribal leader of the Gudem hills who claimed powers and led guerrilla resistance; executed in 1924." },
+            { "term": "Begar", "meaning": "Unpaid forced labour demanded by landlords and the colonial state." }
+          ],
+          "trick": "Boycott list: Titles, Schools, Colleges, Courts, Cloth, Councils. Chauri Chaura 1922: one fire ended the movement.",
+          "examPointer": "Why was Non Cooperation withdrawn, and the participation of different social groups, are repeated 3 markers; Raju and Ramchandra appear in MCQs."
+        },
+        {
+          "heading": "Towards Poorna Swaraj: Simon Commission and Lahore Session",
+          "points": [
+            "The Simon Commission, formed to review the constitutional system, had not a single Indian member.",
+            "It arrived in 1928 and was greeted with the slogan 'Go back Simon' by Congress and the Muslim League alike.",
+            "Lord Irwin's October 1929 offer of vague dominion status did not satisfy Congress leaders.",
+            "At the Lahore Session of December 1929, presided over by Jawaharlal Nehru, Congress pledged Poorna Swaraj.",
+            "Poorna Swaraj meant complete independence, not dominion status within the empire.",
+            "26 January 1930 was celebrated as the first Independence Day across India."
+          ],
+          "keyTerms": [
+            { "term": "Simon Commission 1928", "meaning": "Constitutional review body without any Indian member; opposed by all parties." },
+            { "term": "Poorna Swaraj", "meaning": "Complete independence, demanded at the Lahore Session of December 1929." },
+            { "term": "Lahore Session", "meaning": "December 1929 Congress session under Jawaharlal Nehru that declared complete independence as its goal." }
+          ],
+          "trick": "1928 Simon comes, 1929 Swaraj speaks, 1930 Independence Day is born on 26 January.",
+          "examPointer": "MCQs on the Simon Commission's year and Nehru's presidency of the Lahore Session are very common in boards."
+        },
+        {
+          "heading": "Salt March and Civil Disobedience Movement",
+          "points": [
+            "Gandhi sent eleven demands to Viceroy Irwin; abolition of the salt tax was the most stirring.",
+            "The Salt March began on 12 March 1930 from Sabarmati Ashram with 78 trusted volunteers.",
+            "Walking 240 miles in 24 days, Gandhi reached Dandi on 6 April 1930 and broke the salt law.",
+            "People broke salt laws everywhere; foreign cloth was boycotted, and peasants refused revenue and chaukidari taxes.",
+            "The government replied with brutal repression; thousands of satyagrahis, including Gandhi and Nehru, were arrested.",
+            "The Gandhi Irwin Pact of 5 March 1931 released prisoners; after the failed Round Table Conference the movement revived but faded by 1934."
+          ],
+          "keyTerms": [
+            { "term": "Salt Satyagraha", "meaning": "Breaking the salt law by making salt from seawater at Dandi, starting Civil Disobedience." },
+            { "term": "Civil Disobedience Movement", "meaning": "Mass movement from 1930 urging people to openly break colonial laws they considered unjust." },
+            { "term": "Gandhi Irwin Pact 1931", "meaning": "Agreement of 5 March 1931: government released political prisoners; Gandhi agreed to attend the Second Round Table Conference." }
+          ],
+          "trick": "78 marchers, 24 days, 240 miles: remember 78, 24, 240. Dandi on 6 April 1930: salt for the nation.",
+          "examPointer": "Why did Gandhi choose salt, and features of Civil Disobedience, are high frequency 3 and 5 markers; the Dandi date is a sure MCQ."
+        },
+        {
+          "heading": "Limits of the Movement: Dalits, Muslims and Plantation Workers",
+          "points": [
+            "Gandhi called untouchables Harijan, children of God, and fought for their temple entry and dignity.",
+            "Dr B R Ambedkar demanded separate electorates for dalits; his clash with Gandhi produced the Poona Pact of September 1932.",
+            "The Poona Pact gave depressed classes reserved seats in councils, but with votes of the general electorate.",
+            "Plantation workers, trapped by the Inland Emigration Act of 1859, saw swaraj as freedom to move and return home.",
+            "Muslim leaders feared minority culture would be submerged under Hindu majority politics.",
+            "Jinnah wanted reserved seats for Muslims in the Central Assembly and proportional representation in Bengal and Punjab; talks failed."
+          ],
+          "keyTerms": [
+            { "term": "Poona Pact 1932", "meaning": "Agreement giving dalits reserved seats in legislatures with a general electorate, instead of separate electorates." },
+            { "term": "Separate electorates", "meaning": "Demand that dalits be elected only by dalit voters; supported by Ambedkar, opposed by Gandhi." },
+            { "term": "Inland Emigration Act 1859", "meaning": "Law that stopped plantation workers from leaving tea gardens without permission." },
+            { "term": "Muhammad Ali Jinnah", "meaning": "Muslim League leader who sought reserved seats and proportional representation for Muslims." }
+          ],
+          "trick": "P for Poona Pact 1932: reserved seats with the general vote. The Inland Emigration Act 1859 trapped garden workers.",
+          "examPointer": "Limits of the Civil Disobedience Movement is a standard 3 to 5 marker; the Poona Pact year and the Ambedkar Gandhi clash are frequent MCQs."
+        },
+        {
+          "heading": "Sense of Collective Belonging",
+          "points": [
+            "Bankim Chandra Chattopadhyay wrote Vande Mataram, later included in his novel Anandamath.",
+            "Abanindranath Tagore's 1905 painting showed Bharat Mata as a calm, composed, divine and ascetic figure.",
+            "Rabindranath Tagore collected ballads and folk tales; Natesa Sastri published four volumes of Tamil folk tales.",
+            "The swadeshi flag was a tricolour of red, green and yellow with eight lotuses and a crescent moon.",
+            "Gandhi's 1921 Swaraj flag was a tricolour of red, green and white with a spinning wheel at the centre.",
+            "History was reinterpreted to glorify India's past achievements, though it sometimes divided communities."
+          ],
+          "keyTerms": [
+            { "term": "Bharat Mata", "meaning": "Female image of India as a divine mother, first painted by Abanindranath Tagore in 1905." },
+            { "term": "Vande Mataram", "meaning": "Hymn written by Bankim Chandra Chattopadhyay in the 1870s, later a nationalist slogan." },
+            { "term": "Swaraj flag 1921", "meaning": "Tricolour of red, green and white with a spinning wheel, symbolising the Gandhian ideal of self help." }
+          ],
+          "trick": "BFFH: Bharat Mata, Folklore, Flag, History, the four builders of collective belonging. Eight lotuses, one crescent, one charkha.",
+          "examPointer": "How did people develop a sense of collective belonging is a classic 5 marker; flag symbols and Bharat Mata appear as MCQs."
+        },
+        {
+          "heading": "The Idea of Satyagraha and Gandhiji's Beliefs",
+          "points": [
+            "Mahatma Gandhi returned to India in January 1915 after leading Satyagraha struggles in South Africa from 1893 to 1914.",
+            "In South Africa he had fought racial discrimination against Indians, testing truth and non violence as weapons of the weak.",
+            "In his book Hind Swaraj of 1909, he declared that British rule was established and survived in India only with the cooperation of Indians.",
+            "If Indians refused to cooperate, British rule would collapse within a year and swaraj would come.",
+            "Satyagraha suggested that if the cause was true and the fight was against injustice, physical force was not needed to win.",
+            "A satyagrahi wins by appealing to the conscience of the oppressor, without being aggressive or seeking vengeance.",
+            "Champaran in 1917, Kheda in 1918 and Ahmedabad in 1918 were the first experiments of this method in India."
+          ],
+          "keyTerms": [
+            { "term": "Hind Swaraj", "meaning": "Book written by Mahatma Gandhi in 1909 arguing that British rule survived only on Indian cooperation." },
+            { "term": "Soul force", "meaning": "Gandhi's description of Satyagraha, the power of truth and non violence against injustice." },
+            { "term": "Satyagraha in South Africa", "meaning": "Gandhi's struggles of 1893 to 1914 against racial discrimination, where he perfected non violent protest." }
+          ],
+          "trick": "1909 Hind Swaraj: no cooperation, no empire. South Africa 1893 to 1914 was the rehearsal; India was the stage.",
+          "examPointer": "The idea of Satyagraha and the message of Hind Swaraj are asked as 2 and 3 markers; Gandhi's South African years appear in MCQs."
+        },
+        {
+          "heading": "Who Joined the Civil Disobedience Movement and Why",
+          "points": [
+            "Rich peasant communities like the Patidars of Gujarat and the Jats of Uttar Pradesh joined the movement actively.",
+            "For them the fight for swaraj was a struggle against high revenue, since falling prices had cut their cash incomes.",
+            "Merchants and industrialists supported it, hoping for protection against imports and freedom from colonial control of trade.",
+            "Industrial workers participated only selectively, as Gandhiji did not want the movement to turn into class conflict.",
+            "Women participated in large numbers, marching, manufacturing salt and picketing liquor and foreign cloth shops.",
+            "Gandhiji held that a woman's home was her true place, but for many women the movement became a sacred duty."
+          ],
+          "keyTerms": [
+            { "term": "Patidars", "meaning": "Rich peasant community of Gujarat that joined the Civil Disobedience Movement demanding reduction of revenue." },
+            { "term": "Picketing", "meaning": "Peaceful protest outside liquor and foreign cloth shops to stop people from buying there." },
+            { "term": "Rich peasants", "meaning": "Producers of commercial crops whose incomes fell with the Depression, making them demand tax reduction." }
+          ],
+          "trick": "Patidars and Jats fought the tax; merchants fought imports; women picketed cloth and liquor; workers watched.",
+          "examPointer": "Why different social groups joined the Civil Disobedience Movement, with their hopes and limits, is a repeated 3 and 5 marker."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Mahatma Gandhi returned to India from South Africa in",
+          "options": ["1912", "January 1915", "1916", "1919"],
+          "answerIndex": 1,
+          "explanation": "Gandhi returned to India in January 1915 after his successful struggles in South Africa.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The Satyagraha at Champaran in 1917 was related to",
+          "options": ["Cotton mill workers of Ahmedabad", "Indigo planters of Champaran", "Peasants of Kheda", "Tea garden workers of Assam"],
+          "answerIndex": 1,
+          "explanation": "Champaran 1917 was for indigo planters; Kheda and Ahmedabad both came in 1918.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The Rowlatt Act of 1919 gave the government the power to",
+          "options": ["Impress labour for the army", "Detain political prisoners without trial for two years", "Ban the sale of salt", "Confiscate foreign cloth"],
+          "answerIndex": 1,
+          "explanation": "The Rowlatt Act allowed detention of political prisoners without trial for two years.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "General Dyer fired on a peaceful crowd at Jallianwala Bagh on",
+          "options": ["6 April 1919", "13 April 1919", "12 March 1930", "26 January 1930"],
+          "answerIndex": 1,
+          "explanation": "On 13 April 1919, Baisakhi day, Dyer's troops fired on a peaceful crowd at Amritsar.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The Non Cooperation Movement was called off after violence at",
+          "options": ["Dandi", "Chauri Chaura", "Amritsar", "Bardoli"],
+          "answerIndex": 1,
+          "explanation": "After violence at Chauri Chaura in February 1922, Gandhi withdrew the Non Cooperation Movement.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Alluri Sitaram Raju organised a militant guerrilla movement in the Gudem hills of",
+          "options": ["Awadh", "Andhra Pradesh", "Bengal", "Punjab"],
+          "answerIndex": 1,
+          "explanation": "Alluri Sitaram Raju led the Gudem hills tribal movement in Andhra Pradesh; he was executed in 1924.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Lahore Session of December 1929, which declared Poorna Swaraj, was presided over by",
+          "options": ["Motilal Nehru", "Jawaharlal Nehru", "Subhas Chandra Bose", "Sardar Patel"],
+          "answerIndex": 1,
+          "explanation": "Jawaharlal Nehru presided over the Lahore Session where Poorna Swaraj was declared.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "How many volunteers marched with Gandhiji from Sabarmati to Dandi?",
+          "options": ["24", "78", "144", "240"],
+          "answerIndex": 1,
+          "explanation": "Gandhi began the Salt March with 78 volunteers, walking 240 miles in 24 days.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Gandhi Irwin Pact was signed on",
+          "options": ["5 March 1931", "6 April 1930", "5 March 1930", "26 January 1931"],
+          "answerIndex": 0,
+          "explanation": "The Gandhi Irwin Pact was signed on 5 March 1931 before the Second Round Table Conference.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Poona Pact of September 1932 was signed between Gandhiji and",
+          "options": ["Lord Irwin", "Dr B R Ambedkar", "Muhammad Ali Jinnah", "Lord Reading"],
+          "answerIndex": 1,
+          "explanation": "The Poona Pact of September 1932 gave dalits reserved seats instead of separate electorates.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The first image of Bharat Mata was painted by",
+          "options": ["Bankim Chandra Chattopadhyay", "Abanindranath Tagore", "Rabindranath Tagore", "Nandlal Bose"],
+          "answerIndex": 1,
+          "explanation": "Abanindranath Tagore painted the first Bharat Mata image in 1905 as a calm, ascetic figure.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Who strongly opposed the compromise efforts between Congress and Muslim League leaders in 1928?",
+          "options": ["M R Jayakar of the Hindu Mahasabha", "Muhammad Ali Jinnah", "Motilal Nehru", "Lord Irwin"],
+          "answerIndex": 0,
+          "explanation": "M R Jayakar of the Hindu Mahasabha strongly opposed the 1928 compromise talks, which then failed.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Hind Swaraj, in which Gandhiji argued that British rule survived only with Indian cooperation, was written in",
+          "options": ["1905", "1909", "1915", "1921"],
+          "answerIndex": 1,
+          "explanation": "Gandhiji wrote Hind Swaraj in 1909, declaring that if Indians refused to cooperate, British rule would collapse within a year.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Rich peasants like the Patidars of Gujarat joined the Civil Disobedience Movement mainly because they",
+          "options": ["Wanted higher wages for farm labourers", "Wanted reduction of revenue as prices of their crops fell", "Supported separate electorates for dalits", "Opposed the boycott of foreign cloth"],
+          "answerIndex": 1,
+          "explanation": "With agricultural prices falling during the Depression, rich peasants like the Patidars joined the movement to demand reduction of revenue.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why did Gandhiji decide to withdraw the Non Cooperation Movement in 1922?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "year": "CBSE 2015",
+          "answer": "1) In February 1922, during the Non Cooperation Movement, a demonstration at Chauri Chaura in Gorakhpur district turned violent. 2) The crowd clashed with police and burnt the police station, killing policemen. 3) Gandhiji believed such violence contradicted Satyagraha, which rests on truth and non violence. 4) He felt the mass of volunteers was not yet ready for a disciplined non violent struggle. 5) So he withdrew the movement, even though many Congress leaders disagreed, showing that he valued non violence above the movement's immediate gains."
+        },
+        {
+          "question": "Describe the early Satyagraha movements of Gandhiji in India between 1917 and 1918.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Champaran 1917: Gandhiji supported indigo planters against the oppressive plantation system. 2) Kheda 1918: he supported peasants who could not pay revenue after crop failure and plague. 3) Ahmedabad 1918: he organised cotton mill workers in their struggle for justice. In all three he used Satyagraha, winning through truth and non violence."
+        },
+        {
+          "question": "Why did Gandhiji choose salt to launch the Civil Disobedience Movement?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Salt was consumed by the rich and the poor alike, so it united every section of society. 2) It was the most basic necessity of life, and the salt tax made even this a symbol of colonial exploitation. 3) Abolition of the salt tax was the most stirring of the eleven demands sent to Viceroy Irwin. 4) Breaking the salt law required no money or property, so every Indian, whether farmer, worker, woman or student, could openly participate. Gandhiji also knew such an act would attract nationwide attention and expose the injustice of colonial rule peacefully."
+        },
+        {
+          "question": "Explain any three limitations of the Civil Disobedience Movement.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Dalit participation remained limited. Dr B R Ambedkar demanded separate electorates for dalits and clashed with Gandhiji at the Second Round Table Conference; the Poona Pact of September 1932 followed, but many dalits still stayed away. 2) Large sections of Muslims remained lukewarm, fearing that minority culture would be submerged under the domination of a Hindu majority; talks between Jinnah and Congress leaders failed in 1928. 3) Industrial workers participated only selectively, mainly in the Nagpur region, as strikes often threatened their own jobs and interests."
+        },
+        {
+          "question": "Describe the main features of the Civil Disobedience Movement. How did the government respond to it?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) The movement began with the Salt March: on 12 March 1930, Gandhiji walked from Sabarmati to Dandi with 78 volunteers and broke the salt law on 6 April. 2) People everywhere violated the salt law by making salt and holding demonstrations. 3) Foreign cloth was boycotted and burnt, liquor shops were picketed, and peasants refused to pay revenue and chaukidari taxes; forest people violated forest laws, and women joined in large numbers. 4) Foreign cloth imports nearly halved between 1921 and 1922 earlier in Non Cooperation, and boycotts continued now; Indian mills and handlooms gained. 5) The government responded with brutal repression: peaceful satyagrahis were attacked, women and children were beaten, and thousands, including Gandhiji and Jawaharlal Nehru, were arrested. 6) The Gandhi Irwin Pact of 5 March 1931 released prisoners and Gandhiji attended the Second Round Table Conference in London, which failed. 7) On his return the movement was renewed but had lost momentum by 1934."
+        },
+        {
+          "question": "How did people develop a sense of collective belonging during the Indian national movement? Explain.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Image of the nation: Bankim Chandra Chattopadhyay wrote Vande Mataram, and Abanindranath Tagore painted Bharat Mata in 1905 as a calm, divine, ascetic figure, giving India a motherly image. 2) Folklore: nationalists like Rabindranath Tagore in Bengal and Natesa Sastri in Tamil country collected folk tales, ballads and songs to show that true Indian culture lived among common people. 3) Flag: during the swadeshi movement a tricolour of red, green and yellow carried eight lotuses for eight provinces and a crescent moon for Hindus and Muslims; in 1921 Gandhiji designed the Swaraj flag with a spinning wheel. 4) History: Indians reinterpreted history to highlight the glories of ancient India in art, science, trade and philosophy, urging people to take pride in their past. Together these symbols created a sense of collective belonging, though appeals to ancient glory sometimes divided communities."
+        },
+        {
+          "question": "Read the source and answer the questions: On 12 March 1930, Gandhiji began his march from Sabarmati Ashram to the coastal village of Dandi with 78 trusted volunteers. Walking over 240 miles in 24 days, he reached Dandi on 6 April 1930 and ceremonially violated the salt law by manufacturing salt from seawater. (a) Name the starting point and destination of the march. (b) Why did Gandhiji choose salt as his target? (c) What was the significance of violating the salt law?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "(a) The march began at Sabarmati Ashram in Gujarat and ended at the coastal village of Dandi. (b) Gandhiji chose salt because it was consumed by the rich and poor alike and its tax symbolised the injustice of colonial rule; it was the most stirring of his eleven demands, and breaking the salt law allowed every Indian to participate. (c) By boiling seawater and making salt at Dandi on 6 April 1930, he openly violated the salt law, launching the Civil Disobedience Movement. It signalled that colonial laws could be defied peacefully, inspiring people across India to break laws, boycott foreign cloth and refuse taxes."
+        },
+        {
+          "question": "What was the message of Gandhiji's Hind Swaraj? Answer in brief.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "In Hind Swaraj of 1909, Gandhiji declared that British rule was established in India with the cooperation of Indians and had survived only because of this cooperation. If Indians refused to cooperate, British rule would collapse within a year and swaraj would come. He therefore wanted a non violent mass struggle of non cooperation rather than armed revolt against the British."
+        },
+        {
+          "question": "Explain the idea of Satyagraha. How did Gandhiji practice it in South Africa and in India?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Satyagraha emphasised the power of truth and the need to search for truth; it suggested that if the cause was true and the fight was against injustice, physical force was not needed. 2) A satyagrahi wins by appealing to the conscience of the oppressor, without being aggressive or seeking vengeance. 3) In South Africa between 1893 and 1914, Gandhiji used Satyagraha against racial discrimination against Indians. In India he first applied it at Champaran in 1917 for indigo planters, at Kheda in 1918 for peasants unable to pay revenue, and at Ahmedabad in 1918 for cotton mill workers."
+        },
+        {
+          "question": "Why did different social groups join the Civil Disobedience Movement? Explain the hopes of rich peasants, merchants, women and workers.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Rich peasants like the Patidars of Gujarat and the Jats of Uttar Pradesh fought for swaraj as a struggle against high revenue, since agricultural prices had collapsed during the Depression and their cash incomes had fallen. 2) Merchants and industrialists supported the movement hoping for protection against imports and freedom from colonial control of business, and grew critical of colonial economic policies. 3) Women joined in large numbers: they marched, manufactured salt, picketed liquor and foreign cloth shops and courted arrest, seeing service to the nation as a sacred duty. 4) Industrial workers participated only selectively, mainly in the Nagpur region, as Gandhiji did not want the movement to become a class conflict that threatened jobs. 5) Each group imagined swaraj in its own way, which gave the movement great strength but also limited its unity."
+        },
+        {
+          "question": "Describe the role of women in the Civil Disobedience Movement. Why did their participation not change their everyday position much?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) During the Salt March and the Civil Disobedience Movement, thousands of women came out of their homes to listen to Gandhiji, join protest marches, manufacture salt and picket foreign cloth and liquor shops. 2) Many were arrested and jailed, and newspapers reported them as devoted mothers and wives serving the nation. 3) Their participation gave the movement a genuinely mass character and brought families into public life for the first time. 4) But for Gandhiji himself, home and hearth remained the natural place for women, and he described their service as a sacred duty rather than a claim to political equality. 5) Hence the increased public role of women did not bring a radical change in their position, and demands for equal political rights remained separate from the movement's goals."
+        },
+        {
+          "question": "Read the source and answer the questions: The image of Bharat Mata helped create a sense of collective belonging among Indians. Painted by Abanindranath Tagore in 1905, Bharat Mata is portrayed as an ascetic figure; she is calm, composed, divine and spiritual. The image circulated in popular prints, and devotion to this mother figure was seen as evidence of one's nationalism. (a) Who painted the famous image of Bharat Mata and in which year? (b) How is Bharat Mata portrayed in this image? (c) How did such images build a feeling of nationalism?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "(a) The famous image of Bharat Mata was painted by Abanindranath Tagore in 1905. (b) In this image Bharat Mata is shown as a calm, composed, divine and ascetic figure, giving the nation the form of a spiritual mother rather than a warrior goddess. (c) Devotion to the mother figure became a way of showing love for the country; popular prints carried the image to every home, so even people who could not attend political meetings could feel connected to the nation. Along with folklore, the flag and reinterpreted history, such symbols created a sense of collective belonging that strengthened the national movement."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Making of a Global World",
+      "summary": "This chapter shows how trade, migration and capital flows connected distant parts of the world from the ancient silk routes to the global economy of the nineteenth century. It then explains the Great Depression of 1929 and how the Bretton Woods institutions rebuilt the post Second World War economy.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Great Depression and its impact on India",
+        "Bretton Woods institutions IMF and World Bank",
+        "Rinderpest and colonisation of Africa",
+        "Silk routes and pre modern trade",
+        "Nineteenth century global economy and Corn Laws"
+      ],
+      "sections": [
+        {
+          "heading": "Silk Routes Link the World",
+          "points": [
+            "Silk routes linked Asia with Europe and northern Africa long before the modern age, carrying goods and culture.",
+            "Chinese pottery, Indian textiles and spices moved west; gold and silver flowed from Europe to Asia.",
+            "Buddhism spread through silk routes; later Christian missionaries and Muslim preachers travelled with traders.",
+            "Food also travelled: traders, priests and pilgrims carried noodles, spaghetti and other dishes across regions.",
+            "After Columbus's voyages, American crops like potatoes, maize, tomatoes, chillies and groundnuts reached Europe and Asia.",
+            "The potato improved the food supply of Europe's poor; potato failure in Ireland caused famine around 1845 to 1849."
+          ],
+          "keyTerms": [
+            { "term": "Silk Routes", "meaning": "Ancient land and sea routes linking Asia with Europe and Africa, carrying goods, money, people and ideas." },
+            { "term": "Columbian exchange", "meaning": "Transfer of crops, foods and animals between the Americas and the rest of the world after Columbus's voyages." },
+            { "term": "Great Irish Famine", "meaning": "Starvation in Ireland around 1845 to 1849, when disease destroyed the potato crop on which the poor depended." }
+          ],
+          "trick": "Silk routes carried 4 S: Silk, Spices, Saints and Stories. America gave APMC: potato, maize, chilli, tomato.",
+          "examPointer": "MCQs on silk routes and the Irish famine are common; food travelling long distances is a frequent 2 and 3 marker."
+        },
+        {
+          "heading": "The Global Agricultural Economy of the Nineteenth Century",
+          "points": [
+            "Nineteenth century globalisation worked through three flows: of trade, of labour and of capital.",
+            "By 1890 a global agricultural economy had formed, with Great Britain as its hub.",
+            "Britain repealed the Corn Laws in 1846; cheap wheat imports cut food prices and ruined British farmers.",
+            "Railways and refrigerated ships of the 1870s carried wheat, meat and butter across oceans to Britain.",
+            "About 50 million Europeans emigrated to America and Australia; worldwide nearly 150 million people migrated.",
+            "Indian indentured workers were taken to Mauritius, Fiji, Trinidad, Guyana and Surinam on harsh contracts."
+          ],
+          "keyTerms": [
+            { "term": "Corn Laws", "meaning": "British laws restricting grain imports; repealed in 1846, opening Britain to cheap foreign wheat." },
+            { "term": "Three flows", "meaning": "Trade in goods, movement of labour and flow of capital that tied the world together in the nineteenth century." },
+            { "term": "Indentured labour", "meaning": "Workers bound by contract for plantation work abroad; recruited from India for Mauritius, Fiji and the Caribbean." },
+            { "term": "Refrigerated ships", "meaning": "Ships from the 1870s that made long distance transport of perishable food possible." }
+          ],
+          "trick": "TLC: Trade, Labour, Capital. Corn Laws end in 1846: cheap bread, dead farms, moving people.",
+          "examPointer": "Why the nineteenth century was an age of globalisation, and Corn Law effects, are regular 3 markers; migration numbers appear in MCQs."
+        },
+        {
+          "heading": "Rinderpest and the Conquest of Africa",
+          "points": [
+            "Diamond and gold discoveries, like the Witwatersrand gold of 1886, drew Europeans deeper into Africa.",
+            "Rinderpest, a deadly cattle plague, entered Africa in the late 1880s with infected cattle imported from British Asia.",
+            "The infected cattle had been brought to feed Italian soldiers invading Eritrea in East Africa.",
+            "The plague spread like wildfire across the continent, killing about 90 per cent of African cattle.",
+            "With cattle gone, Africans lost ploughs, milk, income and their livelihoods collapsed.",
+            "Colonial rulers used this distress to force Africans into cheap wage labour, serving European mines and plantations."
+          ],
+          "keyTerms": [
+            { "term": "Rinderpest", "meaning": "Fast spreading cattle plague of the 1890s that killed about 90 per cent of African cattle." },
+            { "term": "Scramble for Africa", "meaning": "Rapid European conquest and partition of Africa for minerals, land and labour in the late nineteenth century." }
+          ],
+          "trick": "One sick cow changed Africa: cattle die, livelihoods die, cheap labour born. Rinderpest, 1890s, 90 per cent dead.",
+          "examPointer": "How did rinderpest help colonise Africa is a favourite 3 marker; MCQs ask how the plague reached Africa."
+        },
+        {
+          "heading": "The Great Depression",
+          "points": [
+            "The Great Depression began around 1929 and lasted till 1939, the longest and deepest economic crisis.",
+            "Agricultural overproduction flooded markets; prices crashed and farmers' incomes collapsed worldwide.",
+            "In the USA, a 1929 stock market crash spread panic; banks failed and demand kept falling.",
+            "Factories shut, jobs vanished and rural people suffered the most across the world.",
+            "In India, agricultural prices collapsed after 1930; jute prices crashed and peasant debts mounted.",
+            "Peasants sold gold to pay debts; India exported precious metals worth nearly Rs 58 crore during the Depression."
+          ],
+          "keyTerms": [
+            { "term": "Great Depression", "meaning": "Worldwide economic collapse from 1929 to 1939 marked by falling prices, incomes and employment." },
+            { "term": "Overproduction", "meaning": "Producing more than demand, which pushed agricultural prices down and ruined farmers." },
+            { "term": "Stock market crash 1929", "meaning": "Collapse of share prices in the USA that turned recession into a worldwide depression." }
+          ],
+          "trick": "1929 to 1939: ten grey years. Chain: more supply, lower price, less demand, less job, less money.",
+          "examPointer": "Impact of the Great Depression on India is among the most repeated 3 and 5 markers in CBSE boards."
+        },
+        {
+          "heading": "Rebuilding the World Economy after the Second World War",
+          "points": [
+            "The Second World War of 1939 to 1945 killed about 60 million people, nearly 3 per cent of the world's 1939 population.",
+            "The war made the USA the dominant economic, political and military power of the Western world.",
+            "The Bretton Woods Conference of July 1944 set up the IMF and the World Bank.",
+            "The IMF handles external surpluses and deficits of member countries; the World Bank funds reconstruction and development.",
+            "Western industrial countries dominated both institutions, and the US dollar anchored the new monetary system.",
+            "Decolonisation produced new nations; developing countries formed the Group of 77 to demand a New International Economic Order."
+          ],
+          "keyTerms": [
+            { "term": "Bretton Woods twins", "meaning": "IMF and World Bank, created at the 1944 conference to stabilise and rebuild the world economy." },
+            { "term": "IMF", "meaning": "International Monetary Fund, which helps members meet balance of payments gaps and stabilise exchange rates." },
+            { "term": "World Bank", "meaning": "Created as the International Bank for Reconstruction and Development to finance post war rebuilding and development." },
+            { "term": "Decolonisation", "meaning": "Process by which colonies in Asia and Africa became independent nations after the Second World War." }
+          ],
+          "trick": "1944 Bretton Woods: twins IMF and World Bank born in July. World War Two took 60 million lives; the US dollar led recovery.",
+          "examPointer": "The Bretton Woods twins and their role is a frequent 3 marker; the Second World War as an economic turning point appears in case studies."
+        },
+        {
+          "heading": "Trade and Conflict: The Opium Connection with China",
+          "points": [
+            "In the eighteenth century, Britain bought tea, silk and porcelain from China, but China demanded little from the West.",
+            "To pay for this trade deficit, British merchants began smuggling opium, grown in India, into China.",
+            "Millions of Chinese became addicted; when the Emperor tried to stop the illegal trade, Britain fought the Opium War of 1839 to 1842.",
+            "Defeated China was forced to open treaty ports and cede Hong Kong to Britain after the war.",
+            "India gained from this triangular trade, as opium sales financed British purchases of tea and Chinese goods.",
+            "Later, when the American Civil War of 1861 to 1865 cut off US cotton supplies, Indian cotton exports to Britain rose sharply."
+          ],
+          "keyTerms": [
+            { "term": "Opium War", "meaning": "War of 1839 to 1842 between Britain and China over the illegal opium trade, won by Britain." },
+            { "term": "Trade deficit", "meaning": "Situation where a country's imports cost more than its exports, as Britain faced with China." },
+            { "term": "Triangular trade", "meaning": "Trade loop of British goods to India, Indian opium to China and Chinese tea to Britain." }
+          ],
+          "trick": "Tea in, opium out: Britain balanced its China books with Indian opium. 1839: the Opium War.",
+          "examPointer": "Why did Britain trade opium with China, and the effect of the American Civil War on Indian cotton, are asked as 2 and 3 markers."
+        },
+        {
+          "heading": "Migration and Indian Workers in the Global Economy",
+          "points": [
+            "Nineteenth century globalisation rested on the movement of people: workers, traders and bankers crossed the oceans.",
+            "Indian indentured labourers, called girmitiyas, signed contracts to work on plantations in Mauritius, Fiji, Trinidad, Guyana and Surinam.",
+            "They were recruited mainly from eastern Uttar Pradesh, Bihar, central India and the Tamil districts; many were cheated or tricked.",
+            "On the plantations they faced harsh contracts, low wages, fines and terrible living and working conditions.",
+            "Indian bankers like the Shikaripuri Shroffs and Nattukottai Chettiars financed export agriculture in Southeast and Central Asia.",
+            "Indian workers also built railways in East Africa and laboured in tea gardens and rubber plantations abroad.",
+            "Under pressure from Indian nationalists, indentured labour migration was finally abolished in 1921."
+          ],
+          "keyTerms": [
+            { "term": "Girmitiyas", "meaning": "Indian indentured labourers of the nineteenth century, named after girmit, the contract they signed." },
+            { "term": "Indenture", "meaning": "A contract binding a worker to serve an employer abroad for a fixed number of years under set conditions." },
+            { "term": "Shikaripuri Shroffs and Nattukottai Chettiars", "meaning": "Indian banking groups that financed export agriculture across Southeast and Central Asia." }
+          ],
+          "trick": "Girmit means agreement: contract, plantation, hardship, then 1921 the end. Indian hands built the global world.",
+          "examPointer": "Life of indentured labourers and the abolition of indenture are favourite 3 and 5 markers; girmitiyas is a frequent MCQ."
+        },
+        {
+          "heading": "Mass Consumption and the Rise of the United States in the 1920s",
+          "points": [
+            "In the 1920s the US economy boomed on mass production, and cars and radios became common household goods.",
+            "Henry Ford used the assembly line, where a car moved along a belt and each worker performed one task.",
+            "Ford doubled his workers' wages to five dollars a day, so that his workers could dream of buying the car they built.",
+            "Hire purchase and consumer loans let ordinary families buy goods by paying instalments instead of full price.",
+            "The US became the largest overseas lender, replacing Britain as the leading creditor of the world.",
+            "This prosperity rested on easy credit and speculation, and it collapsed in 1929 with the Great Depression."
+          ],
+          "keyTerms": [
+            { "term": "Assembly line", "meaning": "Method introduced by Henry Ford in which each worker performs a single task as the product moves along a belt." },
+            { "term": "Hire purchase", "meaning": "System of buying goods on credit by paying instalments, popular in the 1920s USA." },
+            { "term": "Creditor nation", "meaning": "A country that lends to others; the USA replaced Britain as the largest overseas lender in the 1920s." }
+          ],
+          "trick": "Ford's belt: one task, one car, double wages. The US lent the world, till 1929 stopped the party.",
+          "examPointer": "The boom of the 1920s and the role of mass production in the US economy are asked as 3 markers and appear in case studies leading to the Depression."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "The Silk Routes linked Asia mainly with",
+          "options": ["Europe and northern Africa", "Australia and New Zealand", "South America", "The Arctic"],
+          "answerIndex": 0,
+          "explanation": "Silk routes connected Asia with Europe and northern Africa, carrying goods, money and ideas.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which of these reached Europe and Asia only after Columbus's voyages?",
+          "options": ["Wheat and barley", "Potatoes, maize and chillies", "Rice and sugarcane", "Tea and coffee"],
+          "answerIndex": 1,
+          "explanation": "Potatoes, maize, chillies, tomatoes and groundnuts came from the Americas after Columbus's voyages.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The Great Irish Famine took place around",
+          "options": ["1832 to 1836", "1845 to 1849", "1885 to 1890", "1929 to 1933"],
+          "answerIndex": 1,
+          "explanation": "Potato disease destroyed the Irish crop around 1845 to 1849, causing famine and mass emigration.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Corn Laws were repealed in Britain in",
+          "options": ["1815", "1846", "1873", "1892"],
+          "answerIndex": 1,
+          "explanation": "Britain repealed the Corn Laws in 1846, allowing cheap wheat imports that transformed food trade.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Rinderpest entered Africa mainly through",
+          "options": ["British sailors", "Infected cattle imported from British Asia", "Chinese labourers", "American traders"],
+          "answerIndex": 1,
+          "explanation": "Infected cattle imported from British Asia to feed Italian soldiers invading Eritrea carried rinderpest into Africa.",
+          "difficulty": "medium",
+          "pyq": "CBSE 2020"
+        },
+        {
+          "question": "About how many Europeans emigrated to America and Australia in the nineteenth century?",
+          "options": ["5 million", "50 million", "150 million", "200 million"],
+          "answerIndex": 1,
+          "explanation": "About 50 million Europeans left for America and Australia; worldwide migration was around 150 million.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Refrigerated ships of the 1870s mainly helped transport",
+          "options": ["Coal and iron", "Meat and other perishable food", "Gold and silver", "Raw cotton"],
+          "answerIndex": 1,
+          "explanation": "Refrigerated ships made long distance transport of perishable food like meat and butter possible.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The Great Depression began around",
+          "options": ["1919", "1929", "1939", "1944"],
+          "answerIndex": 1,
+          "explanation": "The Great Depression began around 1929 and lasted till 1939.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The Bretton Woods Conference of 1944 created",
+          "options": ["The UN Security Council", "The IMF and the World Bank", "GATT and WTO", "The League of Nations"],
+          "answerIndex": 1,
+          "explanation": "The July 1944 Bretton Woods Conference set up the IMF and the World Bank.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The IMF mainly deals with",
+          "options": ["Colonial trade rules", "External surpluses and deficits of member countries", "Global food prices", "Factory wages"],
+          "answerIndex": 1,
+          "explanation": "The IMF was created to deal with external surpluses and deficits of its member countries.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "During the Great Depression, India became an exporter of",
+          "options": ["Jute", "Precious metals like gold", "Wheat", "Machine made cloth"],
+          "answerIndex": 1,
+          "explanation": "With prices crashing and debts rising, peasants sold gold, making India an exporter of precious metals.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Rinderpest helped European conquest of Africa because it",
+          "options": ["Killed European armies", "Destroyed African livelihoods and forced people into cheap wage labour", "Made Europeans immune to disease", "Ended African trade with Asia"],
+          "answerIndex": 1,
+          "explanation": "Rinderpest destroyed African livelihoods, pushing people into cheap wage labour under colonial control.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "The Opium War between Britain and China was fought in",
+          "options": ["1839 to 1842", "1856 to 1860", "1861 to 1865", "1884 to 1885"],
+          "answerIndex": 0,
+          "explanation": "When China tried to stop the illegal opium trade, Britain fought and won the Opium War of 1839 to 1842.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Indian indentured labour migration was finally abolished in",
+          "options": ["1859", "1907", "1921", "1947"],
+          "answerIndex": 2,
+          "explanation": "Under pressure from Indian nationalists, indentured labour migration from India was abolished in 1921.",
+          "difficulty": "medium"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What are the three types of flows in international economic exchange? Explain briefly.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Flow of trade: movement of goods such as textiles, food grains and spices across countries. 2) Flow of labour: migration of workers to plantations, mines and industries, like Indian indentured workers in Mauritius and Fiji, or Europeans moving to America and Australia. 3) Flow of capital: investments and loans moving across borders to build railways, ports and plantations. These three flows linked distant economies into one global system in the nineteenth century."
+        },
+        {
+          "question": "Explain any three effects of the Great Depression on the Indian economy.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "year": "CBSE 2020",
+          "answer": "1) Agricultural prices fell sharply and collapsed after 1930, but colonial revenue demands stayed fixed, so peasants could not pay and their debts grew. 2) Jute prices crashed, hitting Bengal's jute growers, and demand for Indian agricultural exports declined. 3) Peasants were forced to sell gold and silver to repay loans; India became an exporter of precious metals, sending gold worth nearly Rs 58 crore abroad. Towns and industries were less affected, but rural India faced deep misery, adding to popular anger against colonial rule."
+        },
+        {
+          "question": "How did food travel long distances even in the pre modern world? Explain with examples.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Traders, pilgrims, priests and travellers carried food cultures across regions long ago; noodles travelled from China and became spaghetti in the west. 2) After Columbus's voyages, foods of the Americas reached the Old World: potatoes, maize, tomatoes, chillies, sweet potatoes and groundnuts transformed diets everywhere. 3) The potato, cheap and nourishing, became the food of Europe's poor; when disease destroyed the Irish potato crop around 1845 to 1849, about a million people died of starvation and many emigrated. Thus food linked distant worlds."
+        },
+        {
+          "question": "How did rinderpest help in the colonisation of Africa?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Rinderpest, a deadly cattle plague, entered Africa in the late 1880s through infected cattle imported from British Asia to feed Italian soldiers invading Eritrea. 2) It spread like wildfire across the continent, killing about 90 per cent of African cattle and destroying the livelihoods of Africans who depended on them for ploughing, milk and trade. 3) Colonial rulers used this distress to control labour: starving Africans were forced to work as cheap wage labourers in mines and plantations. Thus rinderpest speeded up European conquest and economic control of Africa."
+        },
+        {
+          "question": "Describe the emergence of a global agricultural economy in the nineteenth century.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Nineteenth century globalisation worked through three flows of trade, labour and capital. 2) Population growth in Britain increased demand for food; the repeal of the Corn Laws in 1846 allowed cheap wheat to flow in from America, Russia and Australia. 3) British agriculture declined, land was left idle and displaced people moved to cities and overseas. 4) Railways, steamships and refrigerated ships of the 1870s carried grain, meat and butter across oceans, lowering food prices in Britain. 5) Roughly 50 million Europeans migrated to America and Australia, and about 150 million people worldwide left home for a better future. 6) Indian indentured workers were recruited for Mauritius, Fiji, Trinidad, Guyana and Surinam under harsh contracts. 7) Capital flowed into railways, plantations and mines, knitting the world into a single agricultural and industrial economy by 1890."
+        },
+        {
+          "question": "Explain the role of the Bretton Woods institutions in rebuilding the post war world economy.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) The Second World War killed about 60 million people and devastated Europe and Asia, while the USA emerged as the dominant economic power. 2) At the Bretton Woods Conference of July 1944, the IMF and the World Bank, called the Bretton Woods twins, were created. 3) The IMF was set up to deal with external surpluses and deficits of member countries, and the World Bank, begun as the International Bank for Reconstruction and Development, financed post war reconstruction and development. 4) Western industrial countries dominated both institutions and the US dollar anchored the new monetary system, so developing countries had little say. 5) As colonies became independent, they formed the Group of 77 to demand a New International Economic Order with more resources and fairer trade. These institutions still anchor the world economy today."
+        },
+        {
+          "question": "Read the source and answer the questions: In the 1930s, agricultural prices in India fell sharply and collapsed after 1930. Demand for agricultural goods fell and exports declined. Peasants found it difficult to pay revenue, and their debts rose. To repay loans, many sold their gold and silver. (a) What was the Great Depression? (b) Why were Indian peasants hit so badly? (c) What did peasants do to pay their debts?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "(a) The Great Depression was a worldwide economic collapse that began around 1929 and lasted till 1939, marked by falling prices, incomes and employment. (b) Indian peasants were hit badly because agricultural prices collapsed after 1930 while colonial revenue and rent demands stayed unchanged; jute prices crashed in Bengal, exports fell and debts rose. (c) To pay debts and taxes, peasants sold gold and silver; India exported precious metals worth nearly Rs 58 crore during the Depression. Rural distress deepened anger against British rule and strengthened demands for relief."
+        },
+        {
+          "question": "Who were known as girmitiyas? Why were they given this name?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Girmitiyas were the Indian indentured labourers who signed contracts, called girmit, to work on plantations abroad in the nineteenth century. They were recruited mainly from eastern Uttar Pradesh, Bihar, central India and the Tamil districts and taken to Mauritius, Fiji, Trinidad, Guyana and Surinam under harsh contracts, with low wages, heavy fines and poor living conditions."
+        },
+        {
+          "question": "Why did Britain trade opium with China? Explain its consequences.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "medium",
+          "answer": "1) Britain bought tea, silk and porcelain from China in huge quantities, but China showed little interest in British goods, so Britain faced a trade deficit. 2) To balance trade, British merchants smuggled opium grown in India into China, and millions of Chinese became addicted. 3) When the Chinese Emperor tried to stop the illegal trade, Britain fought and won the Opium War of 1839 to 1842, forcing China to open treaty ports and cede Hong Kong. India gained from this triangular trade, as opium earnings financed British purchases from China."
+        },
+        {
+          "question": "Describe the conditions of Indian indentured labourers abroad and the reasons for the abolition of indenture in 1921.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Indentured labourers were recruited from the poorest districts of eastern Uttar Pradesh, Bihar, central India and the Tamil country; many were cheated about wages and destinations, and some were even kidnapped. 2) On the plantations of Mauritius, Fiji, Trinidad, Guyana and Surinam they lived and worked in terrible conditions, bound by contracts that imposed fines and imprisonment for small violations. 3) Despite this, the workers created new forms of individual and collective self expression, blending folk culture, language and religion in their new lands. 4) Indian nationalists, including Gandhiji, condemned the system as inhuman and ran a sustained campaign against it. 5) Under this growing pressure, the government finally abolished indentured labour migration in 1921, ending one of the harshest chapters of the global labour market."
+        },
+        {
+          "question": "How did mass production and mass consumption transform the American economy in the 1920s?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "medium",
+          "answer": "1) In the 1920s the US economy grew rapidly on mass production, and goods like cars and radios became common household items. 2) Henry Ford's assembly line made each worker perform one task as the car moved along a moving belt, cutting costs and speeding up output. 3) Ford doubled his workers' wages to five dollars a day so that his own workers could dream of buying the cars they made. 4) Hire purchase and consumer credit let ordinary families buy expensive goods by paying instalments, which expanded demand for industry. 5) The booming economy made the USA the largest overseas lender, replacing Britain as the world's leading creditor. However, this prosperity rested on easy credit and speculation, so when the stock market crashed in 1929, the Depression spread from America to the rest of the world."
+        },
+        {
+          "question": "Read the source and answer the questions: Recruiting agents moved from village to village in eastern Uttar Pradesh, Bihar and the Tamil country, promising work and wages abroad. Lakhs of Indians signed contracts, called girmit, and were shipped to Mauritius, Fiji, Trinidad, Guyana and Surinam. On the plantations, contracts bound them for years, wages were low and fines were common. Under pressure from Indian nationalists, the system was abolished in 1921. (a) What is meant by girmit and who were girmitiyas? (b) How were the workers treated on the plantations? (c) Why was the system abolished?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "(a) Girmit was the contract signed by indentured workers, and those who signed it were called girmitiyas, the Indian labourers sent to overseas plantations in the nineteenth century. (b) On the plantations they worked under harsh contracts with low wages; fines and imprisonment were imposed for small offences, housing and medical care were poor, and they could not leave before their term ended. (c) The recruitment trickery and inhuman conditions were condemned by Indian nationalists, who campaigned against indenture; under this pressure the colonial government finally abolished indentured labour migration in 1921."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "The Age of Industrialisation",
+      "summary": "This chapter explains how industrial production grew from proto industrial family networks into factory based industry in Britain, and how machines changed work and wages. It then describes industrialisation in colonial India, the decline of weavers, the rise of Indian entrepreneurs and the special character of Indian industrial growth.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Proto industrialisation and guilds",
+        "Hand labour and workers' lives in Britain",
+        "Decline of Indian weavers and gomasthas",
+        "Indian entrepreneurs and TISCO",
+        "First World War boom for Indian industries"
+      ],
+      "sections": [
+        {
+          "heading": "Before the Factories: Proto Industrialisation",
+          "points": [
+            "Proto industrialisation was large scale production for international markets, done by families in the countryside, before factories.",
+            "Merchants supplied money and raw materials to peasants and artisans, and bought the finished goods.",
+            "Town guilds restricted entry of new producers and regulated competition, so merchants shifted work to villages.",
+            "Peasants with tiny plots welcomed extra income from spinning and weaving in lean months.",
+            "England's wool cloth trade grew internationally through this network of merchants and village producers.",
+            "In cloth finishing, a stapler sorted wool and a fuller cleaned and thickened the cloth."
+          ],
+          "keyTerms": [
+            { "term": "Proto industrialisation", "meaning": "The phase of factoryless, family based handicraft production for distant markets before the Industrial Revolution." },
+            { "term": "Guilds", "meaning": "Associations of craftsmen and traders in towns that controlled trade, prices and entry of newcomers." },
+            { "term": "Stapler and fuller", "meaning": "Cloth trade workers; the stapler sorted wool, the fuller gathered and thickened cloth." }
+          ],
+          "trick": "Proto means before: before factories, families worked at home. Guilds were the town's no entry club, pushing work to villages.",
+          "examPointer": "Definition based 2 and 3 markers on proto industrialisation are common; MCQs ask about guilds, staplers and fullers."
+        },
+        {
+          "heading": "Factories Come Up in Britain",
+          "points": [
+            "Richard Arkwright created the cotton mill, bringing spinning, weaving and dyeing under one roof.",
+            "Production could now be supervised, and expensive machinery and labour coordinated inside the mill.",
+            "Cotton was the leading industry till the 1840s; iron and steel led later growth.",
+            "James Watt improved the steam engine, manufactured with his partner Matthew Boulton of Birmingham.",
+            "Steam power freed mills from dependence on rivers and let factories grow in cities.",
+            "James Hargreaves devised the Spinning Jenny in 1764, letting one worker spin many threads at once."
+          ],
+          "keyTerms": [
+            { "term": "Cotton mill", "meaning": "Arkwright's innovation placing all cloth processes under one roof with regulated labour and machinery." },
+            { "term": "Steam engine", "meaning": "Improved by James Watt; powered factories away from rivers using coal." },
+            { "term": "Spinning Jenny", "meaning": "Machine devised by James Hargreaves in 1764 that sped up spinning but threatened hand spinners' jobs." }
+          ],
+          "trick": "Watt a power! 1764 Jenny spins fast; Arkwright gathers everyone under one roof.",
+          "examPointer": "MCQs on Watt, Arkwright and the Spinning Jenny are frequent; why cotton and iron were dynamic industries comes as a 3 marker."
+        },
+        {
+          "heading": "Hand Labour and the Life of Workers",
+          "points": [
+            "Victorian Britain had no shortage of labour and wages were low, so machines seemed less profitable.",
+            "Products like matches, pottery and glass needed intricate designs and varied shapes, favouring skilled hands.",
+            "In mid nineteenth century Britain, 500 varieties of hammers and 45 kinds of axes were made.",
+            "Seasonal industries like gasworks and breweries employed workers only in peak months, keeping jobs unstable.",
+            "Workers feared machines like the Spinning Jenny; women spinners even attacked machines that threatened jobs.",
+            "Wages rose a little but housing, rents and disease kept workers' lives hard and insecure."
+          ],
+          "keyTerms": [
+            { "term": "Hand labour", "meaning": "Work done by human hands and skills, which stayed important in Victorian Britain despite machines." },
+            { "term": "Seasonal industry", "meaning": "Industries like brewing and gasworks that hired labour only during peak seasons." },
+            { "term": "Technological change", "meaning": "Introduction of machines that gradually shifted work from hands to steam powered factories." }
+          ],
+          "trick": "Hands cheap, machines dear: 500 hammers, 45 axes, all by hand. Seasonal work meant seasonal hunger.",
+          "examPointer": "Why did hand labour remain important in Victorian Britain is a repeated 3 marker; workers' fears appear in case based questions."
+        },
+        {
+          "heading": "Industrialisation in the Colonies: The Story of Indian Weavers",
+          "points": [
+            "Before machine industries, fine Indian silk and cotton goods dominated international markets.",
+            "The East India Company gained political control and tried to monopolise Indian trade and textiles.",
+            "Company agents called gomasthas supervised weavers, advanced loans and fixed low prices for the Company.",
+            "Weavers who took advances lost freedom; they had to sell only to the Company.",
+            "British machine made cloth from Manchester flooded India, hitting the home market in the nineteenth century.",
+            "First the export market collapsed, then the home market declined, ruining weavers across the country."
+          ],
+          "keyTerms": [
+            { "term": "Gomastha", "meaning": "Paid agent of the East India Company who supervised weavers, advanced loans and enforced supplies." },
+            { "term": "Manchester cloth", "meaning": "Cheap machine made British cotton cloth that undercut Indian handloom products." },
+            { "term": "East India Company", "meaning": "British trading company that became a political ruler and controlled Indian textile trade." }
+          ],
+          "trick": "Gomastha was the Company's strict supervisor: loans trap, prices fixed, freedom gone. Two waves: exports first, home market second.",
+          "examPointer": "What happened to Indian weavers is a favourite 3 and 5 marker; the gomastha's role is a frequent MCQ."
+        },
+        {
+          "heading": "Factories in India and Indian Entrepreneurs",
+          "points": [
+            "The first cotton mill came up in Bombay in 1854; the first jute mill in Bengal in 1855.",
+            "George Acland, a Scotsman, set up the first jute mill at Rishra in Bengal in 1855.",
+            "In the 1860s the Elgin Mill started in Kanpur, and a year later the first cotton mill of Madras.",
+            "Dwarkanath Tagore in Bengal and Dinshaw Petit and Jamsetjee Tata in Bombay led early investment.",
+            "Seth Hukumchand, a Marwari businessman, set up the first Indian jute mill in Calcutta in 1917.",
+            "European managing agencies like Bird Heiglers and Andrew Yule mobilised capital and controlled Indian mills."
+          ],
+          "keyTerms": [
+            { "term": "TISCO", "meaning": "Tata Iron and Steel Company, set up in 1907 at Sakchi, the first big Indian steel plant." },
+            { "term": "Managing agencies", "meaning": "European firms such as Bird Heiglers and Andrew Yule that financed and managed Indian factories." },
+            { "term": "Seth Hukumchand", "meaning": "Marwari industrialist who built the first Indian owned jute mill in Calcutta in 1917." }
+          ],
+          "trick": "54 cotton Bombay, 55 jute Bengal, 1907 TISCO at Sakchi, 1917 Hukumchand jute: remember 54, 55, 07, 17.",
+          "examPointer": "MCQs on first mills, TISCO's year and Indian industrialists are frequent; the role of Indian entrepreneurs is a 3 marker."
+        },
+        {
+          "heading": "Peculiarities of Industrial Growth and the War Boom",
+          "points": [
+            "Indian mills mostly produced coarse yarn for export to China, avoiding a direct clash with Manchester cloth.",
+            "From the early twentieth century, Indian mills turned increasingly to weaving cloth for the home market.",
+            "TISCO's steel production expanded only when the First World War cut British steel imports into India.",
+            "By 1919 the colonial government was buying nearly 90 per cent of its steel from TISCO.",
+            "During the war, Indian factories supplied jute bags, army cloth, tents, boots and saddles.",
+            "With British imports blocked, Indian mills captured the home market; output and employment rose sharply."
+          ],
+          "keyTerms": [
+            { "term": "Coarse yarn export", "meaning": "Indian mills' early strategy of selling thread to China instead of competing with British cloth at home." },
+            { "term": "War boom", "meaning": "Rapid growth of Indian industry during 1914 to 1918 when British goods stopped arriving." },
+            { "term": "Sakchi", "meaning": "Place where TISCO began production in 1907, later called Jamshedpur." }
+          ],
+          "trick": "War was a windfall: no imports, full orders. Remember 1907 TISCO and 1919, ninety per cent steel.",
+          "examPointer": "Why did Indian industries boom during the First World War is a classic 3 marker; TISCO questions appear as MCQs and cases."
+        },
+        {
+          "heading": "Market for Goods: Labels, Jobbers and Workers",
+          "points": [
+            "Manchester labels carried images of gods and goddesses, with 'Made in Manchester' written in bold.",
+            "Calendars with gods and famous figures were used to advertise products and build brand loyalty.",
+            "Indian manufacturers replied with 'Made in India' labels carrying nationalist and religious images.",
+            "British firms also sent agents and gave advances to Indian intermediaries to push their cloth into village markets.",
+            "Jobbers, trusted old workers, recruited villagers, gave them housing and helped in emergencies.",
+            "Gradually jobbers demanded money and gifts for jobs, gaining extra power over workers and management."
+          ],
+          "keyTerms": [
+            { "term": "Jobber", "meaning": "Old trusted worker who recruited new labour, settled them, and later began charging for jobs." },
+            { "term": "Advertisement", "meaning": "Printed labels, calendars and newspaper notices used to create demand for products." },
+            { "term": "Swadeshi label", "meaning": "Indian manufacturers' labels with gods and nationalist images to promote Indian made goods." }
+          ],
+          "trick": "Gods sold goods: divine labels for Manchester cloth, swadeshi labels for India. Jobber: job giver turned bribe taker.",
+          "examPointer": "The role of advertising and the role of the jobber are regular 3 markers; label images appear as MCQs."
+        },
+        {
+          "heading": "London: The Industrial City and Its Workers",
+          "points": [
+            "Industrialisation turned London into the largest city of the nineteenth century, drawing migrants in search of work.",
+            "The writer Henry Mayhew described the lives of London's poor, from dock workers and casual labourers to street sellers.",
+            "At the docks, hiring was casual: workers gathered at the gates every morning hoping to be taken on for a day.",
+            "The city housed skilled artisans, servants, shopkeepers and professionals alongside the very poor.",
+            "Yet even in 1851, the census showed that the majority of Britain's population still lived in the countryside.",
+            "Overcrowded slums, disease and insecurity of work made life hard for the urban poor."
+          ],
+          "keyTerms": [
+            { "term": "Henry Mayhew", "meaning": "Nineteenth century writer whose surveys described the lives and miseries of London's workers." },
+            { "term": "Casual labour", "meaning": "Daily wage work without a fixed contract, common at London's docks." },
+            { "term": "Census of 1851", "meaning": "Count that showed most people in Britain still lived in the countryside even after decades of industry." }
+          ],
+          "trick": "London hums, but Britain still farms: even in 1851 most people lived in the countryside. Mayhew wrote the city's misery.",
+          "examPointer": "Workers' lives in industrial cities and Mayhew's account appear as 2 and 3 markers and in source based questions."
+        },
+        {
+          "heading": "The Pace of Industrial Change: New Industries and Slow Machines",
+          "points": [
+            "Cotton was the leading sector in the first phase of industrialisation up to the 1840s.",
+            "After that, iron and steel grew fastest, as railways, bridges and stations were built across Britain.",
+            "New industries like chemicals and rubber had emerged by the end of the nineteenth century.",
+            "Technological change in Britain was slow and expensive, so old technologies survived for decades.",
+            "Machines like the steam engine and the Spinning Jenny spread gradually, and hand skills remained valuable.",
+            "By the late nineteenth century, countries like Germany and the USA were rapidly catching up with Britain."
+          ],
+          "keyTerms": [
+            { "term": "New industries", "meaning": "Sectors like chemicals and rubber that grew in Britain by the end of the nineteenth century." },
+            { "term": "Railways", "meaning": "The great demand of the age of iron and steel, fuelling industry after the 1840s." },
+            { "term": "Slow industrialisation", "meaning": "The idea that machines spread gradually in Britain, with hand technology surviving for long." }
+          ],
+          "trick": "First cotton, then iron and steel: the railways changed the leader. Machines came slowly; hands stayed long.",
+          "examPointer": "The pace of technological change and the growth of new industries are asked as 3 markers, often with questions on hand labour."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Proto industrialisation refers to",
+          "options": ["Industries that came after factories", "Large scale production for international markets using family based handicrafts", "Factory production in Britain", "Colonial industry in India"],
+          "answerIndex": 1,
+          "explanation": "Proto industrialisation meant large scale production for international markets through family based handicrafts, before factories.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Guilds were associations of",
+          "options": ["Merchants only", "Craftsmen and traders who controlled town trade", "Factory workers", "Farmers"],
+          "answerIndex": 1,
+          "explanation": "Guilds were associations of craftsmen and traders that controlled town trade and blocked newcomers.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Spinning Jenny was devised by James Hargreaves in",
+          "options": ["1764", "1771", "1785", "1800"],
+          "answerIndex": 0,
+          "explanation": "James Hargreaves devised the Spinning Jenny in 1764.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Who improved the steam engine which was then manufactured by Matthew Boulton?",
+          "options": ["James Watt", "Richard Arkwright", "George Acland", "John Kay"],
+          "answerIndex": 0,
+          "explanation": "James Watt improved the steam engine, which his partner Matthew Boulton manufactured.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The first cotton mill in India came up in Bombay in",
+          "options": ["1854", "1855", "1860", "1907"],
+          "answerIndex": 0,
+          "explanation": "The first cotton mill of India came up in Bombay in 1854.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "TISCO, the Tata Iron and Steel Company, was set up in 1907 at",
+          "options": ["Durgapur", "Sakchi", "Rishra", "Kanpur"],
+          "answerIndex": 1,
+          "explanation": "TISCO began production at Sakchi in 1907; Sakchi later became Jamshedpur.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Who set up the first Indian owned jute mill in Calcutta in 1917?",
+          "options": ["Dwarkanath Tagore", "Seth Hukumchand", "George Acland", "Jamsetjee Tata"],
+          "answerIndex": 1,
+          "explanation": "Seth Hukumchand, a Marwari businessman, set up the first Indian jute mill in Calcutta in 1917.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Gomasthas were",
+          "options": ["Indian merchants exporting to China", "Paid agents of the East India Company who supervised weavers", "Jobbers in factories", "European managing agencies"],
+          "answerIndex": 1,
+          "explanation": "Gomasthas were paid Company agents who supervised weavers, advanced loans and fixed prices.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The jobber in Indian factories",
+          "options": ["Was a European manager", "Recruited workers and later demanded bribes for jobs", "Owned the mill", "Fixed cloth prices"],
+          "answerIndex": 1,
+          "explanation": "Jobbers recruited workers from villages and later demanded bribes and gifts for jobs.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In mid nineteenth century Britain, how many varieties of hammers were produced by hand?",
+          "options": ["45", "500", "150", "1000"],
+          "answerIndex": 1,
+          "explanation": "Mid nineteenth century Britain produced 500 varieties of hammers and 45 kinds of axes by hand.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which was the leading industry in Britain during the first phase of industrialisation up to the 1840s?",
+          "options": ["Cotton", "Iron and steel", "Shipbuilding", "Sugar"],
+          "answerIndex": 0,
+          "explanation": "Cotton led British industrialisation in the first phase up to the 1840s; iron and steel followed.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Indian industrialisation got a big boost during the First World War because",
+          "options": ["British goods flooded India", "British imports into India declined and Indian mills got huge war orders", "The government nationalised mills", "Tariffs were removed"],
+          "answerIndex": 1,
+          "explanation": "With British imports into India stopped during the war, Indian mills got a huge home market and war orders.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The nineteenth century writer who described the lives of London's workers and the urban poor was",
+          "options": ["Henry Mayhew", "Richard Arkwright", "James Watt", "George Acland"],
+          "answerIndex": 0,
+          "explanation": "Henry Mayhew surveyed and wrote about the lives of London's dock workers, casual labourers and street sellers.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The census of 1851 in Britain revealed that",
+          "options": ["All workers had moved into factories", "Most people still lived in the countryside", "Hand industry had completely disappeared", "London had become a village"],
+          "answerIndex": 1,
+          "explanation": "Even in 1851, after decades of industrialisation, the majority of Britain's population still lived in the countryside.",
+          "difficulty": "medium"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What is meant by proto industrialisation? Mention its main features.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "Proto industrialisation was the phase before factories when large scale industrial production for international markets was carried out through family based handicrafts. 1) Merchants supplied money and raw materials to peasants and artisans in the countryside. 2) They bought the finished products and sold them in distant markets. 3) Production stayed in villages because town guilds blocked new producers and rural families needed extra income in lean months."
+        },
+        {
+          "question": "Why did hand labour remain important in Victorian Britain even during the age of machines?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Victorian Britain had no shortage of cheap labour and low wages, so machines often cost more than human hands. 2) Many goods needed elaborate designs and specific shapes that machines could not produce, so skilled craft workers were preferred. 3) Even in the mid nineteenth century, 500 varieties of hammers and 45 kinds of axes were produced by hand in cities like Birmingham and Sheffield. 4) Seasonal industries like gasworks and breweries hired labour only in peak months. Hence hand technology survived alongside steam power throughout the century."
+        },
+        {
+          "question": "What happened to the Indian cotton weavers in the nineteenth century?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) First, India's export market for cotton and silk collapsed in the late eighteenth century as British mills took over world trade. 2) Next, cheap machine made Manchester cloth flooded India, undercutting handloom cloth in the home market, while British tariffs shut Indian cloth out of England. 3) The East India Company's agents, called gomasthas, advanced loans and fixed prices, trapping weavers who then had to sell only to the Company. Yet handloom weaving survived in niches, producing coarser cloth for the poor and fine varieties for the rich, though weavers' earnings fell badly."
+        },
+        {
+          "question": "How did Indian industrialists and merchants establish industries despite British domination? Name important Indian industrialists.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Merchants and bankers earned capital through trade with China in opium and cotton yarn. 2) Industrialists like Dwarkanath Tagore in Bengal and Dinshaw Petit and Jamsetjee Nusserwanjee Tata in Bombay invested in mills, shipping and banking. 3) Seth Hukumchand set up the first Indian jute mill in Calcutta in 1917, and TISCO began at Sakchi in 1907. 4) Indian businessmen worked alongside European managing agencies like Bird Heiglers and Andrew Yule, which mobilised capital and set up joint stock companies."
+        },
+        {
+          "question": "Describe the peculiarities of industrial growth in India and the impact of the First World War on Indian industries.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Indian industrial growth had peculiar features: mills mainly produced coarse cotton yarn for export to China, avoiding direct competition with Manchester cloth. 2) From the early twentieth century they turned to weaving cloth for the home market. 3) The First World War transformed the situation: British mills turned to war production, imports into India declined and Indian factories got a vast home market. 4) Indian mills received huge orders for jute bags, army cloth, tents, boots and saddles, and new factories and workers came up. 5) TISCO expanded fast; by 1919 the colonial government was buying nearly 90 per cent of its steel from TISCO. 6) Manchester regained Indian markets only slowly after the war, and by then Indian industry had grown stronger, with Indian enterprises like Tata's playing a bigger role. Thus the war was a turning point for Indian industrialisation."
+        },
+        {
+          "question": "'The Industrial Revolution changed work and life in Britain.' Explain with examples.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Industrialisation in Britain began with proto industrial networks, then factories: Richard Arkwright's cotton mill brought processes under one roof with strict supervision. 2) Cotton led growth till the 1840s; iron and steel powered railways later. 3) James Watt's improved steam engine freed factories from river banks and let them grow in cities. 4) Yet change was slow: machines did not immediately replace hands. 5) Labour was cheap and plentiful, and varied products needed skill; 500 varieties of hammers and 45 kinds of axes were still handmade. 6) Workers lived in fear of unemployment, especially when machines like the Spinning Jenny spread; women workers even attacked machines. 7) Seasonal industries kept jobs unstable, and though wages rose a little, housing and disease kept life insecure. Industrialisation thus changed work gradually, not overnight."
+        },
+        {
+          "question": "Read the source and answer the questions: The Tata Iron and Steel Company (TISCO) was set up in 1907 at Sakchi. Before the First World War, Indian steel could not compete with British steel. When the war began, British steel imports stopped and TISCO expanded its output. By 1919 the colonial government was buying nearly 90 per cent of the steel produced by TISCO. (a) When and where was TISCO set up? (b) Why did TISCO grow during the war? (c) What role did Indian factories play in war supplies?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "(a) TISCO was set up in 1907 at Sakchi, which later grew into Jamshedpur. (b) When the First World War began, steel produced in Britain went to war needs and imports into India stopped, so TISCO got the Indian market and huge war orders. Its production expanded, and by 1919 the colonial government bought nearly 90 per cent of its steel from TISCO. (c) Indian factories supplied the war effort with jute bags, cloth for army uniforms, tents, leather boots and horse and mule saddles. The war years were a boom for Indian industry, raising output and employment."
+        },
+        {
+          "question": "Who was Henry Mayhew? What do his writings tell us about workers in industrial Britain?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "medium",
+          "answer": "Henry Mayhew was a nineteenth century writer who surveyed and described the lives of London's labouring poor. His writings tell us about dock workers hired casually each morning, street sellers of matches, flowers and fish, and artisans struggling in a city of great wealth and deep poverty, showing that industrial cities produced prosperity and misery together."
+        },
+        {
+          "question": "Describe the life of workers in London during the nineteenth century.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) London grew into the largest city of the world, and its docks, factories and workshops attracted migrants in search of work. 2) Hiring at the docks was casual: labourers gathered at the gates each morning, and many returned home without work or wages. 3) Skilled artisans, servants and professionals lived alongside very poor workers in overcrowded slums, where disease and insecurity of work were common. 4) Writers like Henry Mayhew recorded this world, and even in 1851 most of Britain's people still lived in the countryside, so the industrial city grew alongside, not instead of, rural Britain."
+        },
+        {
+          "question": "'Technological change in nineteenth century Britain was slow and gradual.' Explain.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) The most dynamic industries of the first phase were cotton and metals, but even here machines did not replace hands overnight. 2) New technology was expensive, and merchants and manufacturers were cautious about adopting machines that could fail or frighten workers. 3) The steam engine spread slowly until James Watt's improved version was manufactured with Matthew Boulton, and even then it needed huge capital. 4) Products with intricate designs and varied shapes, from 500 kinds of hammers to fine pottery, needed skilled hand labour that machines could not supply. 5) With abundant cheap labour available, wages stayed low, so machines were often less profitable than human hands. Hence hand technology and steam power coexisted for decades, and industrial change advanced steadily rather than suddenly."
+        },
+        {
+          "question": "Trace the changing phases of industrialisation in Britain from cotton to iron and steel to new industries.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "medium",
+          "answer": "1) Britain's first phase of industrialisation, up to the 1840s, was led by the cotton industry, which supplied cloth to the world. 2) From the 1840s, iron and steel became the fastest growing sectors as railways, bridges and railway stations were constructed all over Britain. 3) The demand for iron, coal and engineering gave Britain a network of railways that changed transport, trade and daily life. 4) By the end of the nineteenth century, new industries like chemicals and rubber had emerged alongside the older sectors. 5) Throughout this period change was uneven: hand labour survived, seasonal industries rose and fell, and by the late century Germany and the USA were rapidly catching up with Britain. Industrialisation was thus a process of phases, not a single sudden revolution."
+        },
+        {
+          "question": "Read the source and answer the questions: At the London docks in the nineteenth century, thousands of labourers gathered at the gates every morning. Contractors walked among them and picked the men they needed for the day; the rest went away without work and without wages. The writer Henry Mayhew described these casual workers, along with street sellers of matches, flowers and fish, whose earnings changed from day to day. (a) What kind of employment is described at the docks? (b) How did such work affect the lives of workers? (c) What do sources like Mayhew's writings tell historians?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "(a) The docks show casual labour: workers were hired by the day, with no guarantee of employment, wages or continuity. (b) Such work made life insecure, as a worker's income depended on being chosen each morning; families could not plan expenses, debts mounted in bad weeks, and slum housing worsened their condition. (c) Contemporary writings like Mayhew's surveys give historians a ground level view of industrial society, showing that alongside factories there was a vast world of casual, unregulated work, and that prosperity and poverty grew together in industrial cities."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Print Culture and the Modern World",
+      "summary": "This chapter traces the journey of print from hand printing in East Asia to Gutenberg's press and the print revolution in Europe. It shows how print created new readers, powered religious debates and social reform in India, and became both a tool of nationalism and a target of colonial censorship.",
+      "weightageMarks": 3,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Gutenberg press and the print revolution",
+        "Print in India: religious debates and reformers",
+        "Vernacular Press Act 1878",
+        "Newspapers and the growth of nationalism",
+        "Print, women and workers"
+      ],
+      "sections": [
+        {
+          "heading": "Print in China and Japan",
+          "points": [
+            "Hand printing technology first developed in China, Japan and Korea.",
+            "From 594 AD, books in China were printed by rubbing paper against inked woodblocks.",
+            "The imperial state printed textbooks for civil service examinations, creating a huge readership of officials.",
+            "The Diamond Sutra of 868 AD is the world's oldest printed book, with six sheets of text and woodcut pictures.",
+            "Buddhist missionaries from China introduced hand printing into Japan around 768 to 770 AD.",
+            "Japanese artists like Kitagawa Utamaro produced woodblock prints of urban life, actors and teahouses."
+          ],
+          "keyTerms": [
+            { "term": "Woodblock printing", "meaning": "Early method of printing by rubbing paper against the inked surface of carved wooden blocks." },
+            { "term": "Diamond Sutra", "meaning": "Buddhist text printed in 868 AD, the oldest printed book in the world." },
+            { "term": "Civil service examinations", "meaning": "Chinese government exams whose printed textbooks spread reading habits across the country." }
+          ],
+          "trick": "594 China, 868 Sutra, 768 Japan: ink moved with monks and exam books.",
+          "examPointer": "MCQs on the Diamond Sutra, 594 AD and Japan are common; the China exam textbook link is a 2 marker."
+        },
+        {
+          "heading": "Gutenberg's Press and the Print Revolution in Europe",
+          "points": [
+            "Johann Gutenberg developed the printing press in Germany and perfected the system by 1448.",
+            "His press used movable metal type, oil based ink and a screw press for uniform printing.",
+            "The first printed book was the Bible; about 180 copies came out in about three years.",
+            "Books became cheaper and faster to produce, creating a new reading public among common people.",
+            "Hearing publics became reading publics; oral culture continued alongside print through songs and public reading.",
+            "Martin Luther's Ninety Five Theses of 1517 against indulgences spread by print and began the Reformation."
+          ],
+          "keyTerms": [
+            { "term": "Gutenberg press", "meaning": "First modern printing press, perfected by 1448, which revolutionised book production in Europe." },
+            { "term": "Reformation", "meaning": "Religious movement begun by Martin Luther's 1517 protest against the sale of indulgences." },
+            { "term": "Reading public", "meaning": "New audience of common readers created when books became cheaper and more available." }
+          ],
+          "trick": "1448 press, 180 Bibles, 3 years. Luther 1517: print lit the Reformation fire.",
+          "examPointer": "Impact of the print revolution is a favourite 3 to 5 marker; Luther and 1517 appear as MCQs."
+        },
+        {
+          "heading": "Print Arrives in India: Debates and Reformers",
+          "points": [
+            "Print came to India with Portuguese missionaries; Jesuit priests printed Konkani tracts by 1674.",
+            "The first Tamil book was printed in 1579 at Coimbatore; the first Malayalam book by 1713.",
+            "James Augustus Hicky started the Bengal Gazette, an English weekly, in 1780.",
+            "Raja Rammohan Roy published Sambad Kaumudi in Bengali and Mirat ul Akhbar in Persian to spread reform.",
+            "Print intensified religious debates; reformers attacked superstition while orthodox papers defended old practices.",
+            "Cheap illustrated religious texts, like the Ramcharitmanas, carried print deep into villages and bazaars."
+          ],
+          "keyTerms": [
+            { "term": "Sambad Kaumudi", "meaning": "Bengali weekly started by Raja Rammohan Roy in 1821 to spread reformist ideas." },
+            { "term": "Bengal Gazette", "meaning": "English weekly brought out by James Augustus Hicky from 1780, India's first newspaper." },
+            { "term": "Samachar Chandrika", "meaning": "Orthodox newspaper that countered the reformist arguments of early nineteenth century Bengali reformers." }
+          ],
+          "trick": "1579 Tamil, 1713 Malayalam, 1780 Hicky's Gazette, 1821 Kaumudi: print grows step by step in India.",
+          "examPointer": "Print intensified religious debates is a regular 3 marker; the first Tamil book and Hicky's Gazette appear as MCQs."
+        },
+        {
+          "heading": "New Forms: Novels, Women, Workers and Public Debate",
+          "points": [
+            "Print created new literary forms like novels, short stories, essays and plays for wide audiences.",
+            "Public debate on social evils like sati, child marriage and caste spread through cheap tracts and newspapers.",
+            "Rashsundari Debi's Amar Jiban, published in 1876, was the first autobiography written by an Indian woman.",
+            "Kailashbashini Deb, Tarabai Shinde and Pandita Ramabai wrote boldly on women's condition and rights.",
+            "Kashibaba, a Kanpur cotton mill worker, wrote Chhote aur Bade Sawal linking caste and class exploitation.",
+            "Workers' associations and public libraries helped working people read, write and publish their own views."
+          ],
+          "keyTerms": [
+            { "term": "Amar Jiban", "meaning": "Autobiography of Rashsundari Debi, published in 1876, the first by an Indian woman." },
+            { "term": "Stripurushtulna", "meaning": "Pamphlet by Tarabai Shinde comparing men and women, criticising patriarchal society." },
+            { "term": "Kashibaba", "meaning": "Kanpur millworker who published Chhote aur Bade Sawal on the lives and rights of workers." }
+          ],
+          "trick": "ASK: Amar Jiban (Rashsundari), Stripurushtulna (Tarabai), Kashibaba (Kanpur). Print gave the voiceless a pen.",
+          "examPointer": "How did print help women and workers is a common 3 to 5 marker; Amar Jiban's author and year is a frequent MCQ."
+        },
+        {
+          "heading": "Censorship and the Vernacular Press Act",
+          "points": [
+            "Colonial authorities feared that printed criticism would inflame nationalist feeling against British rule.",
+            "The Vernacular Press Act of 1878, passed under Viceroy Lytton, imposed strict control on Indian language newspapers.",
+            "Editors printing seditious reports were warned; on repeating, their presses and machinery could be confiscated.",
+            "The Amrita Bazar Patrika escaped the Act by turning overnight into an English newspaper.",
+            "Despite prosecution, nationalist editors kept attacking colonial misrule and their trials increased their fame.",
+            "Censorship battles turned newspapers into symbols of resistance and strengthened the freedom movement."
+          ],
+          "keyTerms": [
+            { "term": "Vernacular Press Act 1878", "meaning": "Law of Viceroy Lytton giving the government power to censor and seize Indian language newspapers." },
+            { "term": "Censorship", "meaning": "Official control over what can be printed, used by colonial rulers to silence criticism." },
+            { "term": "Amrita Bazar Patrika", "meaning": "Nationalist newspaper that escaped the Act by switching from a vernacular to English overnight." }
+          ],
+          "trick": "VPA 1878 means Lytton's gag on Indian languages. The Patrika's trick: change language overnight!",
+          "examPointer": "The Vernacular Press Act's year, purpose and effects are guaranteed MCQ and 2 to 3 marker material."
+        },
+        {
+          "heading": "Print, Newspapers and Nationalism",
+          "points": [
+            "Newspapers carried news of protests and misrule from town to town, linking readers into one public.",
+            "Editorials and reports shaped public opinion and turned local grievances into national issues.",
+            "Papers like Kesari of Bal Gangadhar Tilak and Amrita Bazar Patrika voiced nationalist demands.",
+            "Cheap print let reformers and nationalists reach readers far beyond their own towns.",
+            "Every ban and prosecution made newspapers dearer to readers and spread their circulation.",
+            "Thus print culture became an engine of both social reform and the national movement."
+          ],
+          "keyTerms": [
+            { "term": "Kesari", "meaning": "Marathi newspaper of Bal Gangadhar Tilak that carried nationalist criticism of British rule." },
+            { "term": "Public opinion", "meaning": "Shared views of educated society, shaped strongly by newspapers, tracts and novels." },
+            { "term": "Nationalist press", "meaning": "Newspapers that reported colonial injustice and mobilised people for the freedom struggle." }
+          ],
+          "trick": "Press means protest: one paper, many towns, one nation. Remember Kesari and Amrita Bazar Patrika.",
+          "examPointer": "The role of newspapers in the nationalist movement is a frequent 3 marker; print and nationalism appears in case based questions too."
+        },
+        {
+          "heading": "Print, Dissent and the French Revolution",
+          "points": [
+            "As literacy spread in Europe, booksellers and pedlars carried cheap print to towns and villages, creating a reading mania.",
+            "In England, penny chapbooks were sold for a penny; in France, the Biliotheque Bleue and almanacs carried stories to the poor.",
+            "Menocchio, an Italian miller, read the books available in his locality and reinterpreted the message of the Bible.",
+            "The Roman Catholic Church tried him twice for heresy and executed him in 1599.",
+            "To control reading, the Church maintained an Index of Prohibited Books from 1558, banning works it considered dangerous.",
+            "Print popularised the ideas of philosophers like Voltaire and Rousseau and mocked the clergy, preparing the ground for the French Revolution.",
+            "After 1789, censorship was abolished and freedom of the press became one of the celebrated achievements of the Revolution."
+          ],
+          "keyTerms": [
+            { "term": "Menocchio", "meaning": "Italian miller who reinterpreted the Bible through printed books and was executed by the Church in 1599." },
+            { "term": "Index of Prohibited Books", "meaning": "List maintained by the Roman Catholic Church from 1558 of books that Catholics were forbidden to read." },
+            { "term": "Biliotheque Bleue", "meaning": "Cheap blue covered books printed in France that carried popular stories to poor readers." }
+          ],
+          "trick": "Cheap books, dangerous minds: Menocchio read, questioned and died in 1599. The Index banned; the Revolution freed.",
+          "examPointer": "The link between print and the French Revolution is a popular 3 marker; Menocchio and the Index appear as MCQs and case sources."
+        },
+        {
+          "heading": "Nineteenth Century Europe: Novels, Newspapers and New Readers",
+          "points": [
+            "In the nineteenth century, new words like editor, publisher and novelist entered the vocabulary of Europe.",
+            "Novels by writers like Charles Dickens and Thomas Hardy were first published as serials in periodicals.",
+            "Penny magazines and cheap illustrated weeklies carried stories and information to workers and women readers.",
+            "Newspapers produced with steam powered presses brought politics, trade and city life to a mass public.",
+            "Serialized stories kept readers waiting for the next issue, creating habits of regular reading.",
+            "Big city life, its wonders and its miseries, became the favourite subject of the new printed literature."
+          ],
+          "keyTerms": [
+            { "term": "Serialized novel", "meaning": "Novel published in parts across issues of a periodical, as was done for Dickens and Hardy." },
+            { "term": "Penny magazines", "meaning": "Cheap illustrated magazines of nineteenth century Europe aimed at workers and women readers." },
+            { "term": "Mass press", "meaning": "Newspapers produced with new technology and sold cheaply to a large urban readership." }
+          ],
+          "trick": "Dickens in parts: one shilling, one story, one city. Print made the novel a serial and the newspaper a habit.",
+          "examPointer": "Novels, serialized stories and newspapers for new readers are asked as 2 and 3 markers on print in nineteenth century Europe."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Hand printing technology was first developed in",
+          "options": ["Europe", "China, Japan and Korea", "India", "Egypt"],
+          "answerIndex": 1,
+          "explanation": "Hand printing first developed in China, Japan and Korea before reaching Europe.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In China, books were printed by rubbing paper against inked woodblocks from",
+          "options": ["594 AD", "868 AD", "1448 AD", "1517 AD"],
+          "answerIndex": 0,
+          "explanation": "From 594 AD, Chinese books were printed by rubbing paper against inked woodblocks.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Diamond Sutra, the world's oldest printed book, was printed in",
+          "options": ["594 AD", "768 AD", "868 AD", "1448 AD"],
+          "answerIndex": 2,
+          "explanation": "The Buddhist Diamond Sutra, printed in 868 AD, is the oldest printed book in the world.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Gutenberg perfected his printing press by",
+          "options": ["1448", "1517", "1579", "1780"],
+          "answerIndex": 0,
+          "explanation": "Gutenberg perfected the printing press by 1448 in Germany.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The first book printed by Gutenberg was the",
+          "options": ["Ninety Five Theses", "Bible", "Diamond Sutra", "Sambad Kaumudi"],
+          "answerIndex": 1,
+          "explanation": "Gutenberg's first printed book was the Bible, about 180 copies in three years.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Martin Luther wrote the Ninety Five Theses in",
+          "options": ["1448", "1517", "1558", "1674"],
+          "answerIndex": 1,
+          "explanation": "Martin Luther wrote the Ninety Five Theses in 1517, protesting against the sale of indulgences.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The first Tamil book was printed in 1579 at",
+          "options": ["Madras", "Coimbatore", "Calcutta", "Bombay"],
+          "answerIndex": 1,
+          "explanation": "Catholic priests printed the first Tamil book in 1579 at Coimbatore.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Sambad Kaumudi, a Bengali weekly, was published by",
+          "options": ["James Augustus Hickey", "Raja Rammohan Roy", "Bal Gangadhar Tilak", "Rashsundari Debi"],
+          "answerIndex": 1,
+          "explanation": "Raja Rammohan Roy published Sambad Kaumudi to spread reformist ideas in Bengal.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Amar Jiban, the first autobiography by an Indian woman, was written by",
+          "options": ["Kailashbashini Deb", "Pandita Ramabai", "Rashsundari Debi", "Tarabai Shinde"],
+          "answerIndex": 2,
+          "explanation": "Rashsundari Debi's Amar Jiban, published in 1876, was the first autobiography by an Indian woman.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Vernacular Press Act was passed in",
+          "options": ["1857", "1878", "1885", "1908"],
+          "answerIndex": 1,
+          "explanation": "The Vernacular Press Act of 1878 was passed by the government of Viceroy Lytton.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Hicky's Bengal Gazette, started in 1780, was",
+          "options": ["A Bengali weekly", "An English weekly newspaper", "A Persian journal", "A Tamil monthly"],
+          "answerIndex": 1,
+          "explanation": "Hicky's Bengal Gazette, an English weekly, began in 1780 and was India's first newspaper.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Kashibaba, author of Chhote aur Bade Sawal, was",
+          "options": ["A Bengali woman writer", "A Kanpur cotton mill worker", "A Protestant missionary", "An English editor"],
+          "answerIndex": 1,
+          "explanation": "Kashibaba was a Kanpur cotton mill worker who wrote Chhote aur Bade Sawal.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Menocchio, the miller who reinterpreted the teachings of the Bible from printed books, was executed in",
+          "options": ["1517", "1558", "1599", "1674"],
+          "answerIndex": 2,
+          "explanation": "Menocchio, an Italian miller, was hauled up twice and executed by the Church authorities in 1599 for his heretical interpretations.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "The Index of Prohibited Books was maintained by the",
+          "options": ["Roman Catholic Church", "British Parliament", "French Academy", "German guilds"],
+          "answerIndex": 0,
+          "explanation": "The Roman Catholic Church maintained the Index of Prohibited Books from 1558 to ban works it considered dangerous.",
+          "difficulty": "medium"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "How did printed textbooks help spread print culture in imperial China?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) The imperial state of China printed textbooks for its civil service examinations, which were held to recruit officials. 2) Since lakhs of candidates prepared for these exams, printed textbooks created a huge readership across the country. 3) From 594 AD books were printed by rubbing paper against inked woodblocks. 4) With the end of the examination system, a modern print culture of fiction, novels and everyday reading developed in China."
+        },
+        {
+          "question": "How did print culture assist the growth of nationalism in India?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Newspapers reported colonial misrule and protests from town to town, connecting readers into one national public. 2) Editorials and news shaped public opinion, and local grievances became national issues. 3) Nationalist papers like Kesari and Amrita Bazar Patrika spread criticism of British rule despite censorship. 4) When the Vernacular Press Act of 1878 tried to silence the press, editors resisted, and their prosecutions only increased their fame. 5) Thus print carried the ideas of reform and freedom to lakhs of readers and strengthened the national movement."
+        },
+        {
+          "question": "What was the Vernacular Press Act of 1878? How did Indian newspapers respond to it?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) The Vernacular Press Act of 1878, passed under Viceroy Lytton, gave the government strict control over Indian language newspapers. 2) It was meant to silence criticism of British rule published in vernacular papers. 3) Any editor printing seditious material was warned; if the warning was ignored, the press could be seized and its machinery confiscated. 4) Indian newspapers resisted: the Amrita Bazar Patrika turned overnight into an English newspaper to escape the Act, and nationalist editors continued attacking colonial misrule, facing prosecution with courage."
+        },
+        {
+          "question": "How did print help women and poor workers express their views?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Print helped women write and read about their own lives: Rashsundari Debi's Amar Jiban of 1876 was the first autobiography by an Indian woman. 2) Kailashbashini Deb, Tarabai Shinde and Pandita Ramabai wrote boldly about women's condition and demanded change. 3) Workers used print too: Kashibaba, a Kanpur mill worker, wrote Chhote aur Bade Sawal on caste and class exploitation. 4) Public libraries and cheap editions brought books to poor readers, letting them debate their rights openly."
+        },
+        {
+          "question": "Describe the effects of the print revolution on European society.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) With Gutenberg's press, perfected by 1448, books could be produced faster and cheaper; his Bible alone ran to about 180 copies. 2) Print shifted culture from a hearing public to a reading public, though oral traditions continued alongside. 3) Religious debates spread quickly: Martin Luther's Ninety Five Theses of 1517 against the sale of indulgences circulated widely and launched the Reformation; Luther called print the ultimate gift of God. 4) The Church feared rebellious and heretical readings and maintained an Index of Prohibited Books. 5) Print also created a new culture of dialogue and debate, encouraging people to question authority and discuss society. 6) Literacy grew, popular literature spread, and new forms like novels, newspapers and pamphlets emerged, changing how people thought, believed and argued. Thus print changed the religious, social and intellectual life of Europe."
+        },
+        {
+          "question": "Trace the growth of print culture in India from the sixteenth century to the rise of nationalist newspapers.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Print came with Portuguese missionaries; Jesuit priests learnt Konkani and printed several tracts by 1674. 2) The first Tamil book was printed in 1579 at Coimbatore, and the first Malayalam book by 1713. 3) In 1780 James Augustus Hicky began the Bengal Gazette, India's first English weekly. 4) In the nineteenth century, reformers dominated print: Raja Rammohan Roy published Sambad Kaumudi and Mirat ul Akhbar, while orthodox papers like Samachar Chandrika replied, making religious and social questions matters of public debate. 5) New forms appeared: novels, essays and cheap tracts; women writers like Rashsundari Debi, Tarabai Shinde and Pandita Ramabai wrote on women's lives, and workers like Kashibaba published their views. 6) The colonial state struck back with the Vernacular Press Act of 1878, but nationalist newspapers like Kesari and Amrita Bazar Patrika kept print alive as the voice of the freedom struggle."
+        },
+        {
+          "question": "Read the source and answer the questions: In 1878, the colonial government passed the Vernacular Press Act, which gave it extensive powers to censor reports and editorials in Indian language newspapers. Editors printing seditious reports were warned; if a warning was ignored, the press could be seized and machinery confiscated. When the Act came into force, the editors of the Amrita Bazar Patrika turned their paper overnight into an English newspaper to escape its provisions. (a) Under which Viceroy was the Act passed? (b) Why did the colonial government fear the vernacular press? (c) How did the Amrita Bazar Patrika escape the Act?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "(a) The Act was passed in 1878 under Viceroy Lord Lytton. (b) The government feared that vernacular newspapers carried criticism of British rule to ordinary readers in their own languages, inflaming nationalist feeling and spreading seditious ideas faster than officials could control. (c) The Patrika changed from a vernacular paper into an English newspaper overnight, since the Act covered only Indian language newspapers. Other editors continued writing against misrule; when prosecuted, their trials and seizures made them popular heroes. Such resistance showed that censorship could not fully silence public opinion, and the press became a lasting weapon of the national movement."
+        },
+        {
+          "question": "Who was Menocchio? Why was he punished by the Church?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "Menocchio was an Italian miller who read the printed books available in his locality and reinterpreted the message of the Bible, questioning the accepted beliefs of the Church. He was hauled up twice for his heretical views and executed by the Church authorities in 1599, showing how seriously the Church feared the free reading that print made possible."
+        },
+        {
+          "question": "Explain the role of print in the French Revolution of 1789.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Print popularised the ideas of Enlightenment philosophers like Voltaire and Rousseau, who questioned authority, privilege and inequality. 2) Cheap pamphlets, cartoons and newspapers mocked the clergy and the nobility, spreading criticism among ordinary readers before and during the Revolution. 3) Print created an informed public that debated liberty, equality and fraternity in towns and cities. 4) After the Revolution, censorship was abolished in 1789 and freedom of the press became a celebrated right, so newspapers carried the message of the Revolution across France and Europe."
+        },
+        {
+          "question": "'Reading mania swept through Europe in the seventeenth and eighteenth centuries.' Explain the forms of popular reading and the response of the Church.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) As literacy spread, booksellers and pedlars carried cheap print to villages and towns, creating what was called reading mania. 2) In England, penny chapbooks were sold for a penny so that even the poor could buy stories, ballads and tales. 3) In France, the Biliotheque Bleue, almanacs and romances were printed in bulk for ordinary readers, along with practical and religious works. 4) Such books show the taste of common readers, who enjoyed stories of everyday life along with religious texts. 5) The Roman Catholic Church feared that unrestricted reading would spread rebellious and heretical ideas; it maintained an Index of Prohibited Books from 1558 and punished readers like Menocchio, yet print continued to enlarge the world of ordinary readers and finally helped prepare the French Revolution."
+        },
+        {
+          "question": "How did novels, magazines and newspapers change reading habits in nineteenth century Europe?",
+          "marks": 5,
+          "type": "LA",
+          "probability": "medium",
+          "answer": "1) The nineteenth century created new words like editor, publisher and novelist, as print became a profession and an industry. 2) Novels by writers like Charles Dickens and Thomas Hardy appeared as serialized stories in periodicals, so readers waited for each new issue and read regularly. 3) Penny magazines and cheap illustrated weeklies brought stories, fashions and information to workers and women readers. 4) Steam powered newspapers reported politics, trade and the dramas of big city life, building a mass public that discussed the day's news. 5) The city, with its crowds, poverty and wonders, became the great subject of print, and reading became part of everyday life rather than the privilege of a few."
+        },
+        {
+          "question": "Read the source and answer the questions: Menocchio, a miller in Italy, began to read the books that were available in his locality. From what he read, he reinterpreted the message of the Bible and devised a view of the universe of his own, different from that taught by the Church. He was hauled up twice and eventually executed by the Church authorities in 1599. (a) What made it possible for Menocchio to read and form his own ideas? (b) Why did the Church punish him? (c) What does his story tell us about the impact of print?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "(a) The availability of printed books in his locality, sold cheaply to common people, allowed Menocchio, a miller without formal education, to read widely and think for himself. (b) The Church punished him because his interpretations were seen as heretical, challenging the official teachings of religion, and the authorities feared that free reading would breed dissent. (c) His story shows that print opened access to knowledge beyond priests and scholars, encouraged individuals to question authority and provoked harsh censorship; the same book that created a reader could also create a rebel, which is why print changed society so deeply."
+        }
+      ]
+    }
+  ]
+};

@@ -1,0 +1,111 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Subject {
+  id             String    @id
+  name           String
+  bookName       String
+  color          String
+  icon           String
+  order          Int
+  weightageMarks Int
+  chapters       Chapter[]
+}
+
+model Chapter {
+  id                String   @id
+  subjectId         String
+  subject           Subject  @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  book              String
+  number            Int
+  title             String
+  summary           String
+  weightageMarks    Int
+  difficulty        String
+  hotTopics         Json
+  sections          Json
+  order             Int
+  status            String   @default("not-started")
+  lastRevisedAt     DateTime?
+  questions         QuizQuestion[]
+  probableQuestions ProbableQuestion[]
+  planItems         StudyItem[]
+  boardProgress     BoardProgress[]
+}
+
+model QuizQuestion {
+  id          String  @id @default(cuid())
+  chapterId   String
+  chapter     Chapter @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  question    String
+  options     Json
+  answerIndex Int
+  explanation String
+  difficulty  String
+  pyq         String?
+}
+
+model ProbableQuestion {
+  id          String  @id @default(cuid())
+  chapterId   String
+  chapter     Chapter @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  question    String
+  marks       Int
+  type        String
+  probability String
+  answer      String
+}
+
+// Marks a board question as practiced by the student.
+model BoardProgress {
+  id        String  @id @default(cuid())
+  chapterId String
+  chapter   Chapter @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  qId       String
+  done      Boolean @default(false)
+  updatedAt DateTime @updatedAt
+
+  @@unique([chapterId, qId])
+}
+
+model StudyItem {
+  id        String   @id @default(cuid())
+  date      String
+  subjectId String?
+  chapterId String?
+  chapter   Chapter? @relation(fields: [chapterId], references: [id])
+  title     String
+  minutes   Int      @default(45)
+  type      String   @default("learn")
+  done      Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  @@index([date])
+}
+
+model QuizAttempt {
+  id          String   @id @default(cuid())
+  chapterId   String?
+  subjectId   String?
+  total       Int
+  correct     Int
+  wrong       Int      @default(0)
+  skipped     Int      @default(0)
+  durationSec Int      @default(0)
+  accuracy    Float    @default(0)
+  createdAt   DateTime @default(now())
+}
+
+model Settings {
+  id            String @id @default("main")
+  examDate      String
+  dailyMinutes  Int    @default(90)
+  openrouterKey String @default("")
+  nvidiaKey     String @default("")
+}

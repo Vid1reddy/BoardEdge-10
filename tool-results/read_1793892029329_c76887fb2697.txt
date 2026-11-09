@@ -1,0 +1,372 @@
+     1→     1→export default {
+     2→     2→  "code": "history",
+     3→     3→  "name": "History",
+     4→     4→  "bookName": "India and the Contemporary World II",
+     5→     5→  "weightageMarks": 20,
+     6→     6→  "chapters": [
+     7→     7→    {
+     8→     8→      "number": 1,
+     9→     9→      "title": "The Rise of Nationalism in Europe",
+    10→    10→      "summary": "This chapter traces how the idea of the nation state emerged in Europe after the French Revolution and spread through liberal, cultural and revolutionary movements. It explains the unification of Germany, Italy and Britain and ends with nationalist tensions in the Balkans that led to the First World War.",
+    11→    11→      "weightageMarks": 4,
+    12→    12→      "difficulty": "medium",
+    13→    13→      "hotTopics": [
+    14→    14→        "Unification of Germany and Italy",
+    15→    15→        "Napoleonic Code 1804",
+    16→    16→        "Liberalism and Zollverein",
+    17→    17→        "Frankfurt Parliament and 1848 revolutions",
+    18→    18→        "Allegories Marianne and Germania"
+    19→    19→      ],
+    20→    20→      "sections": [
+    21→    21→        {
+    22→    22→          "heading": "The French Revolution and the Idea of the Nation",
+    23→    23→          "points": [
+    24→    24→            "Frederic Sorrieu, a French artist, made four prints in 1848 showing his dream of a world made of democratic and social republics.",
+    25→    25→            "The French Revolution of 1789 shifted sovereignty from the monarch to the French nation and its citizens.",
+    26→    26→            "Ideas of la patrie (the fatherland) and le citoyen (the citizen) gave citizens equal rights under one identity.",
+    27→    27→            "A tricolour flag replaced the royal standard; the Estates General was elected and renamed the National Assembly.",
+    28→    28→            "The Marseillaise became the national anthem; uniform laws, a centralised administration and abolition of internal customs duties followed.",
+    29→    29→            "Revolutionary armies carried the ideas of nationalism into Holland, Belgium, Switzerland and much of Italy."
+    30→    30→          ],
+    31→    31→          "keyTerms": [
+    32→    32→            { "term": "Nation state", "meaning": "A state whose citizens share a common identity, history and culture; it replaced dynastic empires of Europe." },
+    33→    33→            { "term": "La patrie and le citoyen", "meaning": "Fatherland and citizen, emphasising a community of equal citizens instead of subjects of a king." },
+    34→    34→            { "term": "Marseillaise", "meaning": "Patriotic hymn of the French Revolution, adopted as the national anthem of France." }
+    35→    35→          ],
+    36→    36→          "trick": "1789 France taught Europe that citizens, not kings, own the nation: PAtrie plus CIToyen equals PAtriOT power.",
+    37→    37→          "examPointer": "Questions on how the French Revolution created collective identity, and source based passages on Sorrieu's prints, appear regularly in boards."
+    38→    38→        },
+    39→    39→        {
+    40→    40→          "heading": "Napoleon and the Napoleonic Code",
+    41→    41→          "points": [
+    42→    42→            "The Civil Code of 1804, called the Napoleonic Code, abolished all privileges based on birth.",
+    43→    43→            "It established equality before the law and secured the right to property for all.",
+    44→    44→            "Administrative divisions were simplified and a uniform decimal system of weights and measures was introduced.",
+    45→    45→            "Roads and transport improved; in the Rhineland the code freed peasants from serfdom and manorial dues.",
+    46→    46→            "In towns like Holland, Switzerland and Italy, uniform laws and better transport encouraged trade.",
+    47→    47→            "Drawbacks: French armies forced conscription, raised taxation and imposed censorship, turning admirers into critics."
+    48→    48→          ],
+    49→    49→          "keyTerms": [
+    50→    50→            { "term": "Napoleonic Code", "meaning": "Civil Code of 1804 giving equality before law, right to property and uniform administration across Napoleon's empire." },
+    51→    51→            { "term": "Conscription", "meaning": "Compulsory military service that forced men of conquered regions into French armies." },
+    52→    52→            { "term": "Serfdom", "meaning": "Feudal bondage of peasants to lords; abolished in many conquered territories by the Code." }
+    53→    53→          ],
+    54→    54→          "trick": "1804 equals ERT: Equality, Right to property, Transport and uniform measures. Remember the ERT code.",
+    55→    55→          "examPointer": "Describe any three features of the Napoleonic Code is a regular 3 marker; its impact on Europe is often asked with it."
+    56→    56→        },
+    57→    57→        {
+    58→    58→          "heading": "Liberalism, the Conservative Order and Vienna 1815",
+    59→    59→          "points": [
+    60→    60→            "Liberalism comes from the Latin liber, meaning free; politically it opposed autocracy and clerical privileges.",
+    61→    61→            "Liberals wanted a constitution, representative parliamentary government, independent judiciary and equality before law.",
+    62→    62→            "Economically, liberalism stood for freedom of markets and free movement of goods and capital.",
+    63→    63→            "The Zollverein, a Prussian led customs union of 1834, abolished tariff barriers and cut over thirty currencies to two.",
+    64→    64→            "After Napoleon's defeat, the Treaty of Vienna 1815, hosted by Metternich, restored Bourbon rule in France.",
+    65→    65→            "Belgium went to the Netherlands, Genoa to Sardinia Piedmont, northern Italy to Austria and part of Poland to Russia."
+    66→    66→          ],
+    67→    67→          "keyTerms": [
+    68→    68→            { "term": "Liberalism", "meaning": "Political and economic ideology of freedom: constitutional government and free markets." },
+    69→    69→            { "term": "Zollverein", "meaning": "Prussian led customs union formed in 1834 that removed tariffs and united German markets economically." },
+    70→    70→            { "term": "Treaty of Vienna 1815", "meaning": "Settlement by Britain, Russia, Prussia and Austria to undo Napoleonic changes and restore conservative monarchies." },
+    71→    71→            { "term": "Metternich", "meaning": "Austrian Chancellor and host of the Vienna Congress, symbol of the conservative order." }
+    72→    72→          ],
+    73→    73→          "trick": "LIBERal means LIBERate markets and minds. Zollverein 1834: One Zone, No Tariffs, Two currencies.",
+    74→    74→          "examPointer": "MCQs on Zollverein's year and Prussia, and 3 markers on the measures of the Vienna settlement, are frequently set in boards."
+    75→    75→        },
+    76→    76→        {
+    77→    77→          "heading": "Revolutionaries and the Uprisings of 1830 and 1848",
+    78→    78→          "points": [
+    79→    79→            "Giuseppe Mazzini of Genoa founded secret societies, Young Italy in Marseilles and Young Europe in Berne.",
+    80→    80→            "Mazzini believed nations were God's natural building blocks of mankind and a unified Italy must be a republic.",
+    81→    81→            "In 1830 the Bourbon king Charles X was overthrown in France and Louis Philippe became constitutional monarch.",
+    82→    82→            "Belgium broke away from the Netherlands in 1830; Greece gained independence through the Treaty of Constantinople, 1832.",
+    83→    83→            "The 1848 revolution in France, driven by food shortage and unemployment, ended the monarchy and brought universal male suffrage.",
+    84→    84→            "The Frankfurt Parliament of 831 members met in St Paul's Church but was crushed by monarchs and the military."
+    85→    85→          ],
+    86→    86→          "keyTerms": [
+    87→    87→            { "term": "Giuseppe Mazzini", "meaning": "Italian revolutionary, jailed in 1831 for revolution in Liguria; founded Young Italy and Young Europe." },
+    88→    88→            { "term": "Frankfurt Parliament", "meaning": "All German national assembly of 1848 in St Paul's Church; failed when Friedrich Wilhelm IV rejected the crown." },
+    89→    89→            { "term": "Treaty of Constantinople 1832", "meaning": "Agreement that recognised Greece as an independent nation." },
+    90→    90→            { "term": "Universal male suffrage", "meaning": "Right of all adult men to vote, granted in France after the 1848 revolution." }
+    91→    91→          ],
+    92→    92→          "trick": "Mazzini was the youth coach: Young Italy plus Young Europe. 1830 gave Belgium and Greece; 1848 gave hope but no crown.",
+    93→    93→          "examPointer": "Why did the Frankfurt Parliament fail, and the role of Mazzini, are classic 3 markers; Metternich's sneeze quote is a repeated MCQ."
+    94→    94→        },
+    95→    95→        {
+    96→    96→          "heading": "Culture, Romanticism and Language as Nationalism",
+    97→    97→          "points": [
+    98→    98→            "Romanticism used art, poetry, stories and music to create a feeling of shared national heritage.",
+    99→    99→            "Johann Gottfried Herder, German philosopher, said true German culture was discovered among common people, das volk.",
+   100→   100→            "Collecting folk songs, folk poetry and folk dances became a way of preserving the national spirit.",
+   101→   101→            "In Poland, the Polish language became a weapon; the clergy used it for religious instruction despite Russian bans.",
+   102→   102→            "After the 1831 Polish uprising was crushed, Russian language was imposed and many priests were jailed or exiled.",
+   103→   103→            "Composer Karol Kurpinski turned folk dances like the polonaise and mazurka into nationalist symbols."
+   104→   104→          ],
+   105→   105→          "keyTerms": [
+   106→   106→            { "term": "Romanticism", "meaning": "Cultural movement that sought to develop national sentiment through art, poetry and folklore." },
+   107→   107→            { "term": "Das volk", "meaning": "Herder's idea that the true spirit of a nation lives in its common people." },
+   108→   108→            { "term": "Vernacular language", "meaning": "The mother tongue, used by Poles and others as a tool of national resistance." }
+   109→   109→          ],
+   110→   110→          "trick": "Herder said nations sing before they fight. Poland prayed and sang in Polish; Kurpinski danced the nation with polonaise and mazurka.",
+   111→   111→          "examPointer": "Short questions on Herder, folklore and language based nationalism in Poland appear as 2 and 3 markers."
+   112→   112→        },
+   113→   113→        {
+   114→   114→          "heading": "Unification of Germany, Italy and Britain",
+   115→   115→          "points": [
+   116→   116→            "Prussia's chief minister Otto von Bismarck led German unification with the support of army and bureaucracy.",
+   117→   117→            "Three wars in seven years against Denmark, Austria and France ended in Prussian victory.",
+   118→   118→            "In January 1871 Kaiser William I of Prussia was proclaimed German Emperor at Versailles.",
+   119→   119→            "Chief Minister Cavour of Sardinia Piedmont allied with France in 1859; Garibaldi's Red Shirts took the south in 1860.",
+   120→   120→            "Victor Emmanuel II was proclaimed King of united Italy in 1861.",
+   121→   121→            "Britain united gradually: the Act of Union 1707 joined England and Scotland; Ireland was forcibly incorporated in 1801."
+   122→   122→          ],
+   123→   123→          "keyTerms": [
+   124→   124→            { "term": "Otto von Bismarck", "meaning": "Prussian chief minister who unified Germany through wars and diplomacy, famous for blood and iron politics." },
+   125→   125→            { "term": "Count Cavour", "meaning": "Chief minister of Sardinia Piedmont, architect of Italian unification through a French alliance." },
+   126→   126→            { "term": "Giuseppe Garibaldi", "meaning": "Leader of the Red Shirts who conquered the Kingdom of the Two Sicilies in 1860." },
+   127→   127→            { "term": "Act of Union 1707", "meaning": "Agreement between England and Scotland that formed the United Kingdom of Great Britain." }
+   128→   128→          ],
+   129→   129→          "trick": "GCB formula: Garibaldi the sword, Cavour the brain, Bismarck the blood and iron. Dates: Germany 1871, Italy 1861, Britain 1707 plus 1801.",
+   130→   130→          "examPointer": "Steps of German unification, or the role of Bismarck, Cavour and Garibaldi, is a favourite 5 marker in boards."
+   131→   131→        },
+   132→   132→        {
+   133→   133→          "heading": "Allegories, Balkans and Nationalist Tensions",
+   134→   134→          "points": [
+   135→   135→            "Nations were shown as female figures; France's Marianne wore a red cap, tricolour and cockade.",
+   136→   136→            "Marianne's statues stood in public squares and her images were printed on coins and stamps.",
+   137→   137→            "Germania, symbol of Germany, wears a crown of oak leaves standing for German heroism.",
+   138→   138→            "The Balkans, home to Slavic peoples like Serbs, Bulgarians and Greeks, was ruled by the weakening Ottoman Empire.",
+   139→   139→            "Balkan nationalists used history to claim they had once been independent, demanding freedom and self rule.",
+   140→   140→            "Rivalry among Russia, Germany, England and Austria Hungary over the Balkans helped spark the First World War in 1914."
+   141→   141→          ],
+   142→   142→          "keyTerms": [
+   143→   143→            { "term": "Allegory", "meaning": "An abstract idea, like the nation, expressed through a person or symbol." },
+   144→   144→            { "term": "Marianne", "meaning": "Female personification of the French nation, marked by the red cap and tricolour." },
+   145→   145→            { "term": "Germania", "meaning": "Female personification of Germany, crowned with oak leaves symbolising heroism." },
+   146→   146→            { "term": "Balkans", "meaning": "Region of south east Europe whose nationalist tensions after Ottoman decline led to World War One." }
+   147→   147→          ],
+   148→   148→          "trick": "M for Marianne, M for modern France; Germania in oak means German heroism. The Balkans were the powder keg of Europe.",
+   149→   149→          "examPointer": "MCQs on Marianne's symbols and Germania's crown are common; Balkans as a source of nationalist tension is a standard 3 marker."
+   150→   150→        },
+   151→   151→        {
+   152→   152→          "heading": "European Society and the Rise of the Middle Class",
+   153→   153→          "points": [
+   154→   154→            "In the eighteenth century, the aristocracy was the dominant class of Europe, owning estates in town and country.",
+   155→   155→            "Aristocratic families were tied together by marriage alliances and spoke French, the language of high society and diplomacy.",
+   156→   156→            "The peasantry formed the majority of the population, tilling land that belonged to landlords in most regions.",
+   157→   157→            "From the second half of the eighteenth century, industrialisation created new social groups, a working class and a middle class.",
+   158→   158→            "The middle class included industrialists, businessmen and professionals like lawyers, doctors and teachers.",
+   159→   159→            "It was among the educated, liberal middle class that ideas of national unity and the abolition of aristocratic privilege became popular.",
+   160→   160→            "After 1815, hidden nationalist feelings found expression in secret societies like the Carbonari, whose member Mazzini later founded Young Italy."
+   161→   161→          ],
+   162→   162→          "keyTerms": [
+   163→   163→            { "term": "Aristocracy", "meaning": "The socially and economically dominant class of eighteenth century Europe, united by marriage ties and French speaking high society." },
+   164→   164→            { "term": "Middle class", "meaning": "New class of industrialists, businessmen and professionals that became the main carrier of liberal nationalist ideas after 1815." },
+   165→   165→            { "term": "Carbonari", "meaning": "Italian secret society of nationalists to which Mazzini belonged before founding his own revolutionary societies." }
+   166→   166→          ],
+   167→   167→          "trick": "ARM: Aristocracy Ruled, Middle class thought. Educated liberals, not kings, carried the idea of the nation.",
+   168→   168→          "examPointer": "The social structure of Europe and the role of the middle class in spreading nationalism are regular 2 and 3 markers."
+   169→   169→        },
+   170→   170→        {
+   171→   171→          "heading": "Women and the Revolutions of 1848",
+   172→   172→          "points": [
+   173→   173→            "Women of the liberal middle classes took part in political meetings, demonstrations and associations across Europe.",
+   174→   174→            "They formed their own political associations and founded newspapers to demand equal rights.",
+   175→   175→            "Louise Otto-Peters founded the Frauenzeitung and a political association to campaign for women's rights.",
+   176→   176→            "Despite active participation, women were denied the right to vote in the elections of the 1848 assemblies.",
+   177→   177→            "In the Frankfurt Parliament, women were admitted only as spectators in the visitors' gallery.",
+   178→   178→            "Their demands for equal political rights were rejected, showing the limits of liberal nationalism of the time."
+   179→   179→          ],
+   180→   180→          "keyTerms": [
+   181→   181→            { "term": "Louise Otto-Peters", "meaning": "German activist who founded the Frauenzeitung and a political association demanding rights for women." },
+   182→   182→            { "term": "Frauenzeitung", "meaning": "Newspaper started by Louise Otto-Peters to argue that political freedom should include women." },
+   183→   183→            { "term": "Suffrage", "meaning": "The right to vote in elections, denied to women during the revolutions of 1848." }
+   184→   184→          ],
+   185→   185→          "trick": "Present in the gallery, absent from the ballot: women marched in 1848 but could not vote.",
+   186→   186→          "examPointer": "Women's participation and exclusion in the 1848 revolutions is a popular 3 marker and appears in source based questions."
+   187→   187→        }
+   188→   188→      ],
+   189→   189→      "mcqs": [
+   190→   190→        {
+   191→   191→          "question": "Who made a series of four prints in 1848 visualising a world of democratic and social republics?",
+   192→   192→          "options": ["Frederic Sorrieu", "Giuseppe Mazzini", "Otto von Bismarck", "Ernst Renan"],
+   193→   193→          "answerIndex": 0,
+   194→   194→          "explanation": "Sorrieu, a French artist, made four prints in 1848 showing his dream of a world of democratic and social republics.",
+   195→   195→          "difficulty": "easy"
+   196→   196→        },
+   197→   197→        {
+   198→   198→          "question": "Which of the following was abolished by the Napoleonic Code of 1804?",
+   199→   199→          "options": ["Equality before law", "Right to property", "Privileges based on birth", "Uniform weights and measures"],
+   200→   200→          "answerIndex": 2,
+   201→   201→          "explanation": "The Napoleonic Code of 1804 abolished privileges based on birth and gave equality before law.",
+   202→   202→          "difficulty": "medium"
+   203→   203→        },
+   204→   204→        {
+   205→   205→          "question": "The Zollverein customs union of 1834 was formed under the leadership of",
+   206→   206→          "options": ["Austria", "Prussia", "France", "Russia"],
+   207→   207→          "answerIndex": 1,
+   208→   208→          "explanation": "Zollverein, formed in 1834, was a Prussian led customs union that abolished tariff barriers in German states.",
+   209→   209→          "difficulty": "medium"
+   210→   210→        },
+   211→   211→        {
+   212→   212→          "question": "Who remarked, 'When France sneezes, the whole of Europe catches cold'?",
+   213→   213→          "options": ["Metternich", "Napoleon", "Mazzini", "Garibaldi"],
+   214→   214→          "answerIndex": 0,
+   215→   215→          "explanation": "Metternich, Austrian Chancellor and host of the Vienna Congress, made this famous remark after the 1830 French revolution.",
+   216→   216→          "difficulty": "easy",
+   217→   217→          "pyq": "CBSE 2020"
+   218→   218→        },
+   219→   219→        {
+   220→   220→          "question": "Giuseppe Mazzini founded which secret societies to spread the idea of unified Italian nations?",
+   221→   221→          "options": ["Young Italy and Young Europe", "Young Italy and Young Germany", "Red Shirts and Young Italy", "Young Europe and Carbonari"],
+   222→   222→          "answerIndex": 0,
+   223→   223→          "explanation": "Mazzini founded Young Italy in Marseilles and Young Europe in Berne to spread the idea of unified nations.",
+   224→   224→          "difficulty": "easy"
+   225→   225→        },
+   226→   226→        {
+   227→   227→          "question": "Which statement about the Frankfurt Parliament of 1848 is INCORRECT?",
+   228→   228→          "options": ["It met in the Church of St Paul", "It drafted a constitution for a German nation", "King Friedrich Wilhelm IV accepted the crown offered to him", "Women were present only as spectators"],
+   229→   229→          "answerIndex": 2,
+   230→   230→          "explanation": "Friedrich Wilhelm IV of Prussia rejected the crown offered by the Frankfurt Parliament, leading to its failure.",
+   231→   231→          "difficulty": "hard"
+   232→   232→        },
+   233→   233→        {
+   234→   234→          "question": "Who was proclaimed the German Emperor at Versailles in January 1871?",
+   235→   235→          "options": ["Otto von Bismarck", "Kaiser William I of Prussia", "Friedrich Wilhelm IV", "Victor Emmanuel II"],
+   236→   236→          "answerIndex": 1,
+   237→   237→          "explanation": "After Bismarck's three wars, William I of Prussia was proclaimed German Emperor at Versailles in January 1871.",
+   238→   238→          "difficulty": "easy"
+   239→   239→        },
+   240→   240→        {
+   241→   241→          "question": "United Italy was proclaimed a kingdom under Victor Emmanuel II in the year",
+   242→   242→          "options": ["1859", "1860", "1861", "1871"],
+   243→   243→          "answerIndex": 2,
+   244→   244→          "explanation": "Victor Emmanuel II was proclaimed King of united Italy in 1861 after Garibaldi's southern campaign.",
+   245→   245→          "difficulty": "medium"
+   246→   246→        },
+   247→   247→        {
+   248→   248→          "question": "The volunteers led by Garibaldi in southern Italy were popularly known as",
+   249→   249→          "options": ["Red Shirts", "Black Shirts", "Young Italy", "Carbonari"],
+   250→   250→          "answerIndex": 0,
+   251→   251→          "explanation": "Garibaldi's volunteers, famous as Red Shirts, marched to southern Italy in 1860.",
+   252→   252→          "difficulty": "easy"
+   253→   253→        },
+   254→   254→        {
+   255→   255→          "question": "Germania, the allegory of Germany, wears a crown of",
+   256→   256→          "options": ["Red cap", "Oak leaves", "Tricolour ribbon", "Cockade"],
+   257→   257→          "answerIndex": 1,
+   258→   258→          "explanation": "Germania wears a crown of oak leaves, as German oak symbolises heroism.",
+   259→   259→          "difficulty": "easy"
+   260→   260→        },
+   261→   261→        {
+   262→   262→          "question": "Greece was recognised as an independent nation by the Treaty of Constantinople in",
+   263→   263→          "options": ["1821", "1830", "1832", "1848"],
+   264→   264→          "answerIndex": 2,
+   265→   265→          "explanation": "The Treaty of Constantinople of 1832 recognised Greece as an independent nation.",
+   266→   266→          "difficulty": "medium"
+   267→   267→        },
+   268→   268→        {
+   269→   269→          "question": "The Act of Union of 1707 resulted in the formation of",
+   270→   270→          "options": ["United Kingdom of Great Britain", "Kingdom of Italy", "German Empire", "Kingdom of Netherlands"],
+   271→   271→          "answerIndex": 0,
+   272→   272→          "explanation": "The Act of Union of 1707 united England and Scotland into the United Kingdom of Great Britain.",
+   273→   273→          "difficulty": "medium"
+   274→   274→        },
+   275→   275→        {
+   276→   276→          "question": "Who among the following argued that the true spirit of a nation was to be discovered among its common people, das volk?",
+   277→   277→          "options": ["Johann Gottfried Herder", "Frederic Sorrieu", "Count Cavour", "Kaiser William I"],
+   278→   278→          "answerIndex": 0,
+   279→   279→          "explanation": "Johann Gottfried Herder, the German philosopher, believed that true German culture lived among the common people, das volk.",
+   280→   280→          "difficulty": "medium"
+   281→   281→        },
+   282→   282→        {
+   283→   283→          "question": "After the revolution of 1830 in France, the constitutional monarch who came to power was",
+   284→   284→          "options": ["Louis Philippe", "Charles X", "Napoleon Bonaparte", "Louis XVI"],
+   285→   285→          "answerIndex": 0,
+   286→   286→          "explanation": "The 1830 revolution overthrew Charles X and made Louis Philippe the constitutional monarch of France.",
+   287→   287→          "difficulty": "medium"
+   288→   288→        }
+   289→   289→      ],
+   290→   290→      "boardQuestions": [
+   291→   291→        {
+   292→   292→          "question": "Explain the meaning of liberalism in the political and economic spheres.",
+   293→   293→          "marks": 2,
+   294→   294→          "type": "SA",
+   295→   295→          "probability": "high",
+   296→   296→          "answer": "1) Political liberalism: it stood for the end of autocracy and clerical privileges, a constitution, representative government elected through parliament, and an independent judiciary. 2) It emphasised individual freedom and equality before law. 3) Economic liberalism: it demanded freedom of markets and removal of state imposed restrictions on the movement of goods and capital. The Zollverein of 1834 was its practical example, abolishing tariff barriers across German states."
+   297→   297→        },
+   298→   298→        {
+   299→   299→          "question": "Describe any three features of the Napoleonic Code.",
+   300→   300→          "marks": 3,
+   301→   301→          "type": "SA",
+   302→   302→          "probability": "very-high",
+   303→   303→          "answer": "1) It abolished all privileges based on birth and established equality before the law. 2) It secured the right to property for every citizen. 3) Administrative divisions were simplified and uniform laws were applied across Napoleon's empire. 4) A decimal system of weights and measures and better roads and transport helped trade. 5) In the Rhineland and other conquered areas it freed peasants from serfdom and manorial dues. Yet increased taxation, censorship and forced conscription later turned people against French rule."
+   304→   304→        },
+   305→   305→        {
+   306→   306→          "question": "Why did the Frankfurt Parliament fail to achieve its aim?",
+   307→   307→          "marks": 3,
+   308→   308→          "type": "SA",
+   309→   309→          "probability": "high",
+   310→   310→          "answer": "1) The Frankfurt Parliament of 1848, with 831 elected members, met in St Paul's Church and drafted a constitution for a German nation. 2) But it lost support because its members were mostly middle class professionals who lacked mass backing. 3) When the crown was offered to Friedrich Wilhelm IV of Prussia, he refused it, and other monarchs and the army opposed the assembly. Troops were called, the parliament was disbanded and women remained only spectators. Thus liberal hopes of unification through parliament failed."
+   311→   311→        },
+   312→   312→        {
+   313→   313→          "question": "How were nations personified as female figures? Explain with examples.",
+   314→   314→          "marks": 3,
+   315→   315→          "type": "SA",
+   316→   316→          "probability": "high",
+   317→   317→          "answer": "Nations were portrayed as female figures to give the abstract idea of the nation a visible form. 1) In France, Marianne wore the red cap, tricolour and cockade; her statues stood in squares and her images appeared on coins and stamps. 2) In Germany, Germania wore a crown of oak leaves, for German oak stood for heroism; Philip Veit's painting of Germania hung in the Church of St Paul where the Frankfurt Parliament met. 3) Such images united people emotionally and helped them identify with the nation."
+   318→   318→        },
+   319→   319→        {
+   320→   320→          "question": "Describe the process of unification of Germany and Italy, highlighting the role of Bismarck, Cavour and Garibaldi.",
+   321→   321→          "marks": 5,
+   322→   322→          "type": "LA",
+   323→   323→          "probability": "very-high",
+   324→   324→          "answer": "Germany: 1) Liberal hopes of 1848 failed, so unification shifted to Prussia. 2) Chief Minister Otto von Bismarck, with the army and bureaucracy, fought three wars in seven years against Denmark, Austria and France. 3) Prussia's victories completed the process and in January 1871 Kaiser William I was proclaimed German Emperor at Versailles. Italy: 1) Italy was divided into seven states, with Sardinia Piedmont under Victor Emmanuel II leading unification. 2) Chief Minister Cavour formed a diplomatic alliance with France in 1859 and defeated Austria. 3) In 1860, Garibaldi marched south with his Red Shirt volunteers, won peasant support and captured the Kingdom of the Two Sicilies. 4) In 1861, Victor Emmanuel II was proclaimed King of united Italy. Mazzini's earlier revolutionary ideas had prepared the ground for both nations."
+   325→   325→        },
+   326→   326→        {
+   327→   327→          "question": "What steps were taken by the Treaty of Vienna 1815? Why did the conservative regimes established after it fear nationalism?",
+   328→   328→          "marks": 5,
+   329→   329→          "type": "LA",
+   330→   330→          "probability": "high",
+   331→   331→          "answer": "1) The Bourbon dynasty was restored to power in France. 2) France lost the territories it had annexed under Napoleon. 3) Belgium was united with the Netherlands, and Genoa was given to Sardinia Piedmont. 4) Austria got control of northern Italy, Prussia received important new territories on its western frontier and Russia took part of Poland. 5) The main aim was to restore the monarchies overthrown by Napoleon and create a new conservative order. 6) Conservative regimes of 1815 were autocratic: they did not tolerate criticism, imposed censorship on press, books, plays and songs, and feared the ideas of liberty and equality spread by the French Revolution. This repression pushed many people towards secret societies and revolutionary activity."
+   332→   332→        },
+   333→   333→        {
+   334→   334→          "question": "Read the source and answer the questions: Frederic Sorrieu, a French artist, made a series of four prints in 1848 visualising his dream of a world made up of democratic and social republics. In the first print, the peoples of the world are grouped as distinct nations, identified through their flags and costumes, marching past the statue of Liberty. (a) Name the artist and the year of the prints. (b) What is meant by a utopian vision? (c) What, according to Sorrieu, would the world of the future become?",
+   335→   335→          "marks": 5,
+   336→   336→          "type": "CASE",
+   337→   337→          "probability": "high",
+   338→   338→          "answer": "(a) Frederic Sorrieu, a French artist, made the four prints in 1848. (b) A utopian vision is a dream of an ideal society that does not yet exist in reality; Sorrieu imagined a perfect world order of free and equal democratic nations, which Europe of 1848 had not achieved. (c) He expected that the states of the world would one day become democratic and social republics, where people of every nation would live as equal citizens, marching as distinct nations under their own flags. His print shows the dream of nationalism, liberty and fraternity spreading across the world."
+   339→   339→        },
+   340→   340→        {
+   341→   341→          "question": "Describe the social structure of Europe in the eighteenth century.",
+   342→   342→          "marks": 2,
+   343→   343→          "type": "SA",
+   344→   344→          "probability": "high",
+   345→   345→          "answer": "1) The aristocracy was the dominant class, owning estates in town and country, united by marriage alliances and speaking French in high society. 2) The peasantry formed the majority of the population and tilled land owned by landlords, often under serfdom in central and eastern Europe. 3) From the mid eighteenth century, industrialisation created a working class in factories and a middle class of industrialists, businessmen and professionals, which later carried liberal and nationalist ideas."
+   346→   346→        },
+   347→   347→        {
+   348→   348→          "question": "Who were the main carriers of the idea of national unity in Europe after 1815? Explain the role of the educated middle class.",
+   349→   349→          "marks": 3,
+   350→   350→          "type": "SA",
+   351→   351→          "probability": "high",
+   352→   352→          "answer": "1) After 1815, the idea of national unity became popular mainly among the educated, liberal middle classes of Europe. 2) This class had grown with industrialisation and included industrialists, businessmen and professionals like lawyers and doctors. 3) They wanted a nation based on equality before law, constitutional government and freedom of markets, replacing the privileges of the aristocracy. 4) They spread their ideas through secret societies like the Carbonari, through liberal demands for constitutions, and through movements like the Frankfurt Parliament of 1848, with Mazzini as their most famous spokesman."
+   353→   353→        },
+   354→   354→        {
+   355→   355→          "question": "Explain the role of the middle class and of women in the growth of nationalism in Europe.",
+   356→   356→          "marks": 5,
+   357→   357→          "type": "LA",
+   358→   358→          "probability": "high",
+   359→   359→          "answer": "Middle class: 1) Industrialisation from the late eighteenth century created a working class and a middle class of industrialists, businessmen and professionals. 2) Among the educated, liberal middle class, ideas of national unity and the abolition of aristocratic privilege became popular, and they promoted constitutions, parliaments and free markets. 3) They organised politically through secret societies, universities and movements like the Frankfurt Parliament of 1848, which drafted a constitution for a German nation. Women: 4) Women of the liberal middle classes attended political meetings and demonstrations, formed their own associations and founded newspapers demanding equal rights; Louise Otto-Peters founded the Frauenzeitung and a political association for women's rights. 5) Yet women were denied suffrage and sat only as spectators in the Frankfurt Parliament, showing that the liberal nationalism of the age had limits and that the struggle for political equality continued."
+   360→   360→        },
+   361→   361→        {
+   362→   362→          "question": "How did culture, folklore and language help in the growth of nationalism in Europe? Explain with examples.",
+   363→   363→          "marks": 5,
+   364→   364→          "type": "LA",
+   365→   365→          "probability": "high",
+   366→   366→          "answer": "1) Romanticism used art, poetry, stories and music to create and share the feeling of a common national heritage. 2) Johann Gottfried Herder argued that the true spirit of a nation lived among its common people, das volk, so collecting folk songs, folk tales and dances became a way of preserving national identity. 3) In Poland, language itself became a weapon: after the 1831 revolt was crushed and Russian was imposed, the Polish clergy used Polish for religious instruction, and many priests were jailed or exiled for refusing to give it up. 4) Composer Karol Kurpinski turned folk dances like the polonaise and mazurka into nationalist symbols, and music kept Polish feeling alive under foreign rule. 5) Thus culture gave people a shared past and identity, mobilising them for the nation even where politics was suppressed."
+   367→   367→        },
+   368→   368→        {
+   369→   369→          "question": "Read the source and answer the questions: In the Frankfurt Parliament of 1848, women were admitted only as spectators. Middle class women had nevertheless formed their own political associations and founded newspapers. Louise Otto-Peters founded the Frauenzeitung and a political association for women's rights, demanding that women be included when political rights were proclaimed. (a) How did women participate in political life in the nineteenth century? (b) What rights were women denied during the 1848 revolutions? (c) What does Louise Otto-Peters' demand tell us about liberal nationalism?",
+   370→   370→          "marks": 5,
+   371→
+   372→[showing lines 1-370 of 1808; use offset=371 with limit to continue reading]

@@ -1,0 +1,1210 @@
+{
+  "code": "civics",
+  "name": "Civics",
+  "bookName": "Democratic Politics II",
+  "weightageMarks": 20,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Power Sharing",
+      "summary": "Power sharing is the defining arrangement of democracy, and two neighbouring cases show why it matters. Belgium accommodated its Dutch, French and German speakers through equal ministers, regional governments and community governments, while Sri Lanka's Sinhala-only majoritarianism pushed the country into a long civil war. The chapter also explains prudential and moral reasons for power sharing and its four forms.",
+      "weightageMarks": 4,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Belgium model of power sharing",
+        "Sinhala Only Act and Sri Lankan civil war",
+        "Prudential vs moral reasons",
+        "Majoritarianism",
+        "Four forms of power sharing",
+        "Community government of Belgium"
+      ],
+      "sections": [
+        {
+          "heading": "Why Power Sharing is Desirable - Prudential and Moral Reasons",
+          "points": [
+            "Power sharing is desirable because it reduces the possibility of conflict between different social groups; when power is shared, communities with different interests do not feel dominated by one another.",
+            "Prudential reasons are based on prudence, or careful calculation of gains and losses: power sharing is worthwhile because it brings peace, stability and better outcomes for the country.",
+            "Moral reasons are based on the intrinsic value of power sharing: in a democracy citizens have a right to be consulted on how they are governed, and every adult has a stake in the decisions that shape his or her life.",
+            "Power sharing is the very spirit of democracy, and a government that works through citizens' participation becomes a legitimate government whose decisions people accept.",
+            "When power remains undivided in one hand it often turns oppressive, which goes against the very logic of popular government."
+          ],
+          "keyTerms": [
+            {"term": "Prudential", "meaning": "Based on careful calculation of gains and losses; power sharing is justified by practical benefits such as peace, stability and better outcomes."},
+            {"term": "Moral", "meaning": "Based on the intrinsic worth of power sharing, treating the right of citizens to be consulted as the essence of democracy."},
+            {"term": "Legitimate government", "meaning": "A government chosen through citizens' participation whose decisions people accept as right even when they dislike a particular decision."}
+          ],
+          "trick": "P-M Rule: Prudential is Practical (peace, stability, better outcomes) and Moral is Meaningful (the right to be consulted). If the question asks for two reasons, give one from each family.",
+          "examPointer": "CBSE loves the 2-marker on distinguishing prudential and moral reasons and 5-markers on why power sharing is the spirit of democracy; always support the prudential reason with the Belgium example."
+        },
+        {
+          "heading": "Belgium - Power Sharing that Worked",
+          "points": [
+            "Belgium is a small European country with a population of a little over one crore; 59 per cent of its people live in the Flemish region and speak Dutch, 40 per cent live in Wallonia and speak French, and 1 per cent speak German.",
+            "In the capital city Brussels, 80 per cent of the people speak French and 20 per cent speak Dutch; the French-speaking minority in the city was historically richer and more powerful.",
+            "The Belgian Constitution was amended four times between 1970 and 1993 to work out an arrangement acceptable to all communities.",
+            "The Constitution prescribes that the central government shall have an equal number of Dutch-speaking and French-speaking ministers.",
+            "Many powers of the central government were given to the state governments of the regions, which are not subordinate to the central government, and Brussels got a separate government in which both communities have equal representation.",
+            "A separate community government, elected by people belonging to one language community no matter where they live, handles culture, education and language-related issues."
+          ],
+          "keyTerms": [
+            {"term": "Flemish region", "meaning": "The Dutch-speaking northern region of Belgium, home to 59 per cent of the country's population."},
+            {"term": "Community government", "meaning": "A Belgian body elected by one language community that has power over culture, education and language-related issues."},
+            {"term": "Equal representation", "meaning": "The Belgian rule that both Dutch and French speakers must have the same number of ministers in the central government and equal representation in the Brussels government."}
+          ],
+          "trick": "59-40-1 for Dutch-French-German and 80-20 for French-Dutch in Brussels; remember 'Equal ministers, equal Brussels, community governments' as the three pillars.",
+          "examPointer": "A 3 or 5-marker often asks why the Belgian model is considered successful; answer with four points - equal ministers, strong regional governments, the special Brussels arrangement and community governments."
+        },
+        {
+          "heading": "Sri Lanka - Majoritarianism and its Price",
+          "points": [
+            "Sri Lanka's population is about 74 per cent Sinhala speakers and 18 per cent Tamil speakers; the Tamils include Sri Lankan Tamils (about 13 per cent) and Indian Tamils (about 5 per cent), while about 7 per cent are others, mostly Christians.",
+            "After independence in 1948, the Sinhala leadership adopted a series of measures to establish Sinhala supremacy; in 1956 the Sinhala Only Act made Sinhala the sole official language, disregarding Tamil.",
+            "Preferential policies favoured Sinhala applicants for university admissions and government jobs, and a new constitution promised that the state would protect and foster Buddhism.",
+            "Sri Lankan Tamils demanded recognition of Tamil as an official language, regional autonomy and equal opportunity; by the 1980s, some organisations were demanding a separate state called Tamil Eelam in the north and east.",
+            "Distrust between the communities turned into a civil war; thousands of people from both communities were killed, many families fled the country as refugees, and the conflict ended only in 2009 after a terrible setback to social, cultural and economic life."
+          ],
+          "keyTerms": [
+            {"term": "Majoritarianism", "meaning": "The belief that the majority community should be free to rule a country in its own way, disregarding the wishes and needs of minorities."},
+            {"term": "Sinhala Only Act", "meaning": "The 1956 law of Sri Lanka that recognised Sinhala as the only official language of the country, disregarding Tamil."},
+            {"term": "Tamil Eelam", "meaning": "The separate state demanded by some Tamil organisations of northern and eastern Sri Lanka by the 1980s."}
+          ],
+          "trick": "SOB Chain: Sinhala Only Act, Buddhism protected, jobs biased - each step deepened Tamil alienation; trace the chain from measure to reaction in every answer.",
+          "examPointer": "Case-based questions often quote the 1956 Act or the demand for Eelam; connect every majoritarian measure to the Tamil response and finally to the civil war."
+        },
+        {
+          "heading": "Belgium vs Sri Lanka - Two Paths, Two Outcomes",
+          "points": [
+            "Belgium treated linguistic diversity as a source of strength and worked out an arrangement acceptable to Dutch and French speakers alike, while Sri Lanka imposed the will of the Sinhala majority on the Tamil minority.",
+            "Belgian leaders recognised the existence of regional differences and respected the feelings of both communities; Sri Lankan leaders adopted a series of majoritarian measures to establish Sinhala supremacy.",
+            "In Belgium every community got a share in power through equal ministers, regional governments, the special Brussels arrangement and community governments, while in Sri Lanka power stayed with one community and minorities were left outside decision making.",
+            "The Belgian model kept the country united and peaceful, whereas Sri Lanka's refusal to share power led to alienation, the demand for Tamil Eelam and a civil war that lasted till 2009."
+          ],
+          "keyTerms": [
+            {"term": "Accommodation", "meaning": "Recognising and giving every community a share in power so that differences are negotiated rather than suppressed."},
+            {"term": "Supremacy", "meaning": "The attempt of a majority community to dominate the state and impose its will on minorities, as in Sri Lanka after 1956."}
+          ],
+          "trick": "B for Balance, S for Supremacy - Belgium balanced power, Sri Lanka sought Sinhala supremacy; balance produced unity, supremacy produced war.",
+          "examPointer": "Compare-the-two questions appear as 3 and 5 markers; organise the answer under four axes - approach, measures taken, share of minorities and final outcome."
+        },
+        {
+          "heading": "Four Forms of Power Sharing",
+          "points": [
+            "Horizontal distribution: power is shared among different organs of government - legislature, executive and judiciary - placed at the same level so that each organ checks the others, producing a system of checks and balances.",
+            "Vertical distribution: power is shared among governments at different levels, such as a general government for the entire country and governments at the level of provinces or states.",
+            "Power sharing among social groups: religious and linguistic communities get a share in power, as in Belgium's community government or the reserved constituencies for weaker sections in India.",
+            "Power sharing among political parties, pressure groups and movements: competition among parties lets citizens choose their rulers, while the opposition, pressure groups and movements influence those in power between elections.",
+            "A single democracy usually combines several forms; India uses horizontal and vertical division together along with group-based representation and coalition politics."
+          ],
+          "keyTerms": [
+            {"term": "Horizontal distribution", "meaning": "Sharing of power among the legislature, executive and judiciary, which are at the same level and check one another."},
+            {"term": "Vertical distribution", "meaning": "Sharing of power among governments at different levels - national, state and local."},
+            {"term": "Checks and balances", "meaning": "The arrangement in which each organ of government monitors and limits the powers of the others so that no organ becomes supreme."}
+          ],
+          "trick": "OGPS ladder: Organs (horizontal), Governments (vertical), Groups (social), Parties (competition) - the four forms in one ladder.",
+          "examPointer": "MCQs test matching examples to forms - community government for social groups, coalition politics for parties; in 3-markers, name the form first, then explain and give the example."
+        },
+        {
+          "heading": "Power Sharing and Democracy - Bringing it Together",
+          "points": [
+            "A democratic rule involves sharing power with those affected by its exercise, so power sharing is not an option but a requirement for democracy to work.",
+            "Since people have a right to be consulted, consultation and participation through elections, debate and representation form the moral base of power sharing.",
+            "The Belgian and Sri Lankan contrast shows that sharing power preserves unity while hoarding power breeds alienation and violence.",
+            "India applies all four forms of power sharing: constitutional checks among organs, a federal division between Union and states studied in the next chapter, reserved representation for weaker sections, and competition among parties and alliances."
+          ],
+          "keyTerms": [
+            {"term": "Popular government", "meaning": "A government that rests on the consent and participation of the people, making power sharing a natural requirement."},
+            {"term": "Participation", "meaning": "The active involvement of citizens in choosing rulers and influencing decisions through elections, debate and movements."}
+          ],
+          "trick": "Remember the line 'Power shared is power strengthened' and use it as the closing sentence of any 5-marker on this chapter.",
+          "examPointer": "Use this section to frame conclusions in long answers; examiners reward a closing line that links power sharing with legitimacy and national unity."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "In Belgium, what percentage of the total population lives in the Flemish region and speaks Dutch?",
+          "options": ["40 per cent", "59 per cent", "1 per cent", "80 per cent"],
+          "answerIndex": 1,
+          "explanation": "Fifty-nine per cent of Belgians live in the Flemish region and speak Dutch. The remaining 40 per cent speak French in Wallonia and 1 per cent speak German.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which language was made the sole official language of Sri Lanka by the Act of 1956?",
+          "options": ["Tamil", "English", "Sinhala", "Dutch"],
+          "answerIndex": 2,
+          "explanation": "The Sinhala Only Act of 1956 recognised Sinhala as the only official language, disregarding Tamil. This measure deepened the alienation of the Tamil minority.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Sharing of power among the legislature, executive and judiciary is known as:",
+          "options": ["horizontal distribution", "vertical distribution", "community government", "coalition government"],
+          "answerIndex": 0,
+          "explanation": "The three organs of government sit at the same level and check one another, which is called horizontal distribution of power. Vertical distribution refers to sharing across levels of government.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In Belgium, which city has a separate government in which both communities have equal representation?",
+          "options": ["Antwerp", "The Hague", "Paris", "Brussels"],
+          "answerIndex": 3,
+          "explanation": "Brussels, the capital where French speakers form 80 per cent of the population, has a separate government with equal representation for both communities. This balances the equal Dutch-French ministry rule at the centre.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The community government of Belgium is elected by:",
+          "options": ["all citizens of Belgium together", "people belonging to one language community", "members of the national parliament", "religious leaders of each faith"],
+          "answerIndex": 1,
+          "explanation": "The community government is elected by people belonging to one language community, wherever they live. It handles culture, education and language-related issues.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which of the following is a moral reason for power sharing?",
+          "options": ["It reduces conflict between groups", "It avoids partition of the country", "People have a right to be consulted on how they are governed", "It gives quicker and sharper decisions"],
+          "answerIndex": 2,
+          "explanation": "Moral reasons rest on the intrinsic value of power sharing: every citizen has a right to be consulted. The other options are prudential reasons based on practical gains.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "In Sri Lanka, Tamil speakers together (Sri Lankan Tamils and Indian Tamils) form about what percentage of the population?",
+          "options": ["18 per cent", "74 per cent", "40 per cent", "5 per cent"],
+          "answerIndex": 0,
+          "explanation": "Tamils together form about 18 per cent: Sri Lankan Tamils about 13 per cent and Indian Tamils about 5 per cent. Sinhala speakers are about 74 per cent.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The Belgian Constitution was amended four times to work out a power sharing arrangement during which period?",
+          "options": ["1948-1956", "1956-1970", "1970-1993", "1993-2009"],
+          "answerIndex": 2,
+          "explanation": "Belgium amended its Constitution four times between 1970 and 1993. The amendments produced equal ministries, regional autonomy and community governments.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which statement best expresses the idea of checks and balances in horizontal power sharing?",
+          "options": ["The legislature controls the executive completely", "Each organ of government keeps a check on the others so that power stays dispersed", "The judiciary works under the direction of the legislature", "The organs of government function at different levels of the federation"],
+          "answerIndex": 1,
+          "explanation": "In horizontal distribution, organs placed at the same level exercise different powers and each checks the others. This dispersion of power is what is called checks and balances.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "A government formed by two or more parties coming together, with pressure groups and movements influencing its decisions, illustrates power sharing among:",
+          "options": ["organs of government", "levels of government", "social groups", "political parties, pressure groups and movements"],
+          "answerIndex": 3,
+          "explanation": "When parties form coalitions and pressure groups influence decisions, power is shared among political parties, pressure groups and movements. This is the fourth form of power sharing.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What is majoritarianism? How did Sri Lanka follow this policy after independence?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Majoritarianism is the belief that the majority community should be free to rule a country in whatever way it wants, even by disregarding the wishes and needs of minorities. 2) In Sri Lanka, the Sinhala majority used its dominance to make Sinhala the only official language in 1956, gave Sinhalese people preference in jobs and higher education and promised state protection to Buddhism. 3) These measures ignored the Tamil minority, alienated it and finally pushed the country into a long civil war."
+        },
+        {
+          "question": "State any two prudential reasons why power sharing is desirable.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Power sharing reduces the possibility of conflict between different social groups; it lowers the risk of violence and instability, as Belgium showed by accommodating its Dutch and French speakers. 2) It produces better outcomes because decisions taken with the participation of different groups reflect wider interests and gain broader acceptance. 3) Shared power also gives every community a stake in the system, which keeps national unity and peace intact."
+        },
+        {
+          "question": "Describe the ethnic composition of Belgium. How did its Constitution ensure power sharing among the communities?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Belgium has a population of a little over one crore; 59 per cent of its people live in the Flemish region and speak Dutch, 40 per cent live in Wallonia and speak French, while 1 per cent speak German. 2) In the capital Brussels, 80 per cent speak French and 20 per cent speak Dutch, and the French-speaking minority there was historically wealthier, so the Dutch community feared neglect. 3) The Constitution, amended four times between 1970 and 1993, provided that the central cabinet must have an equal number of Dutch-speaking and French-speaking ministers. 4) Many central powers were transferred to regional governments, and Brussels received a separate government with equal representation for both communities, while community governments handled culture, education and language issues."
+        },
+        {
+          "question": "Explain any three forms of power sharing with suitable examples.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Horizontal division: power is shared among the legislature, executive and judiciary, which are placed at the same level and check one another, as in India where courts can review laws. 2) Vertical division: power is shared among governments at different levels, such as the Union government, state governments and local bodies in India. 3) Power sharing among social groups: religious or linguistic communities get a share in authority, for example the community government of Belgium elected by language groups. 4) Power sharing among political parties and movements: competition among parties and the pressure of groups and movements let citizens choose rulers and influence decisions, as coalition governments in India show."
+        },
+        {
+          "question": "'Power sharing is the very spirit of democracy.' Explain the prudential and moral reasons that make power sharing desirable.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Prudential reasons are based on careful calculation of gains and losses. 2) Power sharing reduces the possibility of conflict: when social groups share power, no community feels excluded and the chances of violence and of the country splitting fall, as Belgium's stability proves. 3) It also produces better outcomes because decisions taken with the participation of different groups reflect wider interests and win broader acceptance. 4) Moral reasons rest on the intrinsic value of power sharing in a democracy. 5) A democratic rule means that citizens have a right to be consulted on how they are governed; consultation and participation are not favours but duties of a democratic government. 6) Every adult citizen has a stake in the decisions that shape his or her life, so undivided power in one hand goes against the very logic of popular government. 7) Hence power sharing is the very spirit of democracy: it makes the government legitimate, keeps peace among communities and deepens citizens' participation. 8) The contrast between Belgium, which shared power and stayed united, and Sri Lanka, which refused to share power and suffered civil war, confirms that power sharing is both prudent and morally necessary, and that its worth is felt in peace, legitimacy and the deeper participation of every community."
+        },
+        {
+          "question": "Compare the power sharing models of Belgium and Sri Lanka and state the lesson they teach about handling linguistic diversity.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Belgium and Sri Lanka show two opposite ways of handling linguistic diversity. 2) Belgium: leaders recognised regional differences and respected the feelings of both Dutch and French communities; the Constitution was amended four times between 1970 and 1993 to create the equal-minister rule at the centre, strong regional governments, a separate Brussels government with equal representation and community governments for culture and education. 3) Sri Lanka: leaders used their majority to establish Sinhala supremacy; the 1956 Sinhala Only Act, preferential policies in jobs and universities and state patronage of Buddhism left the Tamils out of power. 4) Outcome in Belgium: tensions were defused, no partition occurred and all communities got a voice; outcome in Sri Lanka: distrust deepened, demands for a separate Tamil Eelam arose, and civil war killed thousands and damaged the economy until 2009. 5) Lesson: power sharing accommodates diversity and preserves unity, while majoritarian rule breeds alienation and conflict; democratic legitimacy requires that minorities are consulted, not crushed. 6) Both cases also show that power sharing is not a sign of weakness: Belgium's equal ministers and regional autonomy gave every group a stake without weakening the state, while Sri Lanka's attempt to concentrate power in one community weakened the country itself. 7) A democratic country must therefore treat its minorities as partners in rule, not as subjects of rule."
+        },
+        {
+          "question": "Read the following source and answer the sub-questions: 'When Sri Lanka became independent in 1948, its Sinhala leadership took a series of steps to establish the dominance of their community. Sinhala was made the sole official language in 1956 and Tamil was pushed aside. Preferential policies favoured Sinhala candidates in universities and government jobs, and a new constitution promised state protection to Buddhism. Tamil parties first demanded fair treatment, regional autonomy and recognition of their language; by the 1980s some groups were fighting for an independent Tamil Eelam in the north and east. The country sank into a civil war that lasted for decades and ended only in 2009.' (a) Name the policy followed by Sri Lankan leaders and identify the community that was sidelined. (b) Explain any two demands of the Sri Lankan Tamils. (c) Suggest any two measures, with reference to the Belgian model, that could have prevented the crisis.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) The leaders followed majoritarianism, the policy of letting the majority community rule in its own way; the Tamil minority, both Sri Lankan Tamils and Indian Tamils, was sidelined. 2) (b) The Tamils demanded recognition of Tamil as an official language, regional autonomy for the Tamil-majority north and east, and equal opportunities in education and jobs; by the 1980s some groups demanded a separate state of Tamil Eelam. 3) (c) First, Sri Lanka could have given its language communities a share in power at the centre, like the Belgian rule of an equal number of ministers from each community. 4) It could have created autonomous regional governments with real powers, as Belgium gave its regions and its capital Brussels. 5) It could have set up community governments elected by each language group to handle culture and education. 6) Such accommodation would have given the Tamils a stake in the system, reduced distrust and prevented the demand for separation and the civil war. 7) Above all, the state should have guaranteed the minority a real voice in national decisions, through equal representation in the cabinet and community-style institutions protecting Tamil language and culture, so that every community felt equally owned by the nation rather than ruled by another."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Federalism",
+      "summary": "Federalism divides power between the Union and the states through the Union, State and Concurrent lists, with residuary powers resting with the Union. India, a holding together federation, practised federalism by creating linguistic states and adopting a flexible language policy. The 1992 constitutional amendments made decentralisation a constitutional duty, building a third tier of panchayats and municipalities.",
+      "weightageMarks": 5,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Union, State and Concurrent lists",
+        "Coming together vs holding together federations",
+        "Linguistic states and language policy",
+        "Decentralisation and the 1992 amendments",
+        "State Election Commission and gram sabha",
+        "Tamil Nadu and the Hindi question"
+      ],
+      "sections": [
+        {
+          "heading": "What is Federalism?",
+          "points": [
+            "Federalism is a system of government in which power is divided between a central authority and various constituent units of the country, and both levels enjoy their powers independently of each other.",
+            "A federal system has two or more levels of government, each with its own jurisdiction in matters of legislation, taxation and administration.",
+            "The jurisdiction of each level is specified by the constitution, so the existence and authority of each tier cannot be changed unilaterally by another tier.",
+            "Sources of revenue for different levels of government are clearly specified to ensure their financial autonomy.",
+            "Courts interpret the constitution and settle disputes between levels of government, and federalism serves a dual objective - safeguarding and promoting the unity of the country while accommodating regional diversity."
+          ],
+          "keyTerms": [
+            {"term": "Federalism", "meaning": "A system of government in which power is constitutionally divided between a central authority and constituent units, each supreme in its own sphere."},
+            {"term": "Jurisdiction", "meaning": "The legal area of subjects over which a level of government can legislate, tax and administer."},
+            {"term": "Dual objective", "meaning": "The twin goals of federalism: to safeguard and promote national unity and to accommodate regional diversity."}
+          ],
+          "trick": "Six features in one sentence: 'Two Tiers, Typed Jurisdiction, Guaranteed Existence, Given Revenue, Judge Arbitrates, Dual Objective'.",
+          "examPointer": "The 3-marker 'explain any three features of federalism' is common; name the feature first, explain it in one line, and end with the dual objective as a bonus point."
+        },
+        {
+          "heading": "Coming Together and Holding Together Federations",
+          "points": [
+            "In coming together federations, independent states come together on their own to form a bigger unit, pooling sovereignty while retaining their identity; the USA, Switzerland and Australia are examples, and the constituent units usually have equal powers and strong rights.",
+            "In holding together federations, a large country decides to divide its power between the central authority and the constituent units; India, Spain and Belgium are examples, and the central authority tends to be stronger.",
+            "India is a holding together federation in which the Union government and the state governments each have their own constitutional powers.",
+            "All constituent units in India do not have identical powers: Union Territories like Chandigarh and Lakshadweep do not enjoy the same status as states and are run by the Union government."
+          ],
+          "keyTerms": [
+            {"term": "Coming together federation", "meaning": "A federation formed when independent states unite on their own and surrender some rights, as in the USA, Switzerland and Australia."},
+            {"term": "Holding together federation", "meaning": "A federation in which a large country divides power between the centre and its units, as in India, Spain and Belgium."},
+            {"term": "Union Territory", "meaning": "A unit such as Chandigarh or Lakshadweep that does not enjoy the same status as a state and is run by the Union government."}
+          ],
+          "trick": "C is Chosen (states chose to unite: USA, Switzerland, Australia); H is Held (one nation held together: India, Spain, Belgium).",
+          "examPointer": "A favourite 3-marker asks to distinguish the two types; attach country examples to each type and add the line that the centre is stronger in holding together federations."
+        },
+        {
+          "heading": "Division of Powers - Union, State and Concurrent Lists",
+          "points": [
+            "The Union List contains subjects of national importance such as defence, foreign affairs, banking, currency and communications; originally it had 97 subjects, and only the Union government can legislate on them.",
+            "The State List contains subjects of state and local importance such as police, trade, commerce, agriculture and irrigation; originally it had 66 subjects.",
+            "The Concurrent List includes subjects of common interest such as education, forests, trade unions, marriage, adoption and succession; originally it had 47 subjects, and both levels of government can legislate on them.",
+            "When the law made by the Union government on a Concurrent subject conflicts with a state law, the law made by the Union government prevails.",
+            "Subjects not included in any of the three lists, such as computer software, are residuary subjects on which the Union government alone legislates."
+          ],
+          "keyTerms": [
+            {"term": "Union List", "meaning": "The list of subjects of national importance on which only the Union Parliament can legislate; originally 97 subjects."},
+            {"term": "Concurrent List", "meaning": "The list of subjects of common interest on which both Union and states can legislate; in case of conflict the Union law prevails."},
+            {"term": "Residuary subjects", "meaning": "Subjects not listed under any of the three lists, such as computer software, which rest with the Union government."}
+          ],
+          "trick": "Remember 97-66-47 for Union-State-Concurrent, and the tie-breaker line: 'on Concurrent conflict, the Union law wins'.",
+          "examPointer": "Expect subject-to-list matching in MCQs; in theory answers, the rule on conflict over Concurrent subjects is the most tested 2-marker of this section."
+        },
+        {
+          "heading": "How Federalism is Practised - Linguistic States and Language Policy",
+          "points": [
+            "Creating linguistic states was the first and a major test of democratic politics: after 1947, the boundaries of many old states were changed on the basis of language, as in Andhra Pradesh, Maharashtra, Gujarat and Punjab.",
+            "Some states were formed not on the basis of language but to respect differences of culture, ethnicity or geography, such as Nagaland, Uttarakhand and Jharkhand.",
+            "The Constitution does not declare any language the national language; Hindi was identified as the official language, though it is the mother tongue of only about 40 per cent of Indians.",
+            "Besides Hindi, 21 other languages are recognised as Scheduled Languages, and a candidate in a central government examination may answer in any of them; English continues to be used for official purposes.",
+            "States have their own official languages and conduct much of their government work in them, giving linguistic communities control over administration and education in their regions.",
+            "When the promotion of Hindi sparked agitation, especially in Tamil Nadu, the Union leadership assured the states that the language policy would remain flexible and that no language would be imposed, defusing conflict before it became a Sri Lanka-like crisis."
+          ],
+          "keyTerms": [
+            {"term": "Linguistic states", "meaning": "States whose boundaries were drawn on the basis of the dominant language of the people living there."},
+            {"term": "Scheduled languages", "meaning": "The 22 languages recognised by the Constitution, including Hindi, in which central government examinations may be taken."},
+            {"term": "Official language", "meaning": "Hindi is the official language of the Union; the Constitution deliberately does not declare any language the national language."}
+          ],
+          "trick": "'Official, never National' for Hindi; 21 plus 1 makes 22 scheduled languages; and TN means 'Tamil never forced'.",
+          "examPointer": "'How did India handle linguistic diversity better than Sri Lanka?' is a classic 5-marker; use linguistic states, scheduled languages and the flexibility shown to Tamil Nadu as your three pillars."
+        },
+        {
+          "heading": "Decentralisation and the 1992 Amendments",
+          "points": [
+            "Decentralisation means taking power away from central and state governments and giving it to local government bodies, so that people at the local level take decisions on their own problems.",
+            "Earlier, panchayats and municipalities existed in India, but elections to them were not held regularly and the local bodies had neither powers nor resources of their own.",
+            "A major constitutional amendment in 1992 made three key changes: regular elections to local government bodies became a constitutional obligation, an independent State Election Commission was created to conduct them, and a State Finance Commission reviews the financial position of local bodies every five years.",
+            "Seats are reserved in the elected bodies and their executive heads for Scheduled Castes, Scheduled Tribes and Other Backward Classes, and at least one-third of all positions are reserved for women.",
+            "The 1992 amendments thus turned local government into a constitutionally guaranteed third tier of Indian federal democracy."
+          ],
+          "keyTerms": [
+            {"term": "Decentralisation", "meaning": "The transfer of power, authority and resources from higher levels of government to lower local levels."},
+            {"term": "State Election Commission", "meaning": "The independent body created by the 1992 amendments to conduct elections to panchayats and municipalities in a state."},
+            {"term": "State Finance Commission", "meaning": "The body that reviews the financial position of local government bodies in a state every five years."}
+          ],
+          "trick": "The 1992 gift pack: Votes (regular elections), Voices (reservations for SC, ST, OBC and women), Watchdogs (State Election Commission and Finance Commission).",
+          "examPointer": "The three provisions of the 1992 amendment and the composition of the gram sabha are among the most repeated MCQs and 3-markers of this chapter."
+        },
+        {
+          "heading": "Structure of Local Government - Panchayats to Corporations",
+          "points": [
+            "Rural local government is popularly known as Panchayati Raj; the gram sabha is the assembly of all persons registered in the electoral rolls of a village.",
+            "The gram panchayat is the elected village body headed by the sarpanch; several gram panchayats are grouped under a panchayat samiti or block level body.",
+            "At the district level, the zila parishad coordinates the work of the panchayats at the block and village levels.",
+            "In towns, elected municipalities look after local services, while big cities have municipal corporations; each is an elected body headed by a chairperson or mayor.",
+            "Reservation of one-third of the positions for women has brought lakhs of women into grassroots politics and given them experience of leadership and governance.",
+            "Devolution of funds, functions and functionaries to local bodies remains the unfinished agenda that decides how strong the third tier actually becomes."
+          ],
+          "keyTerms": [
+            {"term": "Gram sabha", "meaning": "The body consisting of all persons registered in the electoral rolls of a village."},
+            {"term": "Sarpanch", "meaning": "The elected head of the gram panchayat, the village level local body."},
+            {"term": "Zila parishad", "meaning": "The district level body of rural local government that coordinates the panchayat samitis and gram panchayats."}
+          ],
+          "trick": "Climb the Village-Block-District ladder: gram panchayat with sarpanch, panchayat samiti at block, zila parishad at district; towns climb from municipality to corporation.",
+          "examPointer": "MCQs love the gram sabha definition and the body at block or district level; in 5-markers, describe the ladder in order and add the women's reservation point for full marks."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Which of the following subjects belongs to the Union List?",
+          "options": ["Police", "Defence", "Agriculture", "Irrigation"],
+          "answerIndex": 1,
+          "explanation": "Defence is a subject of national importance and is on the Union List. Police, agriculture and irrigation are State List subjects.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "India is an example of which type of federation?",
+          "options": ["Coming together federation", "Holding together federation", "Unitary state", "Confederation"],
+          "answerIndex": 1,
+          "explanation": "India is a holding together federation in which a large country divides power between the Union and the states. In such federations the central authority tends to be stronger.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The 73rd and 74th constitutional amendments that strengthened the third tier of government were passed in which year?",
+          "options": ["1976", "1985", "1992", "2000"],
+          "answerIndex": 2,
+          "explanation": "The 1992 amendments made regular local elections a constitutional duty, created the State Election Commission and reserved seats for weaker sections and women.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The gram sabha includes:",
+          "options": ["only the sarpanch and panchs", "all persons registered in the electoral rolls of a village", "government officials of the block", "members of the zila parishad"],
+          "answerIndex": 1,
+          "explanation": "The gram sabha is the assembly of all persons registered in the electoral rolls of a village. It is the widest body of rural local government.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which of the following subjects is included in the Concurrent List?",
+          "options": ["Education", "Currency", "Police", "Foreign affairs"],
+          "answerIndex": 0,
+          "explanation": "Education is a subject of common interest and figures on the Concurrent List along with forests, trade unions, marriage, adoption and succession. Currency and foreign affairs are Union subjects and police is a State subject.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Originally, the Union List contained how many subjects?",
+          "options": ["66", "47", "97", "100"],
+          "answerIndex": 2,
+          "explanation": "The Union List originally contained 97 subjects, the State List 66 and the Concurrent List 47. Only the Union government can legislate on Union List subjects.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Elections to panchayats and municipalities are now conducted by:",
+          "options": ["the Parliament", "the State Election Commission", "the zila parishad", "the central government"],
+          "answerIndex": 1,
+          "explanation": "The 1992 amendments created an independent State Election Commission in each state to conduct panchayat and municipal elections.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "If the Union government and a state government make conflicting laws on a Concurrent subject, then:",
+          "options": ["the state law prevails", "the Union law prevails", "both laws stand valid side by side", "the matter is decided by a referendum"],
+          "answerIndex": 1,
+          "explanation": "On Concurrent subjects both levels can legislate, but in case of conflict the law made by the Union government prevails.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Subjects such as computer software, which are not included in any of the three lists, are called residuary subjects and rest with:",
+          "options": ["the state governments", "the Union government", "the concurrent jurisdiction of both", "the local government bodies"],
+          "answerIndex": 1,
+          "explanation": "Residuary subjects are those not listed under any of the three lists. According to the Constitution, the Union government has the power to legislate on them.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which sequence correctly represents rural local government from the village to the district level?",
+          "options": ["Gram sabha, panchayat samiti, gram panchayat", "Gram panchayat, panchayat samiti, zila parishad", "Zila parishad, panchayat samiti, gram panchayat", "Gram panchayat, zila parishad, panchayat samiti"],
+          "answerIndex": 1,
+          "explanation": "The rural ladder runs from the gram panchayat at the village level to the panchayat samiti at the block level and the zila parishad at the district level.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What is federalism? State any two key features of a federal system.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Federalism is a system of government in which power is divided between a central authority and several constituent units, and each level enjoys its powers independently. 2) Two key features: there are two or more levels of government, each with its own jurisdiction over legislation, taxation and administration; and the existence and authority of each level are guaranteed by the Constitution, so no level can abolish or overrule the other arbitrarily. 3) Courts interpret the Constitution and settle disputes between the two levels."
+        },
+        {
+          "question": "State any two provisions of the constitutional amendment of 1992 regarding local government in India.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) The constitutional amendment of 1992 made it mandatory to hold regular elections to local government bodies, which earlier depended on the will of the state governments. 2) Seats are reserved in these bodies and their executive heads for Scheduled Castes, Scheduled Tribes and Other Backward Classes, and at least one-third of all positions are reserved for women. 3) An independent State Election Commission was created to conduct the panchayat and municipal elections."
+        },
+        {
+          "question": "Distinguish between the Union List, the State List and the Concurrent List with examples. What happens when laws made on a Concurrent subject conflict?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Union List: subjects of national importance such as defence, foreign affairs, banking, currency and communications; originally 97 subjects; only the Union Parliament can make laws on them. 2) State List: subjects of state and local importance such as police, trade, commerce, agriculture and irrigation; originally 66 subjects; state legislatures make laws on them. 3) Concurrent List: subjects of common interest such as education, forests, trade unions, marriage, adoption and succession; originally 47 subjects; both levels can legislate. 4) If a Union law and a state law clash on a Concurrent subject, the Union law prevails; subjects absent from all lists, like computer software, are residuary matters on which the Union legislates."
+        },
+        {
+          "question": "How is federalism practised in India? Explain any three ways.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Linguistic states: after 1947 many state boundaries were redrawn on the basis of language, as in Andhra Pradesh, Maharashtra, Gujarat and Punjab, and states like Nagaland, Uttarakhand and Jharkhand were formed to respect culture, ethnicity or geography. 2) Flexible language policy: the Constitution made Hindi the official language but not the national language; 21 other scheduled languages are recognised, English continues to be used for official purposes and states use their own languages for government work. 3) Respect for regional demands: when Tamil Nadu resisted the promotion of Hindi, the Union government showed flexibility and assured the states that no language would be imposed, which kept linguistic peace and strengthened the federal spirit."
+        },
+        {
+          "question": "What is decentralisation? Describe the provisions of the 1992 constitutional amendment and the structure of rural and urban local government in India.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Decentralisation means transferring power, authority and resources from the central and state governments to local bodies so that people themselves solve their problems. 2) Before 1992, panchayats and municipalities existed, but elections were not held regularly and these bodies had little money or real power. 3) The constitutional amendments of 1992 changed this: regular elections to local bodies became a constitutional obligation, an independent State Election Commission was created to conduct them, and a State Finance Commission reviews the financial position of local bodies every five years. 4) Seats are reserved for Scheduled Castes, Scheduled Tribes and Other Backward Classes, and at least one-third of the positions are reserved for women, bringing lakhs of women into public life. 5) The structure: the gram sabha of all registered voters of a village, the gram panchayat headed by a sarpanch at the village level, panchayat samitis at the block level and zila parishads at the district level. 6) In urban areas, towns have municipalities and big cities have municipal corporations, both elected bodies. 7) These amendments made local government a constitutionally guaranteed third tier of Indian federalism and one of the largest experiments in grassroots democracy, giving every village and ward a direct stake in the democratic process."
+        },
+        {
+          "question": "Explain India's language policy and show how its flexibility saved the country from the kind of conflict Sri Lanka faced.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) India's language policy is a careful balance between a common official language and respect for many tongues. 2) The Constitution identifies Hindi as the official language of the Union but does not declare any language the national language; Hindi is the mother tongue of only about 40 per cent of Indians, so imposing it would have alienated the rest. 3) Besides Hindi, 21 other languages are recognised as Scheduled Languages, and candidates in examinations conducted by the Union government may answer in any of them. 4) English continues to be used for official purposes, which reassures non-Hindi states, and each state uses its own official language for much of its work. 5) Linguistic states, formed after Independence, gave every major language group a territory of its own and reduced the fear of domination by one language. 6) When the promotion of Hindi sparked agitations, especially in Tamil Nadu in the 1960s, the central leadership promised that the language policy would stay flexible and that no language would be forced on any state. 7) This accommodation, in sharp contrast to Sri Lanka's Sinhala Only policy, prevented the kind of conflict that turns language disputes into civil war, and it made federalism credible in everyday life: diversity is managed through respect, not through imposition."
+        },
+        {
+          "question": "Read the following source and answer the sub-questions: 'In the 1960s, when the Union government moved to make Hindi the sole official language, protests swept Tamil Nadu. Students and leaders argued that compulsory Hindi would shut Tamils out of jobs and examinations and reduce their language to second place in their own state. Fearing a repeat of the Sri Lankan route, the Union leadership stepped back, promised to continue English alongside Hindi and assured every state that its language would not be curbed.' (a) Why did Tamil Nadu oppose the language move? (b) How does India's language policy differ from Sri Lanka's Sinhala Only Act? (c) Explain how a flexible language policy strengthens federalism.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) Tamil Nadu opposed the move because compulsory Hindi would have denied Tamil speakers fair access to jobs, education and examinations and would have reduced the status of Tamil in its own state. 2) (b) In India, Hindi is the official language but not the national language; 21 scheduled languages are recognised, English continues to be used for official purposes and states choose their own official languages. Sri Lanka, by contrast, made Sinhala the sole official language in 1956 and disregarded Tamil, which alienated the Tamil minority and pushed the country into civil war. 3) (c) A flexible policy keeps every linguistic community confident that its identity is safe, so no state feels dominated by a majority language. 4) It gives citizens equal chances in jobs and education, since central examinations accept the scheduled languages. 5) It turns language from a weapon of conflict into a bond of unity, as linguistic states and state autonomy reduced the fear of central domination. 6) Hence accommodation, not imposition, is the federal answer to diversity. 7) Such an open language order also protects the minority languages inside every state, making unity and diversity compatible in daily life. 8) The Tamil Nadu episode proves that when the Union listens, diversity becomes a source of strength for federalism rather than a trigger for conflict."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Gender, Religion and Caste",
+      "summary": "Democracy expresses social differences of gender, religion and caste in politics and must handle them without letting them split society. The chapter examines the sexual division of labour and women's underrepresentation, the ladder of communalism and Indian secularism, and the two-way traffic between caste and politics. Constitutional equality and secular provisions form the remedy line for most answers.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Sexual division of labour",
+        "Women's political representation",
+        "Communalism and its forms",
+        "Features of Indian secularism",
+        "Caste in politics",
+        "Patriarchy and feminist movements"
+      ],
+      "sections": [
+        {
+          "heading": "Gender Division and the Sexual Division of Labour",
+          "points": [
+            "Gender division is a form of social division based on the unequal roles that society assigns to men and women; it is often mistaken to be natural and unchangeable, which it is not.",
+            "Sexual division of labour means that housework, cooking, cleaning and bringing up children are treated as women's responsibility, while paid public work is dominated by men.",
+            "Most of women's household work is unpaid and invisible, so society does not count it as real work even though women also work outside the home.",
+            "Patriarchy, the system that values men more and gives them power over women, is the root of this division.",
+            "The result is that although women constitute half of society, their role in public life and politics remains far smaller than men's in most societies."
+          ],
+          "keyTerms": [
+            {"term": "Patriarchy", "meaning": "A system that values men more and gives them power over women in family and society."},
+            {"term": "Sexual division of labour", "meaning": "The social assignment of housework and childcare to women as unpaid work while men hold paid public work."},
+            {"term": "Gender division", "meaning": "A social division based on unequal roles and expectations attached to men and women."}
+          ],
+          "trick": "Home-Power-Vote: labour locked at Home, power held by men, and the Vote was the first feminist demand.",
+          "examPointer": "Two and 3-markers ask for the meaning of sexual division of labour with examples; using the phrase unpaid and invisible work is what scores."
+        },
+        {
+          "heading": "Feminist Movements and Women's Political Representation",
+          "points": [
+            "Feminist movements arose across the world demanding equal legal, educational, economic and political rights for women, including the right to vote.",
+            "These agitations succeeded in improving women's opportunities, but full gender equality has still not been achieved anywhere.",
+            "In India, women's share in legislatures remains far below their share in the population, and their presence in top decision making posts is small.",
+            "One-third of the seats in panchayats and municipalities are reserved for women, which has created a large base of experienced women leaders at the grassroots.",
+            "The long-standing demand for one-third reservation of seats for women in the Lok Sabha and state assemblies is now backed by a law passed in 2023, which is to take effect after the next delimitation."
+          ],
+          "keyTerms": [
+            {"term": "Feminist movements", "meaning": "Agitations demanding equal rights and opportunities for women in education, employment and politics."},
+            {"term": "Reservation of seats", "meaning": "Setting aside a fixed proportion of seats for a group so that it is definitely represented."},
+            {"term": "Delimitation", "meaning": "The redrawing of constituency boundaries, after which the 2023 law for women's reservation in legislatures is to be implemented."}
+          ],
+          "trick": "One-third twice: one-third in local bodies is already working, and one-third in Parliament is promised by the 2023 law after delimitation.",
+          "examPointer": "The Census 2011 sex ratio of 940 women per 1000 men and the reservation provisions are direct MCQs; for 5-markers, combine the causes of low representation with the measures taken."
+        },
+        {
+          "heading": "Religion, Communalism and Politics",
+          "points": [
+            "Communalism arises when religion is used as the basis of political loyalty, so that followers of one religion come to see followers of other religions as their opponents or enemies.",
+            "In its everyday form, communalism shows itself in religious prejudices, stereotypes of religious communities and beliefs of one religion being superior to others.",
+            "A stronger form appears when the majority community demands that minorities adopt its way of life or accept a position of subordination.",
+            "The most familiar form is political mobilisation on religious lines, in which parties and leaders use religious symbols, appeal to one community and whip up hostility to gather votes.",
+            "Communalism can turn violent; its most extreme expression in Indian history was the partition of the country into India and Pakistan in 1947."
+          ],
+          "keyTerms": [
+            {"term": "Communalism", "meaning": "The use of religion in politics in which the interests of one religious community are set against those of others."},
+            {"term": "Communal politics", "meaning": "Mobilising votes and power by appealing to religious identity, symbols and fears of one community."},
+            {"term": "Partition", "meaning": "The division of India into India and Pakistan in 1947 on religious lines, the most extreme outcome of communal politics."}
+          ],
+          "trick": "Three rungs of the communal ladder: Stereotype, Dominate, Mobilise - and the fall: Partition 1947.",
+          "examPointer": "'Explain the forms of communalism' is a standard 3-marker; ladder the answer from the mild form of prejudice to the extreme form of violence and partition."
+        },
+        {
+          "heading": "Indian Secularism - the Constitution's Answer to Communalism",
+          "points": [
+            "A secular state has no official religion; India, though deeply religious, gives no special constitutional status to any faith.",
+            "The Constitution gives citizens freedom to profess, practise and propagate any religion, and religious communities may manage their own affairs in matters of religion.",
+            "The Constitution prohibits discrimination among citizens on grounds of religion and promises equal protection of the laws to everyone.",
+            "Indian secularism does not mean hostility to religion; it means that the power of the state is not used to favour or persecute any religious community.",
+            "These provisions allow people of many faiths to live together under one democratic framework and form the constitutional remedy against communal politics."
+          ],
+          "keyTerms": [
+            {"term": "Secular state", "meaning": "A state with no official religion that neither promotes nor discriminates against any religion."},
+            {"term": "Freedom of religion", "meaning": "The constitutional right of citizens to profess, practise and propagate the religion of their choice."},
+            {"term": "Non-discrimination", "meaning": "The constitutional rule that the state shall not discriminate among citizens on grounds of religion."}
+          ],
+          "trick": "NSF pillars: No state religion, Freedom of faith, Fair and equal treatment - the three pillars of Indian secularism.",
+          "examPointer": "'What is secularism? Explain any three features' is a repeated 3-marker; do not stop at equal respect for all religions - mention the absence of a state religion and non-discrimination as well."
+        },
+        {
+          "heading": "Caste and Politics - a Two-Way Street",
+          "points": [
+            "The caste system is based on birth, hereditary occupation, a fixed social hierarchy and the practice of marrying within the caste; it has produced exclusion and discrimination, including untouchability, which the Constitution has abolished.",
+            "Casteism in politics means organising political choices around caste alone, treating one's own caste as superior and acting against the interests of other castes.",
+            "Caste enters politics when parties and candidates consider the caste composition of a constituency while choosing nominees and when they appeal to caste sentiments to gather support.",
+            "Yet no parliamentary constituency in the country has a clear majority of any single caste, so every candidate has to win the confidence of many castes and communities.",
+            "Politics also changes caste: universal adult franchise and political competition have brought new caste combinations, sub-castes and caste-based associations into public life, giving deprived groups a political voice.",
+            "Thus caste and politics influence each other; caste can be used to defend privilege or to fight discrimination, depending on how democratic politics handles it."
+          ],
+          "keyTerms": [
+            {"term": "Casteism", "meaning": "Organising political choices and behaviour around caste alone, treating one's own caste as superior to others."},
+            {"term": "Endogamy", "meaning": "The practice of marrying only within one's own caste or social group."},
+            {"term": "Untouchability", "meaning": "The social exclusion of groups at the bottom of the caste hierarchy, abolished by the Constitution."}
+          ],
+          "trick": "'No seat, one caste' - repeat the line that no parliamentary constituency has a clear majority of a single caste; it shows both sides of caste politics at once.",
+          "examPointer": "Questions often ask whether using caste in politics is always wrong; balance the answer - parties consider caste, but no single caste can dominate a constituency."
+        },
+        {
+          "heading": "Gender, Religion, Caste - Democracy's Balancing Test",
+          "points": [
+            "Social differences of gender, religion and caste exist in every society; democracy does not remove them but gives them expression through politics.",
+            "The expression of social divisions in politics can be healthy when it lets disadvantaged groups voice grievances and demand justice, as the assertion of deprived castes and women's movements show.",
+            "Divisions turn dangerous when politicians exploit them for votes alone, hardening identities into conflict, as communal mobilisation and caste violence demonstrate.",
+            "The constitutional values of equality, secularism and non-discrimination, along with reservations and universal adult franchise, are democracy's instruments for balancing social diversity."
+          ],
+          "keyTerms": [
+            {"term": "Accommodation", "meaning": "Giving different social groups space and voice in politics so that differences are negotiated, not suppressed."},
+            {"term": "Assertion", "meaning": "The open demand by a social group for its rights, dignity and share in power."}
+          ],
+          "trick": "G-R-C test: Give voice, Recognise difference, Check exploitation - democracy passes the test only when all three hold.",
+          "examPointer": "Conclusions in 5-markers should weigh both sides: expression empowers the disadvantaged, exploitation divides society - write this pairing to impress examiners."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "According to Census 2011, India's sex ratio stood at how many women per 1000 men?",
+          "options": ["927", "933", "940", "954"],
+          "answerIndex": 2,
+          "explanation": "Census 2011 recorded 940 women per 1000 men in India. The unfavourable ratio reflects the disadvantaged position of women in society.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "One-third of the seats in panchayats and municipalities are reserved for:",
+          "options": ["Scheduled Castes", "women", "religious minorities", "farmers"],
+          "answerIndex": 1,
+          "explanation": "At least one-third of all positions in panchayats and municipalities, including their executive heads, are reserved for women. SCs, STs and OBCs are also reserved seats, but the one-third rule belongs to women.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Housework and bringing up children being treated as women's responsibility is called:",
+          "options": ["communalism", "sexual division of labour", "federalism", "dynastic succession"],
+          "answerIndex": 1,
+          "explanation": "The sexual division of labour assigns unpaid housework and childcare to women while men dominate paid public work. It is rooted in patriarchy.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "A state that has no official religion and treats all religions equally is called:",
+          "options": ["a theocratic state", "a secular state", "a federal state", "a monarchical state"],
+          "answerIndex": 1,
+          "explanation": "A secular state has no official religion and does not discriminate among citizens on grounds of religion. India is secular under its Constitution.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which of the following is NOT a feature of Indian secularism?",
+          "options": ["No official religion for the state", "Freedom to profess any religion", "One religion declared the state religion", "No discrimination among citizens on grounds of religion"],
+          "answerIndex": 2,
+          "explanation": "Indian secularism is built on the absence of a state religion, freedom of faith and non-discrimination. Declaring one religion as the state religion would make India theocratic, not secular.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The most extreme form of communal politics in India resulted in:",
+          "options": ["the partition of the country in 1947", "the creation of linguistic states", "the introduction of universal adult franchise", "the abolition of untouchability"],
+          "answerIndex": 0,
+          "explanation": "Communal mobilisation on religious lines led to the partition of India into India and Pakistan in 1947. It remains the most extreme outcome of communal politics.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The practice of marrying only within one's own caste or community is called:",
+          "options": ["exogamy", "endogamy", "matriarchy", "patriarchy"],
+          "answerIndex": 1,
+          "explanation": "Endogamy means marriage within one's own caste or group and is one of the bases of the caste system. Exogamy is the opposite practice.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "The practice of untouchability has been:",
+          "options": ["allowed in rural areas", "abolished by the Constitution", "made optional by the states", "legally recognised by tradition"],
+          "answerIndex": 1,
+          "explanation": "The Constitution of India abolished untouchability in any form. It is one of the key provisions protecting the dignity of oppressed castes.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which statement about caste and elections is correct?",
+          "options": ["Every constituency has a clear majority of one caste", "No parliamentary constituency in India has a clear majority of any single caste", "Candidates need the support of only one caste to win", "Parties completely ignore caste while choosing candidates"],
+          "answerIndex": 1,
+          "explanation": "No parliamentary constituency has a clear majority of any single caste, so every candidate must win the confidence of many castes and communities. Parties may consider caste, but no one-caste victory is possible.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which option best explains why women's political representation remains low despite universal adult franchise?",
+          "options": ["Women are not allowed to vote", "Parties rarely field women candidates and social barriers like the domestic burden persist", "The Constitution bars women from Parliament", "Voters never vote for women candidates"],
+          "answerIndex": 1,
+          "explanation": "Women vote in large numbers, but parties give them few tickets and social barriers such as unpaid domestic work, lower literacy and violence keep them out of legislatures.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "What is meant by the sexual division of labour? Give two examples.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Sexual division of labour means that work is divided between men and women by social custom: housework, cooking, cleaning and bringing up children are treated as women's responsibility, while paid public work is claimed by men. 2) Examples: women perform most unpaid household chores, and even when women work outside the home they carry the double burden of job and household. 3) Because most of this work is unpaid and invisible, society does not value it, and women's role in public life and politics stays minimal."
+        },
+        {
+          "question": "What is a secular state? State any two constitutional features that make India a secular state.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) A secular state is one that has no official religion of its own and does not discriminate among citizens on the ground of religion. 2) First, the Indian Constitution gives no special status to any religion and keeps the state at an equal distance from all faiths. 3) Second, every citizen has the freedom to profess, practise and propagate any religion, and the state is forbidden from discriminating among citizens on grounds of religion, promising equal protection of laws to all."
+        },
+        {
+          "question": "Explain any three features of Indian secularism.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) No official religion: unlike countries that declare one faith as the state religion, India gives no special constitutional status to any religion, and the state keeps an equal distance from all faiths. 2) Freedom of religion: every citizen has the right to profess, practise and propagate the religion of his or her choice, and religious communities can manage their own affairs in matters of religion. 3) Equality and non-discrimination: the Constitution prohibits discrimination among citizens on grounds of religion and promises equal protection of the laws to all. 4) Because of these provisions, India, though deeply religious, remains a secular democracy in which the power of the state is not used to favour or persecute any religious community."
+        },
+        {
+          "question": "In what ways does caste play a role in Indian politics? Explain any three ways.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Parties and candidates take the caste composition of a constituency into account while choosing nominees, so that they put up a candidate who can appeal to the largest social base. 2) Parties and candidates often appeal to caste sentiments to mobilise support, and pressure groups and associations built around caste identities demand reservations and benefits. 3) Universal adult franchise has given deprived castes a political voice, so political competition has brought new caste groups and coalitions into power. 4) However, no parliamentary constituency has a clear majority of any single caste, so every candidate must win the confidence of several castes and communities, which keeps one-caste dominance from becoming total."
+        },
+        {
+          "question": "'Women in India remain underrepresented in politics.' Explain the causes of this underrepresentation and describe the steps taken to improve women's representation.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Position: although women are half of society, their share in legislatures is far below their share in the population; their presence in the Lok Sabha, state assemblies and top decision making posts remains small. 2) Causes: the sexual division of labour burdens women with unpaid housework; patriarchy undervalues them; lower literacy and economic dependence limit their mobility; families and parties rarely give them election tickets; and violence and money in politics discourage them, and unequal wages reduce their independence. 3) Steps taken: one-third of the seats in panchayats and municipalities are reserved for women, which has created lakhs of grassroots women leaders. 4) Parliament has also passed a law providing one-third reservation for women in the Lok Sabha and state assemblies, to take effect after the next delimitation. 5) Further measures needed: education and awareness, internal party quotas, financial and campaign support for women candidates, childcare and security at work, and strict action against violence in politics. 6) Significance: greater representation strengthens democracy, brings women's concerns into law making and makes political equality real for half the population. 7) Conclusion: political equality for women will remain incomplete until legislatures look like the society they represent, so representation, education and party support must advance together."
+        },
+        {
+          "question": "What is communalism? Describe its forms and explain how the Indian Constitution deals with it.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Meaning: communalism is the use of religion for political ends; it arises when religious identity is turned into political loyalty, so that followers of one religion see followers of other religions as their enemies. 2) Forms: it begins in everyday life as religious prejudices and stereotypes of other communities; it grows when a majority community demands domination over minorities or asks them to adopt its way of life; and it peaks when parties and leaders mobilise votes on religious lines, using religious symbols and hostility. 3) Impact: communal politics destroys mutual trust, provokes violence and, in its most extreme form, broke the country apart, as the partition of India in 1947 shows. 4) Constitutional remedies: the Indian state is secular, with no official religion; citizens are free to profess, practise and propagate any faith; the Constitution forbids discrimination on grounds of religion and promises equal protection of laws. 5) Social remedies: citizens must reject stereotypes, judge leaders on performance rather than faith, and support parties and movements that unite people rather than divide them. 6) Conclusion: communalism divides the people whom democracy must unite, so the secular framework of the Constitution must be defended by law and by daily public conduct alike."
+        },
+        {
+          "question": "Read the following cartoon description and answer the sub-questions: 'A cartoon shows a party office. In the first panel, a woman office-bearer asks the party president why no woman has been given a ticket from the district. The president points to a list of rich male candidates and says that seats go to those who can fund the campaign. In the second panel, at a village panchayat meeting, one-third of the members are women and a woman head presides over the discussion on drinking water.' (a) Which two problems of political representation does the first panel highlight? (b) Why is women's participation in decision making essential for democracy? (c) Suggest any two measures to increase women's representation.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) The first panel highlights the low share of tickets given to women by parties and the growing role of money in elections, which pushes rich so-called winnable candidates ahead of capable women. 2) It also reflects patriarchy inside parties, where male leaders control nominations. 3) (b) Women form almost half the population, so their underrepresentation makes legislatures unrepresentative and pushes aside issues such as water, health and safety that women experience closely. 4) Democratic equality demands that all sections share in power, and women's presence in decision making makes policies more just. 5) (c) One measure is reservation: one-third of the seats in panchayats and municipalities are already reserved for women, and the similar reservation in the Lok Sabha and assemblies should be implemented fully. 6) Parties should adopt internal quotas, maintain registers of women members, train them in campaign skills and support them with funds and protection. 7) Education, awareness and enabling conditions such as childcare and security would help more women contest and win. 8) Conclusion: when parties open their doors to women and the state backs them with reservation, resources and security, the panchayat panel of the cartoon can soon become the common norm in Parliament too."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Political Parties",
+      "summary": "Political parties gather public demands, contest elections, form governments and organise the opposition. India runs a multi-party system in which the Election Commission recognises national and state parties on the basis of votes and seats. The chapter closes with the four challenges parties face and the reforms, from the anti-defection law to affidavits, meant to cure them.",
+      "weightageMarks": 4,
+      "difficulty": "medium",
+      "hotTopics": [
+        "Functions of political parties",
+        "National and state party recognition",
+        "Challenges: money, dynasty, criminalisation",
+        "Anti-defection law and affidavit",
+        "Role of the Election Commission",
+        "Reform proposals including state funding"
+      ],
+      "sections": [
+        {
+          "heading": "Meaning and Functions of Political Parties",
+          "points": [
+            "A political party is a group of people who come together to contest elections and hold power in the government, agreeing on some policies and programmes for society with a view to promote the collective good.",
+            "Parties contest elections by selecting and fielding candidates, giving voters a clear choice of leaders and programmes.",
+            "Parties put forward different policies and programmes, and voters choose among them, so public demands get converted into political agendas.",
+            "Parties play a decisive role in making laws, since members vote along party lines and the majority party carries its programme through the legislature.",
+            "Parties form and run governments and recruit and train leaders at the Union, state and local levels; parties that lose elections form the opposition and criticise the government.",
+            "Parties shape public opinion by raising and highlighting issues, and they provide people access to government machinery and welfare schemes through their local leaders."
+          ],
+          "keyTerms": [
+            {"term": "Political party", "meaning": "A group of people who agree on policies, contest elections together and seek to hold power in government."},
+            {"term": "Opposition", "meaning": "The parties that lose elections and sit outside the government, criticising it and voicing different views."},
+            {"term": "Public opinion", "meaning": "The views of citizens on public issues, which parties shape through campaigns, movements and the media."}
+          ],
+          "trick": "Seven jobs in one line: Elect, Propose, Legislate, Govern, Oppose, Shape, Connect - a party is the bridge between people and power.",
+          "examPointer": "'Explain any three functions of political parties' is the most repeated question of this chapter; write each function as a name plus one supporting line or example."
+        },
+        {
+          "heading": "Party Systems - One, Two and Many",
+          "points": [
+            "The rise of political parties is directly linked to the emergence of representative democracies, because large modern societies need agencies to gather different views and present them to the government.",
+            "In a one-party system, only one party is allowed to control and run the government, as in China; such a system is not a democratic option.",
+            "In a two-party system, power alternates between two main parties, as in the United States and the United Kingdom.",
+            "In a multi-party system, several parties compete for power and more than two parties have a reasonable chance of coming to power, alone or in alliance, as in India.",
+            "When several parties join hands to form a government or to fight elections, the arrangement is called a coalition or an alliance."
+          ],
+          "keyTerms": [
+            {"term": "Party system", "meaning": "The pattern of competition among political parties in a country, such as one-party, two-party or multi-party."},
+            {"term": "Coalition", "meaning": "A government formed when two or more parties join hands to run it together."},
+            {"term": "Alliance", "meaning": "A group of parties that cooperate to fight elections or form a government."}
+          ],
+          "trick": "1-2-M map: China one, USA-UK two, India many; coalition means several hands on one wheel.",
+          "examPointer": "Match-the-country MCQs are common; a 2-marker may ask why one-party rule cannot be democratic - answer that it removes choice, competition and accountability."
+        },
+        {
+          "heading": "National and State Parties - Recognition by the Election Commission",
+          "points": [
+            "Political parties must register with the Election Commission, which treats parties that meet its conditions as recognised parties and allots them a common symbol for their candidates.",
+            "A party that secures at least six per cent of the total votes in Lok Sabha elections or Assembly elections in four states and wins at least four seats in the Lok Sabha is recognised as a national party.",
+            "A party that secures at least six per cent of the total votes in an Assembly election of a state and wins at least two seats is recognised as a state party, also called a regional party.",
+            "As per NCERT, the six national parties are the BJP, BSP, CPI, CPI(M), Congress and the National People's Party (NPP); state parties include the Biju Janata Dal, Sikkim Democratic Front, Mizo National Front and Rashtriya Janata Dal.",
+            "State parties matter because they give voice to regional identities and often become kingmakers in coalition politics at the national level."
+          ],
+          "keyTerms": [
+            {"term": "Recognised party", "meaning": "A party that meets the Election Commission's conditions and gets an allotted symbol and other facilities."},
+            {"term": "National party", "meaning": "A party with at least 6 per cent votes in four states plus at least four Lok Sabha seats, or similar nationwide presence."},
+            {"term": "State party", "meaning": "A party recognised in a particular state on the basis of 6 per cent votes and two Assembly seats; also called a regional party."}
+          ],
+          "trick": "National 6-4 rule: 6 per cent votes in 4 states plus 4 Lok Sabha seats; State 6-2 rule: 6 per cent votes plus 2 Assembly seats. Six national parties: BJP, BSP, CPI, CPI(M), INC, NPP.",
+          "examPointer": "The recognition conditions and the list of six national parties are direct MCQs; note that the NPP is the newest name in the NCERT list."
+        },
+        {
+          "heading": "Challenges to Political Parties",
+          "points": [
+            "Lack of internal democracy: many parties do not maintain membership registers, do not hold organisational meetings and do not conduct internal elections regularly, so power concentrates in the hands of a few top leaders.",
+            "Dynastic succession: leaders give unfair advantage to relatives and family members, so ordinary and capable workers get no chance to rise and politics becomes family property.",
+            "Growing role of money and muscle power: parties prefer rich candidates or those who can muster muscle support, and in some cases candidates with pending criminal cases are backed because they can fund campaigns and win.",
+            "No meaningful choice: ideological differences among parties have narrowed, so voters often get similar programmes and similar faces instead of a real alternative."
+          ],
+          "keyTerms": [
+            {"term": "Dynastic succession", "meaning": "The transfer of party leadership to the family members of leaders irrespective of ability or merit."},
+            {"term": "Internal democracy", "meaning": "Regular internal elections, open membership records and transparent procedures inside a party."},
+            {"term": "Money and muscle power", "meaning": "The use of wealth and physical force to win elections, which pushes criminal and moneyed candidates forward."}
+          ],
+          "trick": "Four leaks that sink parties: Internal democracy missing, Money-muscle growing, Dynastic succession, Choice shrinking.",
+          "examPointer": "'Suggest reforms' is usually paired with challenges in 5-markers; learn one reform against each challenge so the answer flows naturally."
+        },
+        {
+          "heading": "Reforms and the Election Commission's Role",
+          "points": [
+            "The anti-defection law, added to the Constitution in 1985, says that an elected representative who leaves the party on whose symbol he or she was elected loses the seat, checking the horse-trading of legislators.",
+            "Following a Supreme Court order, every candidate must file an affidavit giving details of his or her property and of criminal cases pending against him or her, which helps voters judge candidates.",
+            "The Election Commission has made it compulsory for parties to hold their organisational elections and to file their income tax returns, opening party functioning and finances to scrutiny.",
+            "The ECI grants recognition to parties, allots symbols, monitors the conduct of elections and can check malpractices, making it the key institutional force for party reform.",
+            "Further suggested reforms include a law to regulate the internal affairs of parties, compulsory membership registers, regular internal elections, an independent authority to judge party disputes, state funding of elections and guaranteed seats for women candidates."
+          ],
+          "keyTerms": [
+            {"term": "Anti-defection law", "meaning": "The 1985 constitutional provision under which an elected member who defects from the party loses the seat."},
+            {"term": "Affidavit", "meaning": "A declaration every candidate must file disclosing property and criminal cases pending against him or her."},
+            {"term": "State funding of elections", "meaning": "A proposed reform under which the government gives parties money to support their election expenses."}
+          ],
+          "trick": "Done trio: 1985 anti-defection, affidavit disclosure, ECI orders on organisational elections and tax returns; Suggested trio: internal regulation, state funding, women's quotas.",
+          "examPointer": "In 5-markers, clearly separate the steps already taken from the measures suggested; examiners award marks for that structure."
+        },
+        {
+          "heading": "Why Parties Matter Despite Their Flaws",
+          "points": [
+            "No modern democracy can work without parties, because parties alone can gather diverse views, contest elections on programmes and form accountable governments.",
+            "India's social and regional diversity naturally supports a multi-party system; hundreds of parties are registered with the Election Commission, of which only a few are recognised.",
+            "Registration merely lets a party contest elections, while recognition gives it a common symbol and other facilities, so recognition is an earned status.",
+            "The remedy for party failures is more internal democracy and reform, not the abolition of parties; healthy parties are the gateways of representative democracy."
+          ],
+          "keyTerms": [
+            {"term": "Registration", "meaning": "Getting listed with the Election Commission as a party so that it may contest elections."},
+            {"term": "Recognition", "meaning": "The official status the Election Commission grants to parties that meet its conditions, with a common symbol and other benefits."}
+          ],
+          "trick": "Register to run, recognise to rise - registration is a formality, recognition is a reward.",
+          "examPointer": "MCQs test the difference between registration and recognition; a closing line like 'reform parties, do not replace them' lifts a 5-marker answer."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "Which of the following is recognised as a national party?",
+          "options": ["Biju Janata Dal", "Bharatiya Janata Party", "Telugu Desam Party", "Sikkim Democratic Front"],
+          "answerIndex": 1,
+          "explanation": "The BJP is one of the six national parties recognised by the Election Commission. The other options are state parties.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Parties that lose elections form:",
+          "options": ["the ruling alliance", "the opposition", "pressure groups", "the bureaucracy"],
+          "answerIndex": 1,
+          "explanation": "Defeated parties form the opposition, voicing different views and criticising the government for its failures. This is one of the key functions of parties.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The United States and the United Kingdom are examples of a:",
+          "options": ["one-party system", "two-party system", "multi-party system", "non-party system"],
+          "answerIndex": 1,
+          "explanation": "In the USA and the UK power alternates between two main parties, which is the two-party system. India is a multi-party system and China has a one-party system.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "A group of people who come together to contest elections and hold power in the government is called:",
+          "options": ["a pressure group", "a political party", "a civil society organisation", "a social movement"],
+          "answerIndex": 1,
+          "explanation": "This is the standard definition of a political party: people united by common policies who contest elections to hold power. Pressure groups and movements try to influence government without seeking to form it.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "The anti-defection law, under which an elected member who defects loses the seat, was enacted in:",
+          "options": ["1975", "1985", "1992", "2002"],
+          "answerIndex": 1,
+          "explanation": "The anti-defection law was added to the Constitution in 1985. It removes the seat of an elected representative who leaves the party on whose symbol he or she was elected.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "A party that secures at least six per cent of the total votes in an Assembly election of a state and wins at least two seats is recognised as:",
+          "options": ["a national party", "a state party", "an independent group", "a pressure group"],
+          "answerIndex": 1,
+          "explanation": "These are the Election Commission's conditions for recognition as a state party, also called a regional party. The national party rule requires 6 per cent votes in four states plus four Lok Sabha seats.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Every candidate contesting elections must file an affidavit giving details of:",
+          "options": ["educational qualifications only", "property and criminal cases pending against him or her", "the party president's income", "foreign travel history"],
+          "answerIndex": 1,
+          "explanation": "On the direction of the Supreme Court, candidates file affidavits disclosing their property and pending criminal cases. This helps voters judge the candidates.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which of the following is a state party mentioned in NCERT?",
+          "options": ["Bharatiya Janata Party", "Biju Janata Dal", "Communist Party of India", "Bahujan Samaj Party"],
+          "answerIndex": 1,
+          "explanation": "The Biju Janata Dal is a state party recognised in Odisha. The BJP, CPI and BSP are among the six national parties.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which set correctly lists the six national parties recognised by the Election Commission, as per NCERT?",
+          "options": ["BJP, Congress, BSP, CPI, CPI(M), NPP", "BJP, Congress, AAP, BSP, SP, CPI", "BJP, Congress, TMC, NPP, BSP, CPI", "Congress, BJP, CPI, SP, BSP, TMC"],
+          "answerIndex": 0,
+          "explanation": "The NCERT list of six national parties is BJP, BSP, CPI, CPI(M), Congress and the National People's Party (NPP). The other sets include parties that are not national parties in this list.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "The proposal of state funding of elections means:",
+          "options": ["the government should give parties money to support their election expenses", "voters should be paid for casting their votes", "only state parties should receive government funds", "elections should be postponed by the state"],
+          "answerIndex": 0,
+          "explanation": "State funding of elections is a suggested reform under which the government finances parties' election expenses, reducing their dependence on big private donors.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Define a political party. State any two functions of political parties.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) A political party is a group of people who come together to contest elections and hold power in the government, united by common policies and programmes aimed at the collective good. 2) Functions: parties contest elections and give voters a choice of policies and leaders; the winning party forms and runs the government. 3) Parties that lose elections form the opposition and criticise the government for its mistakes, keeping it accountable."
+        },
+        {
+          "question": "What is dynastic succession? Why is it considered a challenge to political parties?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Dynastic succession means the control of a party passing to the family members of its leaders, irrespective of their ability, as when sons, daughters or relatives occupy the top posts. 2) It is a challenge because ordinary and capable workers lose the chance to rise, decisions concentrate in one family and the party's image of public service weakens. 3) Voters then begin to see politics as family property, which lowers the quality of democracy."
+        },
+        {
+          "question": "What are the conditions laid down for a party to be recognised as a national party or a state party in India?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) National party: a party that secures at least six per cent of the total votes in Lok Sabha elections or Assembly elections in four states and, in addition, wins at least four seats in the Lok Sabha is recognised as a national party and gets a common symbol across the country. 2) State party: a party that secures at least six per cent of the total votes in an Assembly election of a state and wins at least two seats is recognised as a state party, also called a regional party. 3) Recognition is granted by the Election Commission, which also allots symbols; examples of national parties are the BJP, Congress, BSP, CPI, CPI(M) and NPP, while parties like the Biju Janata Dal are state parties."
+        },
+        {
+          "question": "Explain any three major challenges faced by political parties in India.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) Lack of internal democracy: many parties do not keep membership registers, do not hold organisational meetings regularly and do not conduct internal elections, so power concentrates in a few top leaders. 2) Dynastic succession: leaders promote relatives to top positions, blocking capable and ordinary workers and reducing the party to family property. 3) Money and muscle power: parties prefer rich candidates or those with muscle backing, and in some cases candidates facing criminal cases are chosen because they can fund campaigns and win, which short-circuits the democratic process. 4) In addition, the ideological differences among parties have narrowed, so voters often do not get a meaningful choice of programmes."
+        },
+        {
+          "question": "Why are political parties essential in a democracy? Describe any five functions of political parties.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Contest elections: parties select and field candidates who seek the people's mandate; without parties no representative government can be organised. 2) Offer policies: parties put forward different policies and programmes, and voters choose among these options, which converts public demands into political agendas. 3) Make laws: parties play a decisive role in law making, since members vote along party lines and the majority party carries its programme through the legislature. 4) Form and run governments: parties recruit leaders, train them and run the administration at the Union, state and local levels. 5) Play the opposition: defeated parties criticise the government, voice different views and keep a check on the misuse of power. 6) Shape public opinion: parties raise and highlight issues, launch movements and use media and speeches to shape what citizens think. 7) Provide access: local leaders of parties act as a link between citizens and government machinery, helping people use welfare schemes and get grievances heard. 8) Conclusion: because parties aggregate interests, offer choices and make accountability possible, they are indispensable instruments of democracy despite their flaws. 9) Most of all, parties connect citizens to the system between elections, which no other institution can do at the same scale, so the health of parties decides the health of democracy itself."
+        },
+        {
+          "question": "Political parties need reform. Describe the steps already taken to reform them and suggest further measures that could strengthen parties in India.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Anti-defection law: the Constitution was amended in 1985 so that an elected representative who leaves the party on whose symbol he or she was elected loses the seat; this checked the horse-trading of legislators. 2) Affidavit rule: on the direction of the Supreme Court, every candidate must file an affidavit disclosing property and criminal cases pending against him or her, which lets voters judge candidates. 3) Election Commission orders: the ECI made it compulsory for parties to hold their organisational elections and to file their income tax returns, increasing internal transparency. 4) Suggested reforms: a law should regulate the internal affairs of parties, making it compulsory to maintain registers of members, to follow their own constitutions, to hold regular internal elections and to have an independent authority to judge party disputes. 5) The state should consider funding elections partly from public money so that parties are not captured by big donors, along with guarantees of media access. 6) Quotas for women candidates would improve representation inside parties and in legislatures and bring new talent into politics and decision making. 7) Conclusion: reforms must touch both money and internal democracy, because parties are the gatekeepers of democracy and only healthy parties can deliver healthy governments."
+        },
+        {
+          "question": "Read the following source and answer the sub-questions: 'A veteran leader's son-in-law and nephew hold the top posts of a party that has not held internal elections for a decade. Candidates are chosen mainly for their ability to spend on the campaign, and one nominee faces several criminal cases. Ordinary members complain that they learn of important decisions only from television.' (a) Which challenges of political parties does the passage reflect? (b) Explain any two reforms that could address these problems. (c) What role does the Election Commission play in reforming parties?",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "very-high",
+          "answer": "1) (a) The passage reflects dynastic succession, since family members of the leader hold the top posts, and the growing role of money and muscle power, since candidates are chosen for spending capacity and one nominee faces criminal cases. 2) It also shows lack of internal democracy, as there have been no internal elections and ordinary members are ignored. 3) (b) An effective internal democracy law should force parties to maintain membership registers, hold organisational elections at fixed intervals and settle disputes before an independent authority. 4) Mandatory disclosure through affidavits of assets and criminal cases, already in force, should be strictly enforced so that voters can reject tainted candidates. 5) State funding of elections and free media access would reduce dependence on big donors. 6) (c) The Election Commission registers parties, grants recognition, allots symbols and compels parties to hold organisational elections and file income tax returns. 7) It monitors campaign conduct, checks malpractices and can act against parties that violate rules, making it the most important institutional force for party reform. 8) Together, internal reforms and external monitoring can restore people's trust in parties. 9) When these measures work together, dynastic control and money power lose their grip and parties again serve the public interest that justifies their existence."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Outcomes of Democracy",
+      "summary": "Democracy must be judged by its outcomes: an accountable, responsive and legitimate government, economic growth with less inequality, accommodation of social diversity, and dignity with freedom. Its growth record is mixed, but no alternative regime matches its legitimacy, dignity and freedom. This chapter trains you to evaluate democracy as both a promise and a performance.",
+      "weightageMarks": 3,
+      "difficulty": "easy",
+      "hotTopics": [
+        "Accountable, responsive and legitimate government",
+        "Democracy vs dictatorship growth record",
+        "Economic inequality in democracies",
+        "Accommodation of social diversity",
+        "Dignity of women and oppressed castes",
+        "Freedom and expansion of democracy"
+      ],
+      "sections": [
+        {
+          "heading": "How to Judge Democracy - the Five Expected Outcomes",
+          "points": [
+            "Democracy should be judged on its outcomes, not only on its promises; the chapter checks five broad expectations.",
+            "Expectation one: democracy should produce an accountable, responsive and legitimate government.",
+            "Expectations two and three: democracy should promote economic growth and development, and it should reduce inequality and poverty.",
+            "Expectation four: democracy should accommodate social diversity; expectation five: it should ensure the dignity and freedom of citizens.",
+            "No government is perfectly democratic, but these five tests let citizens evaluate how far democracy is actually delivering."
+          ],
+          "keyTerms": [
+            {"term": "Outcome", "meaning": "The actual result of a political system's working, judged against what it promises."},
+            {"term": "Democratic expectations", "meaning": "The things citizens rightly expect from democracy, such as accountability, equality, accommodation and freedom."}
+          ],
+          "trick": "Remember A-L-G-I-A-D-F in pairs: Accountable-Legitimate, Growth-Inequality, Accommodate diversity, Dignity-Freedom - the five outcomes in four pairs.",
+          "examPointer": "The five outcomes are the chapter's answer skeleton; open any 5-marker by listing them, then expand on the ones the question asks."
+        },
+        {
+          "heading": "Accountable, Responsive and Legitimate Government",
+          "points": [
+            "A democratic government is legitimate because it is elected by citizens and rests on their consent; people wish to be ruled by representatives they choose themselves.",
+            "Democracy creates mechanisms through which citizens can hold the government accountable and make it work according to set procedures.",
+            "Democratic governments are expected to be responsive to the needs and expectations of the people; if they fail, citizens can question, correct and change them.",
+            "Democratic decision making involves consultation and debate, which makes governments slower than non-democratic rulers, who need to consult no one.",
+            "But consultation prevents rash decisions, and the ability of citizens to remove governments matters more than speed, so democracy's legitimacy outweighs its slowness."
+          ],
+          "keyTerms": [
+            {"term": "Legitimacy", "meaning": "The acceptance of a government's right to rule because citizens chose it themselves."},
+            {"term": "Accountability", "meaning": "The obligation of a government to answer to citizens for its actions and decisions."},
+            {"term": "Responsiveness", "meaning": "The willingness of a government to act on people's needs and grievances."}
+          ],
+          "trick": "ARL badge: Accountable, Responsive, Legitimate - picture 'A Responsible Leader' wearing it.",
+          "examPointer": "'Why is democracy called a legitimate government?' is a high-frequency 3-marker; add the efficiency-versus-consultation contrast for full marks in 5-markers."
+        },
+        {
+          "heading": "Economic Growth and Development",
+          "points": [
+            "When the growth records of all democracies and all dictatorships are compared for 1950 to 2000, dictatorships show only a slightly higher rate of economic growth, a difference too small to prove superiority.",
+            "Growth depends on the economic conditions of a country and the priorities of its rulers more than on the form of government, so regime type alone does not decide development.",
+            "For poorer countries too, the gap in growth between the two kinds of regimes is small, which breaks the myth that only dictatorships can deliver rapid development.",
+            "Within democracies, development outcomes vary according to the goals chosen by those in power; priorities such as education, health and welfare shape living standards.",
+            "Hence democracy's economic report card is mixed: it is not a guarantee of prosperity, but neither is it an obstacle to growth."
+          ],
+          "keyTerms": [
+            {"term": "Economic growth", "meaning": "The increase in the output of goods and services of a country over time."},
+            {"term": "Development", "meaning": "The broader improvement in living standards, education, health and opportunities, beyond mere growth."}
+          ],
+          "trick": "Use the line 'Growth is about priorities and conditions, not about regime type' to answer any growth comparison question.",
+          "examPointer": "MCQs test the conclusion that there is no decisive difference in growth, not decimal figures; 3-markers ask why growth varies - answer with conditions and priorities."
+        },
+        {
+          "heading": "Reduction of Inequality and Poverty",
+          "points": [
+            "Democracies are based on political equality, in which every adult citizen has one vote of equal value.",
+            "Yet economic inequalities persist and often grow in democracies, and in actual life democracies have not been very successful in reducing them.",
+            "A small section of ultra-rich people commands a hugely disproportionate share of wealth and incomes, while the bottom 20 per cent of the population shares a very small slice of national income.",
+            "Poverty and deprivation remain realities in many democracies, though democratic politics gives the poor channels such as elections, courts and movements to demand action.",
+            "The coexistence of political equality and economic inequality shows that reducing inequality is an unfinished democratic struggle, not an automatic result."
+          ],
+          "keyTerms": [
+            {"term": "Political equality", "meaning": "The equal right of every adult citizen to vote and contest elections."},
+            {"term": "Economic inequality", "meaning": "The unequal distribution of income and wealth among the members of a society."}
+          ],
+          "trick": "'One vote, many incomes' - memorise this phrase; it captures the paradox examiners want you to explain.",
+          "examPointer": "A common 2 or 3-marker asks you to justify that democracy has not reduced inequality; pair political equality against economic disparity in your answer."
+        },
+        {
+          "heading": "Accommodation of Social Diversity",
+          "points": [
+            "No society can fully and permanently resolve conflicts among different groups, but democracy can learn to respect differences and evolve procedures to negotiate them.",
+            "Democracy is best suited for this outcome because it gives every social group channels to express grievances and to seek redressal.",
+            "Majority rule in democracy means that the option preferred by more voters is chosen; it never means permanent rule of one community over others.",
+            "To keep majority rule just, the majority always needs to work with the minority, so that the government functions on the basis of consent rather than domination.",
+            "Belgium's accommodation of its Dutch and French speakers contrasts with Sri Lanka's majoritarianism, showing that respect for diversity reduces the possibility of conflict."
+          ],
+          "keyTerms": [
+            {"term": "Accommodation", "meaning": "Negotiating social differences by giving every group a place and voice in decision making."},
+            {"term": "Majority", "meaning": "In democracy, the option or candidate preferred by more than half of the voters - not a single community ruling permanently."}
+          ],
+          "trick": "'Majority means more voters, not one community' - write this line whenever a question uses the phrase rule by majority.",
+          "examPointer": "Cross-chapter 5-markers link this section with Belgium and Sri Lanka; use one country as the positive case and the other as the warning."
+        },
+        {
+          "heading": "Dignity and Freedom of Citizens",
+          "points": [
+            "Democracy stands much superior to any other form of government in promoting the dignity and freedom of the individual, because it recognises the intrinsic equality of all human beings.",
+            "Every individual, whatever his or her wealth, caste or gender, deserves equal respect; this claim becomes an enforceable right only under democratic politics.",
+            "Dignity of women: democratic politics has given feminist movements a platform, and their struggles have won the vote, education rights, reservation in local bodies and now a law for reservation in legislatures.",
+            "Dignity of oppressed castes: the constitutional abolition of untouchability, equality before law and political assertion by Dalits and other deprived groups have challenged the caste hierarchy and expanded self-respect.",
+            "Freedom: democracy allows citizens to express dissent, practise their faith, choose their occupations and claim rights, and every exercise of freedom raises expectations that governments must then honour.",
+            "The expansion of democracy means that people can raise demands, debate them publicly and get them addressed over time - an ability that no dictatorship offers."
+          ],
+          "keyTerms": [
+            {"term": "Intrinsic equality", "meaning": "The idea that every human being has equal worth irrespective of wealth, caste or gender."},
+            {"term": "Dissent", "meaning": "The open expression of disagreement with those in power, which democracy protects."},
+            {"term": "Expansion of democracy", "meaning": "The continuous widening of democracy's scope - more rights, more inclusion and deeper participation."}
+          ],
+          "trick": "DEF kit: Dignity (of women and castes), Equality (intrinsic worth), Freedom (dissent and choice) - democracy's permanent gifts.",
+          "examPointer": "'Democracy promotes dignity and freedom' is a very high probability 5-marker; always use women and oppressed castes as your two examples and close with the expansion line."
+        }
+      ],
+      "mcqs": [
+        {
+          "question": "A democratic government is called legitimate because:",
+          "options": ["it is the most efficient", "it is elected by the people and rules with their consent", "it never makes mistakes", "it has the largest army"],
+          "answerIndex": 1,
+          "explanation": "Legitimacy rests on consent: a democratic government is elected by the people, so its decisions are accepted as right. Efficiency is not the basis of legitimacy.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which of the following is an expected outcome of democracy?",
+          "options": ["Military supremacy", "Reduction of inequality and poverty", "One-party rule", "Censorship of the press"],
+          "answerIndex": 1,
+          "explanation": "Reduction of inequality and poverty is one of the five expected outcomes of democracy. The other options belong to authoritarian systems.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "In a democracy, the people can change a government they dislike through:",
+          "options": ["a coup", "periodic elections", "inheritance", "court appointments"],
+          "answerIndex": 1,
+          "explanation": "Regular elections let citizens remove a government that fails them. This is the core mechanism that makes democracy accountable.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Democracy promotes which of the following?",
+          "options": ["Dignity and freedom of the individual", "Caste hierarchy", "Hereditary power", "Unaccountable rule"],
+          "answerIndex": 0,
+          "explanation": "Democracy is superior to other forms of government in promoting dignity and freedom, because it recognises the intrinsic equality of all human beings.",
+          "difficulty": "easy"
+        },
+        {
+          "question": "Non-democratic regimes sometimes appear more efficient because:",
+          "options": ["they always plan better", "they do not have to consult anyone before taking decisions", "they hold frequent elections", "they enjoy a free press"],
+          "answerIndex": 1,
+          "explanation": "Non-democratic rulers can act quickly because they need not consult anyone or answer to anyone. Their speed, however, can produce rash decisions.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Comparing all democracies and dictatorships between 1950 and 2000, the conclusion on economic growth is that:",
+          "options": ["democracies grew much faster", "dictatorships show only a slightly higher growth, so there is no decisive difference", "growth is identical in both systems", "dictatorship prevents all growth"],
+          "answerIndex": 1,
+          "explanation": "Over 1950 to 2000 dictatorships recorded only a slightly higher rate of growth than democracies. The difference is too small to prove that one regime type is superior.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "In actual life, democracies have been:",
+          "options": ["fully successful in abolishing economic inequality", "not very successful in reducing economic inequalities", "forbidden by law from having inequality", "identical to dictatorships in every respect"],
+          "answerIndex": 1,
+          "explanation": "Despite political equality, economic inequalities persist and often grow in democracies. Reducing inequality remains an unfinished democratic struggle.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Majority rule in a democracy means:",
+          "options": ["permanent rule of the majority community", "choosing the option preferred by more voters while working with minorities", "rule by the richest group", "rule without any opposition"],
+          "answerIndex": 1,
+          "explanation": "Majority rule means the choice of the option or candidate preferred by more voters. It never justifies permanent domination by one community, so the majority must work with the minority.",
+          "difficulty": "medium"
+        },
+        {
+          "question": "Why is accommodation of social diversity important in a democracy?",
+          "options": ["It allows the majority community to dominate permanently", "It reduces the possibility of conflict by respecting and negotiating differences", "It ends all social differences forever", "It replaces diversity with uniformity"],
+          "answerIndex": 1,
+          "explanation": "Democracy accommodates diversity by giving every group channels to express grievances, which reduces conflict. No society can erase differences, but they can be negotiated.",
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which statement best captures the chapter's argument on dignity and freedom?",
+          "options": ["Democracy instantly removes all discrimination", "Democracy creates a platform on which disadvantaged groups can claim dignity and expand freedom over time", "Dignity is irrelevant to politics", "Freedom exists only on election day"],
+          "answerIndex": 1,
+          "explanation": "Democracy recognises the intrinsic equality of every person and lets disadvantaged groups, such as women and oppressed castes, raise demands and expand their freedom over time. Change is gradual, not instant.",
+          "difficulty": "hard"
+        }
+      ],
+      "boardQuestions": [
+        {
+          "question": "Why is a democratic government considered a legitimate government?",
+          "marks": 2,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) A democratic government is legitimate because it is elected by the people and rules with their consent; citizens wish to be governed by representatives chosen by themselves. 2) Laws and policies made by such a government are accepted as right even when people dislike a particular decision. 3) Non-democratic rulers may be efficient, but without consent their power lacks acceptance and can survive only by force."
+        },
+        {
+          "question": "'Democracy has not been very successful in reducing economic inequalities.' Justify this statement.",
+          "marks": 2,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Democracies rest on political equality, as every adult has one vote of equal value, yet economic inequalities persist and often grow. 2) A small group of ultra-rich people enjoys a highly disproportionate share of wealth and incomes, while the bottom 20 per cent of the population shares very little of the national income. 3) Hence, in actual life, democracies have not been very successful in reducing economic inequalities, proving that political equality alone cannot guarantee economic equality."
+        },
+        {
+          "question": "Democratic governments are often slow and less efficient. Why? Why is this not really a defect of democracy?",
+          "marks": 3,
+          "type": "SA",
+          "probability": "very-high",
+          "answer": "1) Democratic governments look slow because decisions involve consultation, debate among representatives, respect for procedures and consideration of different groups' interests. 2) Non-democratic rulers can act quickly since they do not have to consult or answer to anyone, so they may appear more efficient. 3) But speed without consent can produce rash and one-sided decisions, while consultation reduces the chances of irresponsible decisions. 4) Moreover, a democratic government can be questioned, corrected and changed by citizens, so its mistakes do not become permanent. 5) Hence deliberation is not a defect; it is the price of a government that is accountable, responsive and legitimate."
+        },
+        {
+          "question": "How does democracy accommodate social diversity? Explain with examples.",
+          "marks": 3,
+          "type": "SA",
+          "probability": "high",
+          "answer": "1) No society can permanently resolve conflicts among its groups, but democracy learns to respect differences and to negotiate them through accepted procedures. 2) Majority rule in democracy means the option preferred by more voters wins; it never means permanent rule by one community, so the majority must always work with the minority and share power with it. 3) Democracy gives every social group, whether religious, linguistic or caste-based, channels to express grievances and demand redressal, as reserved constituencies, women's reservation and community governments show. 4) By accommodating diversity, democracies reduce the possibility of violent conflict, as Belgium's accommodation contrasts with Sri Lanka's majoritarianism."
+        },
+        {
+          "question": "'Democracy promotes the dignity and freedom of citizens.' Explain this statement with examples.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "very-high",
+          "answer": "1) Democracy stands superior to every other form of government in promoting dignity and freedom of the individual, because it recognises the intrinsic equality of all human beings. 2) Dignity of women: in patriarchal societies women's work and worth are undervalued, but democratic politics has given feminist movements a platform, and their struggles have secured the vote, education rights, reservation in local bodies and now a law for reservation in legislatures. 3) Dignity of oppressed castes: the constitutional abolition of untouchability, equality before law and political assertion by Dalits and other deprived groups have challenged the caste hierarchy and given them voice and self-respect. 4) Freedom: democracy provides an environment in which citizens can express dissent, practise any faith, choose their occupations and claim their rights without fear; every expansion of freedom raises expectations that governments must honour. 5) People can raise demands, debate them publicly and get them addressed over time, which no dictatorship allows. 6) Conclusion: by turning dignity and freedom from privileges into claims, democracy transforms citizens from subjects into participants. 7) It is this constant expansion - new rights claimed and new voices heard - that keeps democracy alive and makes it superior to every closed and unequal system."
+        },
+        {
+          "question": "Evaluate the economic outcomes of democracy with reference to growth, development and inequality.",
+          "marks": 5,
+          "type": "LA",
+          "probability": "high",
+          "answer": "1) Growth: comparing all democracies and all dictatorships over 1950 to 2000, dictatorships show only a slightly higher rate of economic growth, a difference too small to prove superiority; growth depends on economic conditions and the priorities of governments rather than on the regime type. 2) Poorer countries: among poorer nations too the gap between the two kinds of regimes is small, so democracy is not an obstacle to development. 3) Inequality: democracies are based on political equality but have not been very successful in reducing economic inequalities; the richest sections command a hugely disproportionate share of income and wealth while the bottom 20 per cent shares very little. 4) Poverty and deprivation persist in many democracies, though citizens can pressure governments through elections, courts and movements. 5) Development: within democracies, outcomes vary with the goals those in power choose; when governments prioritise education, health and welfare, living standards improve. 6) Conclusion: democracy's economic report card is mixed but not worse than the alternatives, and its open politics gives citizens the tools to demand better performance, which closed regimes deny. 7) In the long run, the freedom to criticise, vote and organise is itself an economic asset, because it exposes failure early and forces correction that closed regimes postpone."
+        },
+        {
+          "question": "Read the following source and answer the sub-questions: 'In country A, an elected government lost power after its failure to control prices, and the courts ordered an inquiry into a minister's conduct. In country B, a military ruler built highways rapidly and jailed his critics; no election has been held for thirty years, and newspapers cannot question his decisions.' (a) Which government is accountable to its people? Give reasons. (b) Does rapid development justify rule without consent? Explain. (c) State any two merits of democracy shown by this comparison.",
+          "marks": 5,
+          "type": "CASE",
+          "probability": "high",
+          "answer": "1) (a) Country A's government is accountable because citizens could vote it out for failing on prices, and independent courts could question even ministers; authority in country A flows from the people and can be withdrawn through regular, free elections. 2) (b) Rapid construction is only one measure of performance; a regime that jails critics and silences newspapers can build highways but cannot secure dignity, freedom or honest feedback. 3) Without consent, mistakes remain hidden because no one dares to point them out, and policies reflect the ruler's will rather than the people's needs, so failures accumulate silently. 4) Speed gained by silencing citizens is therefore not true effectiveness; development that ignores freedom remains incomplete, unjust and often unsustainable. 5) (c) Merit one: democracy produces an accountable and legitimate government, so wrong decisions can be questioned, corrected and changed by the people themselves. 6) Merit two: democracy protects dignity and freedom, allowing citizens and the media to criticise rulers without fear, which keeps governance honest. 7) Consultation and debate also reduce the chance of rash decisions, even though they take time. 8) Hence country A's slower but answerable politics serves its citizens better than country B's fast but unanswerable rule."
+        }
+      ]
+    }
+  ]
+}

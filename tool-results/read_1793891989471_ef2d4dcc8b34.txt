@@ -1,0 +1,1614 @@
+     1→export default {
+     2→  "code": "economics",
+     3→  "name": "Economics",
+     4→  "bookName": "Understanding Economic Development",
+     5→  "weightageMarks": 20,
+     6→  "chapters": [
+     7→    {
+     8→      "number": 1,
+     9→      "title": "Development",
+    10→      "summary": "Development means different things to different people, so goals vary from person to person. The chapter explains how countries are compared using per capita income, health and education, why averages hide disparities and why public facilities matter. It ends with the idea that development must be sustainable so that future generations are not harmed.",
+    11→      "weightageMarks": 4,
+    12→      "difficulty": "easy",
+    13→      "hotTopics": [
+    14→        "Per capita income and World Bank classification",
+    15→        "Kerala versus Haryana comparison",
+    16→        "Human Development Index and public facilities",
+    17→        "Income and other goals",
+    18→        "Sustainability of development"
+    19→      ],
+    20→      "sections": [
+    21→        {
+    22→          "heading": "What Development Means to Different People",
+    23→          "points": [
+    24→            "Different persons have different developmental goals and their life situations shape these goals.",
+    25→            "What is development for one person may be destructive for another, like a dam that displaces people.",
+    26→            "People seek not only higher income but also freedom, security, equal treatment and respect.",
+    27→            "Some goals are non material, such as job security, a safe environment and support of family and friends.",
+    28→            "For a student development may mean good education, while for a farmer it may mean better irrigation and fair prices."
+    29→          ],
+    30→          "keyTerms": [
+    31→            {"term": "Development goal", "meaning": "An aim a person considers improvement in life, such as more income, freedom or security"},
+    32→            {"term": "Non material goal", "meaning": "A goal not measured in money, such as respect, equal treatment or a safe environment"}
+    33→          ],
+    34→          "trick": "DAD: Desires And Dreams Differ, and my dream may destroy yours.",
+    35→          "examPointer": "Asked as a 2 marker on why different people have different notions of development; also common in assertion reason type MCQs."
+    36→        },
+    37→        {
+    38→          "heading": "Income and Other Goals of Development",
+    39→          "points": [
+    40→            "Average income of people indicates their overall wellbeing, so income is a key development indicator.",
+    41→            "Besides income, people desire equal treatment, freedom, security and respect from others.",
+    42→            "Money cannot buy a pollution free environment or protection from infectious diseases.",
+    43→            "Non material things like good working conditions and job security also matter for a good life.",
+    44→            "Hence development must be judged by income together with quality of life indicators."
+    45→          ],
+    46→          "keyTerms": [
+    47→            {"term": "Material goal", "meaning": "A goal linked to income and goods, such as higher wages or a bigger house"},
+    48→            {"term": "Quality of life", "meaning": "Overall wellbeing including health, education, environment and social support, not just income"}
+    49→          ],
+    50→          "trick": "Chain to remember: Money plus Freedom, Security, Respect, Environment equals Development.",
+    51→          "examPointer": "Boards ask: besides seeking more income, what other things do people desire? Usually a 2 to 3 mark question."
+    52→        },
+    53→        {
+    54→          "heading": "Comparing Countries with Per Capita Income",
+    55→          "points": [
+    56→            "Countries are compared mainly through per capita income, which is also called average income.",
+    57→            "Per capita income is the total income of a country divided by its total population.",
+    58→            "Average income hides unequal distribution, since some people may be very rich while others are poor.",
+    59→            "As per the World Bank, countries with per capita income of US$ 49,300 and above in 2017 are rich countries.",
+    60→            "Countries with per capita income of US$ 2,500 or less are low income countries.",
+    61→            "India, with a per capita income of US$ 2,450 in 2017, is a low middle income country."
+    62→          ],
+    63→          "keyTerms": [
+    64→            {"term": "Per capita income", "meaning": "Total income of a country divided by its total population; also called average income"},
+    65→            {"term": "World Bank classification", "meaning": "Grouping of countries as rich, low middle or low income purely on the basis of per capita income"}
+    66→          ],
+    67→          "trick": "Remember the ladder: 49,300 and above is rich, 2,500 and below is low income, India at 2,450 sits in the low middle category.",
+    68→          "examPointer": "Very frequent 1 and 2 markers: define per capita income, explain why average income hides disparities, and state India's World Bank category."
+    69→        },
+    70→        {
+    71→          "heading": "Comparing States: Kerala versus Haryana",
+    72→          "points": [
+    73→            "Haryana has a much higher per capita income than Kerala, yet Kerala shows better human development.",
+    74→            "Infant mortality rate in Kerala is 10 while in Haryana it is 30 per 1000 live births.",
+    75→            "Literacy rate of Kerala is 94 percent against 76 percent in Haryana as per Census 2011.",
+    76→            "Kerala provides better public healthcare and schooling facilities to its people.",
+    77→            "This shows that higher income alone does not guarantee better health and education outcomes."
+    78→          ],
+    79→          "keyTerms": [
+    80→            {"term": "Infant mortality rate", "meaning": "Number of children who die before the age of one year per 1000 live births"},
+    81→            {"term": "Literacy rate", "meaning": "Percentage of the population aged 7 years and above who can read and write"},
+    82→            {"term": "Net attendance ratio", "meaning": "Number of children attending school as a percentage of all children in the same age group"}
+    83→          ],
+    84→          "trick": "Kerala 10 and 94, Haryana 30 and 76: small IMR with big literacy wins even with less income.",
+    85→          "examPointer": "Table based 3 markers comparing Kerala and Haryana are classics; MCQs test the exact IMR and literacy figures."
+    86→        },
+    87→        {
+    88→          "heading": "Public Facilities and Human Development Index",
+    89→          "points": [
+    90→            "Money cannot buy all goods and services needed for a good life, like pollution free air or unadulterated medicines.",
+    91→            "Governments provide public facilities such as schools, hospitals, safe drinking water, electricity and transport.",
+    92→            "HDI ranks countries on health, education and income instead of income alone.",
+    93→            "Health is seen through life expectancy and infant mortality, while education is seen through literacy and schooling.",
+    94→            "As per the Human Development Report 2018, India's HDI rank is 130 while Sri Lanka stands much higher at 76.",
+    95→            "A country can be rich in income yet rank low in human development, so all three criteria matter together."
+    96→          ],
+    97→          "keyTerms": [
+    98→            {"term": "HDI", "meaning": "Human Development Index, which ranks countries using health, education and income"},
+    99→            {"term": "Public facilities", "meaning": "Essential services like water, health, education and transport that the government provides for all"},
+   100→            {"term": "BMI", "meaning": "Body Mass Index, weight in kilograms divided by the square of height in metres, used to check nourishment"}
+   101→          ],
+   102→          "trick": "HDI = Health, Education, Income; say HEI, the baby that ranks nations.",
+   103→          "examPointer": "Explain why HDI is better than income alone is a repeated 3 marker; MCQs ask HDI components and India's rank."
+   104→        },
+   105→        {
+   106→          "heading": "Sustainability of Development",
+   107→          "points": [
+   108→            "Development today should not compromise the needs of future generations.",
+   109→            "Groundwater is a renewable resource but gets depleted when pumping exceeds recharge.",
+   110→            "Crude oil is a non renewable resource whose reserves will last only a limited time.",
+   111→            "Excess use of resources today causes falling water tables, pollution and environmental damage.",
+   112→            "Sustainable development needs judicious use of resources and care for the environment."
+   113→          ],
+   114→          "keyTerms": [
+   115→            {"term": "Sustainable development", "meaning": "Development that meets present needs without harming the ability of future generations to meet their needs"},
+   116→            {"term": "Renewable resource", "meaning": "A resource that can replenish itself over time, like groundwater or forests"},
+   117→            {"term": "Non renewable resource", "meaning": "A resource with fixed reserves that cannot be renewed, like crude oil"}
+   118→          ],
+   119→          "trick": "Story hook: you are borrowing from your grandchild, so repay by saving water and oil today.",
+   120→          "examPointer": "Define sustainable development with examples of resource overuse; appears as 3 or 5 marker and as MCQs on renewable versus non renewable resources."
+   121→        },
+   122→        {
+   123→          "heading": "National Development and the Limits of Averages",
+   124→          "points": [
+   125→            "National development means improving the life of all the people of a country, not of a few individuals.",
+   126→            "Countries are compared through reports like the World Development Report, which uses income, health and education indicators.",
+   127→            "Total income is not used for comparison since populations differ in size, so per capita income is used instead.",
+   128→            "Even averages mislead, because income in a country may be distributed very unequally among its people.",
+   129→            "Averages also hide differences in health, education and quality of life, so other indicators are always needed.",
+   130→            "Sri Lanka, a smaller economy, stands much higher than India in HDI, showing that income is not everything."
+   131→          ],
+   132→          "keyTerms": [
+   133→            {"term": "National development", "meaning": "Improvement in the wellbeing of all the people of a country taken together"},
+   134→            {"term": "World Development Report", "meaning": "Report of the World Bank that compares countries using income and human development indicators"}
+   135→          ],
+   136→          "trick": "Average hides the spread: one rich man, ten poor men, one 'average' life that nobody actually leads.",
+   137→          "examPointer": "Why averages hide disparities and what national development means are common 2 and 3 markers, often combined with per capita income questions."
+   138→        }
+   139→      ],
+   140→      "mcqs": [
+   141→        {
+   142→          "question": "Which of the following is mainly used to compare the development of different countries?",
+   143→          "options": ["Total income of the country", "Per capita income of the country", "Area of the country", "Exports of the country"],
+   144→          "answerIndex": 1,
+   145→          "explanation": "Countries are compared through average income, that is per capita income, since populations differ in size.",
+   146→          "difficulty": "easy"
+   147→        },
+   148→        {
+   149→          "question": "Per capita income is calculated as:",
+   150→          "options": ["Total income of the country divided by its total population", "Total income divided by the number of rich people", "Income of the government divided by population", "Exports divided by imports"],
+   151→          "answerIndex": 0,
+   152→          "explanation": "Per capita income or average income equals the total income of a country divided by its total population.",
+   153→          "difficulty": "easy"
+   154→        },
+   155→        {
+   156→          "question": "As per the World Bank, countries with per capita income of US$ 49,300 and above in 2017 are called:",
+   157→          "options": ["Low income countries", "Low middle income countries", "Rich countries", "Developing countries"],
+   158→          "answerIndex": 2,
+   159→          "explanation": "The World Bank calls countries with per capita income of US$ 49,300 and above rich countries.",
+   160→          "difficulty": "medium"
+   161→        },
+   162→        {
+   163→          "question": "As per World Bank data used in the textbook, the per capita income of India in 2017 was about:",
+   164→          "options": ["US$ 2,450", "US$ 2,500", "US$ 4,930", "US$ 24,500"],
+   165→          "answerIndex": 0,
+   166→          "explanation": "India's per capita income in 2017 was about US$ 2,450, placing it in the low middle income category.",
+   167→          "difficulty": "medium"
+   168→        },
+   169→        {
+   170→          "question": "The infant mortality rate in Kerala as per the NCERT comparison of states is:",
+   171→          "options": ["30 per 1000", "10 per 1000", "62 per 1000", "94 per 1000"],
+   172→          "answerIndex": 1,
+   173→          "explanation": "Kerala has an IMR of 10 per 1000 live births, much lower than Haryana's 30.",
+   174→          "difficulty": "medium"
+   175→        },
+   176→        {
+   177→          "question": "As per Census 2011, the literacy rate of Haryana was:",
+   178→          "options": ["94 percent", "76 percent", "62 percent", "54 percent"],
+   179→          "answerIndex": 1,
+   180→          "explanation": "Haryana's literacy rate was 76 percent while Kerala's was 94 percent.",
+   181→          "difficulty": "easy"
+   182→        },
+   183→        {
+   184→          "question": "The Human Development Index ranks countries on the basis of:",
+   185→          "options": ["Income and exports only", "Health, education and income", "Industry and services", "Population and land area"],
+   186→          "answerIndex": 1,
+   187→          "explanation": "HDI uses health, education and income, so it is broader than per capita income alone.",
+   188→          "difficulty": "easy"
+   189→        },
+   190→        {
+   191→          "question": "Which one of the following is a non renewable resource?",
+   192→          "options": ["Groundwater", "Forests", "Crude oil", "Solar energy"],
+   193→          "answerIndex": 2,
+   194→          "explanation": "Crude oil has fixed reserves that cannot be renewed, unlike groundwater or forests.",
+   195→          "difficulty": "easy"
+   196→        },
+   197→        {
+   198→          "question": "Which example shows that development for one may be destructive for another?",
+   199→          "options": ["A farmer buying better seeds", "A dam that displaces people from their homes", "A student getting a library", "A family buying a refrigerator"],
+   200→          "answerIndex": 1,
+   201→          "explanation": "A dam may benefit industry and power users but destroys the homes and livelihoods of displaced people.",
+   202→          "difficulty": "easy"
+   203→        },
+   204→        {
+   205→          "question": "Money cannot buy:",
+   206→          "options": ["Food grains", "Clothes", "A pollution free environment", "Books"],
+   207→          "answerIndex": 2,
+   208→          "explanation": "Clean air and a pollution free environment are collective goods that income alone cannot purchase.",
+   209→          "difficulty": "easy"
+   210→        },
+   211→        {
+   212→          "question": "Sustainable development means:",
+   213→          "options": ["Maximising income by any means", "Using all resources immediately", "Meeting present needs without harming future generations", "Focusing only on industrial growth"],
+   214→          "answerIndex": 2,
+   215→          "explanation": "Sustainability requires using resources judiciously so that future generations can also meet their needs.",
+   216→          "difficulty": "medium"
+   217→        },
+   218→        {
+   219→          "question": "As per the Human Development Report 2018, the HDI rank of India is:",
+   220→          "options": ["76", "130", "149", "150"],
+   221→          "answerIndex": 1,
+   222→          "explanation": "India ranked 130, with Sri Lanka at 76, Nepal at 149 and Pakistan at 150 in the same report.",
+   223→          "difficulty": "hard"
+   224→        },
+   225→        {
+   226→          "question": "The net attendance ratio measures:",
+   227→          "options": ["Number of children attending school as a percentage of all children in the same age group", "Number of teachers per school", "Money spent per student in a school", "Number of schools in a district"],
+   228→          "answerIndex": 0,
+   229→          "explanation": "Net attendance ratio is the number of children attending school as a percentage of all children of the same age group, an education indicator.",
+   230→          "difficulty": "medium"
+   231→        },
+   232→        {
+   233→          "question": "Kerala performs better than Haryana in human development mainly because of:",
+   234→          "options": ["Higher per capita income", "Better public healthcare and schooling facilities", "Larger population", "More industries"],
+   235→          "answerIndex": 1,
+   236→          "explanation": "Kerala's better public healthcare and schooling facilities explain its lower infant mortality and higher literacy despite lower income.",
+   237→          "difficulty": "medium"
+   238→        }
+   239→      ],
+   240→      "boardQuestions": [
+   241→        {
+   242→          "question": "Why do different persons have different developmental goals? Give one example.",
+   243→          "marks": 2,
+   244→          "type": "SA",
+   245→          "probability": "high",
+   246→          "answer": "People come from different backgrounds and face different situations in life, so their aims differ. A landless labourer may see development as regular jobs and better wages, while an industrialist may see it as freedom to set up more factories. Since life situations and needs differ from person to person, the idea of development also differs. Moreover, what helps one person may harm another, so goals often conflict with each other."
+   247→        },
+   248→        {
+   249→          "question": "How does the World Bank classify countries on the basis of per capita income? Where does India stand?",
+   250→          "marks": 2,
+   251→          "type": "SA",
+   252→          "probability": "very-high",
+   253→          "answer": "The World Bank uses average income or per capita income to classify countries. Countries with per capita income of US$ 49,300 and above in 2017 are called rich countries, and those with US$ 2,500 or less are called low income countries. India, with a per capita income of about US$ 2,450 in 2017, is placed in the low middle income category, well below rich countries like the United States."
+   254→        },
+   255→        {
+   256→          "question": "Compare Kerala and Haryana on the basis of per capita income, literacy rate and infant mortality rate. What does the comparison show?",
+   257→          "marks": 3,
+   258→          "type": "SA",
+   259→          "probability": "very-high",
+   260→          "answer": "1) Haryana has a much higher per capita income than Kerala, yet Kerala performs better in human development. 2) Kerala's literacy rate is 94 percent while Haryana's is 76 percent. 3) Kerala's infant mortality rate is 10 per 1000 live births while Haryana's is 30. This shows that higher income alone does not ensure better health and education. Kerala's better public facilities like schools and hospitals explain its superior outcomes, so development must be judged by social indicators along with income."
+   261→        },
+   262→        {
+   263→          "question": "What is the Human Development Index? Why is it considered better than per capita income as a measure of development?",
+   264→          "marks": 3,
+   265→          "type": "SA",
+   266→          "probability": "high",
+   267→          "answer": "HDI is an index that ranks countries on the basis of health, education and income. 1) It uses life expectancy and infant mortality for health, literacy and schooling for education, and per capita income for income. 2) Unlike per capita income alone, it reflects the quality of life actually enjoyed by the people. 3) It shows that a country with higher income may still lag in health or education. Hence HDI gives a fuller picture of development. In the Human Development Report 2018, India ranked 130 while Sri Lanka ranked 76."
+   268→        },
+   269→        {
+   270→          "question": "Money cannot buy all the goods and services that a person needs to live well. Explain any five reasons.",
+   271→          "marks": 5,
+   272→          "type": "LA",
+   273→          "probability": "very-high",
+   274→          "answer": "1) Money cannot buy a pollution free environment, since clean air and water are collective goods enjoyed by all. 2) It cannot fully protect people from infectious diseases, which need collective public health measures. 3) Essential public facilities like schools, hospitals, safe drinking water and transport must be provided by the government for everyone, not just for those who can pay. 4) Non material needs like freedom, security, equal treatment and respect cannot be purchased with money. 5) A good life also needs supportive family and community relations, which no market sells. That is why governments must spend on health, education and sanitation along with raising incomes, because quality of life depends on how income is converted into better living conditions for all."
+   275→        },
+   276→        {
+   277→          "question": "What is sustainable development? Why is it important? Explain with examples of resource use.",
+   278→          "marks": 5,
+   279→          "type": "LA",
+   280→          "probability": "high",
+   281→          "answer": "Sustainable development means using resources in a way that meets the needs of the present generation without harming the ability of future generations to meet their own needs. 1) Groundwater is renewable, but it gets depleted when pumping exceeds recharge, causing falling water tables in many regions. 2) Crude oil is a non renewable resource whose reserves are limited and will last only a limited time. 3) Excess use of resources also causes pollution and damage to the environment. 4) If resources are exhausted today, future generations will be left with nothing to build upon. Hence development must use resources judiciously, protect the environment and keep growth going for the long term, so that progress today does not become a burden tomorrow."
+   282→        },
+   283→        {
+   284→          "question": "Case: State X has one of the highest per capita incomes in the country, but its infant mortality rate is 30 per 1000 live births and its literacy rate is 76 percent. State Y has a lower per capita income, but its infant mortality rate is 10 and its literacy rate is 94 percent. 1) Which state is more developed and why? 2) Why is income alone not enough to judge development? 3) Suggest two indicators besides income to compare states.",
+   285→          "marks": 5,
+   286→          "type": "CASE",
+   287→          "probability": "very-high",
+   288→          "answer": "1) State Y is more developed because its people are healthier and better educated, shown by a lower infant mortality rate of 10 and higher literacy of 94 percent, despite lower income. 2) Income alone is not enough because average income hides unequal distribution and says nothing about health, education or quality of life. People also value freedom, security, equal treatment and a clean environment, which income cannot buy. 3) States should also be compared using indicators like infant mortality rate, literacy rate, net attendance ratio and access to public facilities such as healthcare and safe drinking water. The comparison mirrors the Kerala and Haryana example, showing that human development depends on how income is converted into better living conditions for all."
+   289→        },
+   290→        {
+   291→          "question": "What is meant by per capita income? Mention two limitations of using it to compare countries.",
+   292→          "marks": 3,
+   293→          "type": "SA",
+   294→          "probability": "high",
+   295→          "answer": "Per capita income or average income is the total income of a country divided by its total population. Limitations: 1) It hides unequal distribution, since the same average may coexist with a few very rich and many very poor people. 2) It ignores non income aspects of development like health, education, nutrition, freedom and a clean environment, so a country with higher income may still lag badly in human development."
+   296→        },
+   297→        {
+   298→          "question": "Explain the components of the Human Development Index. How does India compare with its South Asian neighbours?",
+   299→          "marks": 5,
+   300→          "type": "LA",
+   301→          "probability": "high",
+   302→          "answer": "HDI is a broader measure of development that ranks countries on three criteria. 1) Health, measured through life expectancy and the infant mortality rate. 2) Education, measured through literacy rate and net attendance or schooling. 3) Income, measured through per capita income. Unlike income alone, HDI shows the quality of life that people actually enjoy. As per the Human Development Report 2018, India ranked 130 in the world, which is low for its economic size. Sri Lanka ranked much higher at 76 because of its better health and education, while Nepal ranked 149 and Pakistan 150, close to India. The comparison shows that spending on public health and education, and not just income, decides human development."
+   303→        },
+   304→        {
+   305→          "question": "Case: Country A has a per capita income of US$ 12,000 but an infant mortality rate of 60 per 1000 live births and a literacy rate of 55 percent. Country B has a per capita income of US$ 4,000, an infant mortality rate of 12 and a literacy rate of 93 percent. 1) Which country would rank higher on the Human Development Index and why? 2) What might explain Country A's poor social indicators despite higher income? 3) Suggest two steps Country A should take.",
+   306→          "marks": 5,
+   307→          "type": "CASE",
+   308→          "probability": "high",
+   309→          "answer": "1) Country B would rank higher on HDI because it performs far better on health and education, the two non income components of the index, even though its income is lower. 2) Country A may be spending too little on public health and schooling, and its income may be concentrated among a few people, so average income has not translated into better services for the majority. 3) Country A should expand public facilities like hospitals, immunisation, safe drinking water and schools, and should distribute the gains of growth more widely through social spending, since human development depends on how income is converted into better living conditions for all."
+   310→        }
+   311→      ]
+   312→    },
+   313→    {
+   314→      "number": 2,
+   315→      "title": "Sectors of the Indian Economy",
+   316→      "summary": "Economic activities are grouped into primary, secondary and tertiary sectors, and GDP measures the total value of their production. The chapter traces the shift from primary to tertiary sector in GDP even as most workers remain in agriculture, causing underemployment. It also contrasts organised and unorganised sectors and explains ways to create more employment, including MGNREGA 2005.",
+   317→      "weightageMarks": 6,
+   318→      "difficulty": "medium",
+   319→      "hotTopics": [
+   320→        "Three sectors with examples",
+   321→        "GDP and final goods",
+   322→        "Shift from primary to tertiary sector",
+   323→        "Underemployment and employment creation",
+   324→        "Organised versus unorganised sector and MGNREGA 2005"
+   325→      ],
+   326→      "sections": [
+   327→        {
+   328→          "heading": "Three Sectors of Economic Activities",
+   329→          "points": [
+   330→            "The primary sector produces goods by exploiting natural resources like soil, water and forests.",
+   331→            "The secondary sector transforms natural products into other goods through manufacturing and industry.",
+   332→            "The tertiary sector provides services that support the other two sectors, like transport and banking.",
+   333→            "Farming, dairy, fishing and mining are primary, while sugar mills and garment factories are secondary.",
+   334→            "Teachers, doctors, bankers, traders and transporters belong to the tertiary sector."
+   335→          ],
+   336→          "keyTerms": [
+   337→            {"term": "Primary sector", "meaning": "Sector that produces from natural resources; also called agriculture and related sector"},
+   338→            {"term": "Secondary sector", "meaning": "Sector that manufactures goods from natural products; also called the industrial sector"},
+   339→            {"term": "Tertiary sector", "meaning": "Sector that provides services instead of goods; also called the service sector"}
+   340→          ],
+   341→          "trick": "RAW, MADE, MOVE: primary gives raw material, secondary makes goods, tertiary moves and serves.",
+   342→          "examPointer": "Classifying activities into sectors is a favourite 1 marker; also asked as a 3 marker with one example each."
+   343→        },
+   344→        {
+   345→          "heading": "Comparing Sectors: GDP and Final Goods",
+   346→          "points": [
+   347→            "GDP or Gross Domestic Product is the value of all final goods and services produced within a country in a year.",
+   348→            "GDP shows the size of the economy and tells which sector produces the most.",
+   349→            "Only final goods are counted in GDP; intermediate goods are excluded to avoid double counting.",
+   350→            "Final goods reach consumers directly while intermediate goods are used up in producing other goods.",
+   351→            "The GDP of India is the sum of production in the primary, secondary and tertiary sectors."
+   352→          ],
+   353→          "keyTerms": [
+   354→            {"term": "GDP", "meaning": "Market value of all final goods and services produced within a country during a particular year"},
+   355→            {"term": "Final good", "meaning": "A good that reaches the consumer directly and is not used in producing another good"},
+   356→            {"term": "Intermediate good", "meaning": "A good used up in the production of some other good, like wheat flour used for biscuits"}
+   357→          ],
+   358→          "trick": "GDP: Goods Done and Produced; count finals only, forget intermediates.",
+   359→          "examPointer": "Definition of GDP and final versus intermediate goods are repeated 1 and 2 markers; CBSE 2020 asked the GDP definition."
+   360→        },
+   361→        {
+   362→          "heading": "Historical Shift Among the Sectors",
+   363→          "points": [
+   364→            "In the early stages of development, the primary sector was the most important economic activity.",
+   365→            "With new technology and industry, manufacturing grew and the secondary sector gained importance.",
+   366→            "Later, services like transport, trade, banking and tourism became the largest producers.",
+   367→            "In India, the tertiary sector has replaced the primary sector as the largest producing sector.",
+   368→            "The share of the primary sector in GDP has fallen sharply over the decades.",
+   369→            "Developed countries show an even bigger dominance of the service sector."
+   370→          ],
+   371→          "keyTerms": [
+   372→            {"term": "Sectoral shift", "meaning": "Movement of an economy from farming to industry and then to services over time"},
+   373→            {"term": "Service sector", "meaning": "The tertiary sector, whose share in GDP keeps rising as economies develop"}
+   374→          ],
+   375→          "trick": "Ladder story: every economy climbs from Agriculture to Industry to Services.",
+   376→          "examPointer": "Graph or table based questions on sectoral shares in GDP are common 3 markers; MCQs ask which sector is largest today."
+   377→        },
+   378→        {
+   379→          "heading": "Employment Across Sectors and Underemployment",
+   380→          "points": [
+   381→            "More than half of India's workers are still employed in the primary sector, mainly agriculture.",
+   382→            "The share of the primary sector in employment is far larger than its share in GDP.",
+   383→            "Underemployment means more people are engaged in a task than the amount of work needs.",
+   384→            "Extra workers add little to output, so removing them does not reduce production.",
+   385→            "Example: a family farm that needs two workers employs five, so three are underemployed.",
+   386→            "Shifting surplus workers to industry and services can raise family and national income."
+   387→          ],
+   388→          "keyTerms": [
+   389→            {"term": "Underemployment", "meaning": "Situation where more people work than required and extra workers add no output"},
+   390→            {"term": "Disguised unemployment", "meaning": "Another name for underemployment, where workers appear employed but their removal does not affect output"}
+   391→          ],
+   392→          "trick": "Five on a farm where two are enough: three are hiding, not helping output.",
+   393→          "examPointer": "Underemployment with an example is a frequent 3 marker; case studies describe farm families to test the concept."
+   394→        },
+   395→        {
+   396→          "heading": "Organised and Unorganised Sectors",
+   397→          "points": [
+   398→            "The organised sector has fixed working hours, regular salaries and registered companies.",
+   399→            "Workers there get benefits like paid leave, provident fund, gratuity, pension and medical care.",
+   400→            "The unorganised sector has small and scattered units with low wages and no job security.",
+   401→            "There are no fixed hours, no paid leave and no protection from exploitation in this sector.",
+   402→            "Around 90 percent of Indian workers are employed in the unorganised sector.",
+   403→            "Small farmers, landless labourers, artisans, street vendors and garment workers belong to this sector."
+   404→          ],
+   405→          "keyTerms": [
+   406→            {"term": "Organised sector", "meaning": "Registered sector with regular employment, fixed working hours and legal benefits"},
+   407→            {"term": "Unorganised sector", "meaning": "Small scattered units outside government control, offering insecure and low paid jobs"}
+   408→          ],
+   409→          "trick": "Organised has papers and pension; unorganised has promises only.",
+   410→          "examPointer": "Comparison of the two sectors is a regular 5 marker; 1 markers ask to name benefits of organised sector jobs."
+   411→        },
+   412→        {
+   413→          "heading": "Protecting Workers and MGNREGA 2005",
+   414→          "points": [
+   415→            "The government must fix minimum wages and see that workers are not exploited.",
+   416→            "Laws should ensure social security, safe working conditions and support for small producers.",
+   417→            "MGNREGA 2005 is a law implementing the Right to Work in rural areas.",
+   418→            "It guarantees 100 days of wage employment in a year to those willing to do unskilled manual work.",
+   419→            "If the government fails to provide employment, it must pay an unemployment allowance.",
+   420→            "Cheap credit and marketing support help small industries survive and create jobs."
+   421→          ],
+   422→          "keyTerms": [
+   423→            {"term": "MGNREGA", "meaning": "Mahatma Gandhi National Rural Employment Guarantee Act 2005, guaranteeing 100 days of wage work in rural areas"},
+   424→            {"term": "Right to Work", "meaning": "Legal guarantee of employment provided under MGNREGA"}
+   425→          ],
+   426→          "trick": "MGNREGA 2005: 100 days or pay the allowance; remember the pair 2005 and 100.",
+   427→          "examPointer": "Three features of MGNREGA are a classic 3 marker; MCQs test the year 2005 and the 100 days guarantee."
+   428→        },
+   429→        {
+   430→          "heading": "How to Create More Employment",
+   431→          "points": [
+   432→            "Government investment in irrigation, roads, storage and transport raises rural employment.",
+   433→            "Supporting small industries with cheap credit and marketing helps them grow and hire more workers.",
+   434→            "Investing in education and health creates jobs like teachers, nurses and doctors.",
+   435→            "Tourism has big potential to generate employment if it is promoted properly.",
+   436→            "Programmes like Sarva Shiksha Abhiyan and mid day meals increased jobs in education services.",
+   437→            "Moving surplus farm workers to secondary and tertiary activities raises incomes."
+   438→          ],
+   439→          "keyTerms": [
+   440→            {"term": "Social infrastructure", "meaning": "Investment in education, health and related services that improves lives and also generates employment"},
+   441→            {"term": "Wage employment", "meaning": "Paid work under someone, like the manual work guaranteed by MGNREGA"}
+   442→          ],
+   443→          "trick": "BITES: Build roads, Irrigate, Tourism, Education, Support small industry.",
+   444→          "examPointer": "Suggest three or five ways to create more employment is a very common 3 and 5 marker in boards."
+   445→        },
+   446→        {
+   447→          "heading": "Public and Private Sectors of the Economy",
+   448→          "points": [
+   449→            "On the basis of ownership, economic activities are classified into the public and the private sector.",
+   450→            "The public sector is owned and managed by the government, like the railways and the post office.",
+   451→            "The private sector is owned by individuals or companies, like Tata Motors, Reliance and private schools.",
+   452→            "The public sector aims at public welfare, providing basic services at reasonable cost to everyone.",
+   453→            "Private sector activities are guided mainly by profit, and prices are decided by the owners.",
+   454→            "Many economies, including India, have both sectors working side by side."
+   455→          ],
+   456→          "keyTerms": [
+   457→            {"term": "Public sector", "meaning": "Part of the economy owned and managed by the government, such as railways and the post office"},
+   458→            {"term": "Private sector", "meaning": "Part of the economy owned by individuals or companies that work mainly for profit"}
+   459→          ],
+   460→          "trick": "Public serves, private earns: the railway is run by government, while many tickets and tours are sold by private agents.",
+   461→          "examPointer": "Classifying activities into public and private sector with examples is a common 1 and 2 marker."
+   462→        }
+   463→      ],
+   464→      "mcqs": [
+   465→        {
+   466→          "question": "Which one of the following is an activity of the primary sector?",
+   467→          "options": ["Banking", "Mining", "Garment making", "Teaching"],
+   468→          "answerIndex": 1,
+   469→          "explanation": "Mining exploits natural resources directly, so it belongs to the primary sector.",
+   470→          "difficulty": "easy"
+   471→        },
+   472→        {
+   473→          "question": "The secondary sector is also called the:",
+   474→          "options": ["Agriculture sector", "Service sector", "Industrial sector", "Public sector"],
+   475→          "answerIndex": 2,
+   476→          "explanation": "The secondary sector manufactures goods from natural products, so it is the industrial sector.",
+   477→          "difficulty": "easy"
+   478→        },
+   479→        {
+   480→          "question": "GDP is the value of:",
+   481→          "options": ["All goods produced by Indians anywhere in the world", "All final goods and services produced within a country during a particular year", "Only the goods exported by a country", "Only the services produced in a country"],
+   482→          "answerIndex": 1,
+   483→          "explanation": "GDP counts only final goods and services produced within the domestic territory during a year.",
+   484→          "difficulty": "medium",
+   485→          "pyq": "CBSE 2020"
+   486→        },
+   487→        {
+   488→          "question": "Intermediate goods are:",
+   489→          "options": ["Goods bought by final consumers", "Goods used up in the production of other goods", "Goods exported to other countries", "Goods stored in warehouses"],
+   490→          "answerIndex": 1,
+   491→          "explanation": "Intermediate goods are consumed in producing other goods and are excluded from GDP to avoid double counting.",
+   492→          "difficulty": "medium"
+   493→        },
+   494→        {
+   495→          "question": "Which sector is at present the largest producing sector in India?",
+   496→          "options": ["Primary sector", "Secondary sector", "Tertiary sector", "All three are equal"],
+   497→          "answerIndex": 2,
+   498→          "explanation": "The tertiary sector has replaced the primary sector as the largest producing sector in India.",
+   499→          "difficulty": "easy"
+   500→        },
+   501→        {
+   502→          "question": "Which sector is the largest employer in India?",
+   503→          "options": ["Primary sector", "Secondary sector", "Tertiary sector", "Public sector"],
+   504→          "answerIndex": 0,
+   505→          "explanation": "More than half of India's workers are still employed in the primary sector, mainly agriculture.",
+   506→          "difficulty": "medium"
+   507→        },
+   508→        {
+   509→          "question": "Underemployment is a situation in which:",
+   510→          "options": ["People are completely jobless", "More people are engaged in work than required", "People refuse to work", "People work longer hours than others"],
+   511→          "answerIndex": 1,
+   512→          "explanation": "In underemployment, extra workers add nothing to output, so the work needs fewer people than are employed.",
+   513→          "difficulty": "easy"
+   514→        },
+   515→        {
+   516→          "question": "MGNREGA was enacted in the year:",
+   517→          "options": ["2001", "2005", "2009", "2014"],
+   518→          "answerIndex": 1,
+   519→          "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act was passed in 2005.",
+   520→          "difficulty": "easy"
+   521→        },
+   522→        {
+   523→          "question": "MGNREGA guarantees wage employment for:",
+   524→          "options": ["50 days a year", "100 days a year", "150 days a year", "365 days a year"],
+   525→          "answerIndex": 1,
+   526→          "explanation": "It guarantees 100 days of wage employment in a year to those willing to do unskilled manual work.",
+   527→          "difficulty": "easy",
+   528→          "pyq": "CBSE 2020"
+   529→        },
+   530→        {
+   531→          "question": "If the government fails to provide employment under MGNREGA, it must pay:",
+   532→          "options": ["Pension", "Unemployment allowance", "Gratuity", "Dearness allowance"],
+   533→          "answerIndex": 1,
+   534→          "explanation": "The law provides for an unemployment allowance when guaranteed employment is not given.",
+   535→          "difficulty": "medium"
+   536→        },
+   537→        {
+   538→          "question": "Which one of the following is a benefit available in the organised sector?",
+   539→          "options": ["No fixed working hours", "Paid leave and provident fund", "Wages fixed daily by the employer", "No job security"],
+   540→          "answerIndex": 1,
+   541→          "explanation": "Organised sector workers enjoy regular employment with benefits like paid leave, provident fund and pension.",
+   542→          "difficulty": "easy"
+   543→        },
+   544→        {
+   545→          "question": "Nearly what share of Indian workers is employed in the unorganised sector?",
+   546→          "options": ["Around 90 percent", "Around 30 percent", "Around 50 percent", "Around 70 percent"],
+   547→          "answerIndex": 0,
+   548→          "explanation": "The vast majority of Indian workers, around 90 percent, work in small unorganised units without security or benefits.",
+   549→          "difficulty": "medium"
+   550→        },
+   551→        {
+   552→          "question": "Which one of the following belongs to the public sector?",
+   553→          "options": ["Reliance Industries", "Tata Motors", "Indian Railways", "A private school"],
+   554→          "answerIndex": 2,
+   555→          "explanation": "Indian Railways is owned and managed by the government, so it belongs to the public sector.",
+   556→          "difficulty": "easy"
+   557→        },
+   558→        {
+   559→          "question": "Which one of the following is a tertiary sector activity?",
+   560→          "options": ["Growing cotton", "Weaving cloth", "Banking", "Mining coal"],
+   561→          "answerIndex": 2,
+   562→          "explanation": "Banking provides a service supporting other sectors, so it belongs to the tertiary sector.",
+   563→          "difficulty": "easy"
+   564→        }
+   565→      ],
+   566→      "boardQuestions": [
+   567→        {
+   568→          "question": "Distinguish between final goods and intermediate goods with one example each.",
+   569→          "marks": 2,
+   570→          "type": "SA",
+   571→          "probability": "high",
+   572→          "answer": "Final goods are goods that reach the consumer directly and are not used in making other goods, like a shirt bought by a household. Intermediate goods are used up in the production of other goods, like cotton yarn used by a garment factory. Only final goods are counted in GDP so that the value of goods is not counted twice."
+   573→        },
+   574→        {
+   575→          "question": "What is GDP? Name the sector that contributes the most to India's GDP.",
+   576→          "marks": 2,
+   577→          "type": "SA",
+   578→          "probability": "high",
+   579→          "answer": "GDP or Gross Domestic Product is the market value of all final goods and services produced within a country during a particular year. It includes the output of the primary, secondary and tertiary sectors and shows the size of the economy. In India, the tertiary or service sector is the largest producing sector and contributes the most to GDP."
+   580→        },
+   581→        {
+   582→          "question": "Explain the three sectors of economic activities with one example each.",
+   583→          "marks": 3,
+   584→          "type": "SA",
+   585→          "probability": "very-high",
+   586→          "answer": "1) Primary sector produces goods by exploiting natural resources, for example farming, dairy, fishing and mining. 2) Secondary sector transforms natural products into other goods through manufacturing, for example sugar mills and garment factories. 3) Tertiary sector provides services that support the other two sectors, for example transport, banking, trade, education and health. Together, the production of all three sectors gives the GDP of the country."
+   587→        },
+   588→        {
+   589→          "question": "Describe any three features of the Mahatma Gandhi National Rural Employment Guarantee Act, 2005.",
+   590→          "marks": 3,
+   591→          "type": "SA",
+   592→          "probability": "very-high",
+   593→          "answer": "1) MGNREGA 2005 implements the Right to Work in rural areas of India. 2) It guarantees 100 days of wage employment in a year to every household whose adult members are willing to do unskilled manual work. 3) If the government fails to provide employment, it has to pay an unemployment allowance. The scheme also creates durable rural assets like wells and roads and aims at livelihood security of the poor."
+   594→        },
+   595→        {
+   596→          "question": "The primary sector employs more than half of India's workforce but contributes much less to GDP. Why does this happen?",
+   597→          "marks": 3,
+   598→          "type": "SA",
+   599→          "probability": "high",
+   600→          "answer": "Agriculture uses traditional methods and land holdings are small, so productivity per worker is low. Surplus family members stay on farms because they do not find better jobs, which creates underemployment. Since production is limited, the sector's share in GDP keeps falling even while employment stays high. Creating jobs in industry and services, rural industries and better irrigation can shift surplus workers and raise incomes."
+   601→        },
+   602→        {
+   603→          "question": "Compare the organised and the unorganised sector on any five grounds.",
+   604→          "marks": 5,
+   605→          "type": "LA",
+   606→          "probability": "high",
+   607→          "answer": "1) Registration: organised sector companies are registered with the government, while unorganised units are mostly small, scattered and outside formal registration. 2) Terms of employment: organised jobs are regular with fixed working hours, while unorganised jobs are casual with no fixed hours. 3) Benefits: organised workers get paid leave, provident fund, gratuity, pension and medical benefits, while unorganised workers get none of these. 4) Wages: organised workers receive fixed and fair wages, while unorganised workers get low and often irregular wages. 5) Security: organised workers cannot be removed easily and are covered by labour laws, while unorganised workers can be dismissed anytime and are easily exploited. Around 90 percent of Indian workers are in the unorganised sector, so the government must fix minimum wages, provide social security and support small producers."
+   608→        },
+   609→        {
+   610→          "question": "Suggest any five ways by which more employment can be created in India.",
+   611→          "marks": 5,
+   612→          "type": "LA",
+   613→          "probability": "very-high",
+   614→          "answer": "1) Invest in irrigation so that farmers can grow a second crop and hire more labour. 2) Provide cheap credit and marketing support to small industries so that they expand and employ more workers. 3) Improve roads, storage and transport facilities, since construction and transport raise rural employment. 4) Promote tourism, which can generate many jobs in services like hotels and guides. 5) Spend on education and health, as schools and hospitals need teachers, nurses and doctors; schemes like Sarva Shiksha Abhiyan and mid day meals have already created such jobs. Along with these, full implementation of MGNREGA gives rural households 100 days of guaranteed wage work every year."
+   615→        },
+   616→        {
+   617→          "question": "Case: Ram Lal owns a small plot of land. His family of five works on it throughout the year, though the work needs only two persons. Two of his sons occasionally migrate to the city for casual work. 1) Identify the employment problem shown here and define it. 2) How does it affect the family's income? 3) Suggest two government measures that can improve their situation.",
+   618→          "marks": 5,
+   619→          "type": "CASE",
+   620→          "probability": "very-high",
+   621→          "answer": "1) The family faces underemployment or disguised unemployment, where more people work than the amount of work requires and extra workers add nothing to output. 2) Since five members share work that two can do, the extra workers earn almost nothing extra, so family income stays low even though everyone appears employed. 3) Government can help by implementing MGNREGA so that members get 100 days of guaranteed wage work, and by supporting rural small industries with cheap credit and better irrigation so that new jobs absorb surplus workers. Better roads, storage and transport facilities also raise rural employment and help such families earn more."
+   622→        },
+   623→        {
+   624→          "question": "Distinguish between the public sector and the private sector with one example each.",
+   625→          "marks": 2,
+   626→          "type": "SA",
+   627→          "probability": "high",
+   628→          "answer": "The public sector is owned and managed by the government with the aim of public welfare, for example the railways and the post office. The private sector is owned by individuals or companies and works mainly for profit, for example Tata Motors or a private school. In India both sectors work together in the economy."
+   629→        },
+   630→        {
+   631→          "question": "Describe the historical shift among the three sectors in India's GDP and employment. What mismatch does it create?",
+   632→          "marks": 5,
+   633→          "type": "LA",
+   634→          "probability": "high",
+   635→          "answer": "1) In the early stages of development, the primary sector dominated both production and employment, as most people lived off agriculture. 2) With new technology and industrialisation, the secondary sector grew and manufacturing gained importance in GDP. 3) Later, services like transport, trade, banking, tourism and education became the largest producing sector, and in India the tertiary sector now contributes the most to GDP. 4) However, employment did not shift in the same way: more than half of Indian workers remain in the primary sector, which contributes much less to GDP. 5) This mismatch means many workers in agriculture are underemployed, so incomes stay low; shifting surplus workers to industry and services, with proper skills and support, is needed to raise incomes and reduce disguised unemployment."
+   636→        },
+   637→        {
+   638→          "question": "Case: Meena works as a clerk in a nationalised bank with fixed hours, paid leave and a pension. Her brother works as a street vendor, buying goods daily on credit and earning whatever he can, with no paid leave or security. 1) In which type of sector does each work, and how do you know? 2) Which type of sector employs most Indians and why does it attract them? 3) Suggest two steps the government can take to protect workers like Meena's brother.",
+   639→          "marks": 5,
+   640→          "type": "CASE",
+   641→          "probability": "high",
+   642→          "answer": "1) Meena works in the organised sector, as shown by her fixed hours, salary, paid leave and pension, which come with registration and legal protection. Her brother works in the unorganised sector, since his work is casual, earnings are low and uncertain, and there are no benefits. 2) The unorganised sector employs around 90 percent of Indian workers because it is easy to enter, needs little capital or education, and offers some work even if insecure. 3) The government should fix and enforce minimum wages and social security for informal workers, and provide cheap credit, insurance and training so that self employed workers like street vendors can earn more securely; schemes like MGNREGA and skill programmes also help such workers move to better jobs."
+   643→        }
+   644→      ]
+   645→    },
+   646→    {
+   647→      "number": 3,
+   648→      "title": "Money and Credit",
+   649→      "summary": "Money replaced the barter system by removing the problem of double coincidence of wants. The chapter explains modern currency, demand deposits, bank credit, terms of credit and the gap between formal and informal sources of credit. It also shows how Self Help Groups and RBI supervision expand cheap and affordable credit to the poor.",
+   650→      "weightageMarks": 6,
+   651→      "difficulty": "medium",
+   652→      "hotTopics": [
+   653→        "Double coincidence of wants and role of money",
+   654→        "Terms of credit",
+   655→        "Formal versus informal sources of credit",
+   656→        "Self Help Groups",
+   657→        "Role of the Reserve Bank of India"
+   658→      ],
+   659→      "sections": [
+   660→        {
+   661→          "heading": "Barter System and the Role of Money",
+   662→          "points": [
+   663→            "In a barter system, goods are directly exchanged for goods without the use of money.",
+   664→            "Barter requires double coincidence of wants; both parties must want each other's goods at the same time.",
+   665→            "Finding such a match is difficult, so barter limits trade and exchange.",
+   666→            "Money removes this problem because it is accepted by everyone as a medium of exchange.",
+   667→            "A person can sell goods for money and buy whatever is needed with that money."
+   668→          ],
+   669→          "keyTerms": [
+   670→            {"term": "Barter system", "meaning": "Direct exchange of goods for goods without using money"},
+   671→            {"term": "Double coincidence of wants", "meaning": "Situation where two parties each want exactly what the other offers, needed for barter"},
+   672→            {"term": "Medium of exchange", "meaning": "Anything accepted by all in payment for goods and services, like money"}
+   673→          ],
+   674→          "trick": "Barter needs a perfect match; money is the universal matchmaker.",
+   675→          "examPointer": "Double coincidence of wants is a favourite 1 and 2 marker, often tested through a small exchange situation in MCQs."
+   676→        },
+   677→        {
+   678→          "heading": "Modern Forms of Money",
+   679→          "points": [
+   680→            "Modern currency includes paper notes and coins that have no value of their own.",
+   681→            "It is accepted as money because it is authorised by the government of the country.",
+   682→            "In India, the Reserve Bank of India issues currency notes on behalf of the central government.",
+   683→            "The other form of money is deposits with banks, called demand deposits.",
+   684→            "Demand deposits can be withdrawn anytime, and payments can be made through cheques.",
+   685→            "Cheque payments using deposits are safer than carrying cash."
+   686→          ],
+   687→          "keyTerms": [
+   688→            {"term": "Demand deposit", "meaning": "Bank deposit that can be withdrawn on demand and used for payments through cheques"},
+   689→            {"term": "Cheque", "meaning": "A paper instruction to a bank to pay a stated amount from the depositor's account"}
+   690→          ],
+   691→          "trick": "Currency needs authority, deposits need a bank; notes by RBI, payments by cheque.",
+   692→          "examPointer": "One markers ask who issues currency in India and what demand deposits are; 2 markers explain why modern currency is accepted."
+   693→        },
+   694→        {
+   695→          "heading": "Bank Deposits and How Banks Work",
+   696→          "points": [
+   697→            "Banks accept deposits and keep only about 15 percent of them as cash reserve.",
+   698→            "They lend the rest to borrowers because all depositors do not withdraw at the same time.",
+   699→            "Banks pay interest on deposits and charge a higher rate of interest on loans.",
+   700→            "The difference between the two interest rates is the main income of banks.",
+   701→            "Banks thus mediate between those who have surplus money and those who need it."
+   702→          ],
+   703→          "keyTerms": [
+   704→            {"term": "Cash reserve", "meaning": "The small part of deposits, about 15 percent, that banks keep ready to pay withdrawing depositors"},
+   705→            {"term": "Mediate", "meaning": "Banks connect depositors who have surplus funds with borrowers who need funds"}
+   706→          ],
+   707→          "trick": "15 in the till, rest on the road: banks keep 15 percent and lend the rest.",
+   708→          "examPointer": "Explain how banks mediate between depositors and borrowers is a common 3 marker; the 15 percent cash reserve figure is a favourite MCQ."
+   709→        },
+   710→        {
+   711→          "heading": "Loans and Terms of Credit",
+   712→          "points": [
+   713→            "Credit means a loan taken to meet present needs, to be repaid later with interest.",
+   714→            "Every loan agreement specifies the terms of credit fixed by the lender.",
+   715→            "Terms of credit include interest rate, collateral, documentation requirement and mode of repayment.",
+   716→            "Collateral is an asset pledged as security, like land, building, cattle or bank deposits.",
+   717→            "The lender can sell the collateral if the borrower fails to repay the loan.",
+   718→            "Whether credit is easy or costly for a borrower depends on these terms."
+   719→          ],
+   720→          "keyTerms": [
+   721→            {"term": "Credit or loan", "meaning": "Borrowing money with a promise to repay it later along with interest"},
+   722→            {"term": "Collateral", "meaning": "An asset kept as security with the lender, which can be sold if the borrower defaults"},
+   723→            {"term": "Terms of credit", "meaning": "Interest rate, collateral, documentation requirement and mode of repayment set for a loan"}
+   724→          ],
+   725→          "trick": "ICDM: Interest, Collateral, Documentation, Mode of repayment. Say: I Can Decide Money.",
+   726→          "examPointer": "Explain any three terms of credit is a repeated 3 marker; define collateral appears as a 1 or 2 marker."
+   727→        },
+   728→        {
+   729→          "heading": "Formal and Informal Sources of Credit",
+   730→          "points": [
+   731→            "Formal sources are banks and cooperatives; informal sources are moneylenders, traders, employers, relatives and friends.",
+   732→            "Informal lenders usually charge much higher interest rates than formal lenders.",
+   733→            "High cost of borrowing pushes poor households into debt traps as repayment eats up income.",
+   734→            "The Reserve Bank of India supervises banks and cooperatives, which must report to it regularly.",
+   735→            "RBI checks the cash reserves and lending of formal lenders but has no control over moneylenders.",
+   736→            "Formal sources meet only part of the total credit needs, so dependence on informal credit should reduce."
+   737→          ],
+   738→          "keyTerms": [
+   739→            {"term": "Formal source of credit", "meaning": "Loans from banks and cooperatives that are supervised by the Reserve Bank of India"},
+   740→            {"term": "Informal source of credit", "meaning": "Loans from moneylenders, traders, employers, relatives and friends with no supervision"},
+   741→            {"term": "Debt trap", "meaning": "Situation where loan repayments push a borrower into taking fresh and costlier loans"}
+   742→          ],
+   743→          "trick": "Formal has RBI above it; informal has only interest above it.",
+   744→          "examPointer": "Comparing formal and informal credit is a recurring 3 marker; RBI supervision often appears in statement based MCQs."
+   745→        },
+   746→        {
+   747→          "heading": "Self Help Groups and Credit for the Poor",
+   748→          "points": [
+   749→            "SHGs are groups of 15 to 20 members, mostly women, who save small amounts regularly.",
+   750→            "Their savings build a common group fund from which members can take small loans.",
+   751→            "Loans are given at reasonable interest without collateral and are repaid in instalments.",
+   752→            "The group itself decides matters like the purpose, amount and schedule of repayment.",
+   753→            "Banks lend to SHGs for income generating activities like fodder, seeds and raw materials.",
+   754→            "SHGs give timely credit, make members self reliant and offer a platform to discuss social issues."
+   755→          ],
+   756→          "keyTerms": [
+   757→            {"term": "Self Help Group", "meaning": "A group of 15 to 20 members, usually women, that pools savings and lends to its members"},
+   758→            {"term": "Group fund", "meaning": "Common savings of SHG members used to give small loans without collateral"}
+   759→          ],
+   760→          "trick": "SHG: Save, Help, Grow; 15 to 20 women, no collateral needed.",
+   761→          "examPointer": "Working and benefits of SHGs are frequent 3 and 5 markers; case studies of village groups often appear."
+   762→        },
+   763→        {
+   764→          "heading": "The Reserve Bank of India: Functions and Supervision",
+   765→          "points": [
+   766→            "The Reserve Bank of India is the central bank of India, which supervises the monetary system of the country.",
+   767→            "RBI issues currency notes on behalf of the central government; no other bank can issue currency notes.",
+   768→            "It acts as a banker to the government and keeps the foreign exchange reserves of the country.",
+   769→            "RBI supervises all banks and cooperative societies, which must submit regular reports to it.",
+   770→            "It monitors whether banks keep the required cash reserve and lend to priority areas like agriculture and small industries.",
+   771→            "RBI has no control over informal lenders like moneylenders, which is why informal credit can be unfair and costly."
+   772→          ],
+   773→          "keyTerms": [
+   774→            {"term": "Central bank", "meaning": "Apex bank of a country that issues currency, supervises banks and manages government accounts; in India, the RBI"},
+   775→            {"term": "Cash reserve", "meaning": "Minimum share of deposits that banks must keep ready as cash to pay withdrawing depositors"},
+   776→            {"term": "Priority sector lending", "meaning": "RBI direction that banks must lend to agriculture, small industries and small borrowers"}
+   777→          ],
+   778→          "trick": "RBI rules the notes, the banks and the reserves; moneylenders listen to no one.",
+   779→          "examPointer": "Functions of the RBI are asked as 3 markers, and its role in supervising formal credit appears in statement based MCQs."
+   780→        },
+   781→        {
+   782→          "heading": "Cooperatives and Other Formal Sources of Credit",
+   783→          "points": [
+   784→            "Besides banks, cooperatives are important formal sources of cheap credit in India.",
+   785→            "Cooperatives accept deposits from members and give loans at low interest for cultivation and small business.",
+   786→            "Examples include farmers cooperatives, weavers cooperatives, industrial workers cooperatives and milk cooperatives.",
+   787→            "In the NCERT example, the Krishak Cooperative of Shahpur village lends to farmers at far lower rates than moneylenders.",
+   788→            "Cooperatives are registered bodies and their banking work is supervised by the Reserve Bank of India.",
+   789→            "Expanding banks and cooperatives is necessary because formal sources still meet only part of the rural credit needs."
+   790→          ],
+   791→          "keyTerms": [
+   792→            {"term": "Cooperative", "meaning": "Association of members who pool savings and lend among themselves at low interest, like a credit society"},
+   793→            {"term": "Krishak Cooperative", "meaning": "Village cooperative in the NCERT example that provides cheap loans to farmers for cultivation"}
+   794→          ],
+   795→          "trick": "Members pool, members borrow: cooperatives cut the moneylender out of the village.",
+   796→          "examPointer": "Cooperatives as formal credit sources and their working are asked as 2 and 3 markers, often with the Shahpur village example."
+   797→        }
+   798→      ],
+   799→      "mcqs": [
+   800→        {
+   801→          "question": "Direct exchange of goods for goods without using money is called:",
+   802→          "options": ["Double coincidence of wants", "Barter system", "Credit system", "Deposit system"],
+   803→          "answerIndex": 1,
+   804→          "explanation": "In barter, goods are directly exchanged without the use of money.",
+   805→          "difficulty": "easy"
+   806→        },
+   807→        {
+   808→          "question": "Double coincidence of wants means:",
+   809→          "options": ["Both parties want each other's goods at the same time", "Money changes hands twice", "Two currencies are exchanged", "A good is sold twice"],
+   810→          "answerIndex": 0,
+   811→          "explanation": "Barter works only when each party wants exactly what the other party offers.",
+   812→          "difficulty": "medium"
+   813→        },
+   814→        {
+   815→          "question": "Currency notes in India are issued by:",
+   816→          "options": ["Commercial banks on their own", "Reserve Bank of India on behalf of the central government", "The state governments", "The World Bank"],
+   817→          "answerIndex": 1,
+   818→          "explanation": "The RBI issues currency notes on behalf of the central government of India.",
+   819→          "difficulty": "easy"
+   820→        },
+   821→        {
+   822→          "question": "Poor households often depend on informal lenders mainly because:",
+   823→          "options": ["Informal loans are supervised by RBI", "They lack the collateral and documentation banks demand", "Moneylenders charge the lowest interest", "Banks pay no interest on deposits"],
+   824→          "answerIndex": 1,
+   825→          "explanation": "Lacking collateral and documents, the poor find it hard to get bank loans and turn to moneylenders despite high interest.",
+   826→          "difficulty": "hard"
+   827→        },
+   828→        {
+   829→          "question": "Deposits with banks that can be withdrawn anytime are called:",
+   830→          "options": ["Fixed deposits", "Demand deposits", "Recurring deposits", "Shares"],
+   831→          "answerIndex": 1,
+   832→          "explanation": "Demand deposits can be withdrawn on demand and used for payments through cheques.",
+   833→          "difficulty": "easy"
+   834→        },
+   835→        {
+   836→          "question": "Banks keep as cash reserve about:",
+   837→          "options": ["5 percent of deposits", "15 percent of deposits", "50 percent of deposits", "90 percent of deposits"],
+   838→          "answerIndex": 1,
+   839→          "explanation": "Banks keep about 15 percent of deposits as cash since all depositors never withdraw together.",
+   840→          "difficulty": "medium"
+   841→        },
+   842→        {
+   843→          "question": "The main source of income of banks is:",
+   844→          "options": ["Government grants", "The difference between interest charged on loans and interest paid on deposits", "Selling stationery to customers", "Charges for opening accounts only"],
+   845→          "answerIndex": 1,
+   846→          "explanation": "Banks charge higher interest on loans than they pay on deposits, and this spread is their main income.",
+   847→          "difficulty": "medium"
+   848→        },
+   849→        {
+   850→          "question": "Collateral is:",
+   851→          "options": ["The interest paid on a deposit", "An asset pledged as security for a loan", "A kind of cheque", "A tax on loans"],
+   852→          "answerIndex": 1,
+   853→          "explanation": "Collateral is a security asset like land or deposits that the lender can sell if the borrower defaults.",
+   854→          "difficulty": "easy"
+   855→        },
+   856→        {
+   857→          "question": "Which one of the following is NOT a term of credit?",
+   858→          "options": ["Interest rate", "Collateral", "Documentation requirement", "Mode of transport"],
+   859→          "answerIndex": 3,
+   860→          "explanation": "Terms of credit are interest rate, collateral, documentation requirement and mode of repayment, not mode of transport.",
+   861→          "difficulty": "medium"
+   862→        },
+   863→        {
+   864→          "question": "Which one of the following is a formal source of credit?",
+   865→          "options": ["Moneylender", "Trader", "Bank", "Employer"],
+   866→          "answerIndex": 2,
+   867→          "explanation": "Banks and cooperatives are formal sources supervised by the Reserve Bank of India.",
+   868→          "difficulty": "easy"
+   869→        },
+   870→        {
+   871→          "question": "The Reserve Bank of India supervises:",
+   872→          "options": ["Informal moneylenders", "Banks and cooperative societies", "Only foreign investors", "Traders and employers"],
+   873→          "answerIndex": 1,
+   874→          "explanation": "RBI monitors the formal sector, checking cash reserves and how banks lend.",
+   875→          "difficulty": "medium"
+   876→        },
+   877→        {
+   878→          "question": "A typical Self Help Group has:",
+   879→          "options": ["2 to 5 members", "15 to 20 members", "50 to 60 members", "More than 100 members"],
+   880→          "answerIndex": 1,
+   881→          "explanation": "SHGs usually have 15 to 20 members, mostly women from the same neighbourhood.",
+   882→          "difficulty": "medium"
+   883→        },
+   884→        {
+   885→          "question": "Which one of the following is NOT a function of the Reserve Bank of India?",
+   886→          "options": ["Issuing currency notes", "Supervising commercial banks", "Giving loans directly to small cultivators like a moneylender", "Keeping foreign exchange reserves"],
+   887→          "answerIndex": 2,
+   888→          "explanation": "The RBI issues currency, supervises banks and holds foreign exchange reserves; it does not lend directly like a moneylender.",
+   889→          "difficulty": "medium"
+   890→        },
+   891→        {
+   892→          "question": "Cooperatives like the Krishak Cooperative of Shahpur village are examples of:",
+   893→          "options": ["Informal sources of credit", "Formal sources of credit", "Moneylenders", "Self employed traders"],
+   894→          "answerIndex": 1,
+   895→          "explanation": "Cooperatives are registered formal sources of credit that give cheap loans to their members, supervised by the RBI.",
+   896→          "difficulty": "medium"
+   897→        }
+   898→      ],
+   899→      "boardQuestions": [
+   900→        {
+   901→          "question": "What is double coincidence of wants? How does money remove this difficulty?",
+   902→          "marks": 2,
+   903→          "type": "SA",
+   904→          "probability": "very-high",
+   905→          "answer": "Double coincidence of wants is the situation in barter where both parties must want each other's goods at the same time, for example a wheat grower wanting shoes meeting a shoemaker wanting wheat. Money removes it because money is accepted by all as a medium of exchange. A person can sell goods for money and buy whatever is needed from anyone, without needing a matching partner."
+   906→        },
+   907→        {
+   908→          "question": "What are demand deposits? What facilities do they offer to depositors?",
+   909→          "marks": 2,
+   910→          "type": "SA",
+   911→          "probability": "high",
+   912→          "answer": "Demand deposits are deposits with banks that can be withdrawn at any time on demand. They offer the cheque facility, so payments can be made by cheque without using cash. The deposit stays safe with the bank and can be used for transactions anytime, which is why deposits act like money and cheque payment is safer than carrying cash."
+   913→        },
+   914→        {
+   915→          "question": "Explain any three terms of credit.",
+   916→          "marks": 3,
+   917→          "type": "SA",
+   918→          "probability": "very-high",
+   919→          "answer": "1) Interest rate: the extra amount, as a percentage, that the borrower must pay to the lender along with the principal. 2) Collateral: an asset like land, building, cattle or bank deposit pledged as security, which the lender can sell if the borrower fails to repay. 3) Documentation requirement and mode of repayment: the papers the lender asks for, such as salary or property records, and the manner in which the loan with interest is to be repaid, such as monthly, quarterly or after harvest."
+   920→        },
+   921→        {
+   922→          "question": "Distinguish between formal and informal sources of credit on any three grounds.",
+   923→          "marks": 3,
+   924→          "type": "SA",
+   925→          "probability": "high",
+   926→          "answer": "1) Sources: formal credit comes from banks and cooperatives, while informal credit comes from moneylenders, traders, employers, relatives and friends. 2) Supervision: formal lenders are supervised by the Reserve Bank of India and must report to it, while no organisation supervises informal lenders. 3) Interest and terms: formal lenders charge lower, regulated interest with fair terms, while informal lenders charge much higher interest and may use unfair means. High informal interest pushes poor borrowers into debt traps, so formal credit should be expanded."
+   927→        },
+   928→        {
+   929→          "question": "Describe any three ways in which the Reserve Bank of India supervises the functioning of formal sources of loans.",
+   930→          "marks": 3,
+   931→          "type": "SA",
+   932→          "probability": "medium",
+   933→          "answer": "1) Banks and cooperatives must submit regular information to RBI about how much they lend, to whom, and at what interest rates. 2) RBI monitors that banks maintain the required cash reserve so that depositors can be paid on demand. 3) RBI sees that banks give loans not only to profit making businesses but also to small cultivators, small scale industries and small borrowers. Periodic inspection ensures banks do not lend beyond their reserves."
+   934→        },
+   935→        {
+   936→          "question": "Explain how Self Help Groups work for the poor. Why are they important for households that lack collateral?",
+   937→          "marks": 5,
+   938→          "type": "LA",
+   939→          "probability": "very-high",
+   940→          "answer": "Self Help Groups are groups of 15 to 20 members, mostly women, who save small amounts every month and build a common group fund. 1) Members can take small loans from this fund at reasonable interest without any collateral and repay in instalments. 2) The group itself decides the purpose, amount and schedule of loans, so there is no outside pressure. 3) Banks also lend to such groups for income generating activities like fodder, seeds and raw materials, since repayment is assured through the group. 4) For households lacking collateral or documents, SHGs provide timely and cheap credit and save them from moneylenders. 5) They also make members financially self reliant and give a platform to discuss social issues like domestic violence. Thus SHGs turn the savings of the poor into credit for the poor."
+   941→        },
+   942→        {
+   943→          "question": "Why is cheap and affordable credit crucial for the development of a country? Explain with reference to formal and informal sources.",
+   944→          "marks": 5,
+   945→          "type": "LA",
+   946→          "probability": "high",
+   947→          "answer": "Cheap and affordable credit helps poor households and small producers invest in better seeds, equipment and small businesses, raising both their income and the country's output. 1) Low interest loans save poor people from debt traps created by moneylenders who charge very high interest. 2) Timely formal credit supports agriculture and small industries, which employ most Indians. 3) Formal loans from banks and cooperatives are regulated and supervised by the RBI, so borrowers get fair terms. 4) Since formal sources still meet only part of the total credit needs, dependence on costly informal credit continues. 5) Expanding banks, cooperatives and SHG linked lending therefore spreads affordable credit, protects the poor and supports overall development."
+   948→        },
+   949→        {
+   950→          "question": "Case: Sita is a small farmer who borrowed money from a moneylender at a very high interest rate to buy seeds and fertilisers. Her crop failed due to pests. To repay the loan, she had to take a fresh loan from the same lender. 1) What is this situation called? Explain it. 2) Why did Sita not borrow from a bank? 3) How can Self Help Groups or cooperative credit help people like Sita?",
+   951→          "marks": 5,
+   952→          "type": "CASE",
+   953→          "probability": "high",
+   954→          "answer": "1) The situation is a debt trap. When income from a failed crop cannot repay a high interest loan, the borrower takes fresh loans to repay old ones, and the debt keeps growing. 2) Sita likely lacked collateral such as land title or proper documents and found the moneylender easy to approach, so she depended on informal credit despite its high interest. 3) SHGs of 15 to 20 members pool savings and give small collateral free loans at reasonable interest, while cooperatives provide cheap credit for cultivation. Both give timely support, protect small farmers from moneylenders and help them invest in better inputs for the next season."
+   955→        },
+   956→        {
+   957→          "question": "State any three functions of the Reserve Bank of India.",
+   958→          "marks": 3,
+   959→          "type": "SA",
+   960→          "probability": "high",
+   961→          "answer": "1) The RBI issues currency notes on behalf of the central government. 2) It supervises all banks and cooperative societies, monitoring their cash reserves and how much they lend, to whom and at what interest. 3) It acts as a banker to the government and keeps the country's foreign exchange reserves. It also directs banks to lend to priority areas like small cultivation and small industries instead of only to profit making businesses."
+   962→        },
+   963→        {
+   964→          "question": "Explain how banks work between depositors and borrowers. How does the RBI supervise this working?",
+   965→          "marks": 5,
+   966→          "type": "LA",
+   967→          "probability": "high",
+   968→          "answer": "1) Banks accept deposits from the public and keep only about 15 percent of the deposits as cash reserve, since all depositors do not withdraw money at the same time. 2) The rest of the deposits is lent to borrowers at a higher rate of interest than banks pay to depositors, and this difference is the bank's main income. 3) In this way banks mediate between people who have surplus money and those who need funds for agriculture, business or daily needs. 4) The RBI supervises banks closely: it checks that they maintain the required cash reserve so that depositors can be paid on demand, and examines how much they lend, to whom and at what interest, since banks must submit regular reports. 5) RBI also directs banks to lend to priority areas like small cultivation and small industries and inspects their working periodically, protecting depositors and making credit fairer for all."
+   969→        },
+   970→        {
+   971→          "question": "Case: Salim, a shoe manufacturer in Hapur, receives a large order but lacks the money to buy leather and other inputs. He takes an advance from a supplier who will supply leather now and take payment after three months, and also takes a bank loan against his machine as collateral. 1) Identify the two sources of credit used by Salim and their terms. 2) Why can Salim get credit fairly easily compared to a small farmer? 3) What happens to a borrower whose terms of credit are harsh?",
+   972→          "marks": 5,
+   973→          "type": "CASE",
+   974→          "probability": "medium",
+   975→          "answer": "1) Salim uses supplier credit, where the supplier provides inputs on credit for three months at little or no interest, and a bank loan, whose terms include the interest rate, documentation and the machine kept as collateral. 2) Salim has collateral, a steady business and proper documents, so banks are willing to lend to him on reasonable terms, unlike small farmers who often lack collateral and paperwork. 3) If the terms of credit are harsh, with very high interest and risky collateral, repayment becomes difficult; the borrower may fall into a debt trap, lose the collateral and become poorer, which is why cheap and fair credit matters so much for development."
+   976→        }
+   977→      ]
+   978→    },
+   979→    {
+   980→      "number": 4,
+   981→      "title": "Globalisation and the Indian Economy",
+   982→      "summary": "Globalisation links economies through trade, investment and technology, led largely by multinational corporations. The chapter explains foreign trade and investment, liberalisation since 1991, the WTO and the impact on Indian producers, workers and consumers. It argues for fair globalisation that benefits all countries and protects workers and small producers.",
+   983→      "weightageMarks": 4,
+   984→      "difficulty": "hard",
+   985→      "hotTopics": [
+   986→        "MNCs and production across countries",
+   987→        "Liberalisation and trade barriers",
+   988→        "WTO and fair globalisation",
+   989→        "Impact of globalisation on India",
+   990→        "Special Economic Zones"
+   991→      ],
+   992→      "sections": [
+   993→        {
+   994→          "heading": "MNCs and Production Across Countries",
+   995→          "points": [
+   996→            "An MNC is a company that owns or controls production in more than one country.",
+   997→            "MNCs set up offices and factories where labour and other costs are low.",
+   998→            "They prefer countries with favourable government policies and markets located close by.",
+   999→            "Money invested by MNCs to buy assets and set up production is called foreign investment.",
+  1000→            "The benefit to the MNC is cheap production and higher profits across many markets."
+  1001→          ],
+  1002→          "keyTerms": [
+  1003→            {"term": "MNC", "meaning": "Multinational Corporation, a company that owns or controls production in more than one country"},
+  1004→            {"term": "Foreign investment", "meaning": "Investment brought into a country by MNCs to set up or buy production units"}
+  1005→          ],
+  1006→          "trick": "MNC: Money Never Stays in one Country, production hops across borders.",
+  1007→          "examPointer": "Define MNC and explain why MNCs set up production in developing countries are common 2 and 3 markers."
+  1008→        },
+  1009→        {
+  1010→          "heading": "How MNCs Interlink Production Across Countries",
+  1011→          "points": [
+  1012→            "MNCs set up production jointly with local companies through joint ventures.",
+  1013→            "They buy up existing local companies, as Cargill Foods bought Parakh Foods in India.",
+  1014→            "They place orders with local producers for garments, footwear and sports goods.",
+  1015→            "These local units then become part of the MNC's global production network.",
+  1016→            "Production of one product may thus be spread across factories in many countries.",
+  1017→            "Coca Cola had left India in 1977 and returned in 1993 as liberalisation began."
+  1018→          ],
+  1019→          "keyTerms": [
+  1020→            {"term": "Joint venture", "meaning": "Production set up together by an MNC and a local company"},
+  1021→            {"term": "Contract manufacturing", "meaning": "Orders placed by an MNC with local producers, whose goods join the MNC's global network"}
+  1022→          ],
+  1023→          "trick": "Three entry doors for an MNC: Join hands, Buy up, Place orders.",
+  1024→          "examPointer": "Ways in which MNCs interlink or control production is a classic 3 marker, asked in CBSE 2019."
+  1025→        },
+  1026→        {
+  1027→          "heading": "Foreign Trade and Interlinking of Markets",
+  1028→          "points": [
+  1029→            "Foreign trade creates a link between markets of different countries.",
+  1030→            "Exports let producers sell beyond domestic markets, while imports bring foreign goods in.",
+  1031→            "The entry of Chinese toys in Indian markets gave buyers more choice and competition.",
+  1032→            "Trade raises competition and gives buyers more choice at competitive prices.",
+  1033→            "Markets across countries thus become interconnected through trade."
+  1034→          ],
+  1035→          "keyTerms": [
+  1036→            {"term": "Foreign trade", "meaning": "Exchange of goods and services between markets of different countries"},
+  1037→            {"term": "Imports and exports", "meaning": "Goods bought from other markets are imports; goods sold to other markets are exports"}
+  1038→          ],
+  1039→          "trick": "One toy from China changed Indian toy shops: trade ties all markets together.",
+  1040→          "examPointer": "Explain how foreign trade integrates markets, often with the Chinese toys example, as a 3 marker."
+  1041→        },
+  1042→        {
+  1043→          "heading": "Globalisation, Liberalisation and Trade Barriers",
+  1044→          "points": [
+  1045→            "Globalisation means greater integration of economies through trade, investment and technology.",
+  1046→            "Liberalisation means removing government barriers or restrictions on trade and investment.",
+  1047→            "Trade barriers include quotas and tariffs, that is taxes on imported goods.",
+  1048→            "Governments use barriers to protect domestic producers from foreign competition.",
+  1049→            "India began liberalising its trade and investment policies from 1991.",
+  1050→            "Special Economic Zones attract foreign companies with tax concessions for five years and flexible labour laws."
+  1051→          ],
+  1052→          "keyTerms": [
+  1053→            {"term": "Liberalisation", "meaning": "Removal of restrictions or barriers set by the government on trade and investment"},
+  1054→            {"term": "Trade barrier", "meaning": "Government restriction on trade, like a quota or a tax called tariff on imports"},
+  1055→            {"term": "SEZ", "meaning": "Special Economic Zone set up to attract foreign investment with tax concessions and flexible labour laws"}
+  1056→          ],
+  1057→          "trick": "1991, India opened the doors: Liberalise means Let in. Barriers out, SEZs in.",
+  1058→          "examPointer": "Define liberalisation and explain trade barriers with the quota example; the SEZ full form is a common 1 marker."
+  1059→        },
+  1060→        {
+  1061→          "heading": "WTO and the Question of Fair Globalisation",
+  1062→          "points": [
+  1063→            "The World Trade Organisation was started in 1995 to liberalise international trade.",
+  1064→            "It frames rules for trade between countries; more than 150 countries are its members.",
+  1065→            "Developed countries press developing countries to remove trade barriers.",
+  1066→            "Yet developed countries protect their own farmers with heavy subsidies.",
+  1067→            "Fair globalisation should create opportunities for all and share benefits more equally.",
+  1068→            "Rules of trade should be decided with a fair voice for developing countries too."
+  1069→          ],
+  1070→          "keyTerms": [
+  1071→            {"term": "WTO", "meaning": "World Trade Organisation, established in 1995 to frame rules and liberalise international trade"},
+  1072→            {"term": "Fair globalisation", "meaning": "Globalisation that creates opportunities for all countries and distributes its benefits more equally"}
+  1073→          ],
+  1074→          "trick": "1995 WTO: rules for trade; rich nations ask others to open doors but keep theirs closed.",
+  1075→          "examPointer": "Role of WTO and criticism against it is a regular 3 marker; 5 markers ask the steps to make globalisation fair."
+  1076→        },
+  1077→        {
+  1078→          "heading": "Impact of Globalisation on India",
+  1079→          "points": [
+  1080→            "Consumers enjoy greater choice, better quality and lower prices of goods.",
+  1081→            "MNC investment has created new jobs and raised production in many industries.",
+  1082→            "Local companies supplying raw materials and services to MNCs have prospered.",
+  1083→            "Indian companies like Tata Motors, Infosys and Ranbaxy have emerged as multinationals.",
+  1084→            "Small producers of batteries, capacitors, plastics, tyres, dairy and vegetable oil have suffered.",
+  1085→            "Workers face flexible and temporary jobs with low wages and little job security."
+  1086→          ],
+  1087→          "keyTerms": [
+  1088→            {"term": "Flexible employment", "meaning": "Jobs without security or permanence, where workers can be hired and removed as per need"},
+  1089→            {"term": "Globalisation", "meaning": "Integration of economies through trade, investment, technology and movement of people"}
+  1090→          ],
+  1091→          "trick": "Winners: consumers and big firms. Losers: small producers and insecure workers.",
+  1092→          "examPointer": "Impact on producers, workers and consumers is a favourite 5 marker; MCQs ask which groups gained and which lost."
+  1093→        },
+  1094→        {
+  1095→          "heading": "Steps Towards Fair Globalisation",
+  1096→          "points": [
+  1097→            "Developed countries should remove their trade barriers and reduce heavy farm subsidies.",
+  1098→            "Developing countries should support small producers until they become strong enough to compete.",
+  1099→            "MNCs should follow fair labour standards and respect workers' rights everywhere.",
+  1100→            "Governments must implement labour laws properly and protect workers from exploitation.",
+  1101→            "Trade and investment barriers should be used with care to protect national interests.",
+  1102→            "Developing countries should bargain at the WTO for fairer trade rules."
+  1103→          ],
+  1104→          "keyTerms": [
+  1105→            {"term": "Labour standards", "meaning": "Fair rules for wages, working hours and safety that employers must follow for workers"},
+  1106→            {"term": "Subsidy", "meaning": "Payment by the government to producers to keep costs low, often used to protect farmers in developed countries"}
+  1107→          ],
+  1108→          "trick": "BMSW: Barriers out, MNC rules in, Small producers helped, Workers protected.",
+  1109→          "examPointer": "What steps can make globalisation fair is a repeated 5 marker, often combined with the WTO in the question."
+  1110→        },
+  1111→        {
+  1112→          "heading": "Technology and Globalisation: Transport, Telecom and the Internet",
+  1113→          "points": [
+  1114→            "Rapid improvement in technology has been a major driver of globalisation.",
+  1115→            "Container services and air freight have cut the cost and time of moving goods across oceans.",
+  1116→            "The telecommunication revolution, with telephones, mobiles and computers, lets producers and buyers talk instantly.",
+  1117→            "The internet allows e mailing, placing orders, sending designs and transferring money across the world within seconds.",
+  1118→            "Information technology has created new services like call centres and business process outsourcing for India.",
+  1119→            "Indian software and BPO companies now serve clients in the USA, Europe and other regions, exporting services online."
+  1120→          ],
+  1121→          "keyTerms": [
+  1122→            {"term": "IT enabled services", "meaning": "Services like call centres and accounting delivered over communication networks, such as BPO work"},
+  1123→            {"term": "Container service", "meaning": "Shipping system using standard containers that lowers transport cost and loading time"}
+  1124→          ],
+  1125→          "trick": "Boxes at sea, phones in the sky: cheap transport plus instant talk made the world one market.",
+  1126→          "examPointer": "The role of technology in globalisation is a common 3 marker; IT and BPO examples often appear in 5 markers on new opportunities in services."
+  1127→        }
+  1128→      ],
+  1129→      "mcqs": [
+  1130→        {
+  1131→          "question": "MNC stands for:",
+  1132→          "options": ["Multi National Committee", "Multinational Corporation", "Mixed National Company", "Mutual National Council"],
+  1133→          "answerIndex": 1,
+  1134→          "explanation": "MNC means Multinational Corporation, a company controlling production in more than one country.",
+  1135→          "difficulty": "easy"
+  1136→        },
+  1137→        {
+  1138→          "question": "An MNC is a company that:",
+  1139→          "options": ["Owns or controls production in more than one country", "Works only within one country", "Is always owned by the government", "Produces only services"],
+  1140→          "answerIndex": 0,
+  1141→          "explanation": "The defining feature of an MNC is that it owns or controls production across multiple countries.",
+  1142→          "difficulty": "easy"
+  1143→        },
+  1144→        {
+  1145→          "question": "Investment brought by MNCs to set up production in another country is called:",
+  1146→          "options": ["Foreign investment", "Domestic saving", "Public expenditure", "Internal borrowing"],
+  1147→          "answerIndex": 0,
+  1148→          "explanation": "Money spent by MNCs to buy assets and set up production abroad is foreign investment.",
+  1149→          "difficulty": "easy"
+  1150→        },
+  1151→        {
+  1152→          "question": "Cargill Foods, a large American MNC, bought which Indian company?",
+  1153→          "options": ["Parakh Foods", "Asian Paints", "Sundaram Fasteners", "Ranbaxy"],
+  1154→          "answerIndex": 0,
+  1155→          "explanation": "Cargill Foods bought Parakh Foods, an Indian company with large oil refining capacity, to enter the Indian market.",
+  1156→          "difficulty": "medium"
+  1157→        },
+  1158→        {
+  1159→          "question": "Removing government restrictions on trade and investment is called:",
+  1160→          "options": ["Globalisation", "Liberalisation", "Privatisation", "Nationalisation"],
+  1161→          "answerIndex": 1,
+  1162→          "explanation": "Liberalisation means removing barriers or restrictions set by the government on trade and investment.",
+  1163→          "difficulty": "easy"
+  1164→        },
+  1165→        {
+  1166→          "question": "Trade barriers include:",
+  1167→          "options": ["Quotas and taxes or tariffs on imports", "Only government subsidies", "Free gifts to consumers", "Bank deposits"],
+  1168→          "answerIndex": 0,
+  1169→          "explanation": "Governments restrict imports through quotas and tariffs, which act as trade barriers.",
+  1170→          "difficulty": "medium"
+  1171→        },
+  1172→        {
+  1173→          "question": "The World Trade Organisation was started in:",
+  1174→          "options": ["1985", "1991", "1995", "2001"],
+  1175→          "answerIndex": 2,
+  1176→          "explanation": "WTO was established in 1995 to liberalise and regulate international trade.",
+  1177→          "difficulty": "medium"
+  1178→        },
+  1179→        {
+  1180→          "question": "The main aim of the WTO is to:",
+  1181→          "options": ["Liberalise international trade", "Fix prices of all goods", "Ban imports by poor countries", "Fund government budgets"],
+  1182→          "answerIndex": 0,
+  1183→          "explanation": "WTO frames rules and works to liberalise trade between its member countries.",
+  1184→          "difficulty": "easy"
+  1185→        },
+  1186→        {
+  1187→          "question": "SEZ stands for:",
+  1188→          "options": ["Special Export Zone", "Special Economic Zone", "Small Enterprise Zone", "State Employment Zone"],
+  1189→          "answerIndex": 1,
+  1190→          "explanation": "Special Economic Zones offer tax concessions and flexible labour laws to attract foreign investment.",
+  1191→          "difficulty": "easy"
+  1192→        },
+  1193→        {
+  1194→          "question": "Which Indian company has emerged as a multinational?",
+  1195→          "options": ["Tata Motors", "A village dairy cooperative", "A street vendor", "A government school"],
+  1196→          "answerIndex": 0,
+  1197→          "explanation": "Companies like Tata Motors, Infosys, Ranbaxy, Asian Paints and Sundaram Fasteners have emerged as multinationals.",
+  1198→          "difficulty": "medium"
+  1199→        },
+  1200→        {
+  1201→          "question": "Which group has gained most directly from globalisation as buyers?",
+  1202→          "options": ["Consumers, through wider choice and lower prices", "Moneylenders", "Small battery manufacturers", "Casual garment workers"],
+  1203→          "answerIndex": 0,
+  1204→          "explanation": "Consumers benefit from greater choice, better quality and lower prices due to foreign goods and competition.",
+  1205→          "difficulty": "easy"
+  1206→        },
+  1207→        {
+  1208→          "question": "Which group is most adversely affected by competition from MNCs?",
+  1209→          "options": ["Large export companies", "Small producers with limited capacity", "MNC shareholders", "Urban consumers"],
+  1210→          "answerIndex": 1,
+  1211→          "explanation": "Small producers of items like batteries, capacitors, plastics, tyres and vegetable oil have been hit hard by competition.",
+  1212→          "difficulty": "medium"
+  1213→        },
+  1214→        {
+  1215→          "question": "Ford Motors came to India in 1995 and set up a large car plant near",
+  1216→          "options": ["Mumbai", "Chennai", "Delhi", "Kolkata"],
+  1217→          "answerIndex": 1,
+  1218→          "explanation": "Ford Motors came to India in 1995 and spent about Rs 1700 crore to set up a large car plant near Chennai.",
+  1219→          "difficulty": "medium"
+  1220→        },
+  1221→        {
+  1222→          "question": "Services provided by Indian companies to foreign firms through call centres and computer networks are examples of",
+  1223→          "options": ["Primary sector exports", "IT enabled or BPO services", "Public sector services", "Traditional handicrafts"],
+  1224→          "answerIndex": 1,
+  1225→          "explanation": "Call centres, accounting and similar work delivered over communication networks are IT enabled services or BPO services.",
+  1226→          "difficulty": "medium"
+  1227→        }
+  1228→      ],
+  1229→      "boardQuestions": [
+  1230→        {
+  1231→          "question": "What are trade barriers? Why do governments use them?",
+  1232→          "marks": 2,
+  1233→          "type": "SA",
+  1234→          "probability": "high",
+  1235→          "answer": "Trade barriers are restrictions set by governments on trade, such as quotas or taxes called tariffs on imported goods. Governments use them to increase or restrict trade as per need, mainly to protect domestic producers from competition with cheaper foreign goods. For example, a country may put a quota on imported toys so that its own toy makers can survive."
+  1236→        },
+  1237→        {
+  1238→          "question": "What does SEZ stand for? How do SEZs attract foreign companies?",
+  1239→          "marks": 2,
+  1240→          "type": "SA",
+  1241→          "probability": "high",
+  1242→          "answer": "SEZ stands for Special Economic Zone. The government sets up SEZs with world class facilities like water, electricity, roads and transport. Companies that set up units in SEZs do not have to pay taxes for an initial period of five years, and labour laws are made flexible. These concessions attract MNCs to set up production there."
+  1243→        },
+  1244→        {
+  1245→          "question": "How do MNCs interlink production across countries? Explain with examples.",
+  1246→          "marks": 3,
+  1247→          "type": "SA",
+  1248→          "probability": "very-high",
+  1249→          "year": "CBSE 2019",
+  1250→          "answer": "1) MNCs set up production jointly with local companies through joint ventures and benefit from local partners. 2) They buy up local companies, as Cargill Foods, an American MNC, bought Parakh Foods in India to enter the food market. 3) They place orders with small local producers of garments, footwear and sports goods, whose products then sell under the MNC brand. Thus production of a single product is spread across many countries and local producers become part of the MNC's global network."
+  1251→        },
+  1252→        {
+  1253→          "question": "What is liberalisation? How has it helped MNCs increase their business in India?",
+  1254→          "marks": 3,
+  1255→          "type": "SA",
+  1256→          "probability": "high",
+  1257→          "answer": "Liberalisation means removing barriers or restrictions set by the government on trade and investment. 1) Since 1991, India has liberalised its trade and investment policies, so goods can be imported easily and MNCs can invest freely. 2) MNCs gained because foreign investment now flows into many industries and they can buy local companies or place orders with Indian producers. 3) Cheap labour and large markets made India attractive, so MNC production and profits in India grew, further helped by SEZs with tax concessions and flexible labour laws."
+  1258→        },
+  1259→        {
+  1260→          "question": "How has globalisation created new opportunities in the services sector in India?",
+  1261→          "marks": 3,
+  1262→          "type": "SA",
+  1263→          "probability": "medium",
+  1264→          "answer": "Globalisation has opened new opportunities for service companies, especially those involving information technology. Indian companies provide call centre, accounting and business process outsourcing services to companies in developed countries through communication networks. Such services have grown because skilled Indian workers cost less and technology links markets instantly. This has created new jobs in cities and added to exports of services, though the benefits remain concentrated in urban areas."
+  1265→        },
+  1266→        {
+  1267→          "question": "How has globalisation benefited consumers and Indian companies? How has it adversely affected small producers and workers?",
+  1268→          "marks": 5,
+  1269→          "type": "LA",
+  1270→          "probability": "very-high",
+  1271→          "answer": "Benefits: 1) Consumers get wider choice, better quality and lower prices as foreign goods and brands enter the market. 2) MNC investment has created new jobs, and local companies supplying raw materials and services to MNCs have prospered. 3) Indian companies like Tata Motors, Infosys, Ranbaxy, Asian Paints and Sundaram Fasteners have emerged as multinationals and gained global business. Harms: 4) Small producers of batteries, capacitors, plastics, tyres, dairy products and vegetable oil have been hit by tough competition from cheap imports and MNC pressure. 5) Workers face flexible and temporary employment with low wages, no paid leave and no job security, as producers cut costs to survive. Thus gains and losses are unevenly shared, which makes the case for fair globalisation stronger."
+  1272→        },
+  1273→        {
+  1274→          "question": "What is fair globalisation? Explain any five steps that can make globalisation fair.",
+  1275→          "marks": 5,
+  1276→          "type": "LA",
+  1277→          "probability": "high",
+  1278→          "answer": "Fair globalisation is one that creates opportunities for all countries and shares its benefits more equally among people. 1) Developed countries should remove their trade barriers and reduce heavy subsidies to their farmers so that developing countries get fair access to world markets. 2) Developing countries should support and strengthen their small producers until they can compete globally. 3) MNCs should follow fair labour standards and respect workers' rights in all countries where they produce. 4) Governments must implement labour laws properly and protect workers from exploitation and job insecurity. 5) Trade and investment barriers should be used judiciously, and developing countries should bargain together at the WTO for fairer trade rules."
+  1279→        },
+  1280→        {
+  1281→          "question": "Case: A garment exporting factory near Delhi supplies shirts to a large MNC. The MNC asks the factory to cut costs and deliver flexibly. The factory starts hiring workers only temporarily at low wages and cuts their benefits. 1) How do MNCs pressure local producers? 2) What happens to the workers in this chain? 3) Suggest two measures for fair treatment of such workers.",
+  1282→          "marks": 5,
+  1283→          "type": "CASE",
+  1284→          "probability": "high",
+  1285→          "answer": "1) MNCs place large orders but demand low prices and flexible delivery, so local exporters must cut costs or lose business. Through the power of its orders, the MNC controls production without owning the factory. 2) Workers suffer the most in this chain: they get temporary and flexible jobs at low wages, with no paid leave, no job security and no benefits, and can be removed anytime. 3) Fair treatment needs strict implementation of labour laws covering wages, working hours and social security, and buyers should follow fair labour standards. The government should also support small producers with credit and infrastructure so that they do not squeeze workers to survive."
+  1286→        },
+  1287→        {
+  1288→          "question": "What is foreign investment? Give one example of an MNC investing in India.",
+  1289→          "marks": 2,
+  1290→          "type": "SA",
+  1291→          "probability": "high",
+  1292→          "answer": "Foreign investment is the money invested by MNCs in a country to set up production or to buy assets like buildings, machines and companies. For example, Ford Motors invested about Rs 1700 crore to set up a large car plant near Chennai in 1995, and Cargill Foods bought Parakh Foods to enter the Indian edible oil market."
+  1293→        },
+  1294→        {
+  1295→          "question": "Explain any five factors that have enabled globalisation and made it possible for MNCs to spread production across countries.",
+  1296→          "marks": 5,
+  1297→          "type": "LA",
+  1298→          "probability": "high",
+  1299→          "answer": "1) Technology: container shipping and air freight have cut transport costs, while telephones and the internet allow instant communication, ordering and money transfer across countries. 2) Liberalisation: removal of trade and investment barriers, which India began in 1991, lets goods and capital flow more freely. 3) MNC strategies: joint ventures, buying up local companies and placing orders with small producers allow MNCs to spread production at low cost, as Cargill Foods did by buying Parakh Foods. 4) Favourable policies: SEZs with world class facilities, tax concessions for five years and flexible labour laws attract foreign investment. 5) Cheap and skilled labour with large markets makes developing countries attractive production centres for MNCs. Together these factors have integrated markets and expanded trade, investment and services worldwide."
+  1300→        },
+  1301→        {
+  1302→          "question": "Case: Ford Motors, an American company, found that it could sell cars in India and produce them at lower cost. In 1995 it came to India and set up a large plant near Chennai, investing about Rs 1700 crore. The plant produces cars for the Indian market and for export to other countries. 1) Why did Ford Motors come to India? 2) What are the benefits to India from such investment? 3) What might happen to Indian car makers because of this competition?",
+  1303→          "marks": 5,
+  1304→          "type": "CASE",
+  1305→          "probability": "high",
+  1306→          "answer": "1) Ford Motors came because India offered a large and growing market for cars, cheap and skilled labour, and lower production costs than in America, which would raise its profits. 2) India gains foreign investment of about Rs 1700 crore, new jobs in the plant and in supplier industries, latest technology and management practices, and export earnings as the plant sells cars abroad. 3) Indian car makers face tougher competition from foreign brands, which may cut their sales; but competition can also push them to improve quality and technology, and some like Tata Motors have grown into multinationals by competing globally."
+  1307→        }
+  1308→      ]
+  1309→    },
+  1310→    {
+  1311→      "number": 5,
+  1312→      "title": "Consumer Rights",
+  1313→      "summary": "Consumers are often exploited through underweight goods, adulteration, high prices and unfair rules, because sellers know more than buyers. The chapter traces the rise of the consumer movement, the Consumer Protection Act of 1986, the three tier consumer courts and the six consumer rights, including the right to information. It also explains quality marks like ISI, Agmark and Hallmark, the National Consumer Helpline and the duties that make consumers responsible.",
+  1314→      "weightageMarks": 5,
+  1315→      "difficulty": "medium",
+  1316→      "hotTopics": [
+  1317→        "COPRA 1986 and consumer courts",
+  1318→        "Six rights of consumers and RTI Act 2005",
+  1319→        "ISI, Agmark and Hallmark logos",
+  1320→        "National Consumer Helpline and duties of consumers",
+  1321→        "Consumer movement and Consumers International"
+  1322→      ],
+  1323→      "sections": [
+  1324→        {
+  1325→          "heading": "The Consumer in the Marketplace: Exploitation and Awareness",
+  1326→          "points": [
+  1327→            "In the marketplace, individual consumers are often weak compared to large sellers and producers.",
+  1328→            "Consumers are cheated through underweight goods, adulterated products, high prices and false quality claims.",
+  1329→            "Sellers usually know more about the product than buyers, creating uneven information in the market.",
+  1330→            "Large companies with money and advertising can mislead consumers through exaggerated claims.",
+  1331→            "Rules and regulations alone are not enough unless consumers themselves remain alert and aware.",
+  1332→            "Consumer awareness means knowing one's rights, reading labels and checking quality marks before buying."
+  1333→          ],
+  1334→          "keyTerms": [
+  1335→            {"term": "Consumer", "meaning": "A person who buys goods or hires services for personal use and not for resale or commercial purpose"},
+  1336→            {"term": "Adulteration", "meaning": "Mixing inferior or harmful substances in food and other products, a common form of consumer exploitation"},
+  1337→            {"term": "Consumer awareness", "meaning": "Knowledge of one's rights, product information and quality marks that protects buyers in the market"}
+  1338→          ],
+  1339→          "trick": "Weigh, read, ask: underweight, false claims, hidden rules; awareness is the consumer's armour.",
+  1340→          "examPointer": "Forms of consumer exploitation and the need for consumer awareness are common 2 and 3 markers."
+  1341→        },
+  1342→        {
+  1343→          "heading": "The Consumer Movement and COPRA 1986",
+  1344→          "points": [
+  1345→            "The consumer movement arose out of the dissatisfaction of consumers with unfair practices in the marketplace.",
+  1346→            "In India it took shape in the 1960s, when shortages, hoarding and black marketing were widespread.",
+  1347→            "Consumer organisations wrote articles, held exhibitions and filed cases to press for consumer protection.",
+  1348→            "In 1985 the United Nations adopted guidelines for consumer protection, giving the movement international strength.",
+  1349→            "India responded with the Consumer Protection Act of 1986, popularly known as COPRA.",
+  1350→            "24 December, the day COPRA was enacted, is celebrated as National Consumer Day every year.",
+  1351→            "Today Consumers International, an association of consumer groups across the world, coordinates the movement in many countries."
+  1352→          ],
+  1353→          "keyTerms": [
+  1354→            {"term": "COPRA", "meaning": "Consumer Protection Act of 1986, the Indian law that protects consumers and set up consumer courts"},
+  1355→            {"term": "Consumer movement", "meaning": "Effort of consumers and organisations to fight unfair trade practices and demand protection"},
+  1356→            {"term": "National Consumer Day", "meaning": "24 December, observed every year since COPRA was enacted in 1986"}
+  1357→          ],
+  1358→          "trick": "1960s anger, 1985 UN voice, 1986 COPRA: the consumer got a law and a day, 24 December.",
+  1359→          "examPointer": "The year of COPRA, the UN guidelines of 1985 and National Consumer Day are repeated MCQs; the origin of the movement is a 3 marker."
+  1360→        },
+  1361→        {
+  1362→          "heading": "Consumer Courts: District, State and National Commissions",
+  1363→          "points": [
+  1364→            "COPRA created a three tier quasi judicial machinery at district, state and national levels for consumer redressal.",
+  1365→            "The District Commission deals with complaints involving claims up to Rs 20 lakh.",
+  1366→            "The State Commission hears cases involving claims between Rs 20 lakh and Rs 1 crore.",
+  1367→            "The National Commission takes up cases involving claims above Rs 1 crore.",
+  1368→            "A dissatisfied consumer can appeal from the district to the state level and then to the national level.",
+  1369→            "The procedure is simple: a written complaint supported by the bill or receipt is enough, and consumers can argue their own case."
+  1370→          ],
+  1371→          "keyTerms": [
+  1372→            {"term": "Consumer court", "meaning": "Quasi judicial body set up under COPRA to hear complaints of consumers against sellers"},
+  1373→            {"term": "Redressal", "meaning": "Relief given to a consumer, such as replacement, compensation or removal of defect"},
+  1374→            {"term": "Appeal", "meaning": "Request to a higher consumer court to review the decision of a lower one"}
+  1375→          ],
+  1376→          "trick": "20 lakh district, 20 lakh to 1 crore state, above 1 crore national; appeal climbs the same ladder.",
+  1377→          "examPointer": "The three tier consumer court structure with money limits is a guaranteed 3 marker and a repeated MCQ."
+  1378→        },
+  1379→        {
+  1380→          "heading": "Rights of Consumers: Safety, Information, Choice and Representation",
+  1381→          "points": [
+  1382→            "COPRA recognises six rights of consumers, from safety to consumer education.",
+  1383→            "The Right to Safety protects consumers from goods and services hazardous to life and health.",
+  1384→            "The Right to be Informed means buyers must know ingredients, weight, price and expiry date of what they buy.",
+  1385→            "The Right to Choose lets consumers select from a fair variety of products at competitive prices.",
+  1386→            "The Right to be Heard and the Right to Seek Redressal are exercised through consumer councils and courts.",
+  1387→            "The Right to Consumer Education ensures that people learn their rights throughout life.",
+  1388→            "The Right to Information Act of 2005 also gives citizens the right to know how the government functions."
+  1389→          ],
+  1390→          "keyTerms": [
+  1391→            {"term": "Right to Information Act 2005", "meaning": "Law giving citizens access to information held by government departments and public authorities"},
+  1392→            {"term": "MRP", "meaning": "Maximum Retail Price printed on goods, the highest price a seller can charge"},
+  1393→            {"term": "Expiry date", "meaning": "Date after which a product should not be used; checking it is part of the right to be informed"}
+  1394→          ],
+  1395→          "trick": "SIC HRE: Safety, Information, Choice, Heard, Redressal, Education. Six rights under one law.",
+  1396→          "examPointer": "Explain any three consumer rights is a classic 3 marker; the RTI Act 2005 appears in MCQs and assertion reason questions."
+  1397→        },
+  1398→        {
+  1399→          "heading": "Who is a Consumer and How to File a Complaint",
+  1400→          "points": [
+  1401→            "A consumer is a person who buys goods or hires services for personal use, not for resale or commercial purpose.",
+  1402→            "A complaint can be filed by the consumer, a registered consumer organisation, or the central and state governments.",
+  1403→            "The complaint must state the defect, the loss suffered and the relief sought, and be supported by the bill.",
+  1404→            "Cases are filed in the district, state or national commission depending on the value of the claim.",
+  1405→            "No lawyer is required, and court fees are nominal or nil for small claims.",
+  1406→            "If the complaint is proved, the court can order replacement, compensation or removal of the defect."
+  1407→          ],
+  1408→          "keyTerms": [
+  1409→            {"term": "Complaint", "meaning": "Written statement of grievance filed by a consumer before a consumer court"},
+  1410→            {"term": "Compensation", "meaning": "Money or relief awarded to a consumer for loss or injury caused by defective goods or services"}
+  1411→          ],
+  1412→          "trick": "Bill in hand, defect in words, relief in mind: file where the money fits, argue it yourself.",
+  1413→          "examPointer": "The procedure to file a case in a consumer court is a favourite 3 and 5 marker, often asked with a case study."
+  1414→        },
+  1415→        {
+  1416→          "heading": "Quality Marks: ISI, Agmark and Hallmark",
+  1417→          "points": [
+  1418→            "Quality marks help consumers identify certified and standard products in the market.",
+  1419→            "The ISI mark certifies industrial and electrical goods like fans, helmets and cement.",
+  1420→            "The Agmark certifies agricultural products like honey, spices, pulses and ghee.",
+  1421→            "The Hallmark certifies the purity of gold and silver jewellery.",
+  1422→            "Buying certified products reduces the risk of adulteration, defects and cheating.",
+  1423→            "Checking the mark is part of a consumer's duty along with asking for the cash memo or bill."
+  1424→          ],
+  1425→          "keyTerms": [
+  1426→            {"term": "ISI mark", "meaning": "Certification mark of the Bureau of Indian Standards for industrial and electrical products"},
+  1427→            {"term": "Agmark", "meaning": "Certification mark used for agricultural products to show that they meet quality standards"},
+  1428→            {"term": "Hallmark", "meaning": "Official mark certifying the purity of gold and silver ornaments"}
+  1429→          ],
+  1430→          "trick": "SIH: Steel and switches get ISI, Grains get Agmark, Gold gets Hallmark.",
+  1431→          "examPointer": "Matching quality marks with products is a very frequent 1 marker; why consumers should check marks is a 2 marker."
+  1432→        },
+  1433→        {
+  1434→          "heading": "Consumer Education, the Helpline and Duties of Consumers",
+  1435→          "points": [
+  1436→            "The Right to Consumer Education makes learning about rights a lifelong process for every citizen.",
+  1437→            "The National Consumer Helpline, number 1800 11 4000, guides consumers on complaints and their rights.",
+  1438→            "Campaigns like Jago Grahak Jago spread consumer awareness through the media.",
+  1439→            "Consumers should check quality marks, expiry dates and prices before buying any product.",
+  1440→            "They should always ask for the cash memo or bill, which is proof of purchase for any complaint.",
+  1441→            "Consumers must file complaints against exploitation instead of remaining silent, and support consumer organisations.",
+  1442→            "A responsible consumer also uses the RTI Act 2005 to seek information from public authorities."
+  1443→          ],
+  1444→          "keyTerms": [
+  1445→            {"term": "National Consumer Helpline", "meaning": "Toll free helpline 1800 11 4000 that advises consumers on grievances and rights"},
+  1446→            {"term": "Cash memo", "meaning": "Proof of purchase that a consumer must obtain and keep as evidence for any complaint"},
+  1447→            {"term": "Jago Grahak Jago", "meaning": "Government campaign to make consumers aware of their rights and duties"}
+  1448→          ],
+  1449→          "trick": "Wake up, check up, bill up, speak up: the four duties of every consumer.",
+  1450→          "examPointer": "Duties of consumers and the helpline number are common 1 and 2 markers; the idea that rights must be backed by duties appears in 3 markers."
+  1451→        }
+  1452→      ],
+  1453→      "mcqs": [
+  1454→        {
+  1455→          "question": "The Consumer Protection Act, popularly known as COPRA, was enacted in the year",
+  1456→          "options": ["1985", "1986", "1991", "2005"],
+  1457→          "answerIndex": 1,
+  1458→          "explanation": "COPRA, the Consumer Protection Act, was enacted in 1986; 24 December, the day of enactment, is National Consumer Day.",
+  1459→          "difficulty": "easy"
+  1460→        },
+  1461→        {
+  1462→          "question": "Which of the following days is celebrated as National Consumer Day in India?",
+  1463→          "options": ["14 November", "24 December", "26 January", "15 March"],
+  1464→          "answerIndex": 1,
+  1465→          "explanation": "24 December, the day COPRA was enacted in 1986, is celebrated as National Consumer Day; 15 March is World Consumer Rights Day.",
+  1466→          "difficulty": "medium"
+  1467→        },
+  1468→        {
+  1469→          "question": "Under COPRA, the district level consumer court deals with complaints involving claims up to",
+  1470→          "options": ["Rs 5 lakh", "Rs 20 lakh", "Rs 1 crore", "Rs 10 crore"],
+  1471→          "answerIndex": 1,
+  1472→          "explanation": "The district level court deals with claims up to Rs 20 lakh, the state level between Rs 20 lakh and Rs 1 crore.",
+  1473→          "difficulty": "medium"
+  1474→        },
+  1475→        {
+  1476→          "question": "Consumer complaints involving claims above Rs 1 crore are heard by the",
+  1477→          "options": ["District Commission", "State Commission", "National Commission", "Village panchayat"],
+  1478→          "answerIndex": 2,
+  1479→          "explanation": "The National Commission takes up cases involving claims above Rs 1 crore.",
+  1480→          "difficulty": "medium"
+  1481→        },
+  1482→        {
+  1483→          "question": "Which mark certifies the purity of gold and silver jewellery?",
+  1484→          "options": ["ISI", "Agmark", "Hallmark", "FSSAI"],
+  1485→          "answerIndex": 2,
+  1486→          "explanation": "The Hallmark is the official mark certifying the purity of gold and silver jewellery.",
+  1487→          "difficulty": "easy"
+  1488→        },
+  1489→        {
+  1490→          "question": "The Agmark is used to certify",
+  1491→          "options": ["Electrical appliances", "Agricultural products", "Cement and paints", "Mobile phones"],
+  1492→          "answerIndex": 1,
+  1493→          "explanation": "Agmark certifies agricultural products like honey, spices, pulses and ghee.",
+  1494→          "difficulty": "easy"
+  1495→        },
+  1496→        {
+  1497→          "question": "The Right to Information Act, which lets citizens seek information from government departments, was passed in",
+  1498→          "options": ["1986", "2000", "2005", "2010"],
+  1499→          "answerIndex": 2,
+  1500→          "explanation": "The Right to Information Act was passed in 2005, giving citizens access to information from public authorities.",
+  1501→          "difficulty": "easy"
+  1502→        },
+  1503→        {
+  1504→          "question": "The right of consumers to know the ingredients, date of manufacture and expiry of a product is part of the",
+  1505→          "options": ["Right to Choose", "Right to be Informed", "Right to Safety", "Right to Consumer Education"],
+  1506→          "answerIndex": 1,
+  1507→          "explanation": "The Right to be Informed ensures that buyers know ingredients, weight, price and expiry dates before purchase.",
+  1508→          "difficulty": "medium"
+  1509→        },
+  1510→        {
+  1511→          "question": "The National Consumer Helpline number for consumer guidance is",
+  1512→          "options": ["1800 11 4000", "100", "181", "1900"],
+  1513→          "answerIndex": 0,
+  1514→          "explanation": "The National Consumer Helpline is a toll free number, 1800 11 4000, which guides consumers on their rights and complaints.",
+  1515→          "difficulty": "hard"
+  1516→        },
+  1517→        {
+  1518→          "question": "A consumer is a person who buys goods or services",
+  1519→          "options": ["For resale to others", "For personal use", "For commercial production", "For government departments only"],
+  1520→          "answerIndex": 1,
+  1521→          "explanation": "A consumer buys goods or hires services for personal use, not for resale or commercial purpose.",
+  1522→          "difficulty": "easy"
+  1523→        },
+  1524→        {
+  1525→          "question": "The United Nations adopted its guidelines for consumer protection in",
+  1526→          "options": ["1975", "1985", "1995", "2005"],
+  1527→          "answerIndex": 1,
+  1528→          "explanation": "The United Nations adopted guidelines for consumer protection in 1985, strengthening consumer movements worldwide.",
+  1529→          "difficulty": "hard"
+  1530→        },
+  1531→        {
+  1532→          "question": "Which one of the following is a duty of a consumer?",
+  1533→          "options": ["To accept underweight goods quietly", "To ask for a cash memo while buying", "To buy without checking quality marks", "To avoid complaining about defects"],
+  1534→          "answerIndex": 1,
+  1535→          "explanation": "Consumers should always ask for the cash memo, check quality marks and expiry dates, and complain against exploitation.",
+  1536→          "difficulty": "easy"
+  1537→        },
+  1538→        {
+  1539→          "question": "The consumer movement in India originated as a social force in the decade of the",
+  1540→          "options": ["1940s", "1960s", "1980s", "2000s"],
+  1541→          "answerIndex": 1,
+  1542→          "explanation": "The consumer movement in India took shape in the 1960s against shortages, hoarding and black marketing.",
+  1543→          "difficulty": "medium"
+  1544→        },
+  1545→        {
+  1546→          "question": "If a consumer is not satisfied with the order of the District Commission, he or she can appeal to the",
+  1547→          "options": ["State Commission", "High Court only", "Seller's head office", "Police station"],
+  1548→          "answerIndex": 0,
+  1549→          "explanation": "A dissatisfied consumer can appeal from the District Commission to the State Commission and then to the National Commission.",
+  1550→          "difficulty": "medium"
+  1551→        }
+  1552→      ],
+  1553→      "boardQuestions": [
+  1554→        {
+  1555→          "question": "Who is a consumer according to consumer protection law? Give one example.",
+  1556→          "marks": 2,
+  1557→          "type": "SA",
+  1558→          "probability": "high",
+  1559→          "answer": "A consumer is a person who buys goods or hires services for personal use and not for resale or any commercial purpose. For example, a family buying a mixer for home use is a consumer, but a shopkeeper buying the same mixer to sell again is not."
+  1560→        },
+  1561→        {
+  1562→          "question": "Name the marks used to certify the quality of industrial goods, agricultural products and jewellery respectively.",
+  1563→          "marks": 2,
+  1564→          "type": "SA",
+  1565→          "probability": "high",
+  1566→          "answer": "Industrial and electrical goods carry the ISI mark, agricultural products like honey, spices and ghee carry the Agmark, and gold and silver jewellery carries the Hallmark. Checking these marks before buying is a basic duty of consumers to avoid adulterated or defective products."
+  1567→        },
+  1568→        {
+  1569→          "question": "Explain the three tier judicial machinery set up under COPRA 1986.",
+  1570→          "marks": 3,
+  1571→          "type": "SA",
+  1572→          "probability": "high",
+  1573→          "answer": "1) At the district level, the District Commission deals with complaints involving claims up to Rs 20 lakh. 2) At the state level, the State Commission hears claims between Rs 20 lakh and Rs 1 crore. 3) At the national level, the National Commission takes up claims above Rs 1 crore. A dissatisfied consumer can appeal from the district to the state commission and then to the national commission. The procedure is simple, needing only a written complaint with the bill, so consumers can argue their own cases."
+  1574→        },
+  1575→        {
+  1576→          "question": "Explain the Right to be Informed and the Right to Seek Redressal of consumers.",
+  1577→          "marks": 3,
+  1578→          "type": "SA",
+  1579→          "probability": "high",
+  1580→          "answer": "1) The Right to be Informed means consumers must be told the ingredients, weight, price, date of manufacture and expiry of a product so that they can compare and choose wisely; sellers who hide such information exploit buyers. 2) The Right to Seek Redressal means consumers facing exploitation can approach consumer courts for relief like replacement, repair, compensation or removal of the defect. 3) Both rights are supported by law: the Right to Information Act of 2005 lets citizens seek information from government bodies, and COPRA of 1986 set up the three tier consumer courts for redressal."
+  1581→        },
+  1582→        {
+  1583→          "question": "Describe the six rights available to consumers under the Consumer Protection Act.",
+  1584→          "marks": 5,
+  1585→          "type": "LA",
+  1586→          "probability": "very-high",
+  1587→          "answer": "1) Right to Safety: protection against goods and services that are dangerous to life and health, like unsafe electrical appliances or adulterated medicines. 2) Right to be Informed: the right to know the ingredients, weight, price and expiry date of products, so that buyers can compare and choose. 3) Right to Choose: access to a variety of products at competitive prices, without pressure from monopolies. 4) Right to be Heard: the interests of consumers must receive due consideration through consumer councils and forums where complaints can be represented. 5) Right to Seek Redressal: relief through consumer courts against unfair trade practices, including compensation and replacement. 6) Right to Consumer Education: awareness of rights throughout life, supported by campaigns, helplines and consumer organisations. Together these rights turn the buyer from a helpless party into an informed participant in the market."
+  1588→        },
+  1589→        {
+  1590→          "question": "'The consumer movement in India has made rapid progress, but the redressal process is still costly and time consuming.' Explain the growth of the movement and the challenges it faces.",
+  1591→          "marks": 5,
+  1592→          "type": "LA",
+  1593→          "probability": "high",
+  1594→          "answer": "1) The movement began in the 1960s against shortages, hoarding and black marketing, and grew through consumer organisations that educated buyers and filed cases. 2) The UN guidelines of 1985 and India's COPRA of 1986 gave the movement legal teeth, creating consumer courts at three levels. 3) Over the years, thousands of consumer organisations and courts have come up, and National Consumer Day and campaigns like Jago Grahak Jago spread awareness. 4) Yet the process of filing and deciding cases remains expensive and time consuming for ordinary consumers, who often give up midway. 5) The absence of active consumer organisations in many areas and low awareness among the poor, especially women and rural buyers, weaken the movement. Stronger enforcement, quick disposal of cases and wider education are needed to make consumer protection truly effective."
+  1595→        },
+  1596→        {
+  1597→          "question": "Case: Ravi bought a sealed packet of groundnut oil from his local shop for his family. After using it for two days, he noticed a strange smell and got the oil tested, which showed adulteration. He has the cash memo, but the shopkeeper refuses to take responsibility, saying the manufacturer is at fault. 1) Which rights of Ravi have been violated? 2) Where and how can Ravi file a complaint? 3) What relief can the consumer court give him?",
+  1598→          "marks": 5,
+  1599→          "type": "CASE",
+  1600→          "probability": "very-high",
+  1601→          "answer": "1) Ravi's Right to Safety has been violated, since adulterated oil is hazardous to health; his Right to be Informed and Right to Seek Redressal have also been violated, as he was sold a defective and mislabelled product. 2) Since the claim is small, Ravi can file a written complaint in the District Consumer Commission, attaching the cash memo, the packet and the test report; he can argue his own case without a lawyer, and a consumer organisation or the government can also complain on his behalf. 3) If the complaint is proved, the court can order the shopkeeper or manufacturer to replace the product, refund the price and pay compensation for the loss and harm caused, besides penalising the guilty party and acting against the adulteration."
+  1602→        },
+  1603→        {
+  1604→          "question": "Case: Anita went to a jewellery shop to buy a gold necklace for her sister's wedding. The shopkeeper offered a lower price for ornaments without a proper purity certificate. Her friend advised her to buy only Hallmarked jewellery and to collect the bill. 1) What is the Hallmark and why should Anita insist on it? 2) Why is the bill important? 3) What duty is Anita performing by checking these things?",
+  1605→          "marks": 4,
+  1606→          "type": "CASE",
+  1607→          "probability": "high",
+  1608→          "answer": "1) The Hallmark is the official mark certifying the purity of gold and silver jewellery; insisting on it protects Anita from being charged full price for impure gold. 2) The bill or cash memo is the proof of purchase, which is essential evidence if she ever has to complain in a consumer court. 3) By checking quality marks, comparing prices and collecting the bill, Anita is performing the duties of a responsible and alert consumer, which strengthen the whole system of consumer protection."
+  1609→        }
+  1610→      ]
+  1611→    }
+  1612→  ]
+  1613→}
+  1614→

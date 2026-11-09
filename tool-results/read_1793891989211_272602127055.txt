@@ -1,0 +1,810 @@
+     1→export default {
+     2→  "code": "geography",
+     3→  "name": "Geography",
+     4→  "bookName": "Contemporary India II",
+     5→  "weightageMarks": 20,
+     6→  "chapters": [
+     7→    {
+     8→      "number": 5,
+     9→      "title": "Minerals and Energy Resources",
+    10→      "summary": "This chapter classifies minerals into metallic, non-metallic and energy minerals and maps the major belts of iron ore, manganese, copper, bauxite and mica across India. It then studies conventional energy sources such as coal, petroleum, natural gas and electricity, and non-conventional sources like solar, wind, tidal, geothermal and biogas energy. The chapter ends with the urgent need for conservation of both minerals and energy, because these are finite and non-renewable resources. It builds on the lesson that development without conservation depletes the resource base for future generations.",
+    11→      "weightageMarks": 6,
+    12→      "difficulty": "medium",
+    13→      "hotTopics": [
+    14→        "Classification of minerals: ferrous, non-ferrous and non-metallic",
+    15→        "Iron ore belts and Bailadila exports to Japan and South Korea",
+    16→        "Distribution of coal, petroleum and natural gas",
+    17→        "Conventional versus non-conventional sources of energy",
+    18→        "Wind farms of Tamil Nadu and Jaisalmer, tidal and geothermal energy",
+    19→        "Conservation of energy: energy saved is energy produced"
+    20→      ],
+    21→      "sections": [
+    22→        {
+    23→          "heading": "Meaning and Classification of Minerals",
+    24→          "points": [
+    25→            "A mineral is a homogeneous naturally occurring substance with a definable internal structure; minerals are usually found in ores, which are rocks with a high concentration of a particular mineral mixed with other elements.",
+    26→            "Mining is the extraction of minerals from the earth, either by surface digging or by digging deep shafts into the ground.",
+    27→            "Minerals are classified into metallic, non-metallic and energy minerals; metallic minerals are further divided into ferrous minerals, which contain iron, such as iron ore and manganese, and non-ferrous minerals, which do not contain iron, such as copper, bauxite, lead and zinc.",
+    28→            "Non-metallic minerals do not contain metals; examples are mica, limestone and gypsum.",
+    29→            "Energy minerals include coal, petroleum and natural gas, which are sources of power.",
+    30→            "Minerals occur in the earth's crust in several forms: in igneous and metamorphic rocks as veins or lodes, in sedimentary rocks as beds or layers, as alluvial deposits in sands of valley floors, and in ocean waters as dissolved salts.",
+    31→            "Minerals are non-renewable resources; the geological processes of their formation are so slow that rates of replenishment are infinitely small compared with rates of consumption."
+    32→          ],
+    33→          "keyTerms": [
+    34→            { "term": "Mineral", "meaning": "A homogeneous naturally occurring substance with a definable internal structure, found in the earth's crust and extracted by mining." },
+    35→            { "term": "Ore", "meaning": "A rock with a high concentration of a particular mineral, from which the mineral can be extracted profitably." },
+    36→            { "term": "Ferrous mineral", "meaning": "A metallic mineral containing iron, such as iron ore, manganese, chromite and nickel." }
+    37→          ],
+    38→          "trick": "Ferrous has Iron inside it; non-ferrous metals like Copper and Bauxite fly iron-free.",
+    39→          "examPointer": "A one-mark MCQ asking which group contains ferrous or non-ferrous minerals is asked almost every year; be clear that mica and limestone are non-metallic."
+    40→        },
+    41→        {
+    42→          "heading": "Ferrous Minerals: Iron Ore and Manganese",
+    43→          "points": [
+    44→            "Iron ore is the basic mineral and the backbone of industrial development; India is richly endowed with iron ore of good quality.",
+    45→            "Magnetite is the finest iron ore with a very high content of iron up to seventy per cent; it has excellent magnetic qualities, especially valuable in the electrical industry.",
+    46→            "Hematite ore is the most extensively used industrial iron ore with a slightly lower iron content of fifty to sixty per cent; limonite and siderite are inferior grades.",
+    47→            "The Odisha-Jharkhand belt covers Badampahar, Mayurbhanj and Kendujhar in Odisha and Singbhum in Jharkhand; the Durg-Bastar-Chandrapur belt lies in Chhattisgarh and Maharashtra, where Bailadila in Bastar district has high grade hematite exported to Japan and South Korea through Vishakhapatnam port.",
+    48→            "The Bellary-Chitradurga-Chikmagalur-Tumkur belt in Karnataka has large reserves and Kudremukh deposits, one thousand metres high in the Western Ghats, are known to be among the largest in the world; the Maharashtra-Goa belt includes Ratnagiri and Chitradurga- goa areas.",
+    49→            "Manganese is used in the manufacturing of ferro-alloys, steel, bleaching powder, insecticides and batteries, and about one kilogram of manganese is needed to smelt one tonne of steel; Odisha is a leading producer along with Karnataka, Madhya Pradesh and Maharashtra.",
+    50→            "The iron and steel industry and cement industry together consume most of the iron ore and limestone mined in India."
+    51→          ],
+    52→          "keyTerms": [
+    53→            { "term": "Magnetite", "meaning": "The finest iron ore with iron content up to seventy per cent and excellent magnetic quality used in the electrical industry." },
+    54→            { "term": "Bailadila", "meaning": "The famous high grade hematite iron ore deposit in Bastar district of Chhattisgarh, whose ore is exported to Japan and South Korea via Vishakhapatnam." },
+    55→            { "term": "Kudremukh", "meaning": "A one thousand metre high peak in the Western Ghats of Karnataka whose iron ore deposits are known to be among the largest in the world." }
+    56→          ],
+    57→          "trick": "Magnetite 70 is Magnetic and best; Hematite 50-60 is the Hero of industry; Bailadila ships to Japan and South Korea.",
+    58→          "examPointer": "Match-the-belt questions and the Bailadila export route are repeated MCQs; the magnetite versus hematite iron content is a classic one marker."
+    59→        },
+    60→        {
+    61→          "heading": "Non-Ferrous and Non-Metallic Minerals",
+    62→          "points": [
+    63→            "Non-ferrous minerals like copper, bauxite, lead, zinc and gold play a vital role in a number of metallurgical, engineering and electrical industries.",
+    64→            "Copper is malleable, ductile and a good conductor of electricity, so it is mainly used in electrical cables, electronics and chemical industries; mining for copper began in Nellore in Andhra Pradesh, and the Khetri mines of Rajasthan, Balaghat of Madhya Pradesh and Singhbhum of Jharkhand are major producers.",
+    65→            "Bauxite is the ore from which aluminium is made; it is formed by the decomposition of rocks rich in aluminium silicates, and the deposits are found in the Amarkantak plateau, Maikal hills and the plateau region of Bilaspur-Katni; Odisha, especially Kalahandi and Koraput districts, has become a major producer, along with Jharkhand, Gujarat and Maharashtra.",
+    66→            "Aluminium is light, rust-resistant and a good conductor of heat, so it is used to make aircraft, utensils and wires, and it is a substitute for steel, copper, zinc and lead.",
+    67→            "Mica is a non-metallic mineral made up of a series of thin plates or sheets; it is indispensable in the electric and electronic industries because of its excellent di-electric strength, low power loss factor, insulating properties and resistance to high voltage.",
+    68→            "Mica deposits are found in the northern edge of the Chota Nagpur plateau, and the Koderma-Gaya-Hazaribagh belt of Jharkhand is the leading producer.",
+    69→            "Limestone is the basic raw material for the cement industry and is essential for smelting iron ore in blast furnaces; it is found in association with rocks composed of calcium carbonates."
+    70→          ],
+    71→          "keyTerms": [
+    72→            { "term": "Bauxite", "meaning": "The ore of aluminium formed by decomposition of rocks rich in aluminium silicates, found in the Amarkantak plateau and Odisha." },
+    73→            { "term": "Mica", "meaning": "A non-metallic mineral of thin plates used in the electric and electronic industries for its insulating and di-electric properties; Koderma in Jharkhand is the leading producer." },
+    74→            { "term": "Limestone", "meaning": "The basic raw material of the cement industry, found in association with calcium carbonate rocks, also used in blast furnaces." }
+    75→          ],
+    76→          "trick": "Copper conducts, Bauxite becomes Aluminium, Mica insulates, and Limestone builds cement.",
+    77→          "examPointer": "The uses of copper and mica, and the Koderma belt for mica, are frequently asked as one and three markers in boards."
+    78→        },
+    79→        {
+    80→          "heading": "Conventional Sources of Energy: Coal, Petroleum, Natural Gas and Electricity",
+    81→          "points": [
+    82→            "Conventional sources of energy have been used for centuries and include firewood, cattle dung cake, coal, petroleum, natural gas and electricity; non-conventional sources are the newer alternatives like solar, wind, tidal, geothermal, biogas and atomic energy.",
+    83→            "In India coal is the most abundantly available fossil fuel; it provides a substantial part of the nation's energy needs and is used for power generation, supply of energy to industry and domestic needs, and as a raw material in the iron and steel industry.",
+    84→            "Coal is classified by carbon content: anthracite is the highest quality hard coal with more than eighty per cent carbon; bituminous is the most widely used coal with fifty to sixty per cent carbon; lignite is a low grade brown coal used for electricity generation at Neyveli in Tamil Nadu, and peat has the lowest carbon content and heating capacity.",
+    85→            "Coal occurs in rock sequences of the Gondwana period, over two hundred million years old, mainly in the Damodar valley covering Jharia, Bokaro and Raniganj, and the Godavari, Mahanadi and Son valley basins, including Talcher in Odisha.",
+    86→            "Petroleum is the second most important energy source after coal; about sixty-three per cent of its requirement is met by imports, and it is found in association with natural gas in the anticlines and fault traps of rock formations; the Mumbai High, Gujarat and Bassein fields and the Krishna-Godavari and Kaveri basins are major producing areas, while Digboi in Assam has the oldest refinery.",
+    87→            "Natural gas is an environment friendly fuel because of low carbon emissions; the Hazira-Vijaipur-Jagdishpur gas pipeline connects gas fields with fertilizer and power plants, and reserves are found in the Krishna-Godavari basin, Mumbai High and the Gulf of Cambay.",
+    88→            "Electricity is generated mainly by hydroelectricity from fast flowing water, thermal electricity from burning coal, petroleum and natural gas, and nuclear electricity from uranium and thorium, which is available in the monazite sands of Kerala."
+    89→          ],
+    90→          "keyTerms": [
+    91→            { "term": "Anthracite", "meaning": "The highest quality hard coal with more than eighty per cent carbon content." },
+    92→            { "term": "Lignite", "meaning": "A low grade brown coal with low carbon content, used for electricity generation at Neyveli in Tamil Nadu." },
+    93→            { "term": "HVJ pipeline", "meaning": "The Hazira-Vijaipur-Jagdishpur natural gas pipeline that links gas fields to fertilizer and power plants in western and northern India." }
+    94→          ],
+    95→          "trick": "Coal grades climb from Peat to Lignite to Bituminous to Anthracite, the Eighty-per-cent king; Neyveli burns brown lignite.",
+    96→          "examPointer": "MCQs on coal types, Digboi refinery and the HVJ pipeline appear repeatedly; thermal versus hydroelectricity is a standard three marker."
+    97→        },
+    98→        {
+    99→          "heading": "Non-Conventional Sources of Energy",
+   100→          "points": [
+   101→            "Rapid growth in energy demand and limited reserves of fossil fuels have focused attention on non-conventional or renewable sources of energy.",
+   102→            "India is a tropical country with sunshine for the greater part of the year, so solar energy has bright prospects; photovoltaic technology converts sunlight directly into electricity, and solar energy is used in solar cookers, water heaters and solar power plants.",
+   103→            "Wind energy is the fastest growing source; the largest wind farm cluster in the country is at Nagercoil-Tirunelveli in Tamil Nadu, with another important cluster at Jaisalmer-Barmer in Rajasthan; India is a leading wind power producer in the world.",
+   104→            "Tidal energy is generated by oceanic tides; tidal power sites are located in the Gulf of Kutch and the Gulf of Khambhat in Gujarat and along the Sunderbans of West Bengal, where turbine blades move with the rise and fall of tides.",
+   105→            "Geothermal energy comes from the heat of the earth's interior, which heats groundwater to form natural steam; geothermal plants exist in the Puga valley in Ladakh and at Manikaran in Himachal Pradesh.",
+   106→            "Biogas plants use shrubs, farm waste, animal and human waste to produce gas with higher thermal efficiency than kerosene or cow dung cakes; biogas reduces the pressure on forests, and its slurry can be used as organic manure.",
+   107→            "These sources are renewable, environment friendly and suitable for decentralised rural supply, and their promotion is essential for energy security."
+   108→          ],
+   109→          "keyTerms": [
+   110→            { "term": "Photovoltaic technology", "meaning": "Technology that converts solar energy directly into electricity without any intermediate mechanical process." },
+   111→            { "term": "Geothermal energy", "meaning": "Heat energy obtained from the earth's interior, which turns groundwater into steam used to run turbines, as at Manikaran and Puga valley." },
+   112→            { "term": "Biogas", "meaning": "Gas produced by decomposing organic waste such as cattle dung and farm refuse in biogas plants; it has high thermal efficiency and yields manure as a by-product." }
+   113→          ],
+   114→          "trick": "Wind blows in Nagercoil, tide in Kutch, steam in Puga and Manikaran, and the sun shines everywhere in tropical India.",
+   115→          "examPointer": "Name-the-site questions for tidal, geothermal and wind energy are very high probability MCQs; a five marker often asks why non-conventional energy is important for India."
+   116→        },
+   117→        {
+   118→          "heading": "Conservation of Minerals and Energy",
+   119→          "points": [
+   120→            "Minerals are non-renewable and irreplaceable assets, so planned and judicious use is essential for sustainable development.",
+   121→            "Conservation of minerals can be achieved by reducing wastage in mining, using improved technologies to exploit low grade ores at low costs, recycling of metals and using substitutes like aluminium and plastics in place of scarce metals.",
+   122→            "Energy conservation is equally urgent because coal, petroleum and natural gas are finite; an energy crisis can occur if consumption continues unchecked.",
+   123→            "Using public transport systems instead of individual vehicles, switching off electricity when not required, using power-saving devices such as LED bulbs and non-conventional sources of energy are simple ways every citizen can save energy.",
+   124→            "Energy saved is energy produced, and this slogan summarises the philosophy of energy conservation.",
+   125→            "The promotion of solar, wind, tidal, geothermal and biogas energy reduces dependence on imported petroleum and lowers greenhouse gas emissions.",
+   126→            "Recycling, efficiency and substitution together ensure that development today does not rob future generations of their resources."
+   127→          ],
+   128→          "keyTerms": [
+   129→            { "term": "Conservation", "meaning": "The planned, judicious and sustainable use of resources so that they last for future generations, through reducing wastage, recycling and substitution." },
+   130→            { "term": "Recycling", "meaning": "Processing used metals and materials so that they can be used again, an important method of conserving scarce minerals." },
+   131→            { "term": "Energy crisis", "meaning": "The shortage of energy that can arise when finite fossil fuels are consumed faster than any alternative is developed." }
+   132→          ],
+   133→          "trick": "Recycle metals, switch off bulbs, take the bus, install solar: energy saved is energy produced.",
+   134→          "examPointer": "Suggest three ways to conserve energy or minerals is a repeated three marker; the phrase energy saved is energy produced is a favourite MCQ fill-up."
+   135→        }
+   136→      ],
+   137→      "mcqs": [
+   138→        {
+   139→          "question": "Which one of the following is the finest quality of iron ore with a high content of iron up to seventy per cent?",
+   140→          "options": ["Hematite", "Magnetite", "Limonite", "Siderite"],
+   141→          "answerIndex": 1,
+   142→          "explanation": "Magnetite is the finest iron ore with up to seventy per cent iron content and excellent magnetic qualities valuable in the electrical industry.",
+   143→          "difficulty": "easy",
+   144→          "pyq": "CBSE 2023"
+   145→        },
+   146→        {
+   147→          "question": "The Bailadila range of iron ore in Chhattisgarh is exported to Japan and South Korea through which port?",
+   148→          "options": ["Kandla", "Paradip", "Vishakhapatnam", "Chennai"],
+   149→          "answerIndex": 2,
+   150→          "explanation": "High grade hematite from the Bailadila deposits in Bastar district is exported to Japan and South Korea through the Vishakhapatnam port.",
+   151→          "difficulty": "medium",
+   152→          "pyq": "CBSE 2022"
+   153→        },
+   154→        {
+   155→          "question": "The Koderma-Gaya-Hazaribagh belt of Jharkhand is the leading producer of",
+   156→          "options": ["Copper", "Bauxite", "Mica", "Limestone"],
+   157→          "answerIndex": 2,
+   158→          "explanation": "The Koderma-Gaya-Hazaribagh belt on the northern edge of the Chota Nagpur plateau has the largest deposits of mica in India.",
+   159→          "difficulty": "easy",
+   160→          "pyq": "CBSE 2020"
+   161→        },
+   162→        {
+   163→          "question": "Which state is a leading producer of bauxite with deposits at Kalahandi and Koraput?",
+   164→          "options": ["Odisha", "Rajasthan", "Punjab", "Haryana"],
+   165→          "answerIndex": 0,
+   166→          "explanation": "Odisha, with bauxite deposits at Kalahandi and Koraput on the Amarkantak plateau belt, is a leading producer along with Jharkhand, Gujarat and Maharashtra.",
+   167→          "difficulty": "medium"
+   168→        },
+   169→        {
+   170→          "question": "Which type of coal has the highest carbon content?",
+   171→          "options": ["Peat", "Lignite", "Bituminous", "Anthracite"],
+   172→          "answerIndex": 3,
+   173→          "explanation": "Anthracite is the highest quality hard coal with more than eighty per cent carbon; bituminous has fifty to sixty per cent, and peat is the lowest grade.",
+   174→          "difficulty": "easy",
+   175→          "pyq": "CBSE 2023"
+   176→        },
+   177→        {
+   178→          "question": "Lignite, a low grade brown coal used for electricity generation, is mined at",
+   179→          "options": ["Jharia", "Neyveli", "Digboi", "Singhbhum"],
+   180→          "answerIndex": 1,
+   181→          "explanation": "Lignite, a low grade brown coal, is used for electricity generation at Neyveli in Tamil Nadu.",
+   182→          "difficulty": "easy"
+   183→        },
+   184→        {
+   185→          "question": "The oldest oil refinery in India is located at",
+   186→          "options": ["Mumbai High", "Digboi", "Barauni", "Koyali"],
+   187→          "answerIndex": 1,
+   188→          "explanation": "Digboi in Assam, discovered in the north-eastern region, has the oldest refinery of India and continues to operate.",
+   189→          "difficulty": "easy",
+   190→          "pyq": "CBSE 2022"
+   191→        },
+   192→        {
+   193→          "question": "The Hazira-Vijaipur-Jagdishpur pipeline carries",
+   194→          "options": ["Crude oil", "Natural gas", "Water for irrigation", "Coal slurry"],
+   195→          "answerIndex": 1,
+   196→          "explanation": "The HVJ gas pipeline links the gas fields of the west coast with fertilizer and power plants in western and northern India.",
+   197→          "difficulty": "medium"
+   198→        },
+   199→        {
+   200→          "question": "The largest wind farm cluster in India is located at",
+   201→          "options": ["Jaisalmer-Barmer", "Nagercoil-Tirunelveli", "Kutch", "Puga valley"],
+   202→          "answerIndex": 1,
+   203→          "explanation": "The largest wind farm cluster of the country lies at Nagercoil-Tirunelveli in Tamil Nadu, with another important cluster at Jaisalmer-Barmer in Rajasthan.",
+   204→          "difficulty": "medium",
+   205→          "pyq": "CBSE 2020"
+   206→        },
+   207→        {
+   208→          "question": "Geothermal energy plants exist in the Puga valley of Ladakh and at Manikaran in",
+   209→          "options": ["Uttarakhand", "Himachal Pradesh", "Sikkim", "Kashmir"],
+   210→          "answerIndex": 1,
+   211→          "explanation": "The heat of the earth's interior at Manikaran in Himachal Pradesh and in the Puga valley of Ladakh is used to generate geothermal energy.",
+   212→          "difficulty": "medium"
+   213→        },
+   214→        {
+   215→          "question": "Tidal energy has promising sites in the Gulf of Kutch, the Gulf of Khambhat and",
+   216→          "options": ["The Palk Strait", "The Sunderbans", "The Gulf of Mannar", "The Chilika lake"],
+   217→          "answerIndex": 1,
+   218→          "explanation": "Tidal power sites are located in the Gulfs of Kutch and Khambhat in Gujarat and along the Sunderbans in West Bengal.",
+   219→          "difficulty": "medium"
+   220→        },
+   221→        {
+   222→          "question": "Which of the following is a non-conventional source of energy?",
+   223→          "options": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+   224→          "answerIndex": 2,
+   225→          "explanation": "Solar, wind, tidal, geothermal, biogas and atomic energy are non-conventional sources; coal, petroleum and natural gas are conventional fossil fuels.",
+   226→          "difficulty": "easy"
+   227→        }
+   228→      ],
+   229→      "boardQuestions": [
+   230→        {
+   231→          "question": "Distinguish between ferrous and non-ferrous minerals with one example of each.",
+   232→          "marks": 2,
+   233→          "type": "SA",
+   234→          "probability": "high",
+   235→          "answer": "1) Ferrous minerals are metallic minerals which contain iron in them, and they account for about three-fourths of the total value of the production of metallic minerals. Examples are iron ore and manganese. 2) Non-ferrous minerals are metallic minerals which do not contain iron, but they play a vital role in metallurgical, engineering and electrical industries. Examples are copper, bauxite, lead, zinc and gold. 3) The basic difference, therefore, is the presence or absence of iron in the mineral."
+   236→        },
+   237→        {
+   238→          "question": "Why is the consumption of minerals rising rapidly? Suggest two methods of conservation of minerals.",
+   239→          "marks": 3,
+   240→          "type": "SA",
+   241→          "probability": "medium",
+   242→          "answer": "1) Consumption of minerals is rising because of rapid growth in population, increasing industrialisation and urbanisation, which demand more machines, buildings, vehicles and energy for every citizen. 2) Since the geological processes of mineral formation are extremely slow, rates of replenishment are infinitely small compared with rates of consumption, so minerals are non-renewable and can get exhausted. 3) Conservation can be done by reducing wastage in the process of mining and using improved technologies that allow low grade ores to be exploited at lower costs. 4) Recycling of metals and the use of substitutes like aluminium, plastics and ceramics in place of scarce metals also help to conserve minerals for future generations."
+   243→        },
+   244→        {
+   245→          "question": "Describe any four iron ore belts of India with their main producing areas.",
+   246→          "marks": 5,
+   247→          "type": "LA",
+   248→          "probability": "very-high",
+   249→          "answer": "1) Odisha-Jharkhand belt: in Odisha high grade hematite ore is found in Badampahar mines in the Mayurbhanj and Kendujhar districts, and in Jharkhand hematite ore is mined in the Singhbhum district near Gua and Noamundi. 2) Durg-Bastar-Chandrapur belt: it lies in Chhattisgarh and Maharashtra, and the Bailadila deposit in Bastar district of Chhattisgarh has very high grade hematite which is exported to Japan and South Korea through Vishakhapatnam port. 3) Bellary-Chitradurga-Chikmagalur-Tumkur belt: in Karnataka, the Kudremukh deposits, a one thousand metre high hill in the Western Ghats, are known to be among the largest iron ore deposits in the world, and the ore is transported as slurry through pipelines to a port near Mangalore. 4) Maharashtra-Goa belt: it includes the state of Goa and Ratnagiri district of Maharashtra, and though the ores are not of very high quality, they are efficiently exploited and exported through Marmagao port. Together these belts make India one of the leading producers and exporters of iron ore in the world."
+   250→        },
+   251→        {
+   252→          "question": "Why is there an urgent need to develop non-conventional sources of energy in India? Explain any three reasons.",
+   253→          "marks": 5,
+   254→          "type": "LA",
+   255→          "probability": "high",
+   256→          "answer": "1) Conventional sources like coal, petroleum and natural gas are finite and non-renewable; their reserves are limited and are depleting fast with growing consumption, so an energy crisis looms ahead. 2) India imports about sixty-three per cent of its petroleum requirement, and dependence on imported fossil fuels drains foreign exchange and makes the economy vulnerable to price shocks. 3) Burning fossil fuels causes air pollution and greenhouse gas emissions, while non-conventional sources like solar, wind, tidal, geothermal and biogas are renewable and environment friendly. 4) India is a tropical country with abundant sunshine, long coastlines suitable for tidal and wind power, and large rural populations which cannot be connected economically to the grid; decentralised solar and biogas energy can serve them cheaply. Hence the promotion of non-conventional energy is essential for sustainable development and energy security."
+   257→        },
+   258→        {
+   259→          "question": "Read the passage and answer: Coal is the most abundantly available fossil fuel in India, providing a substantial part of the nation's energy needs. (a) Name the two varieties of coal that are best suited for the iron and steel industry. (b) Which coal is used for electricity generation at Neyveli and in which state is it found? (c) Name two coal fields of the Damodar valley.",
+   260→          "marks": 4,
+   261→          "type": "CASE",
+   262→          "probability": "high",
+   263→          "answer": "1) (a) For the iron and steel industry bituminous coal is the most widely used industrial coal because it has fifty to sixty per cent carbon and burns with a good heating value; the best quality anthracite is also used where available. 2) (b) Lignite, a low grade brown coal, is used for electricity generation at Neyveli, which is located in Tamil Nadu. 3) (c) The two famous coalfields of the Damodar valley are Jharia and Bokaro; the Raniganj field lies in the extended part of this belt in West Bengal. 4) Coal in India occurs in rock sequences of the Gondwana period, more than two hundred million years old, and also in the tertiary deposits of the north-east."
+   264→        },
+   265→        {
+   266→          "question": "Read the case and answer: Ramesh lives in a village where every evening women walk long distances to collect firewood and cow dung cakes for cooking. The government has installed biogas plants and solar panels in his village. (a) Why is the use of firewood and cattle dung cakes harmful? (b) How do biogas plants help the villagers? (c) State one advantage of solar energy for rural India.",
+   267→          "marks": 4,
+   268→          "type": "CASE",
+   269→          "probability": "medium",
+   270→          "answer": "1) (a) The use of firewood leads to deforestation and loss of green cover, while burning cattle dung cakes deprives the fields of valuable organic manure; both also cause indoor air pollution and health problems for women. 2) (b) Biogas plants use shrubs, farm waste and animal and human waste to produce gas that has a higher thermal efficiency than kerosene or dung cakes; they reduce pressure on forests and provide slurry that is an excellent organic manure for the fields. 3) (c) Solar energy is cheap, renewable and available in abundance because India is a tropical country with sunshine throughout the year; photovoltaic panels can supply electricity to scattered villages without expensive grid connection."
+   271→        }
+   272→      ]
+   273→    },
+   274→    {
+   275→      "number": 6,
+   276→      "title": "Manufacturing Industries",
+   277→      "summary": "This chapter explains the importance of manufacturing for the national economy and the factors that decide the location of industries. It classifies industries on the basis of raw material, size and ownership, and studies agro-based industries like cotton textiles, jute and sugar in detail. Mineral-based industries such as iron and steel, aluminium, cement and automobiles, along with information technology, are then examined. The chapter concludes with the serious problem of industrial pollution of air, water and land and the measures, including the NTPC approach, needed to control it.",
+   278→      "weightageMarks": 7,
+   279→      "difficulty": "medium",
+   280→      "hotTopics": [
+   281→        "Importance of manufacturing and factors affecting industrial location",
+   282→        "Agro-based industries: cotton textiles, jute and sugar",
+   283→        "Iron and steel industry and the Chhotanagpur concentration",
+   284→        "Aluminium smelting, cement and automobile industries",
+   285→        "Information technology and Bangalore as the electronic capital",
+   286→        "Industrial pollution types and control measures including NTPC"
+   287→      ],
+   288→      "sections": [
+   289→        {
+   290→          "heading": "Importance and Classification of Manufacturing",
+   291→          "points": [
+   292→            "Production of goods in large quantities after processing from raw materials to more valuable products is called manufacturing; the word literally means making by hand, though machines are now used for most manufacturing.",
+   293→            "Manufacturing belongs to the secondary sector, which complements the primary and tertiary sectors; modern economies depend on it for jobs, value addition and export earnings.",
+   294→            "The share of manufacturing in the Gross Domestic Product has stagnated at around seventeen per cent for two decades, and the National Manufacturing Competitiveness Council aims to raise it to twenty-five per cent within a decade.",
+   295→            "Industries are classified on the basis of the source of raw material as agro-based, using farm products like cotton and sugar cane, and mineral-based, using minerals like iron ore and bauxite.",
+   296→            "On the basis of their role, basic or key industries supply their products as raw material to manufacture other goods, like iron and steel and copper smelting, while consumer industries produce goods for direct use, like sugar and tea.",
+   297→            "On the basis of capital investment, industries are small scale or large scale, and on the basis of ownership they are public sector, private sector, joint sector or cooperative sector; on the basis of bulk and weight they may be heavy or light industries.",
+   298→            "Industrial location is governed by availability of raw material, labour, capital, power and transport, plus market and government policies; manufacturing activity tends to locate where all these factors are available together, leading to industrial clusters."
+   299→          ],
+   300→          "keyTerms": [
+   301→            { "term": "Manufacturing", "meaning": "Production of goods in large quantities after processing raw materials into more valuable products, carried out in factories with machines." },
+   302→            { "term": "Basic or key industry", "meaning": "An industry that supplies its products as raw material to other industries to manufacture other goods, such as the iron and steel industry." },
+   303→            { "term": "Cooperative sector", "meaning": "An industry owned and operated by producers or suppliers of raw material, who pool their resources and share profits or losses, like the sugar industry in Maharashtra." }
+   304→          ],
+   305→          "trick": "Classify industries four ways: raw material, role, size, ownership; remember Agro-Mineral, Basic-Consumer, Small-Large, Public-Private.",
+   306→          "examPointer": "A one marker on the share of manufacturing in GDP and the classification of industries is very common; be able to give one example for each type of classification."
+   307→        },
+   308→        {
+   309→          "heading": "Agro-based Industries: Cotton Textiles",
+   310→          "points": [
+   311→            "The textile industry is the only industry in the country which is self-reliant and complete in the value chain, from raw material to the highest value added products.",
+   312→            "Cotton textiles form the oldest industry of India, and the first successful cotton textile mill was established in Mumbai in 1854.",
+   313→            "The industry is concentrated in Maharashtra and Gujarat because of the availability of raw cotton, moist climate, cheap skilled labour, capital, good transport and a large market; Ahmedabad is often called the Manchester of India.",
+   314→            "India has the second largest installed capacity of spindles in the world after China; spinning is centralised in Maharashtra, Gujarat and Tamil Nadu, while weaving is highly decentralised, providing employment to many weavers in handlooms and powerlooms.",
+   315→            "About one-fourth of the workers engaged in the industry are women, and the industry contributes significantly to industrial production and export earnings.",
+   316→            "Problems faced by the industry include erratic power supply, outdated machinery, low output of labour and stiff competition from the synthetic fibre industry.",
+   317→            "India exports cotton yarn, cotton goods and garments to many countries, earning substantial foreign exchange."
+   318→          ],
+   319→          "keyTerms": [
+   320→            { "term": "Value chain", "meaning": "The complete sequence from raw material to finished, high value products, over which the Indian textile industry is self-reliant." },
+   321→            { "term": "Spinning", "meaning": "The process of converting cotton fibre into yarn; it remains centralised in a few states, unlike decentralised weaving." },
+   322→            { "term": "Ahmedabad", "meaning": "The second largest textile city of India, located in Gujarat near the Sabarmati river, known as the Manchester of India." }
+   323→          ],
+   324→          "trick": "Spinning is centralised, weaving is decentralised; Ahmedabad is the Manchester of India.",
+   325→          "examPointer": "Why is Ahmedabad called the Manchester of India and why are cotton mills concentrated in Maharashtra-Gujarat are repeated five markers."
+   326→        },
+   327→        {
+   328→          "heading": "Jute and Sugar Industries",
+   329→          "points": [
+   330→            "India is the largest producer of raw jute and jute goods and stands at second place as an exporter after Bangladesh.",
+   331→            "Most jute mills are located in the Hugli basin of West Bengal, near Kolkata, because of the availability of raw jute, cheap water transport, abundant labour, capital and a large hinterland.",
+   332→            "The jute industry supports about forty lakh workers directly and many more indirectly, and products like gunny bags, hessian and carpets are made from jute.",
+   333→            "Challenges of the jute industry include stiff competition in the international market from synthetic substitutes and fluctuations in the supply of raw jute.",
+   334→            "The sugar industry stands second among agro-based industries; India is the second largest producer of sugar in the world after Brazil and the largest producer of gur and khandsari.",
+   335→            "Sugar mills are located close to sugar cane growing areas in Uttar Pradesh, Bihar, Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh and Gujarat, because sugar cane is a perishable and weight-losing raw material.",
+   336→            "The industry is seasonal in nature, so it is ideally suited to the cooperative sector; old inefficient methods of production, transport delays in reaching cane to mills and the need to maximise the use of bagasse are major challenges."
+   337→          ],
+   338→          "keyTerms": [
+   339→            { "term": "Hugli basin", "meaning": "The riverine region of West Bengal where most of India's jute mills are concentrated due to raw material, labour and transport advantages." },
+   340→            { "term": "Bagasse", "meaning": "The crushed sugar cane residue left after juice extraction, used as fuel and raw material for paper and other products." },
+   341→            { "term": "Khandsari", "meaning": "A locally refined sugar produced in small units, of which India is the largest producer along with gur." }
+   342→          ],
+   343→          "trick": "Jute hugs the Hugli, sugar hugs the cane fields; India leads in raw jute, is second in sugar after Brazil.",
+   344→          "examPointer": "Why are sugar mills located near sugar cane fields is a classic three marker based on the weight-losing nature of the raw material."
+   345→        },
+   346→        {
+   347→          "heading": "Mineral-based Industries: Iron, Steel and Aluminium",
+   348→          "points": [
+   349→            "The iron and steel industry is the basic industry since all other industries depend on it for their machinery; steel is needed to manufacture engineering goods, construction material, defence goods, and vehicles.",
+   350→            "Steel is also called a heavy industry because all raw materials as well as finished goods are heavy and bulky, entailing heavy transportation costs; the industry is located in the Chhotanagpur region where iron ore, coal, limestone, labour and the home market are available.",
+   351→            "India produced about 32.8 million tonnes of finished steel in 2017-18 and is among the leading steel producers, yet per capita consumption of steel is only around thirty kilograms, far below the world average; India imports steel despite large production.",
+   352→            "Problems of the industry include high costs and limited availability of coking coal, lower productivity of labour, irregular supply of energy and poor infrastructure.",
+   353→            "Most public sector steel plants market their steel through the Steel Authority of India Limited (SAIL); famous plants include TISCO at Jamshedpur, the first private iron and steel plant of 1907, and public sector plants at Bhilai, Durgapur, Rourkela and Bokaro.",
+   354→            "Aluminium smelting is the second most important metallurgical industry; aluminium is light, corrosion resistant and a good conductor of heat, used for aircraft, utensils and wires, and it substitutes steel, copper, zinc and lead.",
+   355→            "Smelting requires about 18,600 kWh of electricity per tonne of bauxite, so plants are located near cheap power; there are eight smelting plants in Odisha with NALCO and BALCO, West Bengal, Kerala, Uttar Pradesh, Chhattisgarh, Maharashtra and Tamil Nadu."
+   356→          ],
+   357→          "keyTerms": [
+   358→            { "term": "Basic industry", "meaning": "An industry whose products serve as raw material for other industries; iron and steel is the prime example." },
+   359→            { "term": "SAIL", "meaning": "Steel Authority of India Limited, the public sector company through which most public sector steel plants market their steel." },
+   360→            { "term": "Aluminium smelting", "meaning": "The process of extracting aluminium from bauxite using large quantities of electricity, about 18,600 kWh per tonne of bauxite." }
+   361→          ],
+   362→          "trick": "Steel is basic and heavy; Chhotanagpur has ore, coal, labour and market; Aluminium needs cheap electricity, hence NALCO and BALCO.",
+   363→          "examPointer": "Why is the iron and steel industry called a basic and heavy industry, and why is it concentrated in Chhotanagpur, are very high probability five markers."
+   364→        },
+   365→        {
+   366→          "heading": "Cement, Automobile and Information Technology Industries",
+   367→          "points": [
+   368→            "The cement industry is essential for construction activity such as building houses, roads, bridges, ports, dams and airports; it needs bulky raw materials like limestone, silica and alumina, besides coal and electric power.",
+   369→            "The first cement plant was set up in Chennai in 1904, and after decontrol of price and distribution in 1989 the industry made rapid strides in capacity, process, technology and production; the industry is concentrated in Gujarat due to the availability of raw material.",
+   370→            "Cement is exported to East Asia, the Middle East and Africa, and the industry is doing well in production as well as export.",
+   371→            "Automobiles provide vehicles for quick transport of goods, services and passengers; trucks, buses, cars, motorcycles, scooters and three-wheelers are manufactured at centres around Delhi, Gurgaon, Mumbai, Pune, Chennai, Kolkata, Lucknow, Indore, Hyderabad, Jamshedpur and Bangalore.",
+   372→            "The electronics and information technology industry covers transistors, television, telephones, cellular telecom, radars and computers; Bangalore has emerged as the electronic capital of India, with other centres at Mumbai, Delhi, Hyderabad, Pune, Chennai, Kolkata, Lucknow and Coimbatore.",
+   373→            "Software technology parks provide single window service and high data communication facilities to software experts; a major impact of this industry has been employment generation, and about thirty per cent of the people employed in it are women.",
+   374→            "The continuing growth of this industry depends on continuous design input, rapid technological change and skilled manpower, and it has made India a global hub for software services and business process outsourcing."
+   375→          ],
+   376→          "keyTerms": [
+   377→            { "term": "Decontrol", "meaning": "The removal of government control over price and distribution, done for the cement industry in 1989, which boosted its growth." },
+   378→            { "term": "Software technology park", "meaning": "A designated facility providing single window service and high data communication links to software exporting firms." },
+   379→            { "term": "Bangalore", "meaning": "The electronic capital of India and a leading global centre of the information technology industry." }
+   380→          ],
+   381→          "trick": "Cement began in Chennai 1904, IT shines in Bangalore, cars cluster in Chennai, Pune, Gurgaon and Jamshedpur.",
+   382→          "examPointer": "MCQs on the first cement plant, the electronic capital and automobile centres are frequently asked; the contribution of IT to employment is a common three marker."
+   383→        },
+   384→        {
+   385→          "heading": "Industrial Pollution and Control: The NTPC Approach",
+   386→          "points": [
+   387→            "Industries pollute air, water, land and add noise pollution; air pollution is caused by undesirable gases like sulphur dioxide and carbon monoxide and by airborne particulate matter and smoke from burning fossil fuels, causing acid rain and respiratory diseases.",
+   388→            "Water pollution is caused when organic and inorganic industrial wastes and effluents are discharged into rivers; paper, pulp, chemical, textile, dyeing, petroleum refineries and tanneries are the main culprits, discharging acids, dyes, pesticides and heavy metals like mercury, lead and cadmium.",
+   389→            "Thermal pollution of water occurs when hot water from factories and thermal plants is drained into rivers before cooling; land pollution results from dumping of solid and liquid industrial waste, making soil useless.",
+   390→            "Noise pollution from machinery, generators, electric drills and construction activity causes irritation, hearing impairment, increased heart rate and blood pressure; noise above about ninety decibels is harmful.",
+   391→            "Control measures include treating hot water and effluents before discharge, harvesting rainwater, recycling water, and treating industrial waste in three phases: primary by mechanical means like screening and sedimentation, secondary by biological processes, and tertiary by chemical, bacterial and electrolytic methods.",
+   392→            "Particulate matter can be removed by scrubbers and electrostatic precipitators; smoke can be reduced by using oil or CNG instead of coal in factories, and industries should be located away from residential areas through proper zoning.",
+   393→            "NTPC, a major power providing corporation with ISO certification for Environment Management System, follows a proactive approach: optimum utilisation of equipment, minimising waste by maximising ash utilisation, providing green belts, reducing pollution through ash pond management, ash water recycling and liquid waste management, and ecological monitoring with online databases for all its power stations."
+   394→          ],
+   395→          "keyTerms": [
+   396→            { "term": "Electrostatic precipitator", "meaning": "A device that removes particulate matter from industrial smoke before it is released into the air." },
+   397→            { "term": "Tertiary treatment", "meaning": "The third phase of effluent treatment using chemical, bacterial and electrolytic processes after primary mechanical and secondary biological treatment." },
+   398→            { "term": "Ash utilisation", "meaning": "The NTPC practice of minimising waste generation by converting coal ash into useful products such as bricks and cement material." }
+   399→          ],
+   400→          "trick": "Pollution hits air, water, land and ears; treatment runs primary, secondary, tertiary; NTPC says optimise, utilise ash, grow green belts.",
+   401→          "examPointer": "Types of industrial pollution with examples and the NTPC environment approach are repeated five markers; the three phases of effluent treatment is a common MCQ."
+   402→        }
+   403→      ],
+   404→      "mcqs": [
+   405→        {
+   406→          "question": "The share of the manufacturing sector in the GDP of India has stagnated at about",
+   407→          "options": ["27 per cent", "17 per cent", "25 per cent", "50 per cent"],
+   408→          "answerIndex": 1,
+   409→          "explanation": "The share of manufacturing in GDP has stagnated at around seventeen per cent for the last two decades, and the target is to raise it to twenty-five per cent within a decade.",
+   410→          "difficulty": "easy",
+   411→          "pyq": "CBSE 2023"
+   412→        },
+   413→        {
+   414→          "question": "Which one of the following industries is called a basic industry?",
+   415→          "options": ["Sugar industry", "Iron and steel industry", "Cotton textile industry", "Automobile industry"],
+   416→          "answerIndex": 1,
+   417→          "explanation": "The iron and steel industry is a basic or key industry because its products are used as raw material by all other industries to manufacture their goods.",
+   418→          "difficulty": "easy",
+   419→          "pyq": "CBSE 2022"
+   420→        },
+   421→        {
+   422→          "question": "Which city is known as the Manchester of India?",
+   423→          "options": ["Mumbai", "Ahmedabad", "Kanpur", "Coimbatore"],
+   424→          "answerIndex": 1,
+   425→          "explanation": "Ahmedabad in Gujarat is called the Manchester of India because of its large concentration of cotton textile mills.",
+   426→          "difficulty": "easy",
+   427→          "pyq": "CBSE 2023"
+   428→        },
+   429→        {
+   430→          "question": "India is the largest producer of raw jute and jute goods and stands at which position as an exporter after Bangladesh?",
+   431→          "options": ["First", "Second", "Third", "Fourth"],
+   432→          "answerIndex": 1,
+   433→          "explanation": "India is the largest producer of raw jute and jute goods but stands second in the world as an exporter, after Bangladesh.",
+   434→          "difficulty": "medium"
+   435→        },
+   436→        {
+   437→          "question": "Most of the sugar mills in India are located in",
+   438→          "options": ["Rajasthan and Punjab", "Uttar Pradesh and Maharashtra", "Kerala and Goa", "Himachal Pradesh and Jammu and Kashmir"],
+   439→          "answerIndex": 1,
+   440→          "explanation": "Sugar mills are located close to sugar cane growing areas, and major sugar producing states include Uttar Pradesh, Maharashtra, Karnataka and Tamil Nadu.",
+   441→          "difficulty": "easy"
+   442→        },
+   443→        {
+   444→          "question": "The first successful cotton textile mill of India was established in Mumbai in",
+   445→          "options": ["1854", "1904", "1907", "1853"],
+   446→          "answerIndex": 0,
+   447→          "explanation": "The first successful cotton textile mill was set up in Mumbai in 1854, while the first cement plant came up in Chennai in 1904 and TISCO in 1907.",
+   448→          "difficulty": "medium",
+   449→          "pyq": "CBSE 2020"
+   450→        },
+   451→        {
+   452→          "question": "Aluminium smelting requires about how much electricity per tonne of bauxite?",
+   453→          "options": ["1,860 kWh", "18,600 kWh", "186,000 kWh", "18,600,000 kWh"],
+   454→          "answerIndex": 1,
+   455→          "explanation": "Aluminium smelting needs about 18,600 kWh of electricity per tonne of bauxite, which is why smelters are located near cheap and reliable power.",
+   456→          "difficulty": "medium"
+   457→        },
+   458→        {
+   459→          "question": "The first cement plant in India was set up in 1904 at",
+   460→          "options": ["Chennai", "Kolkata", "Mumbai", "Ahmedabad"],
+   461→          "answerIndex": 0,
+   462→          "explanation": "The first cement plant was set up in Chennai in 1904, and cement plants later concentrated in Gujarat due to raw material availability.",
+   463→          "difficulty": "easy"
+   464→        },
+   465→        {
+   466→          "question": "Which of the following cities has emerged as the electronic capital of India?",
+   467→          "options": ["Hyderabad", "Chennai", "Bangalore", "Pune"],
+   468→          "answerIndex": 2,
+   469→          "explanation": "Bangalore has emerged as the electronic capital of India and a leading centre of the information technology industry.",
+   470→          "difficulty": "easy",
+   471→          "pyq": "CBSE 2022"
+   472→        },
+   473→        {
+   474→          "question": "About what percentage of the people employed in the information technology industry are women?",
+   475→          "options": ["10 per cent", "20 per cent", "30 per cent", "50 per cent"],
+   476→          "answerIndex": 2,
+   477→          "explanation": "A major impact of the IT industry has been employment generation, and about thirty per cent of the people employed in this sector are women.",
+   478→          "difficulty": "medium"
+   479→        },
+   480→        {
+   481→          "question": "Which gas is mainly responsible for air pollution caused by industries burning fossil fuels?",
+   482→          "options": ["Oxygen", "Sulphur dioxide", "Nitrogen", "Hydrogen"],
+   483→          "answerIndex": 1,
+   484→          "explanation": "Air pollution is caused by undesirable gases such as sulphur dioxide and carbon monoxide along with airborne particulate matter from burning fossil fuels.",
+   485→          "difficulty": "easy"
+   486→        },
+   487→        {
+   488→          "question": "NTPC has ISO certification for",
+   489→          "options": ["Quality Management System", "Environment Management System", "Safety Management System", "Financial Management System"],
+   490→          "answerIndex": 1,
+   491→          "explanation": "NTPC, a major power providing corporation of India, has ISO certification for Environment Management System and follows a proactive environment protection approach.",
+   492→          "difficulty": "medium",
+   493→          "pyq": "CBSE 2020"
+   494→        }
+   495→      ],
+   496→      "boardQuestions": [
+   497→        {
+   498→          "question": "Classify industries on the basis of the source of raw material with one example of each type.",
+   499→          "marks": 2,
+   500→          "type": "SA",
+   501→          "probability": "high",
+   502→          "answer": "1) On the basis of the source of raw material, industries are divided into agro-based and mineral-based industries. 2) Agro-based industries use plant and animal based products as their raw material; examples are the cotton textile industry, the jute industry, the sugar industry and the edible oil industry. 3) Mineral-based industries use minerals as their raw material; examples are the iron and steel industry, the cement industry, the aluminium smelting industry and the automobile industry."
+   503→        },
+   504→        {
+   505→          "question": "Why is the iron and steel industry called a basic as well as a heavy industry? Give two problems faced by the industry in India.",
+   506→          "marks": 3,
+   507→          "type": "SA",
+   508→          "probability": "very-high",
+   509→          "answer": "1) The iron and steel industry is called a basic industry because its output, steel, is used as the raw material by all other industries like machine tools, automobiles, construction and defence for manufacturing their products. 2) It is called a heavy industry because both its raw materials, such as iron ore and coal, and its finished goods are heavy and bulky, involving heavy transportation costs. 3) Problems faced by the industry include high costs and limited availability of coking coal and lower productivity of labour. 4) Irregular supply of energy and poor infrastructure are other important problems due to which per capita consumption of steel in India remains low despite large production."
+   510→        },
+   511→        {
+   512→          "question": "Describe any five factors that affect the location of an industry in India.",
+   513→          "marks": 5,
+   514→          "type": "LA",
+   515→          "probability": "high",
+   516→          "answer": "1) Availability of raw material: industries, especially those using weight-losing or perishable raw material like sugar cane or iron ore, tend to locate near the source to reduce transport costs. 2) Power: continuous and cheap supply of electricity and fuel is essential; aluminium smelting, for example, needs about 18,600 kWh of electricity per tonne of bauxite. 3) Labour: skilled and cheap labour must be available; industries like cotton textiles grew in Mumbai and Ahmedabad due to cheap skilled hands. 4) Transport and market: good roads, railways, ports and proximity to markets lower costs; finished goods must reach consumers quickly. 5) Capital and government policy: finance, banking, insurance and favourable government policies like subsidies, tax concessions and industrial parks attract industries to particular regions. When these factors are available together, manufacturing activity gets concentrated in industrial clusters."
+   517→        },
+   518→        {
+   519→          "question": "Explain any five types of industrial pollution and their effects on the environment and human health.",
+   520→          "marks": 5,
+   521→          "type": "LA",
+   522→          "probability": "very-high",
+   523→          "answer": "1) Air pollution: undesirable gases like sulphur dioxide and carbon monoxide, smoke and airborne particulate matter released by industries and thermal power plants cause acid rain, smog, respiratory diseases and damage to plants and buildings. 2) Water pollution: organic and inorganic industrial wastes and effluents discharged by paper, pulp, chemical, textile, dyeing, refinery and tannery units pollute rivers with acids, dyes, pesticides and heavy metals like mercury, lead and cadmium, poisoning water and aquatic life. 3) Thermal pollution: hot water drained from factories and thermal plants into rivers before cooling reduces dissolved oxygen and kills aquatic organisms. 4) Land pollution: dumping of solid and liquid industrial wastes renders soil useless and contaminates groundwater. 5) Noise pollution: machinery, generators, electric drills and construction activity produce noise that causes irritation, hearing impairment, increased heart rate and blood pressure among workers and residents."
+   524→        },
+   525→        {
+   526→          "question": "Read the passage and answer: A steel plant requires iron ore, coking coal and limestone in huge quantities, and its finished products are equally bulky. (a) Name the region of maximum concentration of iron and steel industries in India and give two reasons for it. (b) Name one private sector and one public sector steel plant of India. (c) Which organisation markets the steel of most public sector plants?",
+   527→          "marks": 5,
+   528→          "type": "CASE",
+   529→          "probability": "high",
+   530→          "answer": "1) (a) The Chhotanagpur region bordering West Bengal, Jharkhand, Odisha and Chhattisgarh has the maximum concentration of iron and steel industries because low cost iron ore and high grade raw materials are available in proximity, along with cheap labour and a vast growth potential in the home market. 2) Coal from the Damodar valley and limestone from nearby belts complete the raw material requirements of the industry. 3) (b) Tata Iron and Steel Company (TISCO) set up at Jamshedpur in 1907 is a famous private sector plant, while the plants at Bhilai, Durgapur, Rourkela and Bokaro are public sector plants. 4) (c) The Steel Authority of India Limited (SAIL) markets the steel produced by most public sector undertakings. 5) Despite this strength, high cost of coking coal, low labour productivity and irregular energy supply keep per capita steel consumption low."
+   531→        },
+   532→        {
+   533→          "question": "Read the case and answer: A city on the banks of a river has a cluster of paper mills, tanneries and dyeing units. Residents complain of foul smelling water, dying fish and frequent breathing problems. (a) Identify the types of pollution shown in the case. (b) Suggest any two measures the industries should adopt to control this pollution. (c) Which industries are the main culprits of water pollution in India?",
+   534→          "marks": 4,
+   535→          "type": "CASE",
+   536→          "probability": "medium",
+   537→          "answer": "1) (a) The case shows water pollution caused by industrial effluents being discharged into the river, and air pollution causing breathing problems among residents; dying fish may also indicate thermal pollution of the water. 2) (b) The industries should treat hot water and effluents before releasing them into rivers and ponds, using primary treatment by mechanical means like screening and sedimentation, secondary biological treatment and tertiary chemical or electrolytic treatment. 3) They should also harvest rainwater, recycle water, install scrubbers and electrostatic precipitators to remove particulate matter, and be relocated away from residential areas through proper zoning. 4) (c) The main culprits of water pollution in India are the paper and pulp, chemical, textile and dyeing, petroleum refinery and tannery industries, which discharge toxic acids, dyes and heavy metals into rivers."
+   538→        }
+   539→      ]
+   540→    },
+   541→    {
+   542→      "number": 7,
+   543→      "title": "Lifelines of National Economy",
+   544→      "summary": "This chapter shows how transport, communication and trade act as the lifelines of the national economy by moving goods, people and ideas across the country. It covers the road network including the Golden Quadrilateral and corridors, the railway gauges, pipelines, national waterways and the twelve major seaports of India. It then explains airways and international airports, personal and mass communication, international trade and the balance of trade. Finally, it treats tourism as a trade that promotes national integration and earns valuable foreign exchange.",
+   545→      "weightageMarks": 7,
+   546→      "difficulty": "easy",
+   547→      "hotTopics": [
+   548→        "Golden Quadrilateral and North-South, East-West corridors",
+   549→        "Classification of roads: national, state, district, rural and border roads",
+   550→        "Railway gauges: broad, metre and narrow",
+   551→        "Major seaports from Kandla to Kolkata-Haldia",
+   552→        "International airports and the role of airways",
+   553→        "International trade, balance of trade and tourism as a trade"
+   554→      ],
+   555→      "sections": [
+   556→        {
+   557→          "heading": "Roadways: Classification of Roads",
+   558→          "points": [
+   559→            "India has one of the largest road networks in the world, aggregating to more than fifty-four lakh kilometres; roads are the most economical means of transportation for short distances.",
+   560→            "Roads are preferred because their construction cost is much lower than railways, they can traverse comparatively more dissected and undulating topography, they negotiate high gradients like slopes of the Himalayas, and they provide door to door service, acting as a feeder to other modes of transport.",
+   561→            "The Golden Quadrilateral Super Highways project links Delhi, Mumbai, Chennai and Kolkata with six lane super highways; the North-South corridors link Srinagar in Jammu and Kashmir with Kanniyakumari in Tamil Nadu, and the East-West corridor links Silchar in Assam with Porbandar in Gujarat; the National Highway Authority of India (NHAI) implements these projects.",
+   562→            "National Highways link extreme parts of the country and are laid and maintained by the Central Public Works Department (CPWD); the historic Sher Shah Suri Marg between Delhi and Amritsar is the old National Highway 1.",
+   563→            "State Highways link a state capital with different district headquarters and are constructed and maintained by the state Public Works Departments; District Roads connect district headquarters with other places of the district and are maintained by the Zila Parishad.",
+   564→            "Rural roads link rural areas and villages with towns, and the Pradhan Mantri Gram Sadak Yojana launched in December 2000 provides special focus on planned rural road development.",
+   565→            "Border Roads are constructed and maintained by the Border Roads Organisation (BRO), established in 1960, for the strategic development of roads in the bordering areas of the country; the density of roads varies from only 12.14 km in Jammu and Kashmir to 517.77 km in Kerala with a national average of 142.68 km per 100 square km (2011)."
+   566→          ],
+   567→          "keyTerms": [
+   568→            { "term": "Golden Quadrilateral", "meaning": "A super highway network of six lane roads connecting Delhi, Mumbai, Chennai and Kolkata, the four metropolitan cities of India." },
+   569→            { "term": "NHAI", "meaning": "The National Highway Authority of India, an autonomous body under the Ministry of Surface Transport that implements super highway projects." },
+   570→            { "term": "Border Roads Organisation", "meaning": "The organisation established in 1960 to construct and maintain strategically important roads in the bordering areas of the country." }
+   571→          ],
+   572→          "trick": "Golden Quadrilateral joins Delhi, Mumbai, Chennai, Kolkata in a diamond; Srinagar to Kanniyakumari is North-South, Silchar to Porbandar is East-West.",
+   573→          "examPointer": "MCQs on NHAI, BRO and the corridors are asked almost every year; the reasons for the growing importance of roadways over railways is a repeated three marker."
+   574→        },
+   575→        {
+   576→          "heading": "Railways and Pipelines",
+   577→          "points": [
+   578→            "The Indian Railways is the largest public sector undertaking of the country, comprising a network of about 7,031 stations spread over a route length of about 63,221 km; the first train ran from Bombay to Thane in 1853, covering a distance of thirty-four kilometres.",
+   579→            "The Indian Railways operates on three gauges: broad gauge with a width of 1.676 metres, metre gauge with a width of 1.000 metre and narrow gauge with a width of 0.762 metre; conversion of metre to broad gauge and unigauge projects are under way.",
+   580→            "The distribution of the railway network depends on physiographic, economic and administrative factors; the northern plains have a dense network, while the Himalayan mountainous regions, sandy deserts of Rajasthan, dense forests of the north-east and flood-prone areas have sparse networks.",
+   581→            "The Konkan Railway through the Sahyadri mountains required the construction of many tunnels and bridges and linked Maharashtra, Goa and Karnataka with the west coast.",
+   582→            "Rail transport suffers from problems such as difficulties of track laying in hilly and sandy terrain, gauge changes, ticketless travel and accidents, yet it remains the chief means of moving bulk goods and millions of passengers.",
+   583→            "Pipeline transport is a new arrival used to transport crude oil, petroleum products and natural gas from oil and natural gas fields to refineries, fertilizer factories and big thermal plants; the initial cost of laying pipelines is high but subsequent running costs are minimal.",
+   584→            "Three important pipeline networks run from the oilfields of upper Assam to Kanpur via Guwahati, Barauni and Allahabad, from Salaya in Gujarat to Jalandhar in Punjab via Viramgam, Mathura, Delhi and Sonipat, and the Hazira-Vijaipur-Jagdishpur gas pipeline connected with the Mumbai High and South Bassein fields."
+   585→          ],
+   586→          "keyTerms": [
+   587→            { "term": "Broad gauge", "meaning": "The railway track gauge of 1.676 metres width, on which most of the Indian Railways network now runs." },
+   588→            { "term": "Pipeline transport", "meaning": "A transport network used to carry crude oil, petroleum products and natural gas from fields to refineries and plants at minimal running cost." },
+   589→            { "term": "HVJ pipeline", "meaning": "The Hazira-Vijaipur-Jagdishpur gas pipeline of western and northern India linked with the Mumbai High and South Bassein offshore fields." }
+   590→          ],
+   591→          "trick": "Gauges shrink like 1.676, 1.000, 0.762; Bombay to Thane 1853 was thirty-four km of history.",
+   592→          "examPointer": "The three gauges with widths and the first railway line are classic one markers; why the northern plains have a dense railway network is a repeated three marker."
+   593→        },
+   594→        {
+   595→          "heading": "Waterways and Major Seaports",
+   596→          "points": [
+   597→            "Waterways are the cheapest means of transport, most suited to carry heavy and bulky goods; they are fuel efficient and environment friendly, and about ninety-five per cent of the country's trade volume is moved by sea.",
+   598→            "India has been one of the seafaring countries for centuries, with inland waterways in rivers, canals, backwaters and creeks; the Ganga-Brahmaputra rivers and the backwaters of Kerala are the main inland waterways.",
+   599→            "National Waterway 1 runs on the Ganga between Prayagraj (Allahabad) and Haldia covering 1,620 km; National Waterway 2 runs on the Brahmaputra between Sadiya and Dhubri covering 891 km; National Waterway 3 is the West Coast Canal from Kottapuram to Kollam with the Udyogmandal and Champakara canals covering 205 km.",
+   600→            "India has twelve major seaports and about two hundred notified minor and intermediate ports; Kandla in Kachchh was the first port developed soon after Partition to ease the volume of trade on the Mumbai port, and it is a tidal port.",
+   601→            "Mumbai is the biggest port with a natural harbour; Jawaharlal Nehru port at Nhava Sheva was developed to decongest Mumbai and is the largest container port; Marmagao in Goa is the premier iron ore exporting port, and New Mangalore in Karnataka handles Kudremukh iron ore concentrates.",
+   602→            "Kochi is the south-western port at the entrance of a lagoon with a natural harbour; Tuticorin in southern Tamil Nadu handles trade of the southern region; Chennai is one of the oldest artificial ports and ranks second after Mumbai in volume of trade.",
+   603→            "Vishakhapatnam is the deepest landlocked and protected port of India; Paradip in Odisha exports iron ore; Kolkata is an inland riverine port serving the Ganga-Brahmaputra basin, supported by the deep water satellite port of Haldia which was developed to reduce congestion at Kolkata."
+   604→          ],
+   605→          "keyTerms": [
+   606→            { "term": "National Waterway 1", "meaning": "The national waterway on the Ganga river between Prayagraj and Haldia, a distance of 1,620 km." },
+   607→            { "term": "Jawaharlal Nehru port", "meaning": "The port at Nhava Sheva developed to decongest the Mumbai port; it is the largest container port of India." },
+   608→            { "term": "Haldia", "meaning": "The deep water satellite port of West Bengal developed to reduce congestion at the inland riverine port of Kolkata." }
+   609→          ],
+   610→          "trick": "West coast order Kandla, Mumbai, JLN Nhava Sheva, Marmagao, New Mangalore, Kochi; east coast Tuticorin, Chennai, Vishakhapatnam, Paradip, Kolkata-Haldia.",
+   611→          "examPointer": "Match ports with their special features, like Vishakhapatnam deepest landlocked and Kochi lagoon entrance, is a very high probability MCQ and one marker set."
+   612→        },
+   613→        {
+   614→          "heading": "Airways and Communication",
+   615→          "points": [
+   616→            "Airways are the fastest, most comfortable and prestigious mode of transport, but air travel is expensive and beyond the reach of ordinary people.",
+   617→            "Air travel is the easiest and quickest way to cover the difficult terrain of the north-eastern states with their big rivers, dissected relief, dense forests and frequent floods, and long international border areas are also served by air.",
+   618→            "The first air flight in India took place in 1911 from Allahabad to Naini across the river Yamuna, covering only a short distance of about ten kilometres.",
+   619→            "International airports are located at Amritsar, Delhi, Mumbai, Chennai, Kolkata, Hyderabad, Bangalore and Thiruvananthapuram, handling both international and domestic traffic.",
+   620→            "Communication carries messages from one place to another; personal communication includes postcards, letters, telephone, mobile phone and email, while mass communication through radio, television, newspapers, magazines, books and films reaches millions at one time.",
+   621→            "India has one of the largest telecom networks in Asia, and more than two-thirds of the villages in the country have Subscriber Trunk Dialling (STD) facility.",
+   622→            "All India Radio broadcasts a variety of programmes in national, regional and local languages, Doordarshan provides national and regional channels, and India is the largest producer of feature films in the world."
+   623→          ],
+   624→          "keyTerms": [
+   625→            { "term": "Mass communication", "meaning": "Communication through which one message reaches a very large number of people at the same time, using radio, television, press and films." },
+   626→            { "term": "STD", "meaning": "Subscriber Trunk Dialling, the facility of direct long distance telephone calls available in more than two-thirds of Indian villages." },
+   627→            { "term": "Doordarshan", "meaning": "The national television broadcaster of India providing national, regional and local programmes for education and entertainment." }
+   628→          ],
+   629→          "trick": "Airways for the north-east; first flight 1911 Allahabad to Naini; eight international airports from Amritsar to Thiruvananthapuram.",
+   630→          "examPointer": "Why airways are preferred in the north-eastern states is a standard three marker; naming international airports is a frequent one marker."
+   631→        },
+   632→        {
+   633→          "heading": "International Trade and Balance of Trade",
+   634→          "points": [
+   635→            "The exchange of goods among people, states and countries is called trade; trade between two countries is called international trade, and it may involve ports as the chief gateways of trade.",
+   636→            "Export and import are the two components of trade; when the value of exports exceeds the value of imports, the balance of trade is favourable, and when the value of imports is greater than exports, the balance is unfavourable.",
+   637→            "India has trade relations with all the major trading blocks and all geographical regions of the world; commodities exported include agriculture and allied products, ores and minerals, gems and jewellery, chemical and allied products, engineering goods and petroleum products.",
+   638→            "Commodities imported to India include petroleum and petroleum products, pearls and precious stones, inorganic chemicals, coal, coke and briquettes and machinery.",
+   639→            "The bulk of imports, especially petroleum products, shows that energy security dominates the import bill, while growth of exports of engineering goods and services reflects industrial progress.",
+   640→            "Advancement of international trade of a country is an index to its economic prosperity; as the resources are space bound, no country can survive without international trade.",
+   641→            "India has emerged as a software giant at the international level and is earning large amounts of foreign exchange from the export of information technology services and business process outsourcing."
+   642→          ],
+   643→          "keyTerms": [
+   644→            { "term": "Balance of trade", "meaning": "The difference between the value of exports and imports of a country; a favourable balance has more exports, an unfavourable balance more imports." },
+   645→            { "term": "Export", "meaning": "The sale of goods and services by one country to another country." },
+   646→            { "term": "International trade", "meaning": "Trade between two countries, which is an index of economic prosperity and may be bilateral or multilateral." }
+   647→          ],
+   648→          "trick": "Exports greater means Favourable, Imports greater means Unfavourable; petroleum heads the import bill.",
+   649→          "examPointer": "Define balance of trade and distinguish favourable from unfavourable is a repeated two-three marker; import and export commodity lists are common MCQs."
+   650→        },
+   651→        {
+   652→          "heading": "Tourism as a Trade",
+   653→          "points": [
+   654→            "Tourism in India has grown substantially over the last three decades and has emerged as a major source of foreign exchange earnings.",
+   655→            "Foreign tourists visit India for heritage tourism, eco-tourism, adventure tourism, cultural tourism, medical tourism and business tourism.",
+   656→            "More than fifteen million people are directly engaged in the tourism industry, and many more earn indirectly from hotels, transport, handicrafts and guides.",
+   657→            "Tourism promotes national integration and international understanding, and it supports local handicrafts and cultural pursuits of the people.",
+   658→            "Tourism also helps in the development of infrastructure like hotels, roads, airports and communication facilities in remote and scenic areas.",
+   659→            "Indian handicrafts, handlooms, classical dance, music, fairs and festivals attract tourists and provide employment to artisans and performers.",
+   660→            "Tourism is thus rightly called a trade because it is an invisible export that earns foreign exchange without shipping any physical goods abroad."
+   661→          ],
+   662→          "keyTerms": [
+   663→            { "term": "Tourism", "meaning": "Travel for leisure, heritage, adventure, medical or cultural purposes; in economic terms it is a trade earning foreign exchange." },
+   664→            { "term": "Eco-tourism", "meaning": "Tourism focused on visiting natural areas that conserves the environment and sustains the well-being of local people." },
+   665→            { "term": "Medical tourism", "meaning": "Travel by foreigners to India for medical treatment, which has become a fast growing segment of tourism." }
+   666→          ],
+   667→          "trick": "Tourism earns foreign exchange without exporting goods: an invisible trade of heritage and healing.",
+   668→          "examPointer": "Why is tourism called a trade and how does it help the Indian economy are repeated three-five markers in boards."
+   669→        }
+   670→      ],
+   671→      "mcqs": [
+   672→        {
+   673→          "question": "The Golden Quadrilateral super highway connects which four metropolitan cities?",
+   674→          "options": ["Delhi, Mumbai, Chennai and Kolkata", "Delhi, Jaipur, Mumbai and Pune", "Delhi, Lucknow, Patna and Kolkata", "Mumbai, Hyderabad, Bangalore and Chennai"],
+   675→          "answerIndex": 0,
+   676→          "explanation": "The Golden Quadrilateral is a six lane super highway network connecting Delhi, Mumbai, Chennai and Kolkata, the four major metropolitan cities.",
+   677→          "difficulty": "easy",
+   678→          "pyq": "CBSE 2023"
+   679→        },
+   680→        {
+   681→          "question": "The East-West corridor of the super highways connects",
+   682→          "options": ["Srinagar and Kanniyakumari", "Silchar and Porbandar", "Delhi and Amritsar", "Mumbai and Nagpur"],
+   683→          "answerIndex": 1,
+   684→          "explanation": "The East-West corridor links Silchar in Assam with Porbandar in Gujarat, while the North-South corridor links Srinagar with Kanniyakumari.",
+   685→          "difficulty": "easy",
+   686→          "pyq": "CBSE 2022"
+   687→        },
+   688→        {
+   689→          "question": "National Highways are constructed and maintained by which department?",
+   690→          "options": ["State Public Works Department", "Central Public Works Department", "Zila Parishad", "Border Roads Organisation"],
+   691→          "answerIndex": 1,
+   692→          "explanation": "National Highways link extreme parts of the country and are laid and maintained by the Central Public Works Department (CPWD).",
+   693→          "difficulty": "easy"
+   694→        },
+   695→        {
+   696→          "question": "The Border Roads Organisation, established in 1960, develops roads mainly for",
+   697→          "options": ["Rural connectivity", "Strategic border areas", "Urban ring roads", "Expressways in plains"],
+   698→          "answerIndex": 1,
+   699→          "explanation": "The BRO established in 1960 constructs and maintains strategically important roads in the bordering areas of the country.",
+   700→          "difficulty": "easy",
+   701→          "pyq": "CBSE 2020"
+   702→        },
+   703→        {
+   704→          "question": "The width of the broad gauge railway track in India is",
+   705→          "options": ["1.000 metre", "0.762 metre", "1.676 metre", "2.000 metre"],
+   706→          "answerIndex": 2,
+   707→          "explanation": "Broad gauge is 1.676 metres, metre gauge is 1.000 metre and narrow gauge is 0.762 metre in width.",
+   708→          "difficulty": "medium"
+   709→        },
+   710→        {
+   711→          "question": "The first railway line in India was laid between Bombay and Thane in",
+   712→          "options": ["1853", "1854", "1904", "1911"],
+   713→          "answerIndex": 0,
+   714→          "explanation": "The first train in India ran from Bombay to Thane in 1853, covering a distance of thirty-four kilometres.",
+   715→          "difficulty": "easy",
+   716→          "pyq": "CBSE 2023"
+   717→        },
+   718→        {
+   719→          "question": "Pipelines are best suited to transport",
+   720→          "options": ["Iron ore and coal", "Crude oil, petroleum products and natural gas", "Food grains", "Passengers"],
+   721→          "answerIndex": 1,
+   722→          "explanation": "Pipelines transport crude oil, petroleum products and natural gas from oil and natural gas fields to refineries, fertilizer factories and thermal plants.",
+   723→          "difficulty": "easy"
+   724→        },
+   725→        {
+   726→          "question": "The National Waterway 1 extends on the river Ganga between Prayagraj and Haldia for a distance of",
+   727→          "options": ["891 km", "205 km", "1,620 km", "1,067 km"],
+   728→          "answerIndex": 2,
+   729→          "explanation": "NW 1 on the Ganga between Prayagraj and Haldia is 1,620 km; NW 2 on the Brahmaputra is 891 km and NW 3 is 205 km.",
+   730→          "difficulty": "medium"
+   731→        },
+   732→        {
+   733→          "question": "Which port was developed soon after Partition to reduce the volume of trade on the Mumbai port?",
+   734→          "options": ["Kandla", "Marmagao", "Paradip", "Tuticorin"],
+   735→          "answerIndex": 0,
+   736→          "explanation": "Kandla in Kachchh was the first port developed soon after Partition to ease the load on Mumbai port; it is a tidal port.",
+   737→          "difficulty": "medium",
+   738→          "pyq": "CBSE 2020"
+   739→        },
+   740→        {
+   741→          "question": "The deepest landlocked and protected port of India is",
+   742→          "options": ["Chennai", "Vishakhapatnam", "Kochi", "New Mangalore"],
+   743→          "answerIndex": 1,
+   744→          "explanation": "Vishakhapatnam in Andhra Pradesh is the deepest landlocked and protected port of India, exporting iron ore to Japan.",
+   745→          "difficulty": "easy",
+   746→          "pyq": "CBSE 2022"
+   747→        },
+   748→        {
+   749→          "question": "The first air flight in India in 1911 flew from Allahabad to Naini across the river",
+   750→          "options": ["Ganga", "Yamuna", "Godavari", "Sutlej"],
+   751→          "answerIndex": 1,
+   752→          "explanation": "The first air flight in India took place in 1911 from Allahabad to Naini across the river Yamuna, covering a short distance.",
+   753→          "difficulty": "medium"
+   754→        },
+   755→        {
+   756→          "question": "When the value of exports exceeds the value of imports, the balance of trade is said to be",
+   757→          "options": ["Unfavourable", "Favourable", "Balanced", "Negative"],
+   758→          "answerIndex": 1,
+   759→          "explanation": "A favourable balance of trade exists when the value of exports is greater than the value of imports of a country.",
+   760→          "difficulty": "easy"
+   761→        }
+   762→      ],
+   763→      "boardQuestions": [
+   764→        {
+   765→          "question": "Name the three railway gauges of India with their widths.",
+   766→          "marks": 2,
+   767→          "type": "SA",
+   768→          "probability": "high",
+   769→          "answer": "1) The Indian Railways operates on three gauges. 2) Broad gauge has a track width of 1.676 metres and carries most of the network today. 3) Metre gauge has a width of 1.000 metre and narrow gauge has a width of 0.762 metre, the latter being used mainly in hilly and mountainous terrain."
+   770→        },
+   771→        {
+   772→          "question": "Why are roadways preferred over railways in India? Give three reasons.",
+   773→          "marks": 3,
+   774→          "type": "SA",
+   775→          "probability": "very-high",
+   776→          "answer": "1) The construction cost of roads is much lower than that of railway lines, especially over difficult terrain. 2) Roads can traverse comparatively more dissected and undulating topography and negotiate high gradients such as the slopes of the Himalayas, where tracks cannot easily be laid. 3) Road transport is economical for the transportation of a few persons and relatively smaller loads over short distances, and it provides door to door service, thus reducing haulage costs. 4) Roads also act as a feeder to other modes of transport, as journeys by rail, air and sea begin and end with road travel."
+   777→        },
+   778→        {
+   779→          "question": "Describe any five major seaports of India along with their special features.",
+   780→          "marks": 5,
+   781→          "type": "LA",
+   782→          "probability": "very-high",
+   783→          "answer": "1) Kandla in Kachchh, Gujarat, was the first port developed soon after Partition to ease the volume of trade on the Mumbai port, and it is a tidal port. 2) Mumbai is the biggest port of India with a natural harbour, and Jawaharlal Nehru port at Nhava Sheva was developed nearby to decongest Mumbai; it is the largest container port of the country. 3) Marmagao in Goa is the premier iron ore exporting port of India, and New Mangalore in Karnataka exports Kudremukh iron ore concentrates. 4) Chennai on the east coast is one of the oldest artificial ports of India and ranks second after Mumbai in the volume of trade, while Vishakhapatnam in Andhra Pradesh is the deepest landlocked and protected port of India. 5) Kolkata is an inland riverine port serving the vast Ganga-Brahmaputra hinterland, and it is supported by the deep water satellite port of Haldia, developed to reduce congestion at the Kolkata port."
+   784→        },
+   785→        {
+   786→          "question": "Explain the importance of international trade for a country like India. Distinguish between favourable and unfavourable balance of trade.",
+   787→          "marks": 5,
+   788→          "type": "LA",
+   789→          "probability": "high",
+   790→          "answer": "1) International trade is the exchange of goods and services between two countries, and it is an index of the economic prosperity of a country; no country can survive without it because resources are space bound. 2) India exports agriculture and allied products, ores and minerals, gems and jewellery, chemical and allied products and engineering goods, earning valuable foreign exchange. 3) India imports petroleum and petroleum products, pearls and precious stones, inorganic chemicals, coal and machinery, so the bulk of the import bill shows energy dependence. 4) When the value of exports exceeds the value of imports, the balance of trade is favourable, which adds to foreign exchange reserves and strengthens the rupee. 5) When the value of imports is greater than the value of exports, the balance is unfavourable, which drains foreign exchange; India has developed software exports and business process outsourcing to improve its balance and has trade relations with all major trading blocks of the world."
+   791→        },
+   792→        {
+   793→          "question": "Read the passage and answer: India has one of the largest road networks in the world, aggregating to more than fifty-four lakh kilometres. (a) Which organisation implements the Golden Quadrilateral and which cities does it connect? (b) Name the two corridors linked with this project and their terminal cities. (c) State one advantage each of super highways and rural roads.",
+   794→          "marks": 4,
+   795→          "type": "CASE",
+   796→          "probability": "high",
+   797→          "answer": "1) (a) The National Highway Authority of India (NHAI) implements the Golden Quadrilateral project, which connects Delhi, Mumbai, Chennai and Kolkata with six lane super highways. 2) (b) The North-South corridor links Srinagar in Jammu and Kashmir with Kanniyakumari in Tamil Nadu, and the East-West corridor links Silchar in Assam with Porbandar in Gujarat. 3) (c) Super highways reduce travel time and fuel consumption between major cities and boost trade and industrial growth, while rural roads under the Pradhan Mantri Gram Sadak Yojana connect villages with towns, giving villagers access to markets, schools and hospitals. 4) Roads thus act as the lifelines that feed all other modes of transport in the country."
+   798→        },
+   799→        {
+   800→          "question": "Read the case and answer: Rahul is planning a trip to the north-eastern states and wants to know how goods and people move in that region. (a) Why are airways the most suitable means of transport in the north-eastern states? (b) Name two international airports of India. (c) Which riverine port and its satellite port serve the Ganga-Brahmaputra basin?",
+   801→          "marks": 4,
+   802→          "type": "CASE",
+   803→          "probability": "medium",
+   804→          "answer": "1) (a) Airways are the most suitable means of transport in the north-eastern states because the region has big rivers, dissected and undulating relief, dense forests and frequent floods, which make road and rail construction difficult; air travel is the fastest and easiest way to cover such difficult terrain. 2) (b) Two international airports of India are the Indira Gandhi International Airport at Delhi and the Chhatrapati Shivaji International Airport at Mumbai; Kolkata, Chennai, Thiruvananthapuram, Hyderabad, Bangalore and Amritsar also have international airports. 3) (c) The inland riverine port of Kolkata serves the Ganga-Brahmaputra basin, and it is supported by the deep water satellite port of Haldia, which was developed to reduce the congestion at Kolkata. 4) Waterways and the Brahmaputra National Waterway 2 from Sadiya to Dhubri also help move goods cheaply in that region."
+   805→        }
+   806→      ]
+   807→    }
+   808→  ]
+   809→};
+   810→
